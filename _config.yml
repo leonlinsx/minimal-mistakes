@@ -111,9 +111,9 @@ author:
   location         : "New York"
   email            : 
   links:
-    - label: "Email"
+    - # label: "Email"
       # icon: "fas fa-fw fa-envelope-square"
-      url: "leon.lin.sx[at]gmail.com"
+      "leon.lin.sx[at]gmail.com"
     - # label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://leonlinsx.github.io/avoid-boring-people/"
