@@ -109,11 +109,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I like reading. And writing. And writing about the things I read. I try to avoid boring people."
   location         : "New York"
-  email            : 
+  email            : "leon.lin.sx[at]gmail.com"
   links:
     - # label: "Email"
       # icon: "fas fa-fw fa-envelope-square"
-      text: "leon.lin.sx[at]gmail.com"
+      # url: "leon.lin.sx@gmail.com"
     - # label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://leonlinsx.github.io/avoid-boring-people/"
