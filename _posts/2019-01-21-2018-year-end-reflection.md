@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "2018 year end reflection questions"
+date: 2019-01-22
 tags: [reflection, questions]
 ---
 1. What went well?
