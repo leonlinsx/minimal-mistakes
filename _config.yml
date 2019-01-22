@@ -109,7 +109,8 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I like reading. And writing. And writing about the things I read. I try to avoid boring people."
   location         : "New York"
-  email            : # "leon.lin.sx[at]gmail.com"
+  text             : "leon.lin.sx[at]gmail.com"
+  email            : "leon.lin.sx[at]gmail.com"
   links:
     - # label: "Email"
       # icon: "fas fa-fw fa-envelope-square"
