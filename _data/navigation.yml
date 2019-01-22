@@ -1,9 +1,13 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Posts"
+  #   url: https://leonlinsx.github.io/avoid-boring-people/
+  # - title: "About me"
+  #   url: https://leonlinsx.github.io/avoid-boring-people/about-me/
+  # - title: "Resources"
+  #   url: https://leonlinsx.github.io/avoid-boring-people/resources/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
