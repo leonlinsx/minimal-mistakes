@@ -113,7 +113,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "leon.lin.sx@gmail.com"
+      url: "mailto:leon.lin.sx@gmail.com"
     - # label: "Website"
       # icon: "fas fa-fw fa-link"
       # url: "https://leonlinsx.github.io/avoid-boring-people/"
