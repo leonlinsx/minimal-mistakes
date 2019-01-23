@@ -1,6 +1,0 @@
----
-permalink: /
-title: Posts
----
-
-# Posts
