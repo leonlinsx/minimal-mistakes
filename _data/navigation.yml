@@ -1,11 +1,11 @@
 # main links
 main:
    - title: "Posts"
-     url: /Posts/
+     url: /
    - title: "About me"
-     url: https://leonlinsx.github.io/avoid-boring-people/about-me/
+     url: /about-me/
    - title: "Resources"
-     url: https://leonlinsx.github.io/avoid-boring-people/resources/
+     url: /resources/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "Sample Posts"
