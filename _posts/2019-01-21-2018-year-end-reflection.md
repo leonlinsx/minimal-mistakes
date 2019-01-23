@@ -1,7 +1,8 @@
 ---
 title:  "2018 year end reflection questions"
-tags: [reflection, questions]
+tags: [reflection, learning, goals]
 ---
+
 1. What went well?
 2. What am I proud of / what did I overcome?
 3. What could have been improved?
