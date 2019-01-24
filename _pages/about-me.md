@@ -17,8 +17,8 @@ Partially inspired by [Devon's blog,](https://devonzuegel.com/page/about-me "Dev
   * Be open to changing my mind when enough evidence is presented. [Strong opinions, weakly held.](https://www.saffo.com/02008/07/26/strong-opinions-weakly-held/ "Saffo on opinions") I'd much rather realise I'm wrong on something early
   * Live with a [regret minimisation framework,](https://awealthofcommonsense.com/2016/10/the-jeff-bezos-regret-minimization-framework/ "Bezos on regret minimisation") which usually results in trying instead of avoiding something
   * Understanding [incentives](https://fs.blog/2016/03/distorting-power-of-incentives/ "Munger on incentives") is key to understanding behaviour. Try to avoid situations where incentives are not aligned
-  * Believe in [process and frameworks.](https://25iq.com/2016/10/01/a-dozen-things-you-can-learn-by-reading-the-success-equation-by-michael-mauboussin/ "Mauboussin on process") Particularly for outcomes that are influenced by luck.
-  * I like lists and [checklists](http://atulgawande.com/book/the-checklist-manifesto/ "Atul Gawande checklist manifesto") too.
+  * Believe in [process and frameworks.](https://25iq.com/2016/10/01/a-dozen-things-you-can-learn-by-reading-the-success-equation-by-michael-mauboussin/ "Mauboussin on process") Particularly for outcomes that are influenced by luck
+  * I like lists and [checklists](http://atulgawande.com/book/the-checklist-manifesto/ "Atul Gawande checklist manifesto") too
   * Mean what I say. I do lie sometimes, but generally I'm upfront about what I'm thinking. I might avoid awkward questions though
   * Do what I say I'll do. Reliability is important
   * Be selective in who I spend time with, since time is precious and I am influenced by my peers
