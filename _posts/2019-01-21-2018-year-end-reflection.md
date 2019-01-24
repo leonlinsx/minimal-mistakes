@@ -7,10 +7,10 @@ We don't reflect enough. While New Year's resolutions are a cultural norm, year 
 
 Below are the questions I used for my 2018 reflection along with some rationale: 
 
-1. **What went well?**
-2. **What am I proud of / what did I overcome?**
+__1. What went well?__
+__2. What am I proud of / what did I overcome?__
   * People tend to obsess over their mistakes. It's helpful for mental health to also take credit for your successes
-3. **What could have been improved?**
+__3. What could have been improved?__
   * That said, knowing what you could have done better is also helpful. Importantly, focus on [bad processes rather than bad outcomes](http://michaelmauboussin.com/excerpts/MTYKexcerpt.pdf "Mauboussin on process vs outcome") 
 4. **What am I thankful for?**
   * Remember to be grateful for the opportunities you have. If these include friends and family, now's a great time to reach out 
