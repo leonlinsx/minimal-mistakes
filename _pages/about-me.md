@@ -5,9 +5,13 @@ title: About Me
 
 [//]: # (Detailed description)
 I like learning.
+
 I like reading.
+
 I like writing.
+
 It's a nice coincidence that a great way to properly learn about what you read is to [teach it.](https://fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ "Feynman technique") Writing is how I process ideas and (hopefully) get some feedback on them.
+
 I've had some military, investment banking, and public markets investing experience. I don't just focus on those sectors though, and will read and write about whatever I find interesting. Feel free to send stuff that you're fascinated by!
 
 ### My beliefs
