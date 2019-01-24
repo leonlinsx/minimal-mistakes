@@ -7,7 +7,7 @@ We don't reflect enough. While New Year's resolutions are a cultural norm, year 
 
 Below are the questions I used for my 2018 reflection along with some rationale: 
 
-**1. What went well?__
+**1. What went well?**
 
 **2. What am I proud of / what did I overcome?**
   * People tend to obsess over their mistakes. It's helpful for mental health to also take credit for your successes
