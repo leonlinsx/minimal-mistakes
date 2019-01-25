@@ -20,10 +20,12 @@ I agree, I think trying to remain curious is a good trait
 
 I wish I could do this more
 
-Pettis is also one of the best writers on China I've come across. He did a recap of [what options are available to China now](https://carnegieendowment.org/chinafinancialmarkets/77178 "China's options"). It's a very long read, especially if you dig into his accompanying prior linked articles, but logical and well written 
+Pettis is also one of the best writers on China I've come across. He did a recap of [what options are available to China now](https://carnegieendowment.org/chinafinancialmarkets/77178 "China's options"). It's a very long read, especially if you dig into his accompanying prior linked articles, but logical and well written. Below are some highlights:
 
 > If the trade situation causes a contraction in China's current account surplus, by definition that's a reduction in the savings-investment gap. i.e. either investment share of GDP rises, or savings share declines, or some combo of the two
 
-> China has only four options available to them. 1) Raise investment, 2) reduce savings by letting unemployment rise, 3) reduce savings by allowing debt to rise, 4) reduce savings by boosting household consumption  
+> China has only four options available to them. 1) Raise investment, 2) reduce savings by letting unemployment rise, 3) reduce savings by allowing debt to rise, 4) reduce savings by boosting household consumption
+
+Understanding that this is an economic fact rather than opinion was a major revelation for me in revising my framework on China. 
 
 Lastly, this paper seems to have an interesting finding: ["We found that delay discounting is more predictive of income than age, ethnicity, or height"](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01545/full "Link to paper") . I didn't read the paper in full but the intro / conclusions might be worth looking at
