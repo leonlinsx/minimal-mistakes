@@ -13,7 +13,7 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 3. [Value Investing World](https://www.valueinvestingworld.com/ "value investing world") for more investing framework links
 4. [Of Dollars And Data](https://ofdollarsanddata.com/ "Of Dollars And Data") is a bit more personal finance oriented
 5. [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine "Matt Levine") is one of the best financial writers out there
-6. [Damodaran](http://pages.stern.nyu.edu/~adamodar/ "Musings on Markets") is a great teacher
+6. [Damodaran](http://pages.stern.nyu.edu/~adamodar/ "Musings on Markets") is a great teacher and overall great guy. How many profs will straight out tell you not to buy their book?
 
 ### Economic sites
 1. [Marginal revolution](https://marginalrevolution.com/ "MR") is famous for good reason, but quantity of posts can be overwhelming
