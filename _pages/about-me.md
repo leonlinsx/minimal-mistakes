@@ -17,7 +17,7 @@ I've had some military, investment banking, and public markets investing experie
 ### My beliefs
 Partially inspired by [Devon's blog,](https://devonzuegel.com/page/about-me "Devon's blog") below is a public record of my current beliefs. I'll edit as these change over time, but these should give you a good idea of what I stand for.
 #### I should aim to:
-  * Be intellectually curious.  There will be subjects too hard or irrelevant, but I want to learn as much as I can. Not knowing something is [different]](https://xkcd.com/1053/ "Don't make fun of people for when they don't know things") from being uninterested in knowing 
+  * Be intellectually curious.  There will be subjects too hard or irrelevant, but I want to learn as much as I can. Not knowing something is [different](https://xkcd.com/1053/ "Don't make fun of people for when they don't know things") from being uninterested in knowing 
   * Be upfront about what I don't know. I highly dislike [pretenders](https://fs.blog/2015/01/richard-feynman-knowing-something/ "Feynman on knowing") since I can't trust them. A person that never admits their ignorance is a big red flag, since I have to waste time to figure out what they're making up
   * Be open to changing my mind when enough evidence is presented. [Strong opinions, weakly held.](https://www.saffo.com/02008/07/26/strong-opinions-weakly-held/ "Saffo on opinions") I'd much rather realise I'm wrong on something early
   * Be concise   
