@@ -23,7 +23,7 @@ Partially inspired by [Devon's blog,](https://devonzuegel.com/page/about-me "Dev
   * Be concise   
   * Be selective in who I spend time with, since time is precious and I am influenced by my peers. Avoid boring people. Avoid flaky people. Avoid stubborn people
   * Mean what I say. I do lie sometimes, but generally I'm upfront about what I'm thinking. I might avoid awkward questions though
-  * Do what I say I'll do. Reliability is important
+  * Do what I say I'll do. Reliability is important  
 #### I also believe:  
   * Understanding [incentives](https://fs.blog/2016/03/distorting-power-of-incentives/ "Munger on incentives") is key to understanding behaviour. Incentive alignment is critical for ideal outcomes
   * Improving [processes and frameworks](https://25iq.com/2016/10/01/a-dozen-things-you-can-learn-by-reading-the-success-equation-by-michael-mauboussin/ "Mauboussin on process") is necessary to make better decisions, particularly for outcomes highly influenced by luck. I like lists and [checklists](http://atulgawande.com/book/the-checklist-manifesto/ "Atul Gawande checklist manifesto") too
