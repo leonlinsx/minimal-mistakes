@@ -52,3 +52,6 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 3. [Lackadaisy Cats](https://www.lackadaisy.com/ "lackadaisy") has fantastic art but infrequent updates
 4. [Wonderella](http://nonadventures.com/ "wonderella") is ridiculous and great
 5. [Ctrl Alt Del](https://cad-comic.com/ "CAD") was probably one of the first webcomics I started with, and is gaming focused
+
+### Excel sites
+1. [Chandoo's](https://chandoo.org/wp/ "Chandoo") excel blog is helpful whenever I have obscure excel problems
