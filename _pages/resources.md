@@ -55,3 +55,6 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 
 ### Excel sites
 1. [Chandoo's](https://chandoo.org/wp/ "Chandoo") excel blog is helpful whenever I have obscure excel problems
+2. [SumProduct's](https://www.sumproduct.com/thought "SumProduct") thought page has a large number of articles explaining formulas
+3. [Ozgrid](https://www.ozgrid.com/free-excel.htm "Ozgrid") has formula and macro help, though it seems the site underwent a redesign and some pages might be broken.
+4. [Excel Campus](https://www.excelcampus.com/blog/ "Excel Campus") posts video based tutorials
