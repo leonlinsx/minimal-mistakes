@@ -1,6 +1,6 @@
 ---
 title:  "Specialists vs Generalists"
-tags: [specialisation, generalisation]
+tags: [specialisation, generalisation, confirmation bias, learning]
 ---
 
 \* *Note: this is a backdated post from an email I sent to friends, lightly edited for personal content and context*
