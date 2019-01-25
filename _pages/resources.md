@@ -31,7 +31,7 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 5. [NFX](https://www.nfx.com/essays "NFX") has a collection of marketplace and network effects writings that comprehensively discuss the themes in the space
 6. [Fred Wilson](https://avc.com/ "AVC") posts on a variety of topics, but mostly venture focused
 7. [Techcrunch](https://techcrunch.com/ "techcrunch") is popular for tech news, though I've disliked it after the redesign
-8. [Venturebeat](https://venturebeat.com/ "VB) is also popular for tech news
+8. [Venturebeat](https://venturebeat.com/ "VB") is also popular for tech news
 9. [Hacker News](https://news.ycombinator.com/ "Hacker News") tends to be more technical, and sometimes goes over my head
 10. [Technode](https://technode.com/ "technode") focuses on asia tech news
 
@@ -39,4 +39,9 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 1. [Farnam Street](https://fs.blog/blog/ "FS blog") is probably the most popular one on mental models
 2. [Cal Newport](http://calnewport.com/blog/ "Study Hacks") likes to write about productivity
 3. [Nassim Nicholas Taleb](https://medium.com/@nntaleb "Taleb") often writes stuff beyond my understanding, but is worth browsing
+
+### Lifestyle sites
+1. [Punch](https://punchdrink.com/ "Punch") is great for cocktail articles and research, and I've added to my repertoire from them
+2. [Eater NY](https://ny.eater.com/ "Eater") is helpful for me to keep up on the restaurant scene in NY. There's a general site too
+3. [Grubstreet](http://www.grubstreet.com/ "grubstreet") is slightly annoying for me since they hide their articles in RSS after the jump but might be a complement to Eater
 
