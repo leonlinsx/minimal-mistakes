@@ -29,7 +29,7 @@ Partially inspired by [Devon's blog,](https://devonzuegel.com/page/about-me "Dev
   * Improving [processes and frameworks](https://25iq.com/2016/10/01/a-dozen-things-you-can-learn-by-reading-the-success-equation-by-michael-mauboussin/ "Mauboussin on process") is necessary to make better decisions, particularly for outcomes highly influenced by luck. I like lists and [checklists](http://atulgawande.com/book/the-checklist-manifesto/ "Atul Gawande checklist manifesto") too
   * We should have a [regret minimisation framework,](https://awealthofcommonsense.com/2016/10/the-jeff-bezos-regret-minimization-framework/ "Bezos on regret minimisation") and we usually regret things we missed out on rather than things we tried
   * We should be less judgemental
-  * There is generally too much noise and too little signal in the world, and we're often fooled by randomness
+  * The world has too much noise and too little signal, and we're often fooled by randomness
     
 ### My interests
   * Cocktails, both drinking and making them
