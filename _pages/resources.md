@@ -45,3 +45,10 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 2. [Eater NY](https://ny.eater.com/ "Eater") is helpful for me to keep up on the restaurant scene in NY. There's a general site too
 3. [Grubstreet](http://www.grubstreet.com/ "grubstreet") is slightly annoying for me since they hide their articles in RSS after the jump but might be a complement to Eater
 
+### Webcomics
+1. [XKCD](https://xkcd.com/ "xkcd") is wide ranging in what it covers and often thought-provoking
+  * If you're like me and lost sometimes, [explain xkcd](https://www.explainxkcd.com/wiki/index.php/Main_Page "explain xkcd") is there for you
+2. [The order of the stick](http://www.giantitp.com/Comics.html "Oots") has been going on for a long time now and is great for DnD fans
+3. [Lackadaisy Cats](https://www.lackadaisy.com/ "lackadaisy") has fantastic art but infrequent updates
+4. [Wonderella](http://nonadventures.com/ "wonderella") is absurd and great
+5. [Ctrl Alt Del](https://cad-comic.com/ "CAD") was probably one of the first webcomis I started with, and is gaming focused
