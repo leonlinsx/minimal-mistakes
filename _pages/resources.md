@@ -10,15 +10,15 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 ### Investment sites
 1. [Collaborative Fund](https://www.collaborativefund.com/blog/ "Collabora[tive Fund blog") for VC and investment news
 2. [Market folly](https://www.marketfolly.com/ "market folly") for hedge fund news
-3. [Value Investing World](https://www.valueinvestingworld.com/ "value investing world") for more investing framework links
-4. [Of Dollars And Data](https://ofdollarsanddata.com/ "Of Dollars And Data") is a bit more personal finance oriented
+3. [Value Investing World](https://www.valueinvestingworld.com/ "value investing world") forinvesting frameworks and news
+4. [Of Dollars And Data](https://ofdollarsanddata.com/ "Of Dollars And Data") is more personal finance oriented
 5. [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine "Matt Levine") is one of the best financial writers out there
-6. [Damodaran](http://pages.stern.nyu.edu/~adamodar/ "Musings on Markets") is a great teacher and overall great guy. How many profs will straight out tell you not to buy their book?
+6. [Damodaran](http://pages.stern.nyu.edu/~adamodar/ "Musings on Markets") is a great teacher and overall great guy. How many profs will straight out tell you not to buy their overpriced book?
 
 ### Economic sites
 1. [Marginal revolution](https://marginalrevolution.com/ "MR") is famous for good reason, but quantity of posts can be overwhelming
 2. [John Cochrane](https://johnhcochrane.blogspot.com/ "Cochrane") applies theory to real life situations
-3. [Dan Ariely's](http://danariely.com/resources/the-blog/ "Ariely") is mostly just weekly WSJ Q&A now
+3. [Dan Ariely's](http://danariely.com/resources/the-blog/ "Ariely") is mostly just weekly WSJ Q&A now for behavioural economics
 
 ### China sites
 1. [Michael Pettis](https://carnegieendowment.org/chinafinancialmarkets/ "Pettis") is fantastic for broader China economic thinking and fixing misconceptions
@@ -41,14 +41,14 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 3. [Nassim Nicholas Taleb](https://medium.com/@nntaleb "Taleb") often writes stuff beyond my understanding, but is worth browsing
 
 ### Lifestyle sites
-1. [Punch](https://punchdrink.com/ "Punch") is great for cocktail articles and research, and I've added to my repertoire from them
-2. [Eater NY](https://ny.eater.com/ "Eater") is helpful for me to keep up on the restaurant scene in NY. There's a general site too
-3. [Grubstreet](http://www.grubstreet.com/ "grubstreet") is slightly annoying for me since they hide their articles in RSS after the jump but might be a complement to Eater
+1. [Punch](https://punchdrink.com/ "Punch") is great for cocktail articles and research. I've added to my reper
+2. [Eater NY](https://ny.eater.com/ "Eater NY") is helpful for keeping up with the restaurant scene in NY. There's a country wide [site](https://www.eater.com/ "Eater") too
+3. [Grubstreet](http://www.grubstreet.com/ "grubstreet") is slightly annoying for me since they hide their articles in RSS till after the jump but might be a complement to Eater
 
 ### Webcomics
 1. [XKCD](https://xkcd.com/ "xkcd") is wide ranging in what it covers and often thought-provoking
   * If you're like me and lost sometimes, [explain xkcd](https://www.explainxkcd.com/wiki/index.php/Main_Page "explain xkcd") is there for you
-2. [The order of the stick](http://www.giantitp.com/Comics.html "Oots") has been going on for a long time now and is great for DnD fans
+2. [The Order of the Stick](http://www.giantitp.com/Comics.html "Oots") has been going on for a long time now and is great for DnD fans
 3. [Lackadaisy Cats](https://www.lackadaisy.com/ "lackadaisy") has fantastic art but infrequent updates
-4. [Wonderella](http://nonadventures.com/ "wonderella") is absurd and great
-5. [Ctrl Alt Del](https://cad-comic.com/ "CAD") was probably one of the first webcomis I started with, and is gaming focused
+4. [Wonderella](http://nonadventures.com/ "wonderella") is ridiculous and great
+5. [Ctrl Alt Del](https://cad-comic.com/ "CAD") was probably one of the first webcomics I started with, and is gaming focused
