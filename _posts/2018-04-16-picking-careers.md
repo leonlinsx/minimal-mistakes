@@ -19,11 +19,11 @@ Everyone can always benefit from reflecting. Most people never stop to think why
 
 > [Ask why you desire something], you’ll usually discover one of three things:
 
-> 1) You’ll trace the Why back to its origin and reveal a long chain of authentic evolution that developed through deep independent thought. 
+1) You’ll trace the Why back to its origin and reveal a long chain of authentic evolution that developed through deep independent thought. 
 
-> 2) You’ll trace the Why back to an original Because that someone else installed in you—I guess the only reason I actually have this value is because my mom kind of forced it on me—and you realize that you never really thought to consider whether you actually independently agree with it. 
+2) You’ll trace the Why back to an original Because that someone else installed in you—I guess the only reason I actually have this value is because my mom kind of forced it on me—and you realize that you never really thought to consider whether you actually independently agree with it. 
 
-> 3) You’ll trace the Why back and back and get kind of lost in a haze of “I guess I just know this because it’s true!” This could be an authentic you thing, or just another version of #2. Somewhere deep in you, you’ll have a hunch about which it is.
+3) You’ll trace the Why back and back and get kind of lost in a haze of “I guess I just know this because it’s true!” This could be an authentic you thing, or just another version of #2. Somewhere deep in you, you’ll have a hunch about which it is.
 
 Frequently it's hard to find out why we like something or are chasing a dream. It's definitely important to do so and figure out if you're doing something for yourself, or because you believe someone expects you to. I'm not saying it's a bad thing to do what other ppl expect, but you should at least be aware of the reason.
 
