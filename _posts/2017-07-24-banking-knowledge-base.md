@@ -8,8 +8,11 @@ tags: [investment banking, powerpoint, excel, learning, reflection]
 Back when I was leaving investment banking I wanted to reflect on what I'd learnt. Partially because of that, I put together a list of topics that I thought a junior banker should aim to learn in their time there. The list is below for reference:
 
 *	Finance
+
   * Overview of what IB is
+  
   * Equity
+  
     * IPO
     * Follow on
     * Share buybacks
