@@ -10,7 +10,7 @@ I have always advocated for working hard. Hard work isn't sufficient to help you
 
 > But the broader takeaway is to avoid focusing on bad proxies for success. How hard you’re working isn’t a good indicator of the value you’re creating or the progress you’re making. It’s a vanity metric: just as how many Twitter followers you have is a poor measure for the vitality of your business, the amount you’re struggling isn’t a good measure of how much you’re learning and progressing.
 
-And on that topic of hard work and long hours, [here's](https://community.intelligentfanatics.com/t/seth-klarmans-career-advice/1468 "Klarman advice") some advice from Seth Klarman: . He's biased towards becoming an entrepreneur, which I don't necessarily agree with, but he makes a good point on how to think about a career. 
+And on that topic of hard work and long hours, [here's](https://community.intelligentfanatics.com/t/seth-klarmans-career-advice/1468 "Klarman advice") some advice from Seth Klarman. He's biased towards becoming an entrepreneur, which I don't necessarily agree with, but he makes a good point on how to think about a career. 
 
 One big issue with being an entrepreneur is the long-tail driven nature of success in building a business. But does that actually apply to more than just entrepreneurs and VC? [This post](https://www.collaborativefund.com/blog/tails-you-win/ "tails you win") by Morgan Housel has good counterpoints. Don't get me wrong. I hate failing (but I still fail often). But since failing is normal you need to understand that it happens, and hopefully why it happens as well. 
 
@@ -22,7 +22,7 @@ On a sidenote, I'm trying to learn more about marketplaces (ebay, uber, eventbri
 
 \* *My friends replied with a variety of resources, including Bill Gurley's famous [piece](http://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/ "Bill Gurley"), [Stratechery](https://stratechery.com/ "Stratechery"), and Andrew Chen's [essay compilation](https://andrewchen.co/marketplace-startups-best-essays/ "Andrew Chen"), all of which are great recommendations!*
 
-#### Misc. pieces
+#### Misc. articles
 1. I came across an interesting blog recently by [Devon Zuegel](https://devonzuegel.com/page/about-me "Devon Zuegel")
   * She writes a lot about cities and infrastructure, some of which goes above my head, but what I found most interesting was the 'strong opinions, weakly held' section on her description
   * I was intrigued by the idea of putting her views on the record, and then also updating them as she changed her mind, along with reasons why
@@ -37,5 +37,7 @@ On a sidenote, I'm trying to learn more about marketplaces (ebay, uber, eventbri
 
 5. Lastly and most importantly, the holiday periods tend to increase feelings of sadness (I'm unsure if it's been proven suicide risks also rise). If you or your friends suffer from depression, [this](https://www.wsj.com/articles/how-can-you-help-someone-who-is-depressed-1543242613 "WSJ depression") resource is helpful. 
 > "Start by accepting that depression is a real illness. People do not “snap out of it” and any suggestion that they should is shaming"
+
 > "Most people mean for these reassurances to be genuine. But there’s a difference between a glib “it’s going to be OK” as a way to wave the depressed person off and genuinely communicating that it will be OK"
+
 > "If you suspect that someone is suicidal, ask them. You will not give them the idea. I have never heard from anyone who suffers with depression that they mind that question when it is asked directly and with care."
