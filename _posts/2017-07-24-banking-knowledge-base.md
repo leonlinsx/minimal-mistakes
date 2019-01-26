@@ -3,38 +3,35 @@ title:  "What I'd want to learn in investment banking"
 tags: [investment banking, powerpoint, excel, learning, reflection]
 ---
 
-\* *Note: this is a backdated post from a framework I had in the past, edited for brevity*
+\* *Note: this is a backdated post from a framework I used in the past, edited for brevity*
 
-Back when I was leaving investment banking I wanted to reflect on what I'd learnt. Partially because of that, I put together a list of topics that I thought a junior banker should aim to learn in their time there. The list is below for reference:
+Back when I was leaving investment banking I wanted to reflect on what I'd learnt. Partially because of that, I put together a list of topics that I thought a junior banker should aim to be familiar with during their time there. The list is neither meant to be comprehensive, nor do I think you can be an expert at all the areas after just a few years. However, I believe it is helpful for reference. The list is below:
 
-*	Finance
-
+### Finance related 
   * Overview of what IB is
-  
   * Equity
-  
     * IPO
     * Follow on
     * Share buybacks
-o   Debt
-  Revolving credit
-  Term loans
-  IG
-  HY
-o   Convertibles
-o   M&A
-  Business separation types
-  Reverse Morris Trust
-  Earn outs
-o   Corporate finance
-  Activism
-  Ratings
-  ROIC
-  Capex vs opex
-  Operating leases
-  Tracking stock
-  Dividends
-o   Valuation
+  * Debt
+    * Revolving credit
+    * Term loans
+    * IG
+    * HY
+  * Convertibles
+  * M&A
+    * Business separation types
+    * Reverse Morris Trust
+    * Earn outs
+  * Corporate finance
+    * Activism
+    * Credit ratings
+    * ROIC
+    * Capex vs opex
+    * Capital vs operating leases
+    * Tracking stock
+    * Dividends
+  * Valuation
   DCF
 •         Terminal value
 •         Unit consistency
