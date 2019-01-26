@@ -15,6 +15,7 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 5. [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine "Matt Levine") is one of the best financial writers out there
 6. [Damodaran](http://pages.stern.nyu.edu/~adamodar/ "Musings on Markets") is a great teacher and overall great guy. How many profs will straight out tell you not to buy their overpriced book?
 7. [Howard Marks's](https://www.oaktreecapital.com/insights/howard-marks-memos "Marks's memos") memos are always a pleasure to read
+8. [Meb Faber](https://mebfaber.com/ "Meb") skews more quanty, but has many good articles. He does a good podcast too.
 
 ### Economic sites
 1. [Marginal revolution](https://marginalrevolution.com/ "MR") is famous for good reason, but quantity of posts can be overwhelming
@@ -58,4 +59,3 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 1. [Chandoo's](https://chandoo.org/wp/ "Chandoo") excel blog is helpful whenever I have obscure excel problems
 2. [SumProduct's](https://www.sumproduct.com/thought "SumProduct") thought page has a large number of articles explaining formulas
 3. [Ozgrid](https://www.ozgrid.com/free-excel.htm "Ozgrid") has formula and macro help, though it seems the site underwent a redesign and some pages might be broken.
-4. [Excel Campus](https://www.excelcampus.com/blog/ "Excel Campus") posts video based tutorials
