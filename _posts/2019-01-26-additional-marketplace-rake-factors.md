@@ -3,7 +3,7 @@ title:  "Additional marketplace rake factors"
 tags: [internet, marketplace]
 ---
 
-I'm fascinated by marketplaces and network effects since so much of the internet is built on companies succeeding in them e.g. Facebook's network effects, Amazon's 3rd party marketplace, Google's ad marketplace. There are many great writers on these topics, some of which I've outlined under the tech section on my [resources page](https://www.leonlinsx.com/resources/ "resources"). This post details my thoughts on a marketplace rake factor fundamental analysis I saw Josh Breinlinger write about [here](http://acrowdedspace.com/post/172383900012/marketplace-rake-factors "rake factors")
+I'm fascinated by marketplaces and network effects since so much of the internet is built on companies succeeding in them e.g. Facebook's network effects, Amazon's 3rd party marketplace, Google's ad marketplace. There are many great writers on these topics, some of which I've outlined under the tech section on my [resources page](https://www.leonlinsx.com/resources/ "resources"). This post details my thoughts on a marketplace rake factor fundamental analysis I saw Josh Breinlinger write about [here.](http://acrowdedspace.com/post/172383900012/marketplace-rake-factors "rake factors")
 
 I liked Josh’s rake factors article because it was the first I’ve seen that attempts to build up fundamental reasons for why a rake is set at a certain percentage, rather than just ‘because comps are at that rake’. Some (many?) markets are indeed just priced based on comps, but I still like having a framework.
  
@@ -19,9 +19,9 @@ I had additional thoughts:
 higher than 3%, but the average restaurant would be paying 15% and not the 12.5% rake, implying a smaller difference)
     * E.g. I would guess that Ubereats will be charging a couple percentage points for [promotional placement of restaurants](](https://techcrunch.com/2018/12/10/uber-ads/ "uber ads") as well
   * I think that companies coming into a market intending to undercut their competitor also set their take rate 5%-10% lower than the prevailing incumbent
-  * E.g. How booking.com came in with 10% or more lower rates than expedia and [won the market that way](https://skift.com/2012/06/25/how-booking-com-conquered-world/ "booking.com")
-  * E.g. Seatgeek’s rates seems to be 5%+ lower than the incumbent stubhub based on my own benchmarking
-  * E.g. The smaller Chinese online travel agencies (OTAs) are supposedly ~10% rake vs the main OTA's ~15% rake
+    * E.g. How booking.com came in with 10% or more lower rates than expedia and [won the market that way](https://skift.com/2012/06/25/how-booking-com-conquered-world/ "booking.com")
+    * E.g. Seatgeek’s rates seems to be 5%+ lower than the incumbent stubhub based on my own benchmarking
+    * E.g. The smaller Chinese online travel agencies (OTAs) are supposedly ~10% rake vs the main OTA's ~15% rake
   * I haven’t seen many rakes >20% that are sustained over time. Similarly to how Bill Gurley talks about [a rake too far](http://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/ "optimal pricing strategy"), there’s something about that threshold that pulls take rates down over time. My hypothesis is that it starts eating too much into the customer’s COGS for the situation to stay unchanged for >5 years
     * E.g. For the longest time, iOS and google play store rakes were 30%. Then they started introducing lower rakes for subscriptions
     * E.g. Steam used to have a 30% rake, and recently changed that to be lower for larger publishers. That's not a coincidence given Epic Games and Discord are coming out with their own 10%+ rake stores instead
@@ -36,13 +36,13 @@ higher than 3%, but the average restaurant would be paying 15% and not the 12.5%
 I also did some comparison of predicted vs actual rake rates according to his framework, and the results seem favourable. I used some judgement in applying the criteria, and the actual take rates are approximated based on some benchmarking I've personally done. 
   * Booking.com take rate according to his framework should be 20% + 10% opaque fees + 5% quality control + 5% fraud prevention – 10% high price items – 10% users meet in person (does this qualify?) = 20% vs 14% actual rake
     * Other main OTAs: expedia is around 13-18% actual rake, ctrip is around 10-15% actual rake on its hotel inventory
-    * *Smaller chinese competitors such as meituan are at 8-10%, and tongcheng is 6-9%*
+    * **Smaller chinese competitors such as meituan are at 8-10%, and tongcheng is 6-9%**
   * Etsy take rate predicted is 20% - 5% transparent fees - 5% buyer beware = 10% vs 5% actual
   * Farfetch take rate predicted is 20% + 10% work on platform + 5% quality control + 5% fraud prevention – 5% transparent fees – 5% high price items = 30% vs 33% actual
-  * Taobao take rate 20% – 5% transparent fees – 5% buyer beware = *10% vs 4% actual*
-  * Tmall take rate 20% + 10% work on platform + 5% quality control – 5% transparent fees – 5% buyer beware = *25% vs 3% actual*
-  * JD.com take rate 20% + 5% quality control – 5% transparent fees – 5% buyer beware = *15% vs 2-8% actual*
-  * Taobao, Tmall, JD all seem to not fit the framework. My guess is this has to do with China’s market, and how Taobao was initially started as a platform with 0 fees to compete against EachNet. So the starting poit was at a 0% take rather than 20%
+  * Taobao take rate 20% – 5% transparent fees – 5% buyer beware = **10% vs 4% actual**
+  * Tmall take rate 20% + 10% work on platform + 5% quality control – 5% transparent fees – 5% buyer beware = **25% vs 3% actual**
+  * JD.com take rate 20% + 5% quality control – 5% transparent fees – 5% buyer beware = **15% vs 2-8% actual**
+  * *Taobao, Tmall, JD all seem to not fit the framework. My guess is this has to do with China’s market, and how Taobao was initially started as a platform with 0 fees to compete against EachNet. So the starting point was at a 0% take rather than 20%*
   * Mercado libre take rate 20% + 5% quality control – 5% transparent fees – 5% buyer beware = 15% vs 17% actual
   * Stubhub/Seatgeek take rate 20% + 10% opaque fees + 5% quality control + 5% fraud prevention - 5% high price items = 35% vs 40%+ actual
 
