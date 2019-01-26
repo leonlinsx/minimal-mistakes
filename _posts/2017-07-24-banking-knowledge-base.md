@@ -5,7 +5,7 @@ tags: [investment banking, powerpoint, excel, finance, learning, reflection]
 
 \* *Note: this is a backdated post from a framework I used in the past, edited for brevity*
 
-Back when I was leaving investment banking I wanted to reflect on what I'd learnt. Partially because of that, I put together a list of topics that I thought a junior banker should aim to be familiar with during their time there. The list is neither meant to be comprehensive, nor do I think you can be an expert at all the areas after just a few years. Admittedly I've already forgotten some of the intricacies in areas below. However, I still believe it is helpful for reference. The list is below:
+Back when I was leaving investment banking I wanted to reflect on what I'd learnt. Partially because of that, I put together a list of topics that I thought a junior banker should aim to be familiar with during their time there. The list is neither meant to be comprehensive, nor do I think you can be an expert at all the areas after just a few years. Admittedly I've already forgotten some of the areas below. However, I still believe it is helpful for reference. The list is below:
 
 ### Finance related 
   * Overview of what IB is
@@ -78,7 +78,6 @@ Back when I was leaving investment banking I wanted to reflect on what I'd learn
     * Choose vs offset
     * Sumproduct
     * If and Boolean functions
-    * Average functions
     * Sumifs functions
     * Countifs functions
     * Text formatting functions
@@ -112,7 +111,7 @@ Back when I was leaving investment banking I wanted to reflect on what I'd learn
     * Cell formatting codes 
     * Tracing precedent/dependent cells
     * Error checking, formula integrity checking, stepping into formulas
-    * Alt hotkey for symbols
+    * Alt hotkey for inserting symbols
     * Fill left/right/down
     * Moving, copying, hiding sheets
     * Clearing formats
@@ -140,6 +139,5 @@ Back when I was leaving investment banking I wanted to reflect on what I'd learn
     * Dealing with or creating gaps in data
   * Clear formatting
   * Quick access toolbar
-  * Save and send
   * Cleaning up stuff off the slide or notes sections
 
