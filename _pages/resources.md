@@ -14,6 +14,7 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 4. [Of Dollars And Data](https://ofdollarsanddata.com/ "Of Dollars And Data") is more personal finance oriented
 5. [Matt Levine](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine "Matt Levine") is one of the best financial writers out there
 6. [Damodaran](http://pages.stern.nyu.edu/~adamodar/ "Musings on Markets") is a great teacher and overall great guy. How many profs will straight out tell you not to buy their overpriced book?
+7. [Howard Marks's](https://www.oaktreecapital.com/insights/howard-marks-memos "Marks's memos") memos are always a pleasure to read
 
 ### Economic sites
 1. [Marginal revolution](https://marginalrevolution.com/ "MR") is famous for good reason, but quantity of posts can be overwhelming
@@ -43,7 +44,7 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 ### Lifestyle sites
 1. [Punch](https://punchdrink.com/ "Punch") is great for cocktail articles and research. I've added to my reper
 2. [Eater NY](https://ny.eater.com/ "Eater NY") is helpful for keeping up with the restaurant scene in NY. There's a country wide [site](https://www.eater.com/ "Eater") too
-3. [Grubstreet](http://www.grubstreet.com/ "grubstreet") is slightly annoying for me since they hide their articles in RSS till after the jump but might be a complement to Eater
+3. [Grubstreet](http://www.grubstreet.com/ "grubstreet") is slightly annoying for me since they hide their articles in RSS till after the jump, but might be a complement to Eater
 
 ### Webcomics
 1. [XKCD](https://xkcd.com/ "xkcd") is wide ranging in what it covers and often thought-provoking
