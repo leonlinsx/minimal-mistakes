@@ -15,7 +15,7 @@ It's a nice coincidence that a great way to properly learn about what you read i
 I've had some military, investment banking, and public markets investing experience. I don't just focus on those sectors though, and will read and write about whatever I find interesting. Feel free to send stuff that you're fascinated by!
 
 ### My beliefs
-Partially inspired by [Devon's blog,](https://devonzuegel.com/page/about-me "Devon's blog") below is a public record of my current beliefs. I'll edit as these change over time, but these should give you a good idea of what I stand for.
+Partially inspired by [this blog,](https://devonzuegel.com/page/about-me "Devon's blog") below is a public record of my current beliefs. I'll edit as these change over time, but these should give you a good idea of what I stand for.
 
 *I should aim to:*
   * Be intellectually curious.  There will be subjects too hard or irrelevant, but I want to learn as much as I can. Not knowing something is [different](https://xkcd.com/1053/ "Don't make fun of people for when they don't know things") from being uninterested in knowing 
