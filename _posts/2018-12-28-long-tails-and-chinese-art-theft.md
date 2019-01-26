@@ -36,10 +36,11 @@ On a sidenote, I'm trying to learn more about marketplaces (ebay, uber, eventbri
   * However, doing an approximate geometric mean gets you close while being much easier to calculate. See the article/google for the calculation
 
 5. Lastly and most importantly, the holiday periods tend to increase feelings of sadness (I'm unsure if it's been proven suicide risks also rise). If you or your friends suffer from depression, [this](https://www.wsj.com/articles/how-can-you-help-someone-who-is-depressed-1543242613 "WSJ depression") resource is helpful. 
-> "Start by accepting that depression is a real illness. People do not “snap out of it” and any suggestion that they should is shaming"
 
-> "Most people mean for these reassurances to be genuine. But there’s a difference between a glib “it’s going to be OK” as a way to wave the depressed person off and genuinely communicating that it will be OK"
+  > "Start by accepting that depression is a real illness. People do not “snap out of it” and any suggestion that they should is shaming"
 
-> "If you suspect that someone is suicidal, ask them. You will not give them the idea. I have never heard from anyone who suffers with depression that they mind that question when it is asked directly and with care."
+  > "Most people mean for these reassurances to be genuine. But there’s a difference between a glib “it’s going to be OK” as a way to wave the depressed person off and genuinely communicating that it will be OK"
 
-If you do feel suicidal, [Crisis Text Line](https://www.crisistextline.org/ "CTL") is a 24/7 texting service to seek the support you need. They're always looking for volunteers too if you want to make a difference!
+  > "If you suspect that someone is suicidal, ask them. You will not give them the idea. I have never heard from anyone who suffers with depression that they mind that question when it is asked directly and with care."
+
+  If you do feel suicidal, [Crisis Text Line](https://www.crisistextline.org/ "CTL") is a 24/7 texting service to seek the support you need. They're always looking for volunteers too if you want to make a difference!
