@@ -41,3 +41,5 @@ On a sidenote, I'm trying to learn more about marketplaces (ebay, uber, eventbri
 > "Most people mean for these reassurances to be genuine. But there’s a difference between a glib “it’s going to be OK” as a way to wave the depressed person off and genuinely communicating that it will be OK"
 
 > "If you suspect that someone is suicidal, ask them. You will not give them the idea. I have never heard from anyone who suffers with depression that they mind that question when it is asked directly and with care."
+
+If you do feel suicidal, [Crisis Text Line](https://www.crisistextline.org/ "CTL") is a 24/7 texting service to seek the support you need. They're always looking for volunteers too if you want to make a difference!
