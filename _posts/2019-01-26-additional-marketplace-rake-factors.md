@@ -10,16 +10,16 @@ I liked Josh’s rake factors article because it was the first I’ve seen that 
 I had additional thoughts:
   * There are some marketplaces that seem to be exceptions to this framework (which Josh self-admits is not definitive)
     * E.g. The stock photography market has always been curious to me since someone pointed it out. [The rake there can be >50%,]((https://microstockinsider.com/microstock_commission_rates "photography commissions") an incredible amount for a service that has so many competitors, transparent fees, and little marginal costs on the platform side.
-    * E.g. China marketplace rakes are very low when compared to US marketplaces. Taobao’s rake is ~4% vs Ebay 9%
+    * E.g. China e-commerce marketplace rakes are very low when compared to US marketplaces. 
   * I think adding another factor of +3% for ‘promotional activity’ on the platform might be helpful
-    * E.g. How booking.com lets advertisers become preferred members with better placement for 300bps
-    * E.g. A hotel loyalty program averages about 3% of rev in costs for the hotel
-    * E.g. Alibaba’s Taobao marketplace rev is mostly from marketing activities, and the average cost is ~4%
+    * E.g. How a major OTA lets advertisers become preferred members with better placement for 300bps
+    * E.g. Hotel loyalty program supposedly average about 3% of rev in costs for the hotel
+    * E.g. China e-commerce marketplace rev is mostly from marketing activities, and the average cost is ~4%
     * E.g. Seamless' food delivery rake used to go from 12.5% to 20%, a difference of 7.5% (which is
 higher than 3%, but the average restaurant would be paying 15% and not the 12.5% rake, implying a smaller difference)
     * E.g. I would guess that Ubereats will be charging a couple percentage points for [promotional placement of restaurants](](https://techcrunch.com/2018/12/10/uber-ads/ "uber ads") as well
   * I think that companies coming into a market intending to undercut their competitor also set their take rate 5%-10% lower than the prevailing incumbent
-    * E.g. How booking.com came in with 10% or more lower rates than expedia and [won the market that way](https://skift.com/2012/06/25/how-booking-com-conquered-world/ "booking.com")
+    * E.g. How a major OTA came in with 10% or more lower rates to undercut its competitor and [won the market that way](https://skift.com/2012/06/25/how-booking-com-conquered-world/ "OTA history")
     * E.g. Seatgeek’s rates seems to be 5%+ lower than the incumbent stubhub based on my own benchmarking
     * E.g. The smaller Chinese online travel agencies (OTAs) are supposedly ~10% rake vs the main OTA's ~15% rake
   * I haven’t seen many rakes >20% that are sustained over time. Similarly to how Bill Gurley talks about [a rake too far](http://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/ "optimal pricing strategy"), there’s something about that threshold that pulls take rates down over time. My hypothesis is that it starts eating too much into the customer’s COGS for the situation to stay unchanged for >5 years
@@ -33,17 +33,6 @@ higher than 3%, but the average restaurant would be paying 15% and not the 12.5%
     * Airbnb, the ticketing market, dog vacation marketplaces are more episodic and can charge buyer fees
     * The food delivery platforms don't seem to quite fit this framework though. They're usually regular transactions that charge additional buyer fees for delivery, which would seem to be an impediment to growth. 
  
-I also did some comparison of predicted vs actual rake rates according to his framework, and the results seem favourable. I used some judgement in applying the criteria, and the actual take rates are approximated based on some benchmarking I've personally done. 
-  * Booking.com take rate according to his framework should be 20% + 10% opaque fees + 5% quality control + 5% fraud prevention – 10% high price items – 10% users meet in person (does this qualify?) = 20% vs 14% actual rake
-    * Other main OTAs: expedia is around 13-18% actual rake, ctrip is around 10-15% actual rake on its hotel inventory
-    * **Smaller chinese competitors such as meituan are at 8-10%, and tongcheng is 6-9%**
-  * Etsy take rate predicted is 20% - 5% transparent fees - 5% buyer beware = 10% vs 5% actual
-  * Farfetch take rate predicted is 20% + 10% work on platform + 5% quality control + 5% fraud prevention – 5% transparent fees – 5% high price items = 30% vs 33% actual
-  * Taobao take rate 20% – 5% transparent fees – 5% buyer beware = **10% vs 4% actual**
-  * Tmall take rate 20% + 10% work on platform + 5% quality control – 5% transparent fees – 5% buyer beware = **25% vs 3% actual**
-  * JD.com take rate 20% + 5% quality control – 5% transparent fees – 5% buyer beware = **15% vs 2-8% actual**
-  * *Taobao, Tmall, JD all seem to not fit the framework. My guess is this has to do with China’s market, and how Taobao was initially started as a platform with 0 fees to compete against EachNet. So the starting point was at a 0% take rather than 20%*
-  * Mercado libre take rate 20% + 5% quality control – 5% transparent fees – 5% buyer beware = 15% vs 17% actual
-  * Stubhub/Seatgeek take rate 20% + 10% opaque fees + 5% quality control + 5% fraud prevention - 5% high price items = 35% vs 40%+ actual
-
+I also did some comparison of predicted vs actual rake rates according to his framework. Won't be publishing it for compliance reasons, but the results seem to fall in line with theory. Caveat being that I used some judgement in applying the criteria, and the actual take rates are approximated based on some benchmarking I've personally done. 
+  
 If I'm mistaken on any of the above or if you have responses, feel free to let me know and I'll correct the post as needed.
