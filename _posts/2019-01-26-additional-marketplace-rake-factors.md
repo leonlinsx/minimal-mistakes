@@ -1,7 +1,7 @@
 ---
 title:  "Additional marketplace rake factors"
 tags: [internet, marketplace]
-visible: 0
+published: false
 ---
 
 I'm fascinated by marketplaces and network effects since so much of the internet is built on companies succeeding in them e.g. Facebook's network effects, Amazon's 3rd party marketplace, Google's ad marketplace. There are many great writers on these topics, some of which I've outlined under the tech section on my [resources page](https://www.leonlinsx.com/resources/ "resources"). This post details my thoughts on a marketplace rake factor fundamental analysis I saw Josh Breinlinger write about [here.](http://acrowdedspace.com/post/172383900012/marketplace-rake-factors "rake factors")
