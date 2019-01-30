@@ -1,6 +1,6 @@
 ---
 title:  "Picking careers"
-tags: [careers, decisions]
+tags: [careers, decision making]
 ---
 
 \* *Note: this is a backdated post from an email I sent to friends, lightly edited for personal content and context*
