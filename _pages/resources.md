@@ -43,9 +43,8 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 3. [Nassim Nicholas Taleb](https://medium.com/@nntaleb "Taleb") often writes stuff beyond my understanding, but is worth browsing
 
 ### Lifestyle sites
-1. [Punch](https://punchdrink.com/ "Punch") is great for cocktail articles and research. I've added to my reper
+1. [Punch](https://punchdrink.com/ "Punch") is great for cocktail articles and research. I've added to my drink list from their posts.
 2. [Eater NY](https://ny.eater.com/ "Eater NY") is helpful for keeping up with the restaurant scene in NY. There's a country wide [site](https://www.eater.com/ "Eater") too
-3. [Grubstreet](http://www.grubstreet.com/ "grubstreet") is slightly annoying for me since they hide their articles in RSS till after the jump, but might be a complement to Eater
 
 ### Webcomics
 1. [XKCD](https://xkcd.com/ "xkcd") is wide ranging in what it covers and often thought-provoking
