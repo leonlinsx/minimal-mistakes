@@ -1,5 +1,5 @@
 ---
-title:  "Chandoo's excel worst practices"
+title:  "Excel calculation efficiency"
 tags: [investment banking, excel]
 ---
 
