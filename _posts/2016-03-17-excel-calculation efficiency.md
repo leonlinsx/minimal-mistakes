@@ -27,7 +27,7 @@ Some time back I had to do in depth research into excel efficiency. Some of the 
      * Time and Test Each Change
    * They give a neat example of [how to simplify a problem](https://docs.microsoft.com/en-us/previous-versions/office/developer/office-2007/aa730921(v=office.12)#dynamic-count-unique "example problem")
    * And go through a long list of common bottlenecks with formulas
-    
+   
 2. [Another site](https://trumpexcel.com/suffering-from-slow-excel-spreadsheets/ "trump excel") with excel speed tips
 
    * "Use Helper Columns"
