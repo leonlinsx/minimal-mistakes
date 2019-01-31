@@ -17,16 +17,16 @@ During my time in banking, there was one particular deal that fascinated me due 
 
 5. If shorting is expensive, Arbs won't want to play, and you won't get enough investor interest
 
-6. The solution is to let arbs short the stock to the company (rather than on the market) through derivatives
+6. The solution is to let Arbs short the stock to the company (rather than on the market) through derivatives
 
-  * The bank underwriting the convert sells your stock to you in a forward contract for future delivery
-    * You give the bank money now, the bank gives you stock in the future
-    * The bank is effectively short your stock
-  * The bank doesn't want the short exposure, so it does an offsetting swap with arbs, letting them get the exposure without borrowing the stock on the market
-  * Arbs get cheap short exposure to hedge the convert, making it easier to buy the convert
+   * The bank underwriting the convert sells your stock to you in a forward contract for future delivery
+     * You give the bank money now, the bank gives you stock in the future
+     * The bank is effectively short your stock
+   * The bank doesn't want the short exposure, so it does an offsetting swap with arbs, letting them get the exposure without borrowing the stock on the market
+   * Arbs get cheap short exposure to hedge the convert, making it easier to buy the convert
   
 7. The downside is you spend money on the forward contract buying back stock, so you don't get the full convertible raise
 
-  * Which makes this popular for companies that want to buy back stock and don’t really need cash
+   * Which makes this popular for companies that want to buy back stock and don’t really need cash
 
 8. The company is effectively selling a convertible and buying back the stock price risk, leaving investors with volatility risk
