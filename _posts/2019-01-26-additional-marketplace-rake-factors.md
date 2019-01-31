@@ -34,6 +34,18 @@ higher than 3%, but the average restaurant would be paying 15% and not the 12.5%
     * Airbnb, the ticketing market, dog vacation marketplaces are more episodic and can charge buyer fees
     * The food delivery platforms don't seem to quite fit this framework though. They're usually regular transactions that charge additional buyer fees for delivery, which would seem to be an impediment to growth. 
  
-I also did some comparison of predicted vs actual rake rates according to his framework. Won't be publishing it for compliance reasons, but the results seem to fall in line with theory. Caveat being that I used some judgement in applying the criteria, and the actual take rates are approximated based on some benchmarking I've personally done. 
+I also did some comparison of predicted vs actual rake rates according to his framework, and they seem to fall in line with theory. Caveat being that I used some judgement in applying the criteria, and the actual take rates are approximated based on some benchmarking I've personally done.
+
+  * Booking.com take rate according to his framework should be 20% + 10% opaque fees + 5% quality control + 5% fraud prevention – 10% high price items – 10% users meet in person (does this qualify?) = 20% vs 14% actual rake
+    * Other main OTAs: expedia is around 13-18% actual rake, ctrip is around 10-15% actual rake on its hotel inventory
+    * **Smaller chinese competitors such as meituan are at 8-10%, and tongcheng is 6-9%**
+  * Etsy take rate predicted is 20% - 5% transparent fees - 5% buyer beware = 10% vs 5% actual
+  * Farfetch take rate predicted is 20% + 10% work on platform + 5% quality control + 5% fraud prevention – 5% transparent fees – 5% high price items = 30% vs 33% actual
+  * Taobao take rate 20% – 5% transparent fees – 5% buyer beware = **10% vs 4% actual**
+  * Tmall take rate 20% + 10% work on platform + 5% quality control – 5% transparent fees – 5% buyer beware = **25% vs 3% actual**
+  * JD.com take rate 20% + 5% quality control – 5% transparent fees – 5% buyer beware = **15% vs 2-8% actual**
+  * *Taobao, Tmall, JD all seem to not fit the framework. My guess is this has to do with China’s market, and how Taobao was initially started as a platform with 0 fees to compete against EachNet. So the starting point was at a 0% take rather than 20%*
+  * Mercado libre take rate 20% + 5% quality control – 5% transparent fees – 5% buyer beware = 15% vs 17% actual
+  * Stubhub/Seatgeek take rate 20% + 10% opaque fees + 5% quality control + 5% fraud prevention - 5% high price items = 35% vs 40%+ actual
   
 If I'm mistaken on any of the above or if you have responses, feel free to let me know and I'll correct the post as needed.
