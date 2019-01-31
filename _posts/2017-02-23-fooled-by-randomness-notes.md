@@ -45,5 +45,5 @@ I read Nassim Nicholas Taleb's book 'Fooled by Randomness' a while back and thou
    * I'm not sure how to get better at this though
 
 10. Taleb's epiphany came when he understood he was not intelligent or strong enough to fight emotions, but intelligent enough to understand he has a predisposition to be fooled by randomness
-   * There is nothing wrong with emotions, but what is wrong is not following the dignified path
-   * Similar to how just knowing of behavioural biases doesn't help much in stopping them from happening, as Kahneman himself [describes](https://blogs.cfainstitute.org/investor/2012/05/14/daniel-kahneman-psychology-for-behavioral-finance/ "Knowing the errors is not the recipe") 
+    * There is nothing wrong with emotions, but what is wrong is not following the dignified path
+    * Similar to how just knowing of behavioural biases doesn't help much in stopping them from happening, as Kahneman himself [describes](https://blogs.cfainstitute.org/investor/2012/05/14/daniel-kahneman-psychology-for-behavioral-finance/ "Knowing the errors is not the recipe") 
