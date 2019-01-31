@@ -11,7 +11,7 @@ Back when I was leaving investment banking I wanted to reflect on what I'd learn
   * Overview of what IB is
   * Equity
     * IPO
-    * Follow on
+    * Follow ons
     * Share buybacks
   * Debt
     * Revolving credit
@@ -28,7 +28,6 @@ Back when I was leaving investment banking I wanted to reflect on what I'd learn
     * Credit ratings
     * ROIC
     * Capex vs opex
-    * Capital vs operating leases
     * Tracking stock
     * Dividends
   * Valuation
@@ -68,8 +67,8 @@ Back when I was leaving investment banking I wanted to reflect on what I'd learn
     * Input data once and referring to that input throughout
     * Consistent layout and structure, ‘matrix integrity’
     * Colour coding
-    * Grouping not hiding rows and columns
-    * Aligning text rather than merging cels
+    * Grouping, not hiding rows and columns
+    * Aligning text rather than merging cells
     * Avoiding hardcodes in formulas where possible
     * Table of contents for calculations and figures
   * Formulas
@@ -77,11 +76,8 @@ Back when I was leaving investment banking I wanted to reflect on what I'd learn
     * Vlookup vs index match
     * Choose vs offset
     * Sumproduct
-    * If and Boolean functions
     * Sumifs functions
     * Countifs functions
-    * Text formatting functions
-    * Concatenate vs &
     * Arrays
     * Transpose
     * Volatile functions
