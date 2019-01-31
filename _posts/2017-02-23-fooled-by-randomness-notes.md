@@ -1,6 +1,6 @@
 ---
 title:  "Notes on fooled by randomness"
-tags: [decision making, behavioural economics, luck, skill, investing]
+tags: [decision making, book, luck, skill, investing, stats]
 ---
 
 \* *Note: this is a backdated post from notes I took on Taleb's book in the past*
