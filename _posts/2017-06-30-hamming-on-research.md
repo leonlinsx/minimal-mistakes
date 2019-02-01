@@ -7,7 +7,7 @@ tags: [learning, sales]
 
 [Richard Hamming](https://history.computer.org/pioneers/hamming.html "Hamming") is a mathematician who worked on the Manhattan Project and also contributed foundational work for error-correcting code in computing. Most of his work is too complicated for me to understand, but I chanced upon [this speech](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html "Hamming speech") that I found interesting. Some thoughts below:
 
-> Our society frowns on people who set out to do really good work. You're not supposed to; luck is supposed to descend on you and you do great things by chance. Well, that's a kind of dumb thing to say. I say, why shouldn't you set out to do something significant. You don't have to tell other people, but shouldn't you say to yourself, ``Yes, I would like to do something significant.''
+> Our society frowns on people who set out to do really good work. You're not supposed to; luck is supposed to descend on you and you do great things by chance. Well, that's a kind of dumb thing to say. I say, why shouldn't you set out to do something significant. You don't have to tell other people, but shouldn't you say to yourself, "Yes, I would like to do something significant."
 
 I'm not sure I fully agree here. These days everyone seems to want to be a founder and build the next billion dollar company. Have things changed?
 
@@ -27,9 +27,9 @@ Takeaway seems to be don't ignore the small problems.
 
 Again an emphasis on determination and hard work. I personally prefer hard workers over smart people. Do note that hard work isn't a guarantee of success though.
 
-> ``Knowledge and productivity are like compound interest.'' Given two people of approximately the same ability and one person who works ten percent more than the other, the latter will more than twice outproduce the former. The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity - it is very much like compound interest.
+> "Knowledge and productivity are like compound interest." Given two people of approximately the same ability and one person who works ten percent more than the other, the latter will more than twice outproduce the former. The more you know, the more you learn; the more you learn, the more you can do; the more you can do, the more the opportunity - it is very much like compound interest.
 
-Compound interest on savings is well known and still underappreciated. Compound interest on learning is a similar concept, talked about by Munger [here](https://fs.blog/2013/05/the-buffett-formula-how-to-get-smarter/ "fs munger") and by this site [here](https://www.artofmanliness.com/articles/get-1-better-every-day-the-kaizen-way-to-self-improvement/ "aom kaizen")
+Compound interest on savings is well known and still underappreciated. Compound interest on learning is a similar concept, talked about by Munger [here](https://fs.blog/2013/05/the-buffett-formula-how-to-get-smarter/ "fs munger") and by this site [here](https://www.artofmanliness.com/articles/get-1-better-every-day-the-kaizen-way-to-self-improvement/ "aom kaizen"). I'm lucky if I don't worsen every day...
 
 > The steady application of effort with a little bit more work, intelligently applied is what does it. That's the trouble; drive, misapplied, doesn't get you anywhere. 
 
@@ -43,7 +43,7 @@ The part about the problem being important seems confusing in light of the small
 
 I see his point, though I'm reluctant to believe it. I have a personal bias to keep to my own silo when I'm working on something. 
 
-> it is not sufficient to do a job, you have to sell it. `Selling' to a scientist is an awkward thing to do. It's very ugly; you shouldn't have to do it. The world is supposed to be waiting, and when you do something great, they should rush out and welcome it. But the fact is everyone is busy with their own work. 
+> it is not sufficient to do a job, you have to sell it. "Selling" to a scientist is an awkward thing to do. It's very ugly; you shouldn't have to do it. The world is supposed to be waiting, and when you do something great, they should rush out and welcome it. But the fact is everyone is busy with their own work. 
 
 And this is for scientists, hardly the stereotypical personality for a salesman! One of the best classes I took in college was a sales class by [John Dozier](https://fa.ml.com/virginia/charlottesville/john-dozier/ "John bio"), and I still hope to improve on my salesmanship skills. Life would be significantly easier if I was better at selling
 
