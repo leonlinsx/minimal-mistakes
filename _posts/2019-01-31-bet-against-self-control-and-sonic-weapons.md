@@ -1,7 +1,7 @@
 ---
 title:  "Bet against self control and sonic weapons"
-tags: [psychology, personal finance, VC, diet]
-published: false
+tags: [psychology, personal finance, VC, diet, decision making]
+published: true
 ---
 
 **Interesting things I've read this month**
