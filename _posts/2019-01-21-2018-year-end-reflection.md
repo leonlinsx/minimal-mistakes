@@ -32,7 +32,7 @@ Below are the questions I used for my 2018 reflection along with some rationale:
   * Both new and old
 
 **10. What are my goals? Of those, what are my top goals?**
-  * [Buffett's advice](https://jamesclear.com/buffett-focus "Buffett on focus") on goal setting is worth thinking about, though was just focused on career goals. Your list likely expands when including other aspects of life e.g. physical, leisure etc. I do agree with the principle that you can't focus on too many things at once
+  * [Advice that has been credited to Buffett](https://jamesclear.com/buffett-focus "Buffett on focus") on goal setting is worth thinking about, though that was just focused on career goals, and is possibly a [fake anecdote](https://www.cnbc.com/2018/06/05/warren-buffetts-answer-to-this-question-taught-alex-banayan-a-lesson.html "Buffett story?"). Your list likely expands when including other aspects of life e.g. physical, leisure etc. I do agree with the principle that you can't focus on too many things at once.
 
 **11. What can I look forward to?**
   * End off with a positive note and think about what gets you excited about the year ahead
