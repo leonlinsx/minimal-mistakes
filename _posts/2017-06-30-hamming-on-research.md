@@ -51,6 +51,6 @@ And this is for scientists, hardly the stereotypical personality for a salesman!
 
 Everyone has ego. It's difficult, but try not to let in get in the way of what matters. Probably easiest for you to realise when you have an outside perspective on your situation. 
 
-> To use another analogy, you know the idea called the `critical mass.' If you have enough stuff you have critical mass. There is also the idea I used to call `sound absorbers'. When you get too many sound absorbers, you give out an idea and they merely say, ``Yes, yes, yes.'' What you want to do is get that critical mass in action; ``Yes, that reminds me of so and so,'' or, ``Have you thought about that or this?'' When you talk to other people, you want to get rid of those sound absorbers who are nice people but merely say, ``Oh yes,'' and to find those who will stimulate you right back.
+> To use another analogy, you know the idea called the "critical mass." If you have enough stuff you have critical mass. There is also the idea I used to call "sound absorbers". When you get too many sound absorbers, you give out an idea and they merely say, "Yes, yes, yes." What you want to do is get that critical mass in action; "Yes, that reminds me of so and so," or, "Have you thought about that or this?" 
 
 Avoid boring people.
