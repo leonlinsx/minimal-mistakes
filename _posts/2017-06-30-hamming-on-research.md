@@ -1,6 +1,6 @@
 ---
 title:  "Richard Hamming on research"
-tags: [learning, ]
+tags: [learning, sales]
 ---
 
 \* *Note: this is a backdated post from something I took notes on in the past*
