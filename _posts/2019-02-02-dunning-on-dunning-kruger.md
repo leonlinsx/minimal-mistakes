@@ -4,7 +4,7 @@ tags: [psychology, learning]
 published: false
 ---
 
-Dumb people think they're smart. Smart people think they're dumb. This is a simplistic way of explaining the Dunning-Kruger effect.  David Dunning explains more in [this article](https://www.vox.com/science-and-health/2019/1/31/18200497/dunning-kruger-effect-explained-trump "Dunning on Dunning-Kruger"), including important nuances that most people miss. 
+Dumb people think they're smart. Smart people think they're dumb. This is a simplistic way of explaining the Dunning-Kruger effect.  David Dunning explains more in [this interview](https://www.vox.com/science-and-health/2019/1/31/18200497/dunning-kruger-effect-explained-trump "Dunning on Dunning-Kruger"), including important nuances that people miss about the effect. 
 
 > even though your belief about the way the world is just seems so compelling or so self-evident, it doesn’t mean that it really is true
 
