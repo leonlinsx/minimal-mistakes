@@ -13,9 +13,9 @@ I had additional thoughts:
     * E.g. The stock photography market has always been curious to me since someone pointed it out. [The rake there can be >50%,]((https://microstockinsider.com/microstock_commission_rates "photography commissions") an incredible amount for a service that has so many competitors, transparent fees, and little marginal costs on the platform side.
     * E.g. China e-commerce marketplace rakes are very low when compared to US marketplaces. Taobao ~4% vs Ebay 9% 
   * I think adding another factor of +3% for ‘promotional activity’ on the platform might be helpful
+    * E.g. China e-commerce marketplace rev mentioned above is mostly from marketing activities, and the average cost is ~4%
     * E.g. How booking.com lets advertisers become preferred members with better placement for 300bps
     * E.g. Hotel loyalty program average ~3% of rev in increased costs for the hotel
-    * E.g. China e-commerce marketplace rev is mostly from marketing activities, and the average cost is ~4%
     * E.g. Seamless' food delivery rake used to go from 12.5% to 20%, a difference of 7.5% (which is
 higher than 3%, but the average restaurant would be paying 15% and not the 12.5% rake, implying a smaller difference)
     * E.g. I would guess that Ubereats will be charging a couple percentage points for [promotional placement of restaurants](](https://techcrunch.com/2018/12/10/uber-ads/ "uber ads") as well
