@@ -37,7 +37,7 @@ Partially inspired by [this blog,](https://devonzuegel.com/page/about-me "Devon'
 ### My interests
   * Cocktails, both drinking and making them
   * Chocolate
-  * Food in general and reviewing restaurants ranging from budget street food to fine dining. Proud user of [Google Maps](https://www.google.com/maps/contrib/103299504307574664914/reviews/@40.7441353,-73.98413,14z/data=!3m1!4b1!4m3!8m2!3m1!1e1 "Maps profile") rather than Yelp. 
+  * Food in general, and reviewing restaurants ranging from budget street food to fine dining. Proud user of [Google Maps](https://www.google.com/maps/contrib/103299504307574664914/reviews/@40.7441353,-73.98413,14z/data=!3m1!4b1!4m3!8m2!3m1!1e1 "Maps profile") rather than Yelp. 
   * Internet business models, particularly marketplaces
   * Investing, both public markets and venture
   * Learning how to make better decisions
