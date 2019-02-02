@@ -16,6 +16,7 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 6. [Damodaran](http://pages.stern.nyu.edu/~adamodar/ "Musings on Markets") is a great teacher and overall great guy. How many profs will straight out tell you not to buy their overpriced book?
 7. [Howard Marks's](https://www.oaktreecapital.com/insights/howard-marks-memos "Marks's memos") memos are always a pleasure to read
 8. [Meb Faber](https://mebfaber.com/ "Meb") skews more quanty, but has many good articles. He does a good podcast too.
+9. [Tren Griffin](https://25iq.com/author/trengriffin/ "25iq") covers investing, business, and more
 
 ### Economic sites
 1. [Marginal revolution](https://marginalrevolution.com/ "MR") is famous for good reason, but quantity of posts can be overwhelming
@@ -29,18 +30,28 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 1. [a16z](https://a16z.com/ "Andreesen Horowitz") is one of the best known VC firms and puts out frequent content on tech
 2. [Benedict Evans](https://www.ben-evans.com/ "Ben Evans"), a partner at a16z, also writes about his personal tech views
 3. [Stratechery](https://stratechery.com/ "Stratechery") is a mouthful of a site where Ben Thompson writes a lot on tech and media strategy as he sees it
-4. [Josh Breinlinger](http://acrowdedspace.com/ "A crowded space") writes mostly about marketplaces, and has a [rake factor article](http://acrowdedspace.com/post/172383900012/marketplace-rake-factors "rake factors") that I really like
-5. [NFX](https://www.nfx.com/essays "NFX") has a collection of marketplace and network effects writings that comprehensively discuss the themes in the space
-6. [Fred Wilson](https://avc.com/ "AVC") posts on a variety of topics, but mostly venture focused
-7. [Techcrunch](https://techcrunch.com/ "techcrunch") is popular for tech news, though I've disliked it after the redesign
-8. [Venturebeat](https://venturebeat.com/ "VB") is also popular for tech news
-9. [Hacker News](https://news.ycombinator.com/ "Hacker News") tends to be more technical, and sometimes goes over my head
-10. [Technode](https://technode.com/ "technode") focuses on asia tech news
+4. [Fred Wilson](https://avc.com/ "AVC") posts on a variety of topics, but mostly venture focused
+5. [Paul Graham](http://www.paulgraham.com/articles.html "Graham") doesn't seem to write on his site much, but there's enough content already to keep you occupied for a long time
+6. [Techcrunch](https://techcrunch.com/ "techcrunch") is popular for tech news, though I've disliked it after the redesign
+7. [Venturebeat](https://venturebeat.com/ "VB") is also popular for tech news
+8. [Hacker News](https://news.ycombinator.com/ "Hacker News") tends to be more technical, and sometimes goes over my head
+9. [Technode](https://technode.com/ "technode") focuses on asia tech news
+
+### Internet marketplaces
+1. [Bill Gurley](http://abovethecrowd.com/ "Gurley") is one of the mos well known VCs, and [this piece](http://abovethecrowd.com/2012/11/13/all-markets-are-not-created-equal-10-factors-to-consider-when-evaluating-digital-marketplaces/ "10 factors") is a good framework to start with
+2. [Andrew Chen](https://andrewchen.co/ "Andrew Chen") is well known for his marketplace writing, and [this compilation](https://andrewchen.co/marketplace-startups-best-essays/ "best essays") is a great starting point
+3. [Josh Breinlinger](http://acrowdedspace.com/ "A crowded space") writes mostly about marketplaces, and has a [rake factor article](http://acrowdedspace.com/post/172383900012/marketplace-rake-factors "rake factors") that I really like
+4. [NFX](https://www.nfx.com/essays "NFX") has a collection of marketplace and network effects writings that comprehensively discuss the themes in the space
 
 ### Sites about how to think
 1. [Farnam Street](https://fs.blog/blog/ "FS blog") is probably the most popular one on mental models
 2. [Cal Newport](http://calnewport.com/blog/ "Study Hacks") likes to write about productivity
 3. [Nassim Nicholas Taleb](https://medium.com/@nntaleb "Taleb") often writes stuff beyond my understanding, but is worth browsing
+
+### Excel sites
+1. [Chandoo's](https://chandoo.org/wp/ "Chandoo") excel blog is helpful whenever I have obscure excel problems
+2. [SumProduct's](https://www.sumproduct.com/thought "SumProduct") thought page has a large number of articles explaining formulas
+3. [Ozgrid](https://www.ozgrid.com/free-excel.htm "Ozgrid") has formula and macro help, though it seems the site underwent a redesign and some pages might be broken.
 
 ### Lifestyle sites
 1. [Punch](https://punchdrink.com/ "Punch") is great for cocktail articles and research. I've added to my drink list from their posts.
@@ -54,7 +65,4 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 4. [Wonderella](http://nonadventures.com/ "wonderella") is ridiculous and great
 5. [Ctrl Alt Del](https://cad-comic.com/ "CAD") was probably one of the first webcomics I started with, and is gaming focused
 
-### Excel sites
-1. [Chandoo's](https://chandoo.org/wp/ "Chandoo") excel blog is helpful whenever I have obscure excel problems
-2. [SumProduct's](https://www.sumproduct.com/thought "SumProduct") thought page has a large number of articles explaining formulas
-3. [Ozgrid](https://www.ozgrid.com/free-excel.htm "Ozgrid") has formula and macro help, though it seems the site underwent a redesign and some pages might be broken.
+### Book list to come
