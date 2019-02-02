@@ -1,14 +1,14 @@
 ---
 title:  "Dunning on Dunning-Kruger"
 tags: [psychology, learning]
-published: false
+published: true
 ---
 
-Dumb people think they're smart. Smart people think they're dumb. This is a simplistic way of explaining the Dunning-Kruger effect.  David Dunning explains more in [this interview](https://www.vox.com/science-and-health/2019/1/31/18200497/dunning-kruger-effect-explained-trump "Dunning on Dunning-Kruger"), including important nuances that people miss about the effect. 
+Dumb people think they're smart. Smart people think they're dumb. This is a simplistic overview of the Dunning-Kruger effect. David Dunning explains more in [this interview](https://www.vox.com/science-and-health/2019/1/31/18200497/dunning-kruger-effect-explained-trump "Dunning on Dunning-Kruger"), including important nuances that people miss. 
 
 > even though your belief about the way the world is just seems so compelling or so self-evident, it doesn’t mean that it really is true
 
-Just because we want to believe in something doesn't make it true. Most people seek comfort by sticking with their beliefs and attacking anything showing otherwise. See flat earth deniers, anti-vaxxers, white chocolate fans [1]. I think that [steel manning](https://medium.com/@zacharyforget/i-dont-know-if-you-ve-heard-ryan-holiday-talk-about-peter-thiel-s-steel-man-argument-44b151a09524 "Steel Man argument") the opposing side's arguments is a better approach.
+Just because we want to believe in something doesn't make it true. Most people seek comfort by sticking with their beliefs and attacking anything showing otherwise. See flat earth deniers, anti-vaxxers, white chocolate fans [1]. If you strongly believe in something, you should be seeking out arguments that disprove it, rather than further adding on to your [confirmation bias.] (https://fs.blog/2017/05/confirmation-bias/ "confirmation bias") When you do find a credible opposing view, [steel manning](https://medium.com/@zacharyforget/i-dont-know-if-you-ve-heard-ryan-holiday-talk-about-peter-thiel-s-steel-man-argument-44b151a09524 "Steel Man argument") the opposing side's arguments is a better approach.
 
 > The first rule of the Dunning-Kruger club is you don’t know you’re a member of the Dunning-Kruger club. People miss that.
 
@@ -28,7 +28,7 @@ He references [Philip Tetlock](https://www.sas.upenn.edu/tetlock/ "tetlock") and
 
 I [try to avoid this](https://www.leonlinsx.com/about-me/ "About Me"), with debatable success. I find that people seem to lose confidence in you when you say you don't know, which is sad. This applies to both situations in which I say "I don't know but can find out" and "I don't know but that's un-knowable". If anyone has advice here I'm interested!
 
-It's up to you whether you think this attitude is worth adopting. I personally think too many people pretend they know about subjects they don't e.g. you notice how many errors there are when news covers a topic you're knowledgeable in.   
+It's up to you whether you think this attitude is worth adopting. I personally think too many people pretend they know about subjects they don't for fear of seeming dumb. On a related note, you start to notice how many errors there are when news covers a topic you actually know about.
 
 > Here’s the key: The consequential decisions tend to be the ones that we don’t come across all that often. Like, what houses do we buy? What people do we marry? What kids do we have? And so consequential decisions tend to be the ones we don’t have experience with. They’re exactly where there’s stuff we don’t know, and that’s exactly those types of situations where we should be seeking outside counsel.
 
