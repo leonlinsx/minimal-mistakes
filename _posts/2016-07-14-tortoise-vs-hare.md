@@ -22,3 +22,5 @@ The difference between being outcome vs process focused.
 > If there is a race between the tortoise and one hare, the probability that the hare will win is only 0.11. However, if there are 100 tortoises and 100 hares in the race, the probability that at least one hare will arrive before any tortoise (and thus the race will be won by a hare) is 1– ((0.89)^100), or greater than 0.9999.
 
 I like the analogy here, but it implies that you need a large tolerance for failure. That may not be palatable in most organisations, so how should we structure incentives correctly? 
+
+**2019-02-03 update:** [This](https://mobile.twitter.com/jensenharris/status/993695458517110784 "jensen harris") twitter thread on the problems of having a 'startup' within a big company is worth reading through as a supplement to the above point.
