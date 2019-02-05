@@ -11,10 +11,10 @@ I liked Josh’s rake factors article because it was the first I’ve seen that 
 I had additional thoughts:
   * There are some marketplaces that seem to be exceptions to this framework (which Josh self-admits is not definitive)
     * E.g. The stock photography market has always been curious to me since someone pointed it out. [The rake there can be >50%,]((https://microstockinsider.com/microstock_commission_rates "photography commissions") an incredible amount for a service that has so many competitors, transparent fees, and little marginal costs on the platform side.
-    * E.g. China e-commerce marketplace rakes are very low (~4%) when compared to US marketplaces (~9%)
+    * E.g. China e-commerce marketplace rakes are very low when compared to US marketplaces e.g. taobao ~4% vs ebay ~9%
   * I think adding another factor of +3% for ‘promotional activity’ on the platform might be helpful
     * E.g. China e-commerce marketplace rev mentioned above is mostly from marketing activities, and the average cost is ~4%
-    * E.g. How a major online travel agency (OTA) lets advertisers become preferred members with better placement for 300bps
+    * E.g. How booking.com lets advertisers become preferred members with better placement for 300bps
     * E.g. Hotel loyalty program average ~3% of rev in increased costs for the hotel
     * E.g. Seamless' food delivery rake used to go from 12.5% to 20%, a difference of 7.5% (which is
 higher than 3%, but the average restaurant would be paying 15% and not the 12.5% rake, implying a smaller difference)
@@ -22,12 +22,12 @@ higher than 3%, but the average restaurant would be paying 15% and not the 12.5%
   * I think that companies coming into a market intending to undercut their competitor also set their take rate 5%-10% lower than the prevailing incumbent
     * E.g. How booking.com came in with 10% or more lower rates to undercut its competitor and [won the market that way](https://skift.com/2012/06/25/how-booking-com-conquered-world/ "OTA history")
     * E.g. Seatgeek’s rates seems to be 5%+ lower than the incumbent based on my own benchmarking
-    * E.g. The smaller Chinese OTAs are supposedly ~10% rake vs the main OTA's ~15% rake
+    * E.g. The smaller Chinese online trave agencies (OTAs) are supposedly ~10% rake vs the main OTA's ~15% rake
   * I haven’t seen many rakes >20% that are sustained over time. Similarly to how Bill Gurley talks about [a rake too far](http://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/ "optimal pricing strategy"), there’s something about that threshold that pulls take rates down over time. My hypothesis is that it starts eating too much into the customer’s COGS for the situation to stay unchanged for >5 years
     * E.g. For the longest time, iOS and google play store rakes were 30%. Then they started introducing lower rakes for subscriptions
     * E.g. Steam used to have a 30% rake, and recently changed that to be lower for larger publishers. That's not a coincidence given Epic Games and Discord are coming out with their own 10%+ rake stores instead
   * Take rates should be influenced by the operating margins of the sellers on the platform, though I’m still working on how to frame this. 
-    * E.g. Food delivery platforms can’t charge much higher than 30%, if not the restaurants don’t make money given the low restaurant margin
+    * E.g. Food delivery platforms can’t charge much higher than 30% without restaurants losing money given the low restaurant margin
     * E.g. Air ticket take rates in the US are essentially 0% since the airlines consolidated and have thin margins
   * Where in the framework do we place platforms that charge both the seller and the buyer? I personally dislike them as a consumer but seems there’s no pressure to change that business model yet
     * Ruzwana on Twitter mentioned that perhaps [more infrequent, episodic transactions can support buyer fees, but not frequent, regular transaction cases](https://twitter.com/daveambrose/status/694921246799073280)
