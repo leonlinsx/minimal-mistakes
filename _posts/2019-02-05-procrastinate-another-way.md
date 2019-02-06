@@ -1,7 +1,7 @@
 ---
 title:  "Procrastinate another way another day"
-tags: [psychology]
-published: false
+tags: [psychology, procrastination]
+published: true
 ---
 
 I wrote this while procrastinating on ten other post ideas \[1\]. 
