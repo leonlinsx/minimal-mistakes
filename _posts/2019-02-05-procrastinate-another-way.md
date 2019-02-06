@@ -45,7 +45,7 @@ While it's unfortunate that self-imposed deadlines are not as optimal compared t
 Imposing arbitrary cutoff criteria can force us to just start, which might reduce a difficult task into a more manageable one e.g. transforming a goal of becoming a writer, to starting off with writing every week instead \[5\]. The insurmountability of problems is an impediment to even beginning. Transforming a vague goal into something concrete but small goes a long way to reducing the hurdle in starting out.
 
 **Footnotes:**
-1. List of things I procrastinated with while writing *this* post include checking twitter, checking reddit, checking my email, checking twitter again, and making a cup of tea. 
+1. List of things I procrastinated with while writing *this* post include checking twitter, checking reddit, checking my email, checking twitter again, and making a cup of tea. I leave it up to you to decide whether I'm following my own advice.
 2. Might have been inspired by true events. *Might*
 3. I take comfort in the fact that I haven't received a [CAN-SPAN violation notice](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business "ftc link"). *Yet*
 4. Cal Newport also writes about the concept of [deep work](http://calnewport.com/books/deep-work/ "cal on deep work") and why we need to set aside enough time to achieve that. Working on smaller tasks as a prelude to working on bigger ones in the same session might help you with that
