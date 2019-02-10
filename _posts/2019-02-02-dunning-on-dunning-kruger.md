@@ -28,7 +28,7 @@ He references [Philip Tetlock](https://www.sas.upenn.edu/tetlock/ "tetlock") and
 
 I [try to avoid this](https://www.leonlinsx.com/about-me/ "About Me"), with debatable success. I find that people seem to lose confidence in you when you say you don't know, which is sad. This applies to both situations in which I say "I don't know but can find out" and "I don't know but that's un-knowable". If anyone has advice here I'm interested!
 
-It's up to you whether you think this attitude is worth adopting. I personally think too many people pretend they know about subjects they don't for fear of seeming dumb. On a related note, you start to notice how many errors there are when news covers a topic you actually know about.
+It's up to you whether you think this attitude is worth adopting. I personally think too many people pretend they know about subjects they don't for fear of seeming dumb. On a related note, you start to notice how many errors there are when news covers a topic you actually know about. This is related to the [Gell-Mann amnesia effect](https://en.wikipedia.org/wiki/Gell-Mann_amnesia_effect "wiki") though I'm unsure how scientifically valid this has been proven.
 
 > Here’s the key: The consequential decisions tend to be the ones that we don’t come across all that often. Like, what houses do we buy? What people do we marry? What kids do we have? And so consequential decisions tend to be the ones we don’t have experience with. They’re exactly where there’s stuff we don’t know, and that’s exactly those types of situations where we should be seeking outside counsel.
 
@@ -36,7 +36,13 @@ I like this point. There are many large but infrequent decisions to be made over
 
 > An active social life, active social bonds, in many different ways tends to be something that’s healthy for people. Social bonds can also be informationally healthy as well. So that’s more on a top, more abstract level, if you will. That is, don’t try to do it yourself. Doing it yourself is when you get into trouble.
 
-Again an emphasis on seeking out others. Feedback from qualified people is helpful, but that depends on how you select the people to get feedback from. 
+Again an emphasis on seeking out others. Feedback from qualified people is helpful, but that depends on how you select the people to get feedback from.
+
+**Update 2019-02-10:** The entire effect has been called into question in this paper [here](https://scholarcommons.usf.edu/numeracy/vol10/iss1/art4/ "issues with dunning kruger"), which is an interesting development. Most interesting quote from the abstract below:
+
+> Our data show that peoples' self-assessments of competence, in general, reflect a genuine competence that they can demonstrate. That finding contradicts the current consensus about the nature of self-assessment. Our results further confirm that experts are more proficient in self-assessing their abilities than novices and that women, in general, self-assess more accurately than men. 
+
+**Footnotes:**
 
 1. Before I'm attacked, I actually do like white chocolate, *in addition to all other chocolate.* 
 2. Remains to be seen whether I'm skilled at anything at all though
