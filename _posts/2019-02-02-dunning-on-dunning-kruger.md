@@ -8,7 +8,7 @@ Dumb people think they're smart. Smart people think they're dumb. This is a simp
 
 > even though your belief about the way the world is just seems so compelling or so self-evident, it doesn’t mean that it really is true
 
-Just because we want to believe in something doesn't make it true. Most people seek comfort by sticking with their beliefs and attacking anything showing otherwise. See flat earth deniers, anti-vaxxers, white chocolate fans [1]. If you strongly believe in something, you should be seeking out arguments that disprove it, rather than further adding on to your [confirmation bias.] (https://fs.blog/2017/05/confirmation-bias/ "confirmation bias") When you do find a credible opposing view, [steel manning](https://medium.com/@zacharyforget/i-dont-know-if-you-ve-heard-ryan-holiday-talk-about-peter-thiel-s-steel-man-argument-44b151a09524 "Steel Man argument") the opposing side's arguments is a better approach.
+Just because we want to believe in something doesn't make it true. Most people seek comfort by sticking with their beliefs and attacking anything showing otherwise. See flat earth deniers, anti-vaxxers, white chocolate fans [1]. If you strongly believe in something, you should be seeking out arguments that disprove it, rather than further adding on to your [confirmation bias.](https://fs.blog/2017/05/confirmation-bias/ "confirmation bias") When you do find a credible opposing view, [steel manning](https://medium.com/@zacharyforget/i-dont-know-if-you-ve-heard-ryan-holiday-talk-about-peter-thiel-s-steel-man-argument-44b151a09524 "Steel Man argument") the opposing side's arguments is a better approach.
 
 > The first rule of the Dunning-Kruger club is you don’t know you’re a member of the Dunning-Kruger club. People miss that.
 
