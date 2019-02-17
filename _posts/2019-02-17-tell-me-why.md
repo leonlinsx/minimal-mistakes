@@ -1,6 +1,6 @@
 ---
 title:  "Tell me why"
-tags: [reflection]
+tags: [reflection, beliefs, science]
 published: false
 ---
 
