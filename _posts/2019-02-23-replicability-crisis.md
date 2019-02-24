@@ -1,7 +1,7 @@
 ---
 title:  "Replicability Crisis"
 tags: [beliefs, science]
-published: false
+published: true
 ---
 
 I remember standing in a bathroom with my arms on my hips in a [superman pose,](https://www.vcstar.com/story/sports/golf/2016/03/22/golf-tip-of-the-week-superman-pose-can-help-your-game-soar/88710408/ "image link") staring at the mirror. *"This feels weird"* said one side of my brain. *"But...science!"* went the other. And so there I stood, posing in the bathroom, minutes before my interview was supposed to start.
