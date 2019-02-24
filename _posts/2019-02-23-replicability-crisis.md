@@ -4,7 +4,7 @@ tags: [beliefs, science]
 published: false
 ---
 
-I remember standing in a bathroom with my arms on my hips in a [superman pose,](https://www.vcstar.com/story/sports/golf/2016/03/22/golf-tip-of-the-week-superman-pose-can-help-your-game-soar/88710408/ "image link") staring at the mirror. *"This feels weird"* said one side of my brain. *"But...science!"* went the other. And so there I stood, posing in the bathroom, minutes before my scheduled interview.
+I remember standing in a bathroom with my arms on my hips in a [superman pose,](https://www.vcstar.com/story/sports/golf/2016/03/22/golf-tip-of-the-week-superman-pose-can-help-your-game-soar/88710408/ "image link") staring at the mirror. *"This feels weird"* said one side of my brain. *"But...science!"* went the other. And so there I stood, posing in the bathroom, minutes before my interview was supposed to start.
 
 40 million views and an outrageously successful TED talk later, [power posing](https://www.ted.com/talks/amy_cuddy_your_body_language_shapes_who_you_are?language=en "ted talk") had come to the mainstream in 2014. This was the idea that posing could boost feelings of confidence, hence my ritual before interviewing \[1\] And then it all went to crap after [multiple critiques,](https://www.ted.com/pages/amy-cuddy-s-your-body-language-may-shape-who-you-are-criticisms-updates "criticism") including one from [a co-author of the paper](https://faculty.haas.berkeley.edu/dana_carney/pdf_my%20position%20on%20power%20poses.pdf "carney on power posing"), saying the effect didn't exist. And now apparently power posing is [back again.](https://www.forbes.com/sites/kimelsesser/2018/04/03/power-posing-is-back-amy-cuddy-successfully-refutes-criticism/#4e6292a83b8e "power posing is back?") \[2\]
 
