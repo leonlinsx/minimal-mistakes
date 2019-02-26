@@ -1,6 +1,6 @@
 ---
-title:  "test"
-tags: [psychology]
+title:  "Moloch the heavy judger of social credit"
+tags: [AI, learning, psychology, life advice, blockchain]
 published: false
 ---
 
@@ -109,7 +109,7 @@ https://www.holloway.com/g/equity-compensation "holloway guide") on equity comp 
 1. As mentioned before, I really don't mind if you want to be removed; you'd be doing me a favour since I don't like spamming. Happy to pretend to ignore you too if I'm not already doing so.
 2. Non-existent. If you were hoping for a chess game demo here's one by [alphazero](https://youtu.be/lFXJWPhDsSY "alphazero vs stockfish") which is worth watching
 3. Slightly more existent than my chess ability but declining every day
-4. Or 5 years too late, if my mom is too be believed. 
+4. Or 5 years too late, if my mom is to be believed 
 5. A fantastic TV series if you haven't already watched it btw. Start with the second episode if you're new...
 6. Have been guilty of this myself, and I try to avoid it. Especially since productivity seems to [drop off a cliff past a certain weekly load](http://ftp.iza.org/dp8129.pdf "study on productivity"). Caveat I haven't read the full paper. 
 7. Am I considered peranakan? Are most Singaporeans technically peranakan? Hoping someone can answer this
