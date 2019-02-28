@@ -51,7 +51,7 @@ and not opposites at all \[...\] to the extent that “thinking” (T) and “fe
 
 > Sensing and perceiving patterns are such pervasive and nonconscious processes (e.g., Schneider & Chein, 2003) that is most assuredly the case that both bottom‐up processing and top‐down processing are unavoidable. \[...\] These are all basic features of perception and occur automatically, making the idea that people tend to “prefer” one over the other difficult to reconcile.
 
-So 2 of the 4 dimensions are false opposites. It would be similar to describing myself as a dancer with either 'grace' or 'control' when they're both related and I have neither.
+So 2 of the 4 dimensions are false opposites (thinking/feeling and sensing/intuition). It would be similar to describing myself as a dancer with either 'grace' or 'control' when they're both related and I have neither.
 
 > One problem for the MBTI theory's internal consistency is that it asks those that take it to self‐verify the results. \[...\] This is an internal consistency problem because it cannot be the case that “true” personality is both hidden and not. This is, though, easy to justify from a customer service perspective: Assessment takers are simply happier when they have control over the output of the process
 
@@ -84,7 +84,7 @@ As some of you know I'm a big fan of cards
 
 > Every year try doing something you have never done before that is totally out of your comfort zone
 
-I've done stupid things because of this principle, but also many fantastic ones
+I've done stupid things because of this principle, but also many fantastic ones. You don't know if you like/dislike the idea of something vs the thing itself, until you actually try it
 
 > When you meet someone new, treat that person as a friend
 
@@ -111,5 +111,5 @@ https://www.holloway.com/g/equity-compensation "holloway guide") on equity comp 
 3. Slightly more existent than my chess ability but declining every day
 4. Or 5 years too late, if my mom is to be believed 
 5. A fantastic TV series if you haven't already watched it btw. Start with the second episode if you're new...
-6. Have been guilty of this myself, and I try to avoid it. Especially since productivity seems to [drop off a cliff past a certain weekly load](http://ftp.iza.org/dp8129.pdf "study on productivity"). Caveat I haven't read the full paper. 
+6. Have been guilty of this myself, and I try to avoid it. Especially since productivity seems to [drop off a cliff past a certain weekly load](http://ftp.iza.org/dp8129.pdf "study on productivity"). Caveat I haven't read the full paper. Signaling (if going beyond just talking about hours worked) is a large enough topic I want to leave for another post
 7. Am I considered peranakan? Are most Singaporeans technically peranakan? Hoping someone can answer this
