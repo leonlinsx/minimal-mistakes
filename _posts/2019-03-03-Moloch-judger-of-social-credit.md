@@ -1,7 +1,7 @@
 ---
-title:  "Moloch the heavy judger of social credit"
+title:  "Moloch the judger of social credit"
 tags: [AI, learning, psychology, life advice, blockchain]
-published: false
+published: true
 ---
 
 This post is long and there's no summary provided. ~~Waste your time~~ Read of your own volition.
@@ -14,7 +14,7 @@ A poem, then, to start:
 
 > Moloch for I don’t believe in god! Moloch who, fought Sins and made Sin out of Sin!
 
-I know what you're thinking: "He's lost it. Leon's gone off the deep end and today's finally the day I unsubscribe to this email list I don't even know how I got on in the first place and can go on pretending I don't know him." \[1\]
+I know what you're thinking: "He's lost it. Leon's gone off the deep end and today's finally the day I stop reading this site I don't even know how I got on in the first place and can spend my time more productively elsewhere." \[1\]
 
 What if I told you that of the three lines above, one was from a [famous poem](https://www.poetryfoundation.org/poems/49303/howl "howl"), and two were from a computer generated language model? Can you guess which two? [This article](https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/ "gpt 2") has further examples, which range from humourous to eerie. The main and fascinating point the author has to make is: 
 
@@ -103,10 +103,9 @@ https://www.holloway.com/g/equity-compensation "holloway guide") on equity comp 
 4. [Some life advice](https://www.primermagazine.com/2019/live/five-lies "lies we tell ourselves") that I found myself mostly agreeing with. 
 5. I identify more with nyonya dessert than peranakan culture, but here's an brief [history article](https://chinachannel.org/2019/01/24/peranakan/ "china channel") \[7\]
 6. [Cat ladders](https://www.theguardian.com/cities/gallery/2019/feb/14/cat-ladders-a-creative-solution-for-felines-in-flats-in-pictures "what it sounds like")
-7. [Replicability crisis overview](https://www.leonlinsx.com/replicability-crisis/ "replicability crisis")
 
 **Footnotes**
-1. As mentioned before, I really don't mind if you want to be removed; you'd be doing me a favour since I don't like spamming. Happy to pretend to ignore you too if I'm not already doing so.
+1. This was more relevant for the email list I was sending this out to
 2. Non-existent. If you were hoping for a chess game demo here's one by [alphazero](https://youtu.be/lFXJWPhDsSY "alphazero vs stockfish") which is worth watching
 3. Slightly more existent than my chess ability but declining every day
 4. Or 5 years too late, if my mom is to be believed 
