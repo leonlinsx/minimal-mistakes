@@ -4,6 +4,8 @@ tags: [philosophy, reflection, learning]
 published: true
 ---
 
+*Conviction level in this idea: 75%*
+
 *"Who I am is where I stand... Where I stand is where I fall" – The 13th Doctor, in [The Doctor Falls](https://www.youtube.com/watch?v=xnouj9Yz-Gs "speech youtube link")*
 
 Where do you stand? Not just [literally](https://www.sethtaras.com/KNOW-WHERE-YOU-STAND/ "photo link"), but what are your core beliefs? Have you ever taken the time to think critically about them? 
