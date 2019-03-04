@@ -4,7 +4,7 @@ tags: [reflection, beliefs, science, philosophy]
 published: true
 ---
 
-*Conviction level in this idea: 60%*
+*Conviction level in this idea: 50%*
 
 Why do we believe in what we do? I've written [previously](https://www.leonlinsx.com/where-i-stand/ "where i stand") how people don't reflect enough on what they believe in, or not even know what beliefs they have. Supposing we've identified our core beliefs, what led to us developing and maintaining those beliefs? Is believing in the [flying spaghetti monster](https://www.venganza.org/ "all hail the noodly one") different from believing in [ice spikes on Jupiter's moons?](https://www.newscientist.com/article/2181727-jupiters-moon-europa-may-have-a-belt-of-15-metre-tall-ice-spikes/ "europa hypothesis")
 
