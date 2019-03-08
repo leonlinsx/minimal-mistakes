@@ -4,7 +4,7 @@ tags: [philosophy, reflection, learning]
 published: true
 ---
 
-*Conviction level in this idea: 75%*
+*Conviction level in this idea: 80%*
 
 *"Who I am is where I stand... Where I stand is where I fall" – The 13th Doctor, in [The Doctor Falls](https://www.youtube.com/watch?v=xnouj9Yz-Gs "speech youtube link")*
 
