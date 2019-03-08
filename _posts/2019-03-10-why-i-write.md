@@ -6,17 +6,21 @@ published: false
 
 Writing is selfish. 
 
-Well, perhaps not all writing. If you're writing for yourself and never intend for anyone to read it, you're an exception \[1\]. But the majority of writing is intended for someone else to read and respond to. Whether that be a paper at school, email at work, or self-referential blog post on your web site, you're yelling to get your audience's attention, with the purpose usually to inform, entertain, or persuade \[2\]. When you want someone to read something you wrote, you're forcing your ideas into their mind temporarily. You're stealing their time, which is the most precious commodity they have. Content creation is also attention appropriation.
+Well, perhaps not all writing. If you're writing for yourself and never intend for anyone to read it, you're an exception \[1\]. But the majority of writing is intended for someone else to read and respond to. Whether that be a paper at school, email at work, or self-referential blog post on your web site, you're yelling to get your audience's attention, with the purpose usually to inform, entertain, or persuade \[2\]. When you want someone to read something you wrote, you're forcing your ideas into their mind. You're stealing their time, which is their most precious commodity. Content creation is also attention appropriation.
 
-Of course, not all writing shouts at you with the same intensity. That school paper which you've used [double spacing after each fullstop](https://www.instructionalsolutions.com/blog/one-space-vs-two-after-period "spacing"), [increased the font size of punctuation marks](https://www.reddit.com/r/UnethicalLifeProTips/comments/743goz/ulpt_coming_up_short_on_the_length_of_your_essay/ "punctuation font"), and [messed with the line spacing between lines](https://support.office.com/en-us/article/change-the-line-spacing-in-word-1970e24a-441c-473d-918f-c6805237fbf4 "line spacing") is more like a whimper, created to fulfil some criteria and hopefully never referred to again once you've been given your grade. But good writing, great writing, comes at you with ferocity and intensity like a storm, demanding your complete focus. Little of our writing is going to be good, and even less will be great, but we still write with the hope that our intended recipient glances at it. We want that theft of your time. We want to be read. 
+Of course, not all writing shouts at you with the same intensity. That school paper which you've used [double spacing after each fullstop](https://www.instructionalsolutions.com/blog/one-space-vs-two-after-period "spacing"), [increased the font size of punctuation marks](https://www.reddit.com/r/UnethicalLifeProTips/comments/743goz/ulpt_coming_up_short_on_the_length_of_your_essay/ "punctuation font"), and [messed with the line spacing between lines](https://support.office.com/en-us/article/change-the-line-spacing-in-word-1970e24a-441c-473d-918f-c6805237fbf4 "line spacing") is more like a whimper, created to fulfil some criteria and hopefully never referred to again once you've been graded. But good writing, great writing, comes at you with ferocity and intensity like a storm out at sea, demanding your complete focus. Little of our writing is going to be good, and even less will be great, but we still write with the hope that our intended recipient glances at it. We want that theft of your time. We want to be read. 
 
 Yet we have to face the inconvenient reality that most of our writing goes unread. We shout into the abyss, but the abyss doesn't shout back \[3\]. It's deathly quiet. Take Howard Marks's [experience with his now-famous memos:](https://ritholtz.com/2018/10/mib-howard-marks-oaktree-capital/ "Marks story"):
 
 > Marks is known for his Chairman’s Memos that he has been his creative outlet since 1990. He describes the first decade of printing them — literally on paper, inserting them into stamped envelopes and physically mailing them off into the world — where he received precisely zero response. “We didn’t even know if anyone got them.”
 
-How then, do we handle this sad situation? [Marks explains:](https://www.collaborativefund.com/blog/selfish-writing/ "Marks story 2")
+How then, do we handle this sad situation? [Marks explains how he dealt with this:](https://www.collaborativefund.com/blog/selfish-writing/ "Marks story 2")
 
 > The answer I think is that I was writing for myself. Number one, it’s creative, I enjoy the writing process. Number two I thought that the topics were interesting and that I wanted to put them on paper. Number three, writing makes you tighten up your thinking.
+
+and Morgan Housel responds with his commentary:
+
+> Writing is the ultimate test of whether your thoughts make sense or are merely gut feelings. Feelings about why something is the way it is don’t need to be questioned or analyzed in your head because they feel good and you don’t want to rock the boat.
 
 
 
