@@ -32,7 +32,7 @@ With the email system going well, why did I decide to set up a public blog then?
 
 **Pros:**
 1. Easier searching and categorisation of my content. I'd be able to tag and find posts by category, and could more easily forward them to whoever was interested
-2. Accountability for my thoughts. Putting my opinion out there would force me to be accountable. You might have noticed the conviction level disclaimer in front of the newer posts. I'm testing that as a way to calibrate the accuracy of my beliefs. I'm mostly ranking conviction level in steps of 20%, with the occassional 5% or 95% cop-out. For me, I think getting more granular than that would be false precision for myself
+2. Accountability for my thoughts. Putting my opinion out there would force me to be accountable \[8\]. You might have noticed the conviction level disclaimer in front of the newer posts, a method I'm testing to calibrate the accuracy of my beliefs. I'm mostly ranking conviction level in steps of 20%, with the occassional 5% or 95% cop-out. For me, I think getting more granular than that would be false precision for myself
 3. Build my personal brand. This will be the topic of another post, but I believe that there's a trend of individualisation as more people move away from work and company oriented identities to becoming their own brand, such as the influencer movement in marketing
 4. Force me to learn a tiny bit of technical knowledge to set up the site as I wanted it to look
 5. Low (20%?) chance of the content reaching a larger audience and getting to learn from the increased feedback
@@ -45,7 +45,7 @@ With the email system going well, why did I decide to set up a public blog then?
 4. Abandoning this blog after running out of the initial wave of motivation
 5. Running out of good material to write and then having to churn out bad material to hit my 1 year target
 
-Come to think of it, I should have used a [decision journal framework](https://fs.blog/2014/02/decision-journal/ "decision journal") to document this, but I guess that's a missed opportunity. However, the above pros/cons list was enough to convince me that I should at least attempt to start a site, and see how I liked the experience. This goes back to what I've discussed about liking the idea of something vs liking actually doing it. After thinking through the above, it was time for me to find out, and I started looking into how to get started.
+Come to think of it \[9\], I should have used a [decision journal framework](https://fs.blog/2014/02/decision-journal/ "decision journal") to document this, but I guess that's a missed opportunity. However, the above pros/cons list was enough to convince me that I should at least attempt to start a site, and see how I liked the experience. This goes back to what I've discussed about liking the idea of something vs liking actually doing it. After thinking through the above, it was time for me to find out, and I started looking into how to get started.
 
 
 
@@ -72,3 +72,5 @@ My writing is selfish.
 5. Talk about [burying the lead huh](https://www.merriam-webster.com/words-at-play/bury-the-lede-versus-lead "lede or lead")
 6. I hadn't read either Marks's or Morgan's comments prior to setting up this blog; I came across them before writing this post in a convenient coincidence
 7. Admittedly lazy, though I suppose some self-promotion doesn't hurt
+8. Also echoed by [Fred](https://avc.com/2019/03/being-wrong/ "being wrong") and [Howard](http://howardlindzon.com/where-were-you-on-march-9-2009/ "where were you") on their blogs
+9. Real time example of how writing helps in thinking better
