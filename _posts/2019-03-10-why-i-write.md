@@ -32,7 +32,7 @@ With the email system going well, why did I decide to set up a public blog then?
 
 **Pros:**
 1. Easier searching and categorisation of my content. I'd be able to tag and find posts by category, and could more easily forward them to whoever was interested
-2. Accountability for my thoughts. Putting my opinion out there would force me to be accountable. You might have noticed the conviction level disclaimer in front of the newer posts. I'm testing that as a way to calibrate the accuracy of my beliefs
+2. Accountability for my thoughts. Putting my opinion out there would force me to be accountable. You might have noticed the conviction level disclaimer in front of the newer posts. I'm testing that as a way to calibrate the accuracy of my beliefs. I'm mostly ranking conviction level in steps of 20%, with the occassional 5% or 95% cop-out. For me, I think getting more granular than that would be false precision for myself
 3. Build my personal brand. This will be the topic of another post, but I believe that there's a trend of individualisation as more people move away from work and company oriented identities to becoming their own brand, such as the influencer movement in marketing
 4. Force me to learn a tiny bit of technical knowledge to set up the site as I wanted it to look
 5. Low (20%?) chance of the content reaching a larger audience and getting to learn from the increased feedback
@@ -41,10 +41,13 @@ With the email system going well, why did I decide to set up a public blog then?
 **Cons:**
 1. Setting up whatever site I was using could be annoying and time consuming. Will elaborate on my difficulties faced below
 2. The permanence of public content would mean that I could be liable for a controversial opinion I post here
-3. Potential [doxxing](https://en.wikipedia.org/wiki/Doxing) of my private information and general harrassment. I've been reluctant to post private details on my own social media, so creating a public site runs opposite to this behaviour
-4. Abandoning this blog after running out of the initial wave of motivation 
+3. Potential [doxxing](https://en.wikipedia.org/wiki/Doxing "wiki") of my private information and general harrassment. I've been reluctant to post private details on my own social media, so creating a public site runs opposite to this behaviour
+4. Abandoning this blog after running out of the initial wave of motivation
+5. Running out of good material to write and then having to churn out bad material to hit my 1 year target
 
-Some predictions:
+Come to think of it, I should have used a [decision journal framework](https://fs.blog/2014/02/decision-journal/ "decision journal") to document this, but I guess that's a missed opportunity. However, the above pros/cons list was enough to convince me that I should at least attempt to start a site, and see how I liked the experience. This goes back to what I've discussed about liking the idea of something vs liking actually doing it. After thinking through the above, it was time for me to find out, and I started looking into how to get started. 
+
+**Some predictions:**
 * 80% odds of this blog having minimal following (<100 readers) in 1 year
 * 20% odds of this blog reaching a sizeable following (>1000 readers) in 3 years
 * 5% odds of this blog having a post that's widely shared (>1000 readers) in 1 year
@@ -57,9 +60,8 @@ At the end of the day, my writing is for me alone.
 
 My writing is selfish. 
 
-
 **Footnotes**
-1. Diaries are probably the big exception here, though even the best selling diary was written [with intent on publication,](https://www.annefrank.org/en/anne-frank/go-in-depth/two-versions-annes-diary/ "anne frank two versions") which was surprising for me to learn about. I don't have stats on the proportion of publicly written material vs privately written material, but would assume the majority of material written is intended for others to read. Even [writers famous for being reclusive](https://www.telegraph.co.uk/books/what-to-read/the-late-harper-lee-and-five-other-reclusive-authors/ "reclusive authors") still ended up publishing their work. There's a selection bias here, since they're famous becuase they were published, but I think people are writing to be read. This [list of quotes](https://www.aerogrammestudio.com/2014/03/27/why-i-write-23-quotes-famous-authors/) by famous authors on why they write is relevant to browse through
+1. Diaries are probably the big exception here, though even the best selling diary was written [with intent on publication,](https://www.annefrank.org/en/anne-frank/go-in-depth/two-versions-annes-diary/ "anne frank two versions") which was surprising for me to learn about. I don't have stats on the proportion of publicly written material vs privately written material, but would assume the majority of material written is intended for others to read. Even [writers famous for being reclusive](https://www.telegraph.co.uk/books/what-to-read/the-late-harper-lee-and-five-other-reclusive-authors/ "reclusive authors") still ended up publishing their work. There's a selection bias here, since they're famous becuase they were published, but I think people are writing to be read. This [list of quotes](https://www.aerogrammestudio.com/2014/03/27/why-i-write-23-quotes-famous-authors/ "why i write quotes") by famous authors on why they write is relevant to browse through
 2. The "author's purpose", as some of us might have been taught. Interesting to note that a quick search on author purpose's turns up [different](http://www.mdc.edu/kendall/collegeprep/documents2/author's%20purposerev818.pdf "purpose 1") [categorisations](https://www.lancasterschools.org/cms/lib/NY19000266/Centricity/Domain/451/B1.pdf "purpose 2"), though most overlap to some degree
 3. Great writing [stays with you](https://www.reddit.com/r/books/comments/88ike0/whats_your_favorite_quote_from_a_book/). 
 4. A butchering of the meaning of a [quote](https://en.wikiquote.org/wiki/Friedrich_Nietzsche "abyss") but I think serves to make my point. I believe this applies both to school, work, and published writing. Think about how often you yourself have skimmed a paper, scanned an email, or just glanced at the headline of an article. I believe most writing is never read in full.
