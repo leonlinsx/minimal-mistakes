@@ -33,7 +33,7 @@ With the email system going well, why did I decide to set up a public blog then?
 **Pros:**
 1. Easier searching and categorisation of my content. I'd be able to tag and find posts by category, and could more easily forward them to whoever was interested
 2. Accountability for my thoughts. Putting my opinion out there would force me to be accountable \[8\]. You might have noticed the conviction level disclaimer in front of the newer posts, a method I'm testing to calibrate the accuracy of my beliefs. I'm mostly ranking conviction level in steps of 20%, with the occassional 5% or 95% cop-out. For me, I think getting more granular than that would be false precision for myself
-3. Build my personal brand. This will be the topic of another post, but I believe that there's a trend of individualisation as more people move away from work and company oriented identities to becoming their own brand, such as the influencer movement in marketing
+3. Build my personal brand. This will be the topic of another post, but I believe that there's a trend of individualisation as more people move away from work and company oriented identities to becoming their own brand, such as the influencer movement in marketing and publicity
 4. Force me to learn a tiny bit of technical knowledge to set up the site the way I wanted it to look
 5. Low (20%?) chance of the content reaching a larger audience and getting to learn from the increased feedback \[9\]
 6. Even lower (5%) chance of the blog reaching an audience at scale
@@ -42,14 +42,36 @@ With the email system going well, why did I decide to set up a public blog then?
 1. Setting up whatever site I was using could be annoying and time consuming. Will elaborate on my difficulties faced below
 2. The permanence of public content would mean that I could be liable for a controversial opinion I post here
 3. Potential [doxxing](https://en.wikipedia.org/wiki/Doxing "wiki") of my private information and general harrassment. I've been reluctant to post private details on my own social media, so creating a public site is opposite to my general inclination
-4. Abandoning this blog after running out of the initial wave of motivation
+4. Abandoning this blog after running out of the initial wave of motivation. A half serious discussion on the terror of writing regular content can be found [here](https://twitter.com/tomcritchlow/status/1103001997161185281?s=20 "twitter")
 5. Running out of good material to write and then having to churn out bad material to hit my 1 year target
 
 Come to think of it \[10\], I should have used a [decision journal framework](https://fs.blog/2014/02/decision-journal/ "decision journal") to document this, but I guess that's a missed opportunity. However, the above pros/cons list was enough to convince me that I should at least attempt to start a site, and see how I liked the experience. This goes back to what I've discussed about liking the idea of something vs liking actually doing it. After thinking through the above, it was time for me to find out, and I started looking into how to get started.
 
+I had a few requirements. I wanted a custom domain, which [ruled Medium out.](https://help.medium.com/hc/en-us/articles/115003053487-Custom-Domains-service-deprecation "medium") If I was writing to build a brand, the first step was to have the domain name be my own. Unfortunately leonlin.com was already taken \[11\], but fortunately adding my chinese initials worked to get an available name on the cheap. I bought it from the appropriately named site [amecheap](https://namecheap.com "domain site")
 
+Ideally I wanted everything to be free, aside from paying for the domain name. This ruled out [Wix](https://www.wpbeginner.com/opinion/wix-vs-wordpress-which-one-is-better-pros-and-cons/ "Wix vs wordpress"), which apparently only lets you have a custom domain on the paid tier. Wix features also seemed to be more suited for building a company website rather than a blog e.g. limited formatting options, functionality etc.
 
-No comments
+I also wanted a simple site, and apparently that ruled out wordpress. [Discussions](https://www.quora.com/Which-free-platform-is-best-for-creating-a-domain-name-and-hosting-website-WordPress-Weebly-or-Wix "quora") [online](http://perfectionkills.com/moving-from-wordpress-to-github-pages/ "moving from wordpress") mentioned stability and update issues on wordpress that I didn't want to have to deal with. I didn't understand some of the commentary and features mentioned, but it seemed like wordpress was bloated and slow.
+
+I also wanted some amount of customisation, ideally allowing me to learn a light amount of coding. This led me to Github pages, which seemed to fulfill all the criteria I had if I was willing to put in the work to learn how to set the site up. One advantage of using Github pages was that I'd be able to learn firsthand about an application that was popular among the more technical community and hopefully figure out why it was popular. Another advantage was that Github pages is a static site generator, which apparently means it's light and quick to load. There was also a large (but confusing!) library of custom themes that would help setup but allow tweaks, and updating was supposed to be simple as well.
+
+There exist a myriad of [other options](https://stackoverflow.com/questions/22035938/alternatives-to-github-pages "alternatives") besides Github, but given the amount of support and my requirements, I went with Github pages. I may decide to move this eventually if I change priorities, but it seems to have functioned well so far.
+
+I knew what I wanted to use, so it was time to set it up. Creating an account was simple, but I was quickly lost after that. It didn't help that more detailed information on how to actually get a site running was scattered across different sites and also outdated occasionally. I'd find a helpful tutorial online by some helpful indian youtuber and then learn that gh-pages branch was [no longer required](https://stackoverflow.com/questions/35978862/github-pages-why-do-i-need-a-gh-pages "no more gh-pages") and half of the steps he took were irrelevant now. I'd find five different ways to setup a custom domain, none of which seemed to fit my simple situation \[12\]. And people had strong opinions on whether to [include the www in a domain name](https://www.yes-www.org/why-use-www/ "www usage")
+
+One feature I thought about for a while was whether to allow comments. I decided against it, as the comment section for public posts tends to devolve into spam or irrelevancy based on my experience. For example, see the top comments from the post Zuckerberg recently made about FB's new priorities: 
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/FB-zuckerberg-post.png" alt="Zuckerberg comments">
+
+My thoughts on comments are shared [by](https://optinmonster.com/to-allow-blog-comments-or-not-heres-what-the-data-shows/ "nice but not necessary") [others](https://avc.com/2019/02/rethinking-avc/ "avc comments"). A separate moderated forum would be ideal, though I doubt that this blog would ever get popular enough to require that. In the meantime, people that are interested in discussing the content here can email or message me on twitter. 
+
+I spent longer than I'd rather admit on choosing the theme for the blog. I ended up going with [Minimal mistakes](https://mmistakes.github.io/minimal-mistakes/ "minimal mistakes"), which was clean, customisable, and free. It took me a significant amount of time editing some of the code to get it to look like its current state, which is a combination a preference for simple layouts and me giving up on some of the features I can't seem to fix:
+
+**Issues I still need to fix but don't know how or haven't looked into:**
+1. Why are the post previews only two lines long?
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/post-preview.png" alt="2 line previews gah">
+2. Is there a way to spellcheck my posts while I'm still in the draft stage?
+3. How do I search for a word within my draft post, like a find or replace function? 
+4. On mobile, the email and twitter info collapse into a button with the label "Follow". This is apparently the same text as the RSS feed "Follow" section, so editing this label to "Info" messes up the RSS feed title.
 
 **All that said, here are some predictions:**
 * 80% odds of this blog having minimal following (<100 readers) in 1 year
@@ -80,3 +102,5 @@ My writing is selfish.
 8. Also echoed by [Fred](https://avc.com/2019/03/being-wrong/ "being wrong") and [Howard](http://howardlindzon.com/where-were-you-on-march-9-2009/ "where were you") on their blogs
 9. I have reluctantly put my email and twitter info on the blog, will see if that's helpful or not
 10. Real time example of how writing helps in thinking better
+11. By someone who appears to be just squatting on the site till 2020 as part of a half finished school project. I suppose I could have offered to buy him out but I don't think my name is worth that much...
+12. It took a few tries to link the custom domain to the blog, and none of the tutorials online seemed to have the same settings that I had
