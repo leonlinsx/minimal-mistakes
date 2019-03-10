@@ -1,7 +1,7 @@
 ---
 title:  "Why I write"
 tags: [beliefs, writing, github]
-published: true
+published: false
 ---
 
 *Conviction level: 95%*
@@ -68,9 +68,7 @@ My thoughts on comments are [shared](https://optinmonster.com/to-allow-blog-comm
 I spent longer than I'd rather admit on choosing the theme for the blog. I ended up going with [Minimal mistakes](https://mmistakes.github.io/minimal-mistakes/ "minimal mistakes"), which was clean, customisable, and free. It took me a significant amount of time editing some of the code to get it to look like its current state, which is a combination a preference for simple layouts and me giving up on some of the features I can't seem to fix:
 
 **Issues I still need to fix but don't know how or haven't looked into:**
-1. Why are the post previews only two lines long?
-
-![2 line previews gah]({{ site.url }}{{ site.baseurl }}/assets/images/post-preview.png)
+1. Why are the post previews only two lines long? (See image at end of this list)
 
 2. Is there a way to spellcheck my posts while I'm still in the draft stage?
 
@@ -79,6 +77,10 @@ I spent longer than I'd rather admit on choosing the theme for the blog. I ended
 4. On mobile, the email and twitter info collapse into a button with the label "Follow". This is apparently the same text as the RSS feed "Follow" section, so editing this label to "Info" messes up the RSS feed title.
 
 5. Indentation of pictures and quotes within a sub point doesn't seem possible?
+
+6. Is there a way to preview the post in a what I see is what I get manner? The regular preview when saving doesn't show all the formatting
+
+![2 line previews gah]({{ site.url }}{{ site.baseurl }}/assets/images/post-preview.png)
 
 It has been highly frustrating trying to set everything up, and even something as simple as adding those images above took me time. I don't regret the decision yet, as I've learnt minor details about how the web works and have a product to show for my learning as well \[13\]. One other surprise perk is that I now have a formal system of noting down ideas and articles that I want to write about in the future since I realised keeping a list would be helpful. As Paul Graham noted, the internet might make this the [golden age of the essay](http://www.paulgraham.com/essay.html "essay") \[14\], which further supports my personal brand and individualisation thesis. I'm excited as to where this idea might go and hope to keep writing.
 
@@ -102,6 +104,7 @@ My writing is selfish.
 > “When I sit down to write a book, I do not say to myself, ‘I am going to produce a work of art.’ I write it because there is some lie that I want to expose, some fact to which I want to draw attention, and my initial concern is to get a hearing.” – George Orwell
 
 > “I write because I don’t know what I think until I read what I say.” – Flannery O’Connor
+
 2. The "author's purpose", as some of us might have been taught. Interesting to note that a quick search on author purpose's turns up [different](http://www.mdc.edu/kendall/collegeprep/documents2/author's%20purposerev818.pdf "purpose 1") [categorisations](https://www.lancasterschools.org/cms/lib/NY19000266/Centricity/Domain/451/B1.pdf "purpose 2"), though most overlap to some degree
 3. Great writing [stays with you](https://www.reddit.com/r/books/comments/88ike0/whats_your_favorite_quote_from_a_book/). 
 4. A butchering of the meaning of a [quote](https://en.wikiquote.org/wiki/Friedrich_Nietzsche "abyss") but I think serves to make my point. I believe this applies both to school, work, and published writing. Think about how often you yourself have skimmed a paper, scanned an email, or just glanced at the headline of an article. I believe most writing is never read in full.
