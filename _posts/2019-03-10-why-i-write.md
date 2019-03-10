@@ -63,7 +63,7 @@ One feature I thought about for a while was whether to allow comments. I decided
 
 ![FB comments]({{ site.url }}{{ site.baseurl }}/assets/images/FB-zuckerberg-post.png)
 
-My thoughts on comments are shared [by](https://optinmonster.com/to-allow-blog-comments-or-not-heres-what-the-data-shows/ "nice but not necessary") [others](https://avc.com/2019/02/rethinking-avc/ "avc comments"). A separate moderated forum would be ideal, though I doubt that this blog would ever get popular enough to require that. In the meantime, people that are interested in discussing the content here can email or message me on twitter. 
+My thoughts on comments are [shared](https://optinmonster.com/to-allow-blog-comments-or-not-heres-what-the-data-shows/ "nice but not necessary") by [others](https://avc.com/2019/02/rethinking-avc/ "avc comments"). A separate moderated forum would be ideal, though I doubt that this blog would ever get popular enough to require that. In the meantime, people that are interested in discussing the content here can email or message me on twitter. 
 
 I spent longer than I'd rather admit on choosing the theme for the blog. I ended up going with [Minimal mistakes](https://mmistakes.github.io/minimal-mistakes/ "minimal mistakes"), which was clean, customisable, and free. It took me a significant amount of time editing some of the code to get it to look like its current state, which is a combination a preference for simple layouts and me giving up on some of the features I can't seem to fix:
 
@@ -79,6 +79,8 @@ I spent longer than I'd rather admit on choosing the theme for the blog. I ended
 4. On mobile, the email and twitter info collapse into a button with the label "Follow". This is apparently the same text as the RSS feed "Follow" section, so editing this label to "Info" messes up the RSS feed title.
 
 5. Indentation of pictures and quotes within a sub point doesn't seem possible?
+
+It has been highly frustrating trying to set everything up, and even something as simple as adding those images above took me time. I don't regret the decision yet, as I've learnt minor details about how the web works and have a product to show for my learning as well \[13\]. One other surprise perk is that I now have a formal system of noting down ideas and articles that I want to write about in the future since I realised keeping a list would be helpful. As Paul Graham noted, the internet might make this the [golden age of the essay](http://www.paulgraham.com/essay.html "essay") \[14\], which further supports my personal brand and individualisation thesis. I'm excited as to where this idea might go and hope to keep writing.
 
 **All that said, here are some predictions:**
 * 80% odds of this blog having minimal following (<100 readers) in 1 year
@@ -111,3 +113,18 @@ My writing is selfish.
 10. Real time example of how writing helps in thinking better
 11. By someone who appears to be just squatting on the site till 2020 as part of a half finished school project. I suppose I could have offered to buy him out but I don't think my name is worth that much...
 12. It took a few tries to link the custom domain to the blog, and none of the tutorials online seemed to have the same settings that I had
+13. There's this set of principles I read somwhere before by a guy who talks about a list of things everyone should know how to do, and setting up a website and custom domain is one of them. I can't recall who or where I saw it, which is unfortunate as there were other interesting remarks on that list
+14. I originally wanted to discuss Paul's writing in detail, but couldn't find a way to insert it into the article. Some quotes I found interesting:
+> When I give a draft of an essay to friends, there are two things I want to know: which parts bore them, and which seem unconvincing. The boring bits can usually be fixed by cutting.
+> The sort of writing that attempts to persuade may be a valid (or at least inevitable) form, but it's historically inaccurate to call it an essay. An essay is something else. \[...\] An essay is something you write to try to figure something out. Figure out what? You don't know yet. And so you can't begin with a thesis, because you don't have one, and may never have one.
+I'm not as sure about this. You're still trying to make a point in your writing
+> Why not just sit and think? Well, there precisely is Montaigne's great discovery. Expressing ideas helps to form them. Indeed, helps is far too weak a word. Most of what ends up in my essays I only thought of when I sat down to write them. That's why I write them.
+Nice to see agreement here
+> An essay you publish ought to tell the reader something he didn't already know.
+> I'd much rather read an essay that went off in an unexpected but interesting direction than one that plodded dutifully along a prescribed course.
+With the caveat that the direction is interesting, which is probably the crux of his argument. Avoid boring people?
+> So if you want to write essays, you need two ingredients: a few topics you've thought about a lot, and some ability to ferret out the unexpected.
+> One of the keys to coolness is to avoid situations where inexperience may make you look foolish. If you want to find surprises you should do the opposite. Study lots of different things, because some of the most interesting surprises are unexpected connections between different fields.
+I've written about [specialisation vs generalisation](https://www.leonlinsx.com/specialists-vs-generalists/ "post link") before
+> Anyone can publish an essay on the Web, and it gets judged, as any writing should, by what it says, not who wrote it. Who are you to write about x? You are whatever you wrote.
+I agree that the internet has helped good ideas succeed on merit, though there's an inherent advantage for a famous person's ideas to spread compared to someone more obscure. 
