@@ -1,10 +1,10 @@
 ---
 title:  "Why I write"
-tags: [beliefs, writing]
-published: false
+tags: [beliefs, writing, github]
+published: true
 ---
 
-*Conviction level: 80%*
+*Conviction level: 95%*
 
 Writing is selfish. 
 
