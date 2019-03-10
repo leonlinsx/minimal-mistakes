@@ -60,7 +60,7 @@ There exist a myriad of [other options](https://stackoverflow.com/questions/2203
 I knew what I wanted to use, so it was time to set it up. Creating an account was simple, but I was quickly lost after that. It didn't help that more detailed information on how to actually get a site running was scattered across different sites and also outdated occasionally. I'd find a helpful tutorial online by some helpful indian youtuber and then learn that gh-pages branch was [no longer required](https://stackoverflow.com/questions/35978862/github-pages-why-do-i-need-a-gh-pages "no more gh-pages") and half of the steps he took were irrelevant now. I'd find five different ways to setup a custom domain, none of which seemed to fit my simple situation \[12\]. And people had strong opinions on whether to [include the www in a domain name](https://www.yes-www.org/why-use-www/ "www usage")
 
 One feature I thought about for a while was whether to allow comments. I decided against it, as the comment section for public posts tends to devolve into spam or irrelevancy based on my experience. For example, see the top comments from the post Zuckerberg recently made about FB's new priorities: 
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/FB-zuckerberg-post.png" alt="Zuckerberg comments">{% endraw %}
+![FB comments]({{ site.url }}{{ site.baseurl }}/assets/images//FB-zuckerberg-post.png)
 
 My thoughts on comments are shared [by](https://optinmonster.com/to-allow-blog-comments-or-not-heres-what-the-data-shows/ "nice but not necessary") [others](https://avc.com/2019/02/rethinking-avc/ "avc comments"). A separate moderated forum would be ideal, though I doubt that this blog would ever get popular enough to require that. In the meantime, people that are interested in discussing the content here can email or message me on twitter. 
 
@@ -68,7 +68,7 @@ I spent longer than I'd rather admit on choosing the theme for the blog. I ended
 
 **Issues I still need to fix but don't know how or haven't looked into:**
 1. Why are the post previews only two lines long?
-{% raw %}<img src="{{ site.url }}{{ site.baseurl }}/assets/images/post-preview.png" alt="2 line previews gah">{% endraw %}
+![2 line previews gah]({{ site.url }}{{ site.baseurl }}/assets/images/post-preview.png)
 
 2. Is there a way to spellcheck my posts while I'm still in the draft stage?
 
