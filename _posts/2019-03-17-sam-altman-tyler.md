@@ -20,7 +20,7 @@ My initial reaction was skepticism. A 10x size from where they are now? The retu
 
 > I know in my heart that there will be technological change that will happen at a rate that the companies can’t do or require a level of risk they can’t take. It has been a bad bet to bet against new companies for centuries, and I think that will keep happening.
 
-This seems reasonable. Competitive advantage gets eroded away, as a [graphic like this shows.](https://www.visualcapitalist.com/most-valuable-companies-100-years/ "most valuable companies") You read stories about the largest trends missed by incumbents (PC, mobile, cloud computing etc) which makes for fun reads retroactively where people laugh at the incumbents, but I don't think the missed opportunities at that point are ever an easy decision to make. The point directly below also shows why incentives might not be aligned in big companies. 
+This seems reasonable. Competitive advantage gets eroded away, as a [graphic like this shows.](https://www.visualcapitalist.com/most-valuable-companies-100-years/ "most valuable companies") You read stories about the largest trends missed by incumbents (PC, mobile, cloud computing etc) which makes for fun reads retroactively where people laugh at the incumbents, but I don't think the missed opportunities at that point are ever an easy decision to make. The point below on "moving the needle" also shows why incentives might not be aligned in big companies. 
 
 > And growth feels good. It does mask a lot of problems, but there definitely are individual instances where you’d be better off with slower growth for whatever reason.
 
