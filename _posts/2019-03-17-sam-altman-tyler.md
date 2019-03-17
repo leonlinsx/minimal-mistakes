@@ -69,7 +69,6 @@ I've come to think this as well and wish I could travel more \[6\]. I fear that 
 4. And the exception rather than the norm by far; was difficult for me to think of more prominent examples.
 5. I've not watched the Netflix flat earth documentary, but [this anecdote by a flat earth believer stands out:](https://www.newsweek.com/behind-curve-netflix-ending-light-experiment-mark-sargent-documentary-movie-1343362 "newsweek article")
 >  “What we found is, is when we turned on that gyroscope we found that we were picking up a drift. A 15 degree per hour drift,” Knodel says, acknowledging that the gyroscope’s behavior confirmed to exactly what you’d expect from a gyroscope on a rotating globe.
-
 > “Now, obviously we were taken aback by that. ‘Wow, that’s kind of a problem,’” Knodel says. “We obviously were not willing to accept that, and so we started looking for ways to disprove it was actually registering the motion of the Earth.”
 
 6. Don't we all though.
