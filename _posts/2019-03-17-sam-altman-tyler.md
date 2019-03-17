@@ -48,7 +48,7 @@ An important point, not just about energy and the environment, but about human p
 
 > I played a lot of poker in college, and I think I learned more about life and business from that than I learned in college. I would not say I’m a great poker player, but I’m pretty good. The thing that makes me, I think, good about that is getting good at quickly evaluating risk.
 
-Another interesting poker player to follow is [Annie Duke](https://twitter.com/AnnieDuke "Annie")
+Another interesting poker player to follow is [Annie Duke](https://twitter.com/AnnieDuke "Annie"), who came up with the best way of [differentiating luck vs skill](https://twitter.com/mjmauboussin/status/1106252962161135616 "mauboussin attribution") I've seen so far - Can you intentionally lose? 
 
 > I have really been able, in the last few years, to take more time to (A) just do nothing with people that I love, and (B) marvel at everything in life and figure out how to look at things for the first time again. That has been a source of great beauty.
 
