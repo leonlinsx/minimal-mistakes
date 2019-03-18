@@ -14,6 +14,8 @@ It's a nice coincidence that a great way to properly learn about what you read i
 
 I've had some military, investment banking, and public markets investing experience. I don't just focus on those sectors though, and will read and write about whatever I find interesting. Feel free to send stuff that you're fascinated by!
 
+I also send a regular email newsletter to friends, email me if you want to get on the list!
+
 ### My beliefs
 Partially inspired by [this blog,](https://devonzuegel.com/page/about-me "Devon's blog") below is a public record of my current beliefs. I'll edit as these change over time, but these should give you a good idea of what I stand for.
 
