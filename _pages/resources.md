@@ -17,6 +17,7 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 7. [Howard Marks's](https://www.oaktreecapital.com/insights/howard-marks-memos "Marks's memos") memos are always a pleasure to read
 8. [Meb Faber](https://mebfaber.com/ "Meb") skews more quanty, but has many good articles. He does a good podcast too.
 9. [Tren Griffin](https://25iq.com/author/trengriffin/ "25iq") covers investing, business, and more
+10. [Geoff Yamane](https://geoff-yamane.com/ "Geoff") uses his blog to refine his thoughts and get feedback, similar to myself. Start with [this article](https://geoff-yamane.com/blog/2019/2/28/the-investing-meta-game "investing meta game")
 
 ### Economic sites
 1. [Marginal revolution](https://marginalrevolution.com/ "MR") is famous for good reason, but quantity of posts can be overwhelming
@@ -47,6 +48,7 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 1. [Farnam Street](https://fs.blog/blog/ "FS blog") is probably the most popular one on mental models
 2. [Cal Newport](http://calnewport.com/blog/ "Study Hacks") likes to write about productivity
 3. [Nassim Nicholas Taleb](https://medium.com/@nntaleb "Taleb") often writes stuff beyond my understanding, but is worth browsing
+4. [Byrne Hobart's](https://medium.com/@byrnehobart/about-best-of-faq-25df97a74467 "Byrne") medium posts and newsletters are a blend of econs, investing, tech, and "things that don't mean-revert"
 
 ### Excel sites
 1. [Chandoo's](https://chandoo.org/wp/ "Chandoo") excel blog is helpful whenever I have obscure excel problems
