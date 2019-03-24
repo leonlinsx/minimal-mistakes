@@ -8,7 +8,7 @@ Your nose is closer to your brain than your knee. Obvious.
 
 You can use your hands to touch both your nose and foot. Obvious. \[1\]
 
-When you do touch both your nose and foot at the same time, you feel the touches at the same time. Obvious, and now you're wondering where this is going. But let's pause here and think about this. How is it that you feel the touch on your nose, which is closer to your brain, at the same time that you feel the touch on your foot, which is further away? The non-intuitive conclusion is that our brain has a slight window of time where it processes signals and then interprets what we feel. Perception then, is a temporal illusion.
+When you do touch both your nose and foot at the same time, you feel the touches at the same time. Obvious, and now you're wondering where this is going. But let's pause here and think about this. How is it that you feel the touch on your nose, which is closer to your brain, at the same time that you feel the touch on your foot, which is further away? The non-intuitive conclusion is that our brain has a slight window of time where it processes signals and then interprets what we feel. Brain, time, and memory are linked. Perception then, is a temporal illusion.
 
 I had the privilege of hearing David Eagleman talk at the [Long Now anniversary event](https://eagleman.com/blog/the-brain-and-the-now "talk link") \[2\] a while back where he talked about this and other temporal illusions. I recently realised he wrote a post about his research too. [The post](https://www.edge.org/conversation/brain-time "brain time") is worth reading in its entirety, but below are the parts I found most interesting: 
 
