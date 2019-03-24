@@ -1,7 +1,7 @@
 ---
 title:  "Temporal illusions"
 tags: [biology, time]
-published: false
+published: true
 ---
 
 Your nose is closer to your brain than your knee. Obvious.
