@@ -4,7 +4,7 @@ tags: [AI, investing, tech, time, investment banking,]
 published: true
 ---
 
-*This is an adapted post from my email newsletter*
+*\*This is an adapted post from my email newsletter*\*
 
 This month's post has three sections - AI, Investing, Miscellaneous. 
 
