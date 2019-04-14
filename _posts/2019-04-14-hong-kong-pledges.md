@@ -48,8 +48,19 @@ If a bank lends to a founder and ends up with a large position in the company du
 
 > The security interest only becomes discloseable if the lender effectively forecloses and starts selling the stock, and then he has the usual 3 business days in which to make the disclosure. By then, of course, it is too late to be of much use to investors as the stock will already have crashed.
 
-It's only when the lender starts selling the stock that the general public realises the issue. 
+It's only when the lender starts selling the stock that the general public realises the issue. Since the lender would only start selling in bad times, this is already too late for the general public to act on the information.
+
+HK gives a few reasons for not changing this, but Webb-site disputes those:
+
+> What is really behind this is not any practical difficulty in complying, but a wish on the part of banks and brokers for secrecy in their dealings. That is outweighed by the public interest in fair and orderly markets. If a lender wishes to keep its loans private, then it should not take such large positions (over 5%) as collateral.
+
+> Second, on the "disclosure is meaningless" argument, we strongly disagree. If a shareholding has not been pledged, then the probability of a forced sale by a lender is zero, but if it has been pledged, then the probability is greater than zero. That is what we call informational value. 
+
+> Third, on the "privacy" argument, this is outweighed by the public interest. If you are a controlling shareholder who wants privacy, then don't float you company on the Stock Exchange, and don't ask the public for their money. If you want their money, then you must be willing to live with the transparency that goes with it. If you are an investor who wants privacy, then stay under 5% and you will be private. 
+
+These rebuttals make sense to me, and I'm wondering what the HK regulatory counterargument would be. Disclosure of long positions is usually a good thing \[3\] so more information about who owns what (and what the risks are of a sudden sale) is useful.  
 
 **Footnotes**
 1. Well I'm pretty sure this isn't the case for Bezos, but if you have personal knowledge otherwise let me know... would explain his fascination for space travel
 2. Defined here as not just physical paper money but wire transfers etc 'liquid' assets, as opposed to assets such as real estate, equity, gold etc  
+3. Disclosure of shorts is more tricky and I don't know if I agree that all shorts should be disclosed
