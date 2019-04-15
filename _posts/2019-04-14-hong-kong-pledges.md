@@ -1,7 +1,7 @@
 ---
 title:  "Hong Kong small cap stock plunges and pledges"
 tags: [finance, investing, hong kong]
-published: false
+published: true
 ---
 
 I learnt about [Webb-site](https://webb-site.com/pages/aboutus.asp "about us") this year and read some interesting articles about how stock pledges were causing small cap stock plunges [here](https://webb-site.com/articles/pledge.asp "long article") and [here](https://webb-site.com/articles/pledges.asp "short article"). This is a rather niche topic but an interesting look into incentive alignment.
