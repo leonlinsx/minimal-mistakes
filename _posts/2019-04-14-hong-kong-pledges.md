@@ -4,13 +4,13 @@ tags: [finance, investing, hong kong]
 published: false
 ---
 
-I learnt about [Webb-site](https://webb-site.com/pages/aboutus.asp "about us") this year and came across some interesting articles about how stock pledges were causing small cap stock plunges [here](https://webb-site.com/articles/pledge.asp "long article") and [here](https://webb-site.com/articles/pledges.asp "short article"). This is a rather niche segment but an interesting look into incentive alignment.
+I learnt about [Webb-site](https://webb-site.com/pages/aboutus.asp "about us") this year and read some interesting articles about how stock pledges were causing small cap stock plunges [here](https://webb-site.com/articles/pledge.asp "long article") and [here](https://webb-site.com/articles/pledges.asp "short article"). This is a rather niche topic but an interesting look into incentive alignment.
 
 Firstly, what is Webb-site? This is from the "about us" section:
 
 > Webb-site was established in 1998 by David M. Webb, a former investment banker who has lived in Hong Kong since 1991. Webb-site Reports provides reports and independent opinions with a focus on Hong Kong affairs, including but not limited to corporate and economic governance, business, finance, investment, legal and regulatory affairs. 
 
-What's the issue with stock pledges and how is that leading to plunges in small cap stock prices?
+What is a stock pledge, what's the issue with them, and how is that leading to plunges in small cap stock prices?
 
 > The current situation, under Listing Rule 10.07, is that for 12 months after listing, if a controlling shareholder (holding 30% or more of the shares) pledges any shares as security for a loan, then he must disclose that to the company, and the company must announce it. \[...\] However, after the first year is over, there is no longer any general obligation for pledges by a controlling shareholder to be disclosed, unless it relates to a loan or guarantee provided to the company,
 
@@ -18,7 +18,7 @@ For those unfamiliar with the concept of a [stock pledge](https://www.sec.gov/Ar
 
 *"But I thought Elon Musk, Larry Ellison, Evan Spiegel are all billionaires? Why do they need to borrow money? They could toss it out of a helicopter and still be richer than me"*
 
-A common misconception is that all of the net worth of rich people is just [piles of cash](https://www.forbes.com/lists/fictional15/2011/profile/smaug.html "cash"), i.e. Bezos has $100bn in dollar bills lying around in his secret moon base. This is usually not the case \[1\], and most of the wealth is tied up in their stock holdings. Since most people and companies still prefer getting paid in cash \[2\], what's a billionaire to do when they want to buy their next $100mm yacht when they only have $10mm in the bank? Tragic.
+A common misconception is that all of the net worth of rich people is just [piles of cash](https://www.forbes.com/lists/fictional15/2011/profile/smaug.html "cash"), i.e. Bezos has $100bn in dollar bills lying around in his secret moon base. This is usually not the case \[1\], and most of the wealth is tied up in their stock holdings from the companies they founded. Since most people and companies still prefer getting paid in cash \[2\], what's a billionaire to do when they want to buy their next $100mm yacht when they only have $10mm in the bank? It's a hard life.
 
 *"Why don't they just sell the stock they have? The yacht company might not want stock but the rich guy could just liquidate and then buy the yacht?"*
 
@@ -44,7 +44,7 @@ The HK exchange has jurisdiction over companies and directors, but not over regu
 
 > And a "qualified lender" is defined by Section 308(1) to be a bank (including a restricted licence bank or a deposit taking company), a stockbroker, insurer or anyone licensed by the SFC to provide margin finance on shares.
 
-If a bank lends to a founder and ends up with a large position in the company due to the collateral, they do not have to disclose this. 
+If a bank lends to a founder and ends up with a large position in the company due to the collateral, they do not have to disclose this. Webb-site is concerned that these large pledged stakes cause unnecessary downside risks for the stock. 
 
 > The security interest only becomes discloseable if the lender effectively forecloses and starts selling the stock, and then he has the usual 3 business days in which to make the disclosure. By then, of course, it is too late to be of much use to investors as the stock will already have crashed.
 
@@ -58,9 +58,9 @@ HK gives a few reasons for not changing this, but Webb-site disputes those:
 
 > Third, on the "privacy" argument, this is outweighed by the public interest. If you are a controlling shareholder who wants privacy, then don't float you company on the Stock Exchange, and don't ask the public for their money. If you want their money, then you must be willing to live with the transparency that goes with it. If you are an investor who wants privacy, then stay under 5% and you will be private. 
 
-These rebuttals make sense to me, and I'm wondering what the HK regulatory counterargument would be. Disclosure of long positions is usually a good thing \[3\] so more information about who owns what (and what the risks are of a sudden sale) is useful.  
+These rebuttals make sense to me, and I'm wondering what the HK regulatory counterargument would be. Disclosure of long positions is usually a good thing \[3\] so more information about who owns what (and what the risks are of a sudden sale) is useful. All in, something to be aware of for HK small cap names when ownership can be concentrated among managment and a large portion of that pledged away for loans.  
 
 **Footnotes**
-1. Well I'm pretty sure this isn't the case for Bezos, but if you have personal knowledge otherwise let me know... would explain his fascination for space travel
+1. Well I'm pretty sure this isn't the case for Bezos, but if you have personal knowledge otherwise let me know... would explain his fascination for space travel. Looking at the 'main source of wealth' for the [richest people in the world](https://en.wikipedia.org/wiki/List_of_richest_people_in_the_world "rich ppl") shows that all of them are wealthy due to their ownership stakes in companies. 
 2. Defined here as not just physical paper money but wire transfers etc 'liquid' assets, as opposed to assets such as real estate, equity, gold etc  
 3. Disclosure of shorts is more tricky and I don't know if I agree that all shorts should be disclosed
