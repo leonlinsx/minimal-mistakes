@@ -42,7 +42,7 @@ One pushback is that "sure, we don't find helpful information regularly, but whe
 
 There is definitely information that is helpful and knowable, but this seems the exception rather than the norm. Enron, Worldcom, Tyco etc are famous but there aren't that many of them. Despite this, I believe the investment industry will continue seeking new information sources to try and get an edge. Whether they actually do or not remains to be seen, though it seems like it'd be difficult as a smaller fund competing against the Citadels of the world with all the data they can buy. 
 
-With the above in mind, one part of my WIP investment framework is that I have to want to invest in something even *without an information advantage*, and nearly always at an information *disadvantage*. It's unlikely that I've found something material that noone else has, and I should always be aware of this bias. 
+With the above in mind, one part of my WIP investment framework is that I have to want to invest in something even *without an information advantage*; I have to be ok investing in something with an information *disadvantage*. It's unlikely that I've found something material that noone else has, and I should always be aware of this bias that makes me overconfident. 
 
 **Footnotes**
 1. Both a combination of always learning something new and ~~laziness~~ the difficulty in writing all of it out. I am planning to post about it in the future though to refine my thoughts. [Just not yet](https://www.reddit.com/r/todayilearned/comments/18iyw2/til_that_st_augustine_of_hippo_a_father_of_the/ "later")
