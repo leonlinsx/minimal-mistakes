@@ -1,8 +1,10 @@
 ---
 title:  "Investing and information"
 tags: [investing, frameworks]
-published: false
+published: true
 ---
+
+*Conviction level: 80%*
 
 My own investment framework will forever be a work in progress \[1\], but one important issue I'll have to address is the purpose of information in investing, and how to treat new information. I've [written before](https://www.leonlinsx.com/AI-and-investing/ "Huber") about John Huber's framework for [sources of edge in investing](http://basehitinvesting.com/what-is-your-edge/ "edge"), and one of the three edges he cites is informational advantage. Theoretically, if you have more or better information than others, you have an edge in investing and should outperform over time. 
 
