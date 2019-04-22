@@ -12,7 +12,7 @@ A large portion of professional investing time is spent on acquiring information
 
 Leaving aside whether you believe you have more information than your competition, does having more information help you make better investment decisions? [This post](https://behaviouralinvestment.com/2019/01/09/can-more-information-lead-to-worse-investment-decisions/amp/ "behavioural investment") cites studies showing that [although individuals have increased confidence with increased information, their accuracy of outcomes doesn't change:](https://pdfs.semanticscholar.org/dfe1/e71649951fc8aeda52eac460976bfe02f305.pdf "Tsai, C. I., Klayman, J., & Hastie, R. 2008")
 
-![Overconfidence]({{ site.url }}{{ site.baseurl }}/assets/images/predicted-vs-actual-confidence.png)
+![Overconfidence]({{ site.url }}{{ site.baseurl }}/assets/images/predicted-vs-actual-confidence.PNG)
 
 The Tsai, Klayman, Hastie study with the graph above cites two main reasons for the divergence:
 
