@@ -1,18 +1,18 @@
 ---
-title:  "AI advances and investing insights"
-tags: []
+title:  "Microwave timers for 13.7bn years"
+tags: [narrative, beliefs, economics, ISA, frameworks, AI, finance]
 published: false
 ---
 
 *\*This is an adapted post from my email newsletter*\*
 
-I once read about a person so focused on efficiency, she would press the same number on the microwave to save time on heating up her meal e.g. 1:11, 2:22, 3:33. My first thought was 'wow here's someone really intense no wonder they get ahead'. My next thought was 'wait this habit doesn't make sense' \[1\]. And yet her habit was still being admired by others, cited as a character trait. It's almost as if the author wanted it to be true, wanted to believe the action was calculated.
+I once read about a person so focused on efficiency, she would press the same number on the microwave to save time on heating up her meal e.g. 1:11, 2:22, 3:33. My first thought was 'wow here's someone really intense no wonder they get ahead and I'm falling behind in life'. My next thought was 'wait this habit doesn't make any sense' \[1\]. And yet her habit was being admired and now cited as a positive character trait. It's almost as if the author wanted it to be true, wanted to believe the action was carefully thought out beforehand.
 
 After the Notre Dame fire, a story spread that firefighters prioritised saving relics over the wooden structures, [since oak trees from Versailles were intended as replacements](https://medium.com/the-long-now-foundation/long-now-lessons-from-notre-dame-925d27441bdc "long now"). As the link shows, there was little substantive basis behind this. But people wanted it to be true, wanted to believe the action was deliberate.
 
-We have a strong instinct to believe in narratives \[2\], false or otherwise. We all like the story of how every action has meaning and how that one thing changed history, but that's rarely the case. Our actions have consequences, but rarely the exact consequences we want. I'm not saying to avoid anecdotes, but to be careful when reading a story. 
+We have a strong instinct to believe in narratives \[2\], false or otherwise. We all like the story of how every action has meaning and how that one thing changed history, but that's rarely the case. Our actions have consequences, but rarely the exact consequences we want. I'm not saying to avoid anecdotes, but to be careful when reading a story. [The success story of another might not be applicable to you.](https://ofdollarsanddata.com/the-problem-with-most-financial-advice/ "financial advice")
 
-Economics is a field in which narratives play a huge role too, making it complicated to assess policy impact. Take minimum wage or unpaid internships for example. [Cochrane cites a few studies with some concerning findings when raising the minimum wage:](https://johnhcochrane.blogspot.com/2019/04/meer-on-minimum-wage.html "cochrane")
+Economics is a field in which narratives play a huge role too, making it [complicated to assess policy impact](https://www.bloomberg.com/opinion/articles/2019-04-23/modern-monetary-theory-austrian-economics-deserve-skepticism "skepticism"). Take minimum wage or unpaid internships for example. [Cochrane cites a few studies with some concerning findings when raising the minimum wage:](https://johnhcochrane.blogspot.com/2019/04/meer-on-minimum-wage.html "cochrane")
 
 > when the minimum wage is raised, employers offset increased labor costs by reducing benefits like the generosity of health insurance. 
 
@@ -20,9 +20,9 @@ Economics is a field in which narratives play a huge role too, making it complic
 
 > Low-wage jobs aren’t easy, don’t pay well, and are rarely fun. But not being able to find work at all is far worse.
 
-And in the same comments section, a comment cites opposing studies that support raising the min wage. Most people are going to pick their story and stick with it, since it's simpler to be consistent and confirm your biases. I think that this works for some subjects, but for many others we should strive to understand both sides of the argument, which can both be true in different scenarios. But no one wants to hear 'well it depends; raising min wage could help in this state but not in the other' \[3\]
+And in the same comments section, a reader cites opposing studies that support raising the min wage. Most people are going to pick their story and stick with it, since it's simpler to be consistent and confirm your biases. I think that this works for some subjects, but for many others we should strive to understand both sides of the argument, which can both be true in different scenarios. But no one wants to hear 'well it depends; raising min wage could help in this state but not in the other' \[3\]. You're paid to take a side. 
 
-Another example is how people are viewing the income sharing agreement trend as either rediscovered slavery or transformational incentive alignment. They've already settled into two narratives, despite how recently they've probably heard about the concept. [This post](https://medium.com/@eriktorenberg_/life-capital-9e5028c0ea12 "life capital") discusses this new trend in education, popularised by Lambda school: 
+In other labour developments, people are viewing the income sharing agreement trend as either rediscovered slavery or transformational incentive alignment. They've already settled into two narratives, despite how recently they've probably heard about the concept. [This post](https://medium.com/@eriktorenberg_/life-capital-9e5028c0ea12 "life capital") discusses this new trend in education, popularised by Lambda school: 
 
 > An Income Share Agreement is a financial arrangement where an individual or organization provides something of value to a recipient, who, in exchange, agrees to pay back a percentage of their income for a certain period of time
 
@@ -34,7 +34,7 @@ Another example is how people are viewing the income sharing agreement trend as 
 
 > There are three major themes in particular that get us excited for the future of ISAs: aggregation, novel incentive structures, and crypto.
 
-Seems like our narrative of higher education could change. I don't have a strong view here yet \[4\] but it seems to be a positive trend.
+Seems like our narrative of higher education could change. I don't have a strong view here yet \[4\] but it seems to be a positive trend. I don't think anyone is forcing themselves to attend Lambda, and the job placement rate seems encouraging. Though I'd think college shouldn't just be for getting you a job... 
 
 What can we believe in then? What is more likely to stand the test of time? Peter Kaufman wrote about three buckets he uses to find principles that last. Jana Vembunarayanan analyses it [here](https://janav.files.wordpress.com/2016/07/threebucketframework.pdf "jana on kaufman") \[5\] . There's quite a few examples in Jana's piece that I'd push back on, but below are some interesting ideas:
 
@@ -56,7 +56,7 @@ I agree with Jana's point about trying rather than just thinking, though of cour
 3. [Social media engagement rates](https://www.webstrategiesinc.com/blog/which-social-media-sites-get-the-most-engagement "engagement") for the aspiring influencer in you. \[8\]
 4. If you're shunning facebook because of negative news, [reminder of the FB/Insta GOOG/youtube relationship](https://spreadprivacy.com/facebook-instagram/ "FB") \[9\]
 5. How powerful is Thanos now \[10\]? How powerful should he be? [Different levels of omnipotency](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheOmnipotent "omnipotency"), just like different levels of infinity
-6. [6 ton boulders you can move by hand](https://gizmodo.com/researchers-made-25-ton-boulders-they-can-move-by-hand-1834106230 "25 ton") \[11\]
+6. [7 ton boulders you can move by hand](https://gizmodo.com/researchers-made-25-ton-boulders-they-can-move-by-hand-1834106230 "25 ton") \[11\]
 7. [This article on AI in China](https://chinai.substack.com/p/chinai-48-year-1-of-chinai "AI china") merits its own section, but I think you're bored of me writing about AI 3 months in a row so I'll just pick highlights:
     > ‘China has a fairly deep awareness of what’s happening in the English-speaking world, but the opposite is not true,’ says Ng.”
     
@@ -73,8 +73,8 @@ I agree with Jana's point about trying rather than just thinking, though of cour
 3. I'm increasingly of the belief that people prefer stronger opinions over balanced ones since it's an easier sell
 4. I realise I'm not following my own advice here
 5. The original piece by Kaufman is [here](http://www.eastcoastasset.com/wp-content/uploads/ecam_2014_3q_letter.pdf "original letter")
-6. Someone's going to raise the point about [edge cases](https://www.jpl.nasa.gov/edu/news/2019/4/19/how-scientists-captured-the-first-image-of-a-black-hole/ "black holes") but that's missing the point here...
-7. It seems within his rights to sell it, but it seems misleading on the ebay page to say that he's 'opening this up to the world' rather than just trying to make money off it. 
+6. Someone's going to raise the point about [edge cases](https://www.jpl.nasa.gov/edu/news/2019/4/19/how-scientists-captured-the-first-image-of-a-black-hole/ "black holes") but that's missing the point...
+7. It seems within his rights to sell it, but also misleading on the ebay page to say the intent is 'opening this up to the world' rather than just trying to make money off it. I'd probably do the same in his position? 
 8. With most engagement rates for those channels falling <5%, it's no wonder everyone's reluctant to respond to this newsletter... Sidenote, are any of you actually instagram famous?
 9. I'm not an advocator of the delete facebook trend but assume some of you might be. I think there's value in using it, but as with most things you need to be aware of how you use it. It would be significantly more difficult for me to host events without it. Either way, it's helpful to know who owns what if you're trying to avoid a company...
 10. Character from the Avengers movie, if you weren't aware.
