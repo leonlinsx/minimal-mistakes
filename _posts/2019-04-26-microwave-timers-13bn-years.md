@@ -1,5 +1,5 @@
 ---
-title:  "Microwave timers for 13.7bn years"
+title:  "Set a microwave timer for 13.7bn yrs"
 tags: [narrative, beliefs, economics, ISA, frameworks, AI, finance]
 published: false
 ---
