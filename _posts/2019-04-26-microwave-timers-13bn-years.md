@@ -6,7 +6,7 @@ published: false
 
 *\*This is an adapted post from my email newsletter*\*
 
-I once read about a person so focused on efficiency, she would press the same number on the microwave to save time on heating up her meal e.g. 1:11, 2:22, 3:33. My first thought was 'wow here's someone really intense no wonder they get ahead and I'm falling behind in life'. My next thought was 'wait this habit doesn't make any sense' \[1\]. And yet her habit was being admired and now cited as a positive character trait. It's almost as if the author wanted it to be true, wanted to believe the action was carefully thought out beforehand.
+I once read about a person so focused on efficiency, she would press the same number on the microwave to save time on heating up her meal e.g. 1:11, 2:22, 3:33. My first thought was 'wow here's someone really intense no wonder they get ahead and I'm falling behind in life'. My next thought was 'wait this habit doesn't make any sense' \[1\]. And yet her habit was being admired and now cited as a positive character trait by the writer of the article. It's almost as if the author wanted it to be true, wanted to believe the action was calculated.
 
 After the Notre Dame fire, a story spread that firefighters prioritised saving relics over the wooden structures, [since oak trees from Versailles were intended as replacements](https://medium.com/the-long-now-foundation/long-now-lessons-from-notre-dame-925d27441bdc "long now"). As the link shows, there was little substantive basis behind this. But people wanted it to be true, wanted to believe the action was deliberate.
 
@@ -22,7 +22,7 @@ Economics is a field in which narratives play a huge role too, making it [compli
 
 And in the same comments section, a reader cites opposing studies that support raising the min wage. Most people are going to pick their story and stick with it, since it's simpler to be consistent and confirm your biases. I think that this works for some subjects, but for many others we should strive to understand both sides of the argument, which can both be true in different scenarios. But no one wants to hear 'well it depends; raising min wage could help in this state but not in the other' \[3\]. You're paid to take a side. 
 
-In other labour developments, people are viewing the income sharing agreement trend as either rediscovered slavery or transformational incentive alignment. They've already settled into two narratives, despite how recently they've probably heard about the concept. [This post](https://medium.com/@eriktorenberg_/life-capital-9e5028c0ea12 "life capital") discusses this new trend in education, popularised by Lambda school: 
+People are already taking sides in the income sharing agreement trend, viewing it as either rediscovered slavery or transformational incentive alignment. They've settled into two narratives despite how recently they've probably heard about the concept. [This post](https://medium.com/@eriktorenberg_/life-capital-9e5028c0ea12 "life capital") discusses this new trend in education, popularised by Lambda school: 
 
 > An Income Share Agreement is a financial arrangement where an individual or organization provides something of value to a recipient, who, in exchange, agrees to pay back a percentage of their income for a certain period of time
 
@@ -46,9 +46,9 @@ What can we believe in then? What is more likely to stand the test of time? Pete
 
 > You don’t build mental representations by thinking about something; you build them by trying to do something, failing, revising, and trying again, over and over. When you’re done, not only have you developed an effective mental representation for the skill you were developing, but you have also absorbed a great deal of information connected with that skill.
 
-Gravity will be around for a while \[6\], as will our need to eat, and our need for social interaction. The physical and biological principles are probably easier to identify, but I think the social sample size is the difficult piece. Humans act rationally...until they don't. If you have examples of human social principles that have surprised you let me know.
+Gravity will be around for a while \[6\], as will our need to eat, and our need for social interaction. The physical and biological principles are probably easier to identify, but I think the social sample size is the difficult piece. Humans act rationally...until they don't. If you have examples of social principles that have surprised you let me know.
 
-I agree with Jana's point about trying rather than just thinking, though of course we can't try everything. Seems to me one option is to be a ['generalised specialist', as Farnam Street puts it](https://fs.blog/2017/11/generalized-specialist/ "FS"), a topic I've expanded on in prior emails as well. I want to try everything but have to realise I usually won't be rewarded by being a generalist. 
+I agree with Jana's point about trying rather than just thinking, though of course we can't try everything. Talking through ideas, discussing them with people, and writing about them is one alternative. You could also look into the idea of being a ['generalised specialist', as Farnam Street puts it](https://fs.blog/2017/11/generalized-specialist/ "FS"), a topic I've expanded on in prior emails as well. I want to try everything but have to realise I usually won't be rewarded by being a generalist. 
 
 **Miscellaneous**
 1. ["He took great pains not to mislead or confuse children, and his team of writers joked that his on-air manner of speaking amounted to a distinct language they called “Freddish.” Fundamentally, Freddish anticipated the ways its listeners might misinterpret what was being said."](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/ "Mr Rogers")
@@ -78,4 +78,4 @@ I agree with Jana's point about trying rather than just thinking, though of cour
 8. With most engagement rates for those channels falling <5%, it's no wonder everyone's reluctant to respond to this newsletter... Sidenote, are any of you actually instagram famous?
 9. I'm not an advocator of the delete facebook trend but assume some of you might be. I think there's value in using it, but as with most things you need to be aware of how you use it. It would be significantly more difficult for me to host events without it. Either way, it's helpful to know who owns what if you're trying to avoid a company...
 10. Character from the Avengers movie, if you weren't aware.
-11. The article says 25 tons, but I checked with [the artists themselves](http://www.matterdesignstudio.com/#/walking-assembly/ "matter design studio") and the combined weight is actually ~6.5 tons. Still interesting concept though.
+11. The article says 25 tons, but I checked with [the artists themselves](http://www.matterdesignstudio.com/#/walking-assembly/ "matter design studio") and the combined weight is actually ~6.5 tons. Still interesting concept though. Also serves to demonstrate how much writers want to believe their own story. 
