@@ -34,7 +34,7 @@ People are already taking sides in the income sharing agreement trend, viewing i
 
 > There are three major themes in particular that get us excited for the future of ISAs: aggregation, novel incentive structures, and crypto.
 
-Seems like our narrative of higher education could change. I don't have a strong view here yet \[4\] but it seems to be a positive trend. I don't think anyone is forcing themselves to attend Lambda, and the job placement rate seems encouraging. Though I'd think college shouldn't just be for getting you a job... 
+Seems like our narrative of higher education could change. I don't have a strong view here yet \[4\] but it seems to be a positive trend. I don't think anyone is forcing themselves to attend Lambda, and the job placement rate seems encouraging. Though I'd think college shouldn't just be for getting a job... 
 
 What can we believe in then? What is more likely to stand the test of time? Peter Kaufman wrote about three buckets he uses to find principles that last. Jana Vembunarayanan analyses it [here](https://janav.files.wordpress.com/2016/07/threebucketframework.pdf "jana on kaufman") \[5\] . There's quite a few examples in Jana's piece that I'd push back on, but below are some interesting ideas:
 
