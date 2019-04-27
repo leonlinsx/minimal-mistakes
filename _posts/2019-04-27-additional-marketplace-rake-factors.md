@@ -18,7 +18,7 @@ I had additional thoughts:
     * E.g. Hotel loyalty program average ~3% of rev in increased costs for the hotel
     * E.g. Seamless' food delivery rake used to go from 12.5% to 20%, a difference of 7.5% (which is
 higher than 3%, but the average restaurant would be paying 15% and not the 12.5% rake, implying a smaller difference)
-    * E.g. I would guess that Ubereats will be charging a couple percentage points for [promotional placement of restaurants](](https://techcrunch.com/2018/12/10/uber-ads/ "uber ads") as well
+    * E.g. I would guess that Ubereats will be charging a couple percentage points for [promotional placement of restaurants](https://techcrunch.com/2018/12/10/uber-ads/ "uber ads") as well
   * I think that companies coming into a market intending to undercut their competitor also set their take rate 5%-10% lower than the prevailing incumbent
     * E.g. How booking.com came in with 10% or more lower rates to undercut its competitor and [won the market that way](https://skift.com/2012/06/25/how-booking-com-conquered-world/ "OTA history")
     * E.g. Seatgeek’s rates seems to be 5%+ lower than the incumbent based on my own benchmarking
