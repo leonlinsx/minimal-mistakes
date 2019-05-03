@@ -8,8 +8,10 @@ published: false
 
 I once read about a person so focused on efficiency, she would press the same number on the microwave to save time on heating up her meal e.g. 1:11, 2:22, 3:33. My first thought was 'wow here's someone really intense no wonder they get ahead and I'm falling behind in life'. My next thought was 'wait this habit doesn't make any sense' \[1\]. And yet it was now cited as a positive character trait by the writer of the article. It's almost as if the author wanted it to be true, wanted to believe the action was calculated.
 
-After the Notre Dame fire, a story spread that firefighters prioritised saving relics over the wooden structures, [since oak trees from Versailles were intended as replacements](https://medium.com/the-long-now-foundation/long-now-lessons-from-notre-dame-925d27441bdc "long now"). 
+After the Notre Dame fire, a story spread that firefighters prioritised saving relics over the wooden structures, [since oak trees from Versailles were intended as replacements](https://medium.com/the-long-now-foundation/long-now-lessons-from-notre-dame-925d27441bdc "long now").
+
 ![Oaks]({{ site.url }}{{ site.baseurl }}/assets/images/versailles-oaks.jpg)
+
 As the link shows, there was little substantive basis behind this. But people wanted it to be true, wanted to believe the action was deliberate.
 
 We have a strong instinct to believe in narratives \[2\], false or otherwise. We all like the story of how every action has meaning and how that one thing changed history, but that's rarely the case. Our actions have consequences, but rarely the exact consequences we want. I'm not saying to avoid anecdotes, but to be careful when reading a story. [The success story of another might not be applicable to you.](https://ofdollarsanddata.com/the-problem-with-most-financial-advice/ "financial advice")
