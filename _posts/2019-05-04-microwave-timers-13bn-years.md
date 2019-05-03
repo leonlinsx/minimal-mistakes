@@ -8,7 +8,9 @@ published: false
 
 I once read about a person so focused on efficiency, she would press the same number on the microwave to save time on heating up her meal e.g. 1:11, 2:22, 3:33. My first thought was 'wow here's someone really intense no wonder they get ahead and I'm falling behind in life'. My next thought was 'wait this habit doesn't make any sense' \[1\]. And yet it was now cited as a positive character trait by the writer of the article. It's almost as if the author wanted it to be true, wanted to believe the action was calculated.
 
-After the Notre Dame fire, a story spread that firefighters prioritised saving relics over the wooden structures, [since oak trees from Versailles were intended as replacements](https://medium.com/the-long-now-foundation/long-now-lessons-from-notre-dame-925d27441bdc "long now"). As the link shows, there was little substantive basis behind this. But people wanted it to be true, wanted to believe the action was deliberate.
+After the Notre Dame fire, a story spread that firefighters prioritised saving relics over the wooden structures, [since oak trees from Versailles were intended as replacements](https://medium.com/the-long-now-foundation/long-now-lessons-from-notre-dame-925d27441bdc "long now"). 
+
+As the link shows, there was little substantive basis behind this. But people wanted it to be true, wanted to believe the action was deliberate.
 
 We have a strong instinct to believe in narratives \[2\], false or otherwise. We all like the story of how every action has meaning and how that one thing changed history, but that's rarely the case. Our actions have consequences, but rarely the exact consequences we want. I'm not saying to avoid anecdotes, but to be careful when reading a story. [The success story of another might not be applicable to you.](https://ofdollarsanddata.com/the-problem-with-most-financial-advice/ "financial advice")
 
@@ -56,7 +58,7 @@ I agree with Jana's point about trying rather than just thinking, though of cour
 3. [Social media engagement rates](https://www.webstrategiesinc.com/blog/which-social-media-sites-get-the-most-engagement "engagement") for the aspiring influencer in you. \[8\]
 4. If you're shunning facebook because of negative news, [reminder of the FB/Insta GOOG/youtube relationship](https://spreadprivacy.com/facebook-instagram/ "FB") \[9\]
 5. How powerful is Thanos now \[10\]? How powerful should he be? [Different levels of omnipotency](https://tvtropes.org/pmwiki/pmwiki.php/Main/TheOmnipotent "omnipotency"), just like different levels of infinity
-6. [7 ton boulders you can move by hand](https://gizmodo.com/researchers-made-25-ton-boulders-they-can-move-by-hand-1834106230 "25 ton") \[11\]
+6. [7 ton boulders you can move by hand](https://gizmodo.com/researchers-made-25-ton-boulders-they-can-move-by-hand-1834106230 "25 ton") \[11\]. I think the intersection of art and utility here is interesting.
 7. [This article on AI in China](https://chinai.substack.com/p/chinai-48-year-1-of-chinai "AI china") merits its own section, but I think you're bored of me writing about AI 3 months in a row so I'll just pick highlights:
     > ‘China has a fairly deep awareness of what’s happening in the English-speaking world, but the opposite is not true,’ says Ng.”
     
