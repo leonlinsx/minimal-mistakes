@@ -1,7 +1,7 @@
 ---
 title:  "Set a microwave timer for 13.7bn yrs"
 tags: [narrative, beliefs, economics, ISA, frameworks, AI, finance]
-published: false
+published: true
 ---
 
 *\*This is an adapted post from my email newsletter*\*
