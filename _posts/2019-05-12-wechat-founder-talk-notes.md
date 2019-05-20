@@ -1,7 +1,7 @@
 ---
 title:  "Wechat founder talk notes"
-tags: [tech, wechat]
-published: false
+tags: [tech, wechat, china]
+published: true
 ---
 
 Wechat creator Allen Zhang \[1\] gave a long speech early this year about the app. The chinese version can be found [here](https://mp.weixin.qq.com/s?__biz=MjM5NTE4Njc4NQ==&mid=2657617314&idx=1&sn=be4f256844b9dd5623a8719d1dbc0c71 "chinese"), and wechat also published an english translation [here](https://blog.wechat.com/2019/03/18/what-is-wechats-dream-wechat-founder-allen-zhang-explains/#more-5481 "english"). Below are some takeaways I had:
