@@ -1,5 +1,5 @@
 ---
-title:  "Wechat founder talk notes"
+title:  "Wechat creator talk notes"
 tags: [tech, wechat, china]
 published: true
 ---
