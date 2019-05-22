@@ -26,6 +26,7 @@ Below are the blogs, books, and more that I've liked. Not presented in any parti
 
 ### China sites
 1. [Michael Pettis](https://carnegieendowment.org/chinafinancialmarkets/ "Pettis") is fantastic for broader China economic thinking and fixing misconceptions
+2. [China Law Translate](https://www.chinalawtranslate.com/en/ "China Law Translate") does great work on Chinese laws. Start with their extensive work around misconceptions of Social Credit [here](https://www.chinalawtranslate.com/en/social-credit-documents/ "Social Credit")
 
 ### Tech sites
 1. [a16z](https://a16z.com/ "Andreesen Horowitz") is one of the best known VC firms and puts out frequent content on tech
