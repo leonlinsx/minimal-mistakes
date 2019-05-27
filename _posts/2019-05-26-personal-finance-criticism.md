@@ -4,7 +4,7 @@ tags: [finance]
 published: false
 ---
 
-*/*Disclaimer: The below is an opinion and for information purposes only. It is not intended to be investment advice. Seek a duly licensed professional for investment advice. */*
+*/*Disclaimer: The below is an opinion and for information purposes only. It is not intended to be investment advice. Seek a duly licensed professional for investment advice. /**
 
 Everyone wants to get rich quick. I do too. Fortunately the typical 'get rich quick' scheme is easy to spot, and most of us do not fall for them \[1\]. 
 
