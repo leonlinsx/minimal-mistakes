@@ -26,7 +26,7 @@ I agree with Nick on this. There is too much financial clickbait online providin
 
 ![Search2]({{ site.url }}{{ site.baseurl }}/assets/images/search-become-million.PNG)
 
-I highly doubt even 10% of the authors for those 80 million search results are millionaires themselves. Which brings us to another point Nick makes: considering the hypothetical scenario on hindsight is nice, but usually unrealistic \[2\]. Critics of contemporary art like to say "I could do that", a simple response is ["But you didn't."](https://www.theodysseyonline.com/stop-modern-art "art") \[3\] Similarly, the majority of financial advice posts promoting an imaginary scenario as *the* winning strategy conveniently avoid the fact that the author *didn't* implement that strategy.
+I highly doubt even 10% of the authors for those 80 million search results are millionaires themselves. Which brings us to another point Nick makes: considering the hypothetical scenario on hindsight is nice, but usually unrealistic \[2\]. Critics of contemporary art like to say "I could do that" whenever seeing a strange piece; a simple defense agains that is to respond ["But you didn't."](https://www.theodysseyonline.com/stop-modern-art "art") \[3\] Similarly, the majority of financial advice posts promoting an imaginary scenario as *the* winning strategy conveniently avoid the fact that the author *didn't* implement that strategy.
 
 I also like Nick's take on the advice:
 
@@ -38,17 +38,17 @@ And Morgan gives the following advice:
 
 > 1. Accepting that living below your means requires suppressing your ego to below your income.
 
-This is simple, but difficult. Think of the number of [celebrities who end up broke](https://www.businessinsider.com/rich-famous-celebrities-who-lost-all-their-money-2018-5 "celebs"), some spending more money in a year than I think I'd need in a lifetime. Of course I *want* to eat at [Osteria Francescana](https://www.theworlds50best.com/list/1-50-winners "50 best"), buy [that bottle of Willett](https://punchdrink.com/articles/willett-rye-whiskey-is-for-diehards-pappy-van-winkle/ "willett"), or go on that vacation in Prague. But I need to control my spending habits to what I *should* spend on \[4\].
+    This is simple, but difficult. Think of the number of [celebrities who end up broke](https://www.businessinsider.com/rich-famous-celebrities-who-lost-all-their-money-2018-5 "celebs"), some spending more money in a year than I think I'd need in a lifetime. Of course I *want* to eat at [Osteria Francescana](https://www.theworlds50best.com/list/1-50-winners "50 best"), buy [that bottle of Willett](https://punchdrink.com/articles/willett-rye-whiskey-is-for-diehards-pappy-van-winkle/ "willett"), or go on that vacation in Prague. But I need to control my spending habits to what I *should* spend on \[4\].
 
 > 3. Avoiding trouble to begin with.
 
 > 4. Utilize low-status, high-efficiency services.
 
-Both of these are related. I'm a fan of [Charlie Munger's belief in avoiding stupidity](https://fs.blog/2014/06/avoiding-stupidity/ "avoid"), and just staying out of situations which have high potential to turn on you. If you do decide to get involved in whatever speculative activity, put in the amount you're totally comfortable losing.
+    Both of these are related. I'm a fan of [Charlie Munger's belief in avoiding stupidity](https://fs.blog/2014/06/avoiding-stupidity/ "avoid"), and just staying out of situations which have high potential to turn on you. If you do decide to get involved in whatever speculative activity, put in the amount you're totally comfortable losing.
 
 > 6. Pick a career that may not be your passion but pays a decent wage.
 
-This was interesting. I've linked before about [the passion trap](http://www.calnewport.com/blog/2010/10/16/the-passion-trap-how-the-search-for-your-lifes-work-is-making-your-working-life-miserable/ "Cal Newport"). It's nice to see Morgan Housel also give realistic advice. If I followed my passion I'd be opening my own small speakeasy with a dance floor. I'd also be closing that speakeasy in a year's time after running out of cash. 
+    This was interesting. I've linked before about [the passion trap](http://www.calnewport.com/blog/2010/10/16/the-passion-trap-how-the-search-for-your-lifes-work-is-making-your-working-life-miserable/ "Cal Newport"). It's nice to see Morgan Housel also give realistic advice. If I followed my passion I'd be opening my own small speakeasy with a dance floor. I'd also be closing that speakeasy in a year's time after running out of cash. 
 
 Everyone wants to get rich. I do too. But there's good and bad advice, some misleading and some not. There's simple advice, but it's not easy.
 
