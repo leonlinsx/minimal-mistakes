@@ -4,6 +4,8 @@ main:
      url: /year-archive/
    - title: "About me"
      url: /about-me/
+   - title: "Top posts"
+     url: /top-posts/  
    - title: "Resources"
      url: /resources/
   # - title: "Quick-Start Guide"
