@@ -1,7 +1,7 @@
 ---
-title:  "Critique of personal finance articles"
+title:  "Becoming a millionaire in 80 million ways"
 tags: [finance]
-published: false
+published: true
 ---
 
 *\*Disclaimer: The below is an opinion and for information purposes only. It is not intended to be investment advice. Seek a duly licensed professional for investment advice.\**
