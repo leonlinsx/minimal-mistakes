@@ -81,12 +81,12 @@ Oh hey a callback to the first topic above.
 > If you're an expert and in a predictable place, go for it. If you're in an unpredictable place, you have to realise that, as everything will go off the rails. If you find yourself in a meeting and there's someone disagreeing with you, that's great because you now have two perspectives. Get better at catching yourself drawing conclusions too quickly. 
 
 **Miscellaneous**
-1. [How the Cretaceous Period seashore affects how Alabama votes.](https://www.reddit.com/r/MapPorn/comments/blwlig/the_cretaceous_period_145_to_66_million_years_ago/ "cretaceous") More context [here](http://www.deepseanews.com/2012/06/how-presidential-elections-are-impacted-by-a-100-million-year-old-coastline/ "deep sea news")
+1. [How the Cretaceous Period seashore affects how Alabama votes.](https://www.reddit.com/r/MapPorn/comments/blwlig/the_cretaceous_period_145_to_66_million_years_ago/ "cretaceous") The green on the left is the old seashore; red/blue on the right is party votes. More context [here](http://www.deepseanews.com/2012/06/how-presidential-elections-are-impacted-by-a-100-million-year-old-coastline/ "deep sea news")
     
     ![Seashore]({{ site.url }}{{ site.baseurl }}/assets/images/seashore-elections.jpg)
 2. [Progress in Virtual Reality](https://www.reddit.com/r/gaming/comments/bjmhrr/if_you_think_ready_player_one_isnt_happening_in/ "VR")
     
-    <iframe src='https://gfycat.com/ifr/BriskHoarseKentrosaurus' frameborder='0' scrolling='no' allowfullscreen width='640' height='584'></iframe><p> <a href="https://gfycat.com/briskhoarsekentrosaurus">via Gfycat</a></p>
+    ![VR]({{ site.url }}{{ site.baseurl }}/assets/images/vr-progress.gif)
 3. Given the rise of JUUL and alternatives, it's encouraging to see studies showing ["E-cigarettes were more effective for smoking cessation than nicotine-replacement therapy"](https://www.nejm.org/doi/full/10.1056/NEJMoa1808779 "nejm")
 4. ["Gobi Heaven is not the first attempt to profitably copycat Burning Man in China"](https://chinachannel.org/2019/04/26/chinese-burning-man/ "chinese burn")
 5. Psych studies usually have [replication issues](https://www.leonlinsx.com/replicability-crisis/ "replicability"), but caveat aside, [experiencing awe might increase pro-social behaviour](https://greatergood.berkeley.edu/article/item/how_awe_makes_us_generous "awe")
