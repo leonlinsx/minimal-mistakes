@@ -58,7 +58,7 @@ I don't like linking to podcasts since they're more attention intensive than tex
 
 > Over time, you develop an increasing view of the world. Earlier in our lives we're absorbed with the perspectives outside of us, and look outside to see what to do, we take them in as our own. As the world gets more complex, we move from this socialised system to a self authored one, we write our own story with our own internal system. Over time, even that breaks down for some people, we give up the protection of a single system of our own, and in a self transforming system it's about looking across multiple stakeholders and create new possibilities people stuck in their own perspectives cannot see.
 
-I didn't have time to dig into this but it was an interesting framework to think about. This comes from Keegan's theory of adult development \[5\].
+I didn't have time to dig into this but it was an interesting framework to think about. This comes from Kegan's theory of adult development \[5\].
 
 > So many leadership courses ask you to name your own values, as though that's something you discover, compared to something that you become as you find it. You don't say to little children "I'm dissapointed you're not running like an 18 year old" but we say that to adults all the time.
 
@@ -94,4 +94,4 @@ Oh hey a callback to the first topic above.
 2. Naturally, there are critics of Philip's work, with Nassim Taleb being a particularly outspoken one. Both have published books and tweeted about their work, if you're interested in digging in further.
 3. I'm not saying you should change your mind all the time. But it is remarkable the number of people who will claim they have 'strong opinions, weakly held' that also can't say the last time they've had a change in opinion. 
 4. Emphasis on *think*. Most people, myself included, are bad at knowing what's best for ourselves.
-5. For further reading, check out [this medium post](https://medium.com/@NataliMorad/how-to-be-an-adult-kegans-theory-of-adult-development-d63f4311b553 "medium") that was the highest ranking search result. I can't find the original papers and am annoyed.
+5. For further reading, check out [this medium post](https://medium.com/@NataliMorad/how-to-be-an-adult-kegans-theory-of-adult-development-d63f4311b553 "medium") that was the highest ranking search result. I can't find the original papers and am annoyed by that.
