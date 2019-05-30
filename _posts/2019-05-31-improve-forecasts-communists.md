@@ -24,7 +24,7 @@ Because of the lack of accountability in forecasting, incentives are skewed towa
 
 > The integrators outperformed their colleagues in pretty much every way, but especially trounced them on long-term predictions. Eventually, Tetlock bestowed nicknames (borrowed from the philosopher Isaiah Berlin) on the experts he’d observed: The highly specialized hedgehogs knew “one big thing,” while the integrator foxes knew “many little things.”
 
-Some of you might have seen this fox vs hedgehog comparison before. It's somewhat similar to the [specialists vs generalists](https://www.leonlinsx.com/specialists-vs-generalists/) framework I've commented on before. However, though foxes are supposedly better at predicting, I still think that you generally get rewarded more for being a hedgehog. The perception of ability might be more important than having ability. Would be interested to hear your take on that.
+You might have seen this fox vs hedgehog comparison; it's somewhat similar to the [specialists vs generalists](https://www.leonlinsx.com/specialists-vs-generalists/) framework I've commented on before. However, though foxes are supposedly better at predicting, I still think that you generally get rewarded more for being a hedgehog. The perception of ability might be more important than having ability. Would be interested to hear your take on this.
 
 > Tetlock and Mellers found that not only were the best forecasters foxy as individuals, but they tended to have qualities that made them particularly effective collaborators. They were “curious about, well, really everything,” as one of the top forecasters told me. They crossed disciplines, and viewed their teammates as sources for learning, rather than peers to be convinced.
 
@@ -52,7 +52,7 @@ If I was a ship captain and knew that all that mattered was exceeding my mass ta
 
 > \[A fisherman\] warned the minister that if the whaling practices didn’t change, their grandchildren would live in a world with no whales at all. “Your grandchildren?” Ishkov scoffed. “Your grandchildren aren’t the ones who can remove me from my job.”
 
-Even in a communist system, people react to incentives (of course they do!) and will try to optimise for what they think is the best case outcome for themselves \[4\]. As I've written before, understanding what and how people are motivated is key to understanding why systems end up with the outcomes they do. If you think this can't happen in today's world, think about how company executives are incentivised to run companies and what metrics they are measured by.
+Even in a communist system, people react to incentives (of course they do!) and will try to optimise for what they think is the best case outcome for themselves \[4\]. As I've written before, understanding what and how people are motivated is key to understanding why systems end up with the outcomes they do. If you think such an outcome can't happen in today's world, think about how company executives are incentivised to run companies and what metrics they are measured by.
 
 **Better mental habits by Jennifer Berger**
 
@@ -70,11 +70,11 @@ I didn't have time to dig into this but it was an interesting framework to think
 
 Oh hey a callback to the first topic above.
 
-> We tend to be looking for the root cause of something, but in complex things there's not root cause for anything.
+> We tend to be looking for the root cause of something, but in complex things there's no root cause for anything.
 
 > In a predictable, linear world, one unit of effort leads to one unit of return. In a complex world, you don't know, and you're always feeling around to figure out what little thing will lead to an outsized effect.
 
-> You can't tell in a brain scan between recognising an opinion vs a fact.
+> You can't tell in a brain scan between people recognising an opinion vs a fact.
 
 > Seek systems, take multiple perspectives, and ask questions to develop.
 
@@ -87,7 +87,7 @@ Oh hey a callback to the first topic above.
 2. [Progress in Virtual Reality](https://www.reddit.com/r/gaming/comments/bjmhrr/if_you_think_ready_player_one_isnt_happening_in/ "VR")
     
     ![VR]({{ site.url }}{{ site.baseurl }}/assets/images/vr-progress.gif)
-3. Given the rise of JUUL and alternatives, it's encouraging to see studies showing ["E-cigarettes were more effective for smoking cessation than nicotine-replacement therapy"](https://www.nejm.org/doi/full/10.1056/NEJMoa1808779 "nejm")
+3. [Given the rise of JUUL and alternatives](https://medium.com/swlh/juul-the-business-and-the-blueprint-8ebfd9d2cb07 "juul"), it's encouraging to see studies showing ["E-cigarettes were more effective for smoking cessation than nicotine-replacement therapy"](https://www.nejm.org/doi/full/10.1056/NEJMoa1808779 "nejm")
 4. ["Gobi Heaven is not the first attempt to profitably copycat Burning Man in China"](https://chinachannel.org/2019/04/26/chinese-burning-man/ "chinese burn")
 5. Psych studies usually have [replication issues](https://www.leonlinsx.com/replicability-crisis/ "replicability"), but caveat aside, [experiencing awe might increase pro-social behaviour](https://greatergood.berkeley.edu/article/item/how_awe_makes_us_generous "awe")
 
