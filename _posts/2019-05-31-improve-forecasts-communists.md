@@ -1,7 +1,7 @@
 ---
 title:  "Improving forecasts and incentivising communists"
 tags: [forecast, psychology, china, environment, incentives, vr]
-published: false
+published: true
 ---
 
 *\*This is an adapted post from my email newsletter. Sign up [here](https://avoidboringpeople.substack.com/ 'sign up')*\*
