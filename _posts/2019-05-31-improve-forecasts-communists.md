@@ -1,6 +1,6 @@
 ---
 title:  "Improving forecasts and incentivising communists"
-tags: [forecast, psychology, china, environment, incentives]
+tags: [forecast, psychology, china, environment, incentives, vr]
 published: false
 ---
 
@@ -48,11 +48,11 @@ Why did this happen then? The full story shows the power of incentives working i
 
 > Whaling fleets that met or exceeded targets were rewarded handsomely, their triumphs celebrated in the Soviet press and the crews given large bonuses. But failure to meet targets came with harsh consequences. 
 
-If I was a ship captain and knew that all that mattered was exceeding my mass target year over year, of course I'd do everything I can to do so. Why bother about whether my catch actually gets used, or the long-term consequences of my fishing, as long as I was rewarded?
+If I was a ship captain and knew that all that mattered was exceeding my mass target year over year, of course I'd do everything I can to do so. Why bother about what my catch is used for, or the long-term consequences of my fishing, as long as I was rewarded?
 
 > \[A fisherman\] warned the minister that if the whaling practices didn’t change, their grandchildren would live in a world with no whales at all. “Your grandchildren?” Ishkov scoffed. “Your grandchildren aren’t the ones who can remove me from my job.”
 
-Even in a communist system, people react to incentives (of course they do!) and will try to optimise for what they think is the best case outcome for themselves \[4\]. As I've written before, understanding what and how people are motivated is key to understanding why systems end up with the outcomes they do. If you think such an outcome can't happen in today's world, think about how company executives are incentivised to run companies and what metrics they are measured by.
+Even in a communist system, people react to incentives (of course they do!) and will try to optimise for what they think is the best case outcome for themselves \[4\]. As I've written before, understanding what and how people are motivated is key to understanding why systems end up with the outcomes they do. If you think such a scenario can't happen in today's world, think about how company executives are incentivised to run companies and what metrics they are measured by.
 
 **Better mental habits by Jennifer Berger**
 
@@ -60,7 +60,7 @@ I don't like linking to podcasts since they're more attention intensive than tex
 
 > Over time, you develop an increasing view of the world. Earlier in our lives we're absorbed with the perspectives outside of us, and look outside to see what to do, we take them in as our own. As the world gets more complex, we move from this socialised system to a self authored one, we write our own story with our own internal system. Over time, even that breaks down for some people, we give up the protection of a single system of our own, and in a self transforming system it's about looking across multiple stakeholders and create new possibilities people stuck in their own perspectives cannot see.
 
-I didn't have time to dig into this but it was an interesting framework to think about. This comes from Kegan's theory of adult development \[6\].
+I didn't have time to dig into this but it was an interesting framework to think about. This comes from Kegan's theory of adult development \[6\] if you want to dig in further.
 
 > So many leadership courses ask you to name your own values, as though that's something you discover, compared to something that you become as you find it. You don't say to little children "I'm dissapointed you're not running like an 18 year old" but we say that to adults all the time.
 
@@ -74,11 +74,13 @@ Oh hey a callback to the first topic above.
 
 > In a predictable, linear world, one unit of effort leads to one unit of return. In a complex world, you don't know, and you're always feeling around to figure out what little thing will lead to an outsized effect.
 
-> You can't tell in a brain scan between people recognising an opinion vs a fact.
+> You can't tell tell the difference in brain scans of people recognising an opinion vs a fact.
 
 > Seek systems, take multiple perspectives, and ask questions to develop.
 
-> If you're an expert and in a predictable place, go for it. If you're in an unpredictable place, you have to realise that, as everything will go off the rails. If you find yourself in a meeting and there's someone disagreeing with you, that's great because you now have two perspectives. Get better at catching yourself drawing conclusions too quickly. 
+> If you're an expert and in a predictable place, go for it. If you're in an unpredictable place, you have to realise that, as everything will go off the rails. If you find yourself in a meeting and there's someone disagreeing with you, that's great because you now have two perspectives. Get better at catching yourself drawing conclusions too quickly.
+
+With the popularity of [root cause analysis](https://asq.org/quality-resources/root-cause-analysis "rca") being taught in business schools, I like how she points out that complex situations may not have a root cause. We all prefer simple cause and effect loops, such as blaming a politician for the economy or an event for subsequent consequences. This is convenient but usually mistaken. 
 
 **Miscellaneous**
 1. [How the Cretaceous Period seashore affects how Alabama votes.](https://www.reddit.com/r/MapPorn/comments/blwlig/the_cretaceous_period_145_to_66_million_years_ago/ "cretaceous") The green on the left is the old seashore; red/blue on the right is party votes. More context [here](http://www.deepseanews.com/2012/06/how-presidential-elections-are-impacted-by-a-100-million-year-old-coastline/ "deep sea news")
@@ -92,7 +94,7 @@ Oh hey a callback to the first topic above.
 5. Psych studies usually have [replication issues](https://www.leonlinsx.com/replicability-crisis/ "replicability"), but caveat aside, [experiencing awe might increase pro-social behaviour](https://greatergood.berkeley.edu/article/item/how_awe_makes_us_generous "awe")
 
 **Footnotes**
-1. Some famous quotes [here](https://en.wikiquote.org/wiki/Incorrect_predictions) and [here](https://www.theatlantic.com/magazine/archive/2015/05/the-big-question/389582/) showing how predicting the future is hard, even for people who are experts in their field. I'm listing this not to shame; I'd probably have been even more wrong in their situation.
+1. Some famous quotes [here](https://en.wikiquote.org/wiki/Incorrect_predictions) and [here](https://www.theatlantic.com/magazine/archive/2015/05/the-big-question/389582/) showing how predicting the future is hard, even for people who are experts in their field. I'm not listing this to shame; I'd probably have been even more wrong in their situation.
 2. Naturally, there are critics of Philip's work, with Nassim Taleb being a particularly outspoken one. Both have published books and tweeted about their work, if you're interested in digging in further.
 3. I'm not saying you should change your mind all the time. But it is remarkable the number of people who will claim they have 'strong opinions, weakly held' that also can't say the last time they've had a change in opinion. 
 4. Emphasis on *think*. Most people, myself included, are bad at knowing what's best for ourselves.
