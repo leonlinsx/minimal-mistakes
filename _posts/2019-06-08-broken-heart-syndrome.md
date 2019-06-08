@@ -1,6 +1,6 @@
 ---
-title:  "Death"
-tags: [science]
+title:  "Broken heart syndrome"
+tags: [science, death]
 published: false
 ---
 
@@ -32,7 +32,7 @@ But there are some touching findings:
 
 > Although medical researchers may not be able to pinpoint where that surge of willpower \[to live longer\] comes from, they have shown evidence for people’s remarkable ability to hold on and let go at will. 
 
-And other experiments that hint at how we view our partners:
+And other experiments that hint at how we view our partners. I believe [this](https://news.virginia.edu/content/shocking-new-research-finds-friendships-are-key-good-health "virginia") is the study being referenced below: 
 
 > volunteers’ brain patterns were indistinguishable when the threat was directed at them or their partner. That wasn’t true when holding a stranger’s hand. “As far as your brain is concerned, a partner is not just metaphorically, but literally, a part of who you are,” he says.
 
@@ -44,10 +44,13 @@ There are three features of love:
 
 > Sex, too, activates the dopamine system, and orgasms send a flood of oxytocin into the bloodstream. 
 
-The loss of all three of these when you lose a partner is devastating. 
+The loss of all three of these when you lose a partner is devastating. If you or someone you know has recently lost a partner, there are resources online on [how to help](https://www.huffpost.com/entry/grieving-national-widows-day_n_5908c1dee4b02655f8415065 "widows day") or [how to handle](https://www.nytimes.com/2019/04/11/business/widows-financial-planning-retirement.html "widows") such a situation. \[5\] 
+
+Lastly, if you or someone you know is suicidal because of this, please reach out for help! If you feel that even calling in the suicide prevention line is too difficult, check out the texting service [Crisis Text Line.](https://www.crisistextline.org/ "CTL")
 
 **Footnotes**
 1. In english though! My french is so bad that when I try to introduce myself in French stores the other party immediately switches to English without prompting...
 2. People debate about how to translate this, the first sentence especially. A top ranked search result [from the New Yorker's Ryan Bloom](https://www.newyorker.com/books/page-turner/lost-in-translation-what-the-first-line-of-the-stranger-should-be "new yorker") prefers "Today, Maman died". Others use "Maman died today" or "Mother died today". I prefer "Mama died today" and think that it addresses the issue of "Mother" being too distant vs "Maman" being a foreign word, and also reads nicely with "Or yesterday" coming right after "died today". But what do I know, I never took literature beyond middle school so this is all conjecture here.   
 3. As I've stressed before, I'm not a scientist or statistician and could very well be reading this wrongly.
 4. Also, I wasn't able to find a time period for when a death counted for the studies involved in the meta-analysis. I mean, presumably most of these people died by the time the meta-analysis was done, so what cutoff time frame was used? 
+5. Thankfully, I've not needed to use the advice from these resources, but that also means I'm unsure if these are the current best ways of dealing with grief. Let me know if you find better ones.
