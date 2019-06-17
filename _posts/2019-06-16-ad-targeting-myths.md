@@ -4,7 +4,7 @@ tags: [tech, ads]
 published: true
 ---
 
-People rightfully have privacy and other concerns in the current age of location sharing and targeting, which has been catalysed by GPS. The ability of ad targeting based on location is usually misunderstood, as these articles on [street fight] (https://streetfightmag.com/2019/03/07/four-targeting-myths-that-devalue-the-real-power-of-location-data/) and [digiday](https://digiday.com/marketing/confessions-location-data-exec/) detail below. The accuracy, efficacy, and scale of location targeting is lower than you might think.
+People rightfully have privacy and other concerns in the current age of location sharing and targeting, which has been catalysed by GPS. The ability of ad targeting based on location is usually misunderstood, as these articles on [street fight](https://streetfightmag.com/2019/03/07/four-targeting-myths-that-devalue-the-real-power-of-location-data/) and [digiday](https://digiday.com/marketing/confessions-location-data-exec/) detail below. The accuracy, efficacy, and scale of location targeting is lower than you might think.
 
 Per Street Fight:
 
@@ -34,7 +34,7 @@ Similar to the misconception that Facebook sells your data \[3\], publishers wou
 
 > Who goes into a shop with their phone in-hand looking at a publisher site? That’s not how people behave when they’re shopping. And yet there are location data vendors who are selling data sets of people who are more likely to go into a shop after seeing an ad.
 
-With the lack of alternative measurement targets, store visit changes post ad campaign runs seem to be the default metric to track. I can kinda see the rationale for this though. For example, if I run a campaign for a sale that only appears to viewers of the ad, is claimed in-store, and isn't advertised anywhere else. I get their point that this is an inaccurate measure though. 
+With the lack of alternative measurement targets, store visit changes post ad campaign runs seem to be the default metric to track. I can kinda see the rationale for this data vendor claiming this though. For example, if I run a campaign for a sale that only appears to viewers of the ad, is claimed in-store, and isn't advertised anywhere else. I get Digiday's point that this is an inaccurate measure though. 
 
 **Footnotes**
 1. Different from user accuracy, according to the site. Seems like URE plays a factor into user accuracy but is not the only item.
