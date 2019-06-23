@@ -1,5 +1,5 @@
 ---
-title:  "Tim's Vermeer 
+title:  "Tim's Vermeer and controversy"  
 tags: [art, tech]
 published: false
 ---
