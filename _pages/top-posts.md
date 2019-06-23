@@ -15,3 +15,5 @@ If you're figuring out whether I'm worth the time to read, here's a couple of to
 4. [Additional marketplace rake factors](https://www.leonlinsx.com/additional-marketplace-rake-factors/)
 
 5. [What I'd want to learn in investment banking](https://www.leonlinsx.com/banking-knowledge-base/)
+
+I also have a monthly newsletter [here](https://avoidboringpeople.substack.com/ "sign up link") that summarises interesting things I've come across for the month.
