@@ -1,7 +1,7 @@
 ---
 title:  "Tim's Vermeer and controversy"  
 tags: [art, tech]
-published: false
+published: true
 ---
 
 I just learnt about [Tim's Vermeer](https://sonyclassics.com/timsvermeer/ "website"), a documentary by Penn and Teller about [inventor Tim Jenison's attempt to reproduce a Vermeer using technology advanced for Vermeer's time](https://en.wikipedia.org/wiki/Tim%27s_Vermeer "wiki link"). The premise sounded interesting, so I looked up the film online, and became even more interested when I learnt about the controversy the film had generated. I still haven't watched the film, as I've found digging into the controversy and what it implies to be fascinating. 
