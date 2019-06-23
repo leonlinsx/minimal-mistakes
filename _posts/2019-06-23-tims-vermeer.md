@@ -68,7 +68,11 @@ I also agree with [Teller's thoughts](https://www.npr.org/2013/12/02/248190117/t
 
 I have more appreciation for critics of the process. Not knowing art well, I can't judge whether the criticisms are valid, but if they are, they seem to debunk the Hockney and Steadman theories above \[4\]. This is a fairer take on the movie, focusing on 'in light of these other facts, it's more likely Vermeer did this' rather than 'tech isn't art'. 
 
-Whether Vermeer really used Tim's process is not the point; it is the possibility that Vermeer *could* have used Tim's process. Critics that do not consider this and instead attack the 'artfulness' of Tim's work seem to have an irrational fear of the explainable. Not all good art may be analysed, but trying to do so is something we should encourage, not discourage.
+Whether Vermeer really used Tim's process is not the point; it is the possibility that Vermeer *could* have used Tim's process. Critics that do not consider this and instead attack the 'artfulness' of Tim's work seem to have an irrational fear of the explainable. Not all good art may be analysed, but trying to do so is something we should encourage, not discourage. \[6\]
+
+For another in-depth article on this, check out [this link](http://www.davidbordwell.net/blog/2014/02/03/i-am-a-camera-sometimes-tims-vermeer/ "david bordwell")
+
+*If you like this, you might like my [monthly newsletter](https://avoidboringpeople.substack.com/ "ABP")*
 
 **Footnotes** 
 1. See also ["What makes Vermeer a great artist? Some would say that Vermeer’s use of color sets him apart, that his unabashed use of expensive and natural pigments resulted in rich expressions of everyday life, more beautiful and perfect than the thing itself. Some say that it was his innate capacity to achieve uncanny realism without any formal training, whatsoever. Others will argue that his poetic use of light and shadow to highlight certain compositional elements makes him unique."](https://www.santafe.edu/events/painting-and-optics-17th-century-discussion-and-sc "santa fe vermeer")
@@ -76,3 +80,4 @@ Whether Vermeer really used Tim's process is not the point; it is the possibilit
 3. [This link](http://www.howtotalkaboutarthistory.com/wp-content/uploads/2016/11/vermeer-big.png "comps") has Tim's version on the left and Vermeer's version on the right, taken from [this site](http://www.howtotalkaboutarthistory.com/reader-questions/tims-vermeer-artistic-genius/ "vermeer review")
 4. The art history news site has a comment saying the use of underpainting and glaze are among other signs that Hockney and Steadman's theories are wrong. It also directs to a Nat Gallery article on [Vermeer's painting techniques](https://www.nationalgallery.org.uk/paintings/research/meaning-of-making/vermeer-and-technique/paint-application "Nat Gallery") that backs up the comment
 5. Claiming that 'we have invented nothing' after viewing them, though [this paper](http://www.euskomedia.org/PDFAnlt/munibe/aa/200503217223.pdf "quote source") implies the quotes may have been invented.
+6. Having little knowledge about art, I'm bound to get flamed by someone with more experience for this article, but I stand by my points as of what I know currently. 
