@@ -1,5 +1,5 @@
 ---
-title:  "Tim, Vermeer, and Controversy"  
+title:  "Would you buy the Libra Neopet Kin token?"  
 tags: [tech, crypto, facebook, sec, securities, advice, science, instagram, AI, gender]
 published: false
 ---
@@ -24,7 +24,7 @@ Guess [special drawing rights](https://www.imf.org/en/About/Factsheets/Sheets/20
 
 > Blockchains and cryptocurrencies have a number of unique properties \[...\] These include distributed governance, which ensures that no single entity controls the network; open access, which allows anybody with an internet connection to participate; and security through cryptography, which protects the integrity of funds.
 
-This lines up with my understanding and this *super duper authoritative search result* [blockgeeks](https://blockgeeks.com/guides/what-is-blockchain-technology/ "blockgeeks") \[3\], which says a blockchain network "has no central authority \[...\] democratized system. Since it is a shared and immutable ledger, \[...\] by its very nature transparent and everyone involved is accountable for their actions." Note the distributed governance / democratized system aspects that differentiate it from being just some ledger or transaction record kept by one dude. The key innovation was that everyone can verify the system.
+This lines up with my understanding and this *super duper authoritative search result* [blockgeeks](https://blockgeeks.com/guides/what-is-blockchain-technology/ "blockgeeks") \[3\], which says a blockchain network "has no central authority \[...\] democratized system. Since it is a shared and immutable ledger, \[...\] by its very nature transparent and everyone involved is accountable for their actions." Note the distributed governance / democratized system aspects that differentiate it from being just some ledger or transaction record kept by one dude. The key innovation was that everyone can verify the system and no one is in control.
 
 > We believe that global, open, instant, and low-cost movement of money will create immense economic opportunity and more commerce across the world.
 
