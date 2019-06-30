@@ -1,14 +1,12 @@
 ---
 title:  "Would you buy the Libra Neopet Kin token?"  
 tags: [tech, crypto, facebook, sec, securities, advice, science, instagram, AI, gender]
-published: false
+published: true
 ---
 
 *This is a lightly edited version of my monthly newsletter. [Sign up here](https://avoidboringpeople.substack.com/ "ABP")*
 
 I try to avoid writing about crypto because I don't really know what's going on, am likely to be misunderstanding something, and will probably be wrong \[1\]. This month I'm making an exception because [Facebook's Libra](https://libra.org/en-US/ "Libra") project is so confusing I need to rant at length about it in the first section. The second section is about the SEC suing a crypto company, and the third is career advice. New this month is a shoutouts section for projects friends are working on!
-
-You can reply directly to this email to provide feedback. Also feel free to send to friends you think might be interested in ~~laughing at my summaries~~ reading my writing. Unsubscribe link at the bottom! 
 
 Anyway, on to Facebook. This is a long section; skip to the next if uninterested.
 
