@@ -61,7 +61,7 @@ Rather than me transferring USD to GBP, I transfer USD to Libra to GBP, and the 
 
 So does that mean we restrict transfers? Who has the authority to deny a transaction? The Libra Association? This looks less like a democratised system and more like a way to deny your Libra transaction until you watch a FB ad. If we do restrict transfers, how is the Association going to check the identity of every single customer at a low cost? Recall that this is meant to bring cheap banking to schoolteacher Suzie in the Congo. Now it seems like it's ideal for terrorist leader Tim.
 
-Maintaining the peg will be difficult but let's assume it magically works \[6\]. Suppose this stability lets Libra becomes truly global, replacing local currency entirely. I pay for FB ads in the US with Libra \[7\], order chocolate from Madagascar with Libra, and buy my chicken rice in Singapore with Libra. In this case Libra is performing the 'means of exchange' function of money. Does this make the Libra Association the world's central bank? *Why would any government intent on retaining monetary policy control allow this to happen?* How is this different from creating a bank, and all the accompanying regulations that are required? 
+Maintaining the peg will be difficult but let's assume it magically works \[6\]. Suppose this stability lets Libra becomes truly global, replacing local currency entirely. I pay for FB ads in the US with Libra \[7\], order chocolate from Madagascar with Libra, and buy my chicken rice in Singapore with Libra. In this case Libra is performing the 'means of exchange' function of money. Does this make the Libra Association the world's central bank? *Why would any government intent on retaining monetary policy control allow this to happen?* How is this different from creating a bank, and all the accompanying regulations that are required? Of all companies, for Facebook to be the one spearheading this is not a great look.
 
 Tyler Cowen had some [questions about Libra](https://marginalrevolution.com/marginalrevolution/2019/06/the-libra-reserve-discussion-of-background-documents.html "TC Libra"), and [Libra responded here.](https://threadreaderapp.com/thread/1141089260486811649.html "Libra response") I want to point out that Tyler's third and tenth questions are similar to my concerns above, and coincidentally unaddressed. 
 
@@ -104,7 +104,7 @@ Here is what the SEC wants, the penalty amount will be decided by the jury
 
 > Investors’ purchases of Kin were an investment of money, in a common enterprise, with an expectation of profits for both Kik and the offerees, derived primarily from the future efforts of Kik and others to build the Kin Ecosystem and drive demand for Kin.  Consequently, Kik’s offer and sale of Kin in 2017 was an offer and sale of securities
 
-For a completely different take on the case, check out [Fred Wilson's post](https://avc.com/2019/05/defendcrypto-org/ "AVC"), though keep in mind his VC firm is heavily invested in the crypto ecosystem.
+For a completely different take on the case, check out [Fred Wilson's post](https://avc.com/2019/05/defendcrypto-org/ "AVC"), though keep in mind his VC firm is heavily invested in the crypto ecosystem. To be clear, I’m not against crypto, just against knowing when doing something is a bad idea and doing it anyway.
 
 **Career advice**
 
