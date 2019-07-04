@@ -30,15 +30,15 @@ Having wasted thousands of dollars sending money so far, this sounds great too. 
 
 > Libra is made up of three parts that will work together to create a more inclusive financial system:
 
-> 1. It is built on a secure, scalable, and reliable blockchain;
+> One. It is built on a secure, scalable, and reliable blockchain;
 
 Alright so they're having a decentralised ledger to record the Libra you get and give. It'll be simple, quick, and cheap to transfer Libra. Still makes sense.
 
-> 2. It is backed by a reserve of assets designed to give it intrinsic value;
+> Two. It is backed by a reserve of assets designed to give it intrinsic value;
 
 This isn't a new idea, [stablecoins](https://www.cbinsights.com/research/report/what-are-stablecoins/ "stable?") have been [attempted before](https://thenextweb.com/hardfork/2019/06/27/stablecoin-projects-gold-failed/ "stable???"). Starting to get confused about how a global currency would work but let's ignore that for now. 
 
-> 3. It is governed by the independent Libra Association tasked with evolving the ecosystem.
+> Three. It is governed by the independent Libra Association tasked with evolving the ecosystem.
 
 Wait a minute, it's governed by people? What happened to "decentralised"? Maybe I misunderstood
 
@@ -49,7 +49,7 @@ Wait a minute, it's governed by people? What happened to "decentralised"? Maybe 
 Let's imagine a company whose sole purpose is to track how many virtual [neopets](http://www.neopets.com/ "this is still alive?") we have. I want to transfer a neopet, I go to the company, enter the transaction amount and recipient, and straightaway I see that I lose my neopet and my recipient has gained one \[4\]. Now let's make only 100 companies able to do this type of transaction, but for the sake of appearances have them always publish the transaction record publicly. Replace neopet with Libra. If this counts as a blockchain project we should start neopet coin as a new global currency and raise a billion dollars. It seems like Libra is a global currency controlled by 100 companies that doesn't need a blockchain in the first place \[5\]? 
 
 <figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/neopet-tiger.pgn" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/neopet-tiger.png" alt="">
   <figcaption>Behold the future of global finance. Not gonna lie it is kinda cute.</figcaption>
 </figure> 
 
@@ -110,7 +110,7 @@ I came across [an old post by Elizabeth Yin](https://elizabethyin.com/2015/11/25
 
 > tl;dr Believe in your fucking self.  That’s it.  That’s all that matters.  Everything else stems from this
 
->1. Failure opens doors to success. When one door closes, you’re forced to find another one to open, and that one could be better.
+> One. Failure opens doors to success. When one door closes, you’re forced to find another one to open, and that one could be better.
 
 There's truth to the cliche 'if you're not failing you're not trying hard enough'. Failure is awful. We don't wake up in the morning and go 'I'm thankful for my spouse and my kids and the chance to fail horribly at everything I do today'. But it's unavoidable if we're pushing ourselves. And we should be pushing ourselves. 
 
@@ -118,25 +118,25 @@ After a failure, we can keep trying, give up and try something different, or giv
 
 It's still going to suck. Believing in yourself even while everything seems to be crumbling will be hard, and sometimes impossible. And I say this as someone who's experienced one of my life's greatest failures in the past year. It's tough to get over, and maybe we never do. But we have to move on, if only a bit at a time. If we quit entirely, we lose by default. Quitting entirely is the comfortable and easy way out, but also the least rewarding. ["Man is not made for defeat. A man can be destroyed but not defeated"](https://www.goodreads.com/quotes/111352-but-man-is-not-made-for-defeat-he-said-a "Hemingway") Know the game you're playing for, and *stay in the game.*  
 
->2. Don’t worry about what other people think. Worrying about what other people think prevents you from taking risks and, by definition, limits your reward.
+> Two. Don’t worry about what other people think. Worrying about what other people think prevents you from taking risks and, by definition, limits your reward.
 
 I broadly agree with this. Most people care too much about how their friends, their friends' friends, or that random cute stranger at the rock climbing wall on Saturdays is perceiving them. [Group consensus](https://www.psychologytoday.com/us/blog/after-service/201705/the-science-behind-why-people-follow-the-crowd "social psych") is a thing after all, and usually comes with a negative connotation. We could use more self-assurance and less worrying about the subjective opinions of others.
 
 However, this can also swing to the extreme. There's plenty of examples in which a confident leader leads a country or company into ruin. I think the balance here is having a small number of trusted advisors that you can reach out to for unbiased help, and knowing when their advice is applicable or lacking full context. This takes time to build, and the people might change over the years as well.
 
->3. Persistence trumps all.  Anything worth doing is hard.  Just keep going.
+> Three. Persistence trumps all.  Anything worth doing is hard.  Just keep going.
 
 Similar to the first point above. Most things aren't easy, even if you have a passion for it \[9\]. But if you don't put in the work to get better you can only blame yourself.
 
->4. Optimize for one thing.  What you optimize for may change over time, but you can only optimize for one thing at a time.
+> Four. Optimize for one thing.  What you optimize for may change over time, but you can only optimize for one thing at a time.
 
 I don't know how I feel about this. There's more than one thing I care deeply about, and I think that's likely the case for most people. Maybe they don't have to all be in conflict, though I see her point. Another caveat is that going too far in one pursuit when younger could also lead to significant setbacks when you're older, e.g. putting off saving in tax-deferred accounts to enjoy life when you're younger is probably a bad idea.
 
->5. Find feedback buried in a haystack and improve yourself.
+> Five. Find feedback buried in a haystack and improve yourself.
 
 Similar to what I wrote about in the second point, so we're aligned on this. Getting constructive feedback sucks. Who wants to be told about their weaknesses \[10\]? However, even if we feel the feedback we've received is inaccurate, we need to realise that that is how our critic views us. It's then up to us to decide if it's worth fixing that perceived flaw or not.
 
->6. Keep perspective.  Time is actually your most important commodity, not money.  You don’t know how much more time you have, and every day that passes, it becomes even more valuable.
+> Six. Keep perspective.  Time is actually your most important commodity, not money.  You don’t know how much more time you have, and every day that passes, it becomes even more valuable.
 
 I would give multiple kidneys to be 18 again. And I'm sure I'd feel even more strongly about that the older I get. But time spent regretting the past is also time wasted. Live in the now or for the future. Don't waste too much time. \[11\]
 
