@@ -7,6 +7,7 @@ published: false
 A friend launched a new project recently, [Query News](https://query.news/ "Query"). This is a walkthrough of what the project is and some suggestions I have.
 
 **Walkthrough**
+
 What is Query trying to be? [Based on their own words:](https://query.news/s/we-launched-kinda)
 
 > Would it be accurate to describe this as Quora for timely news? 
@@ -42,6 +43,7 @@ You can browse the current list of topics and questions yourself [here](https://
 On to questions and suggestions!
 
 **Questions**
+
 1. How is this different from Quora, [Hacker News](https://news.ycombinator.com/ "HN"), or [Reddit](https://www.reddit.com/)?
     * Seems like there's an intent to be more collaborative than Quora (see above), so I assume they'll create a feature allowing multiple editors to answer a question
     * If so, I'm guessing they won't allow threaded conversations, instead consolidating everything into one answer per question. This would be different from Hacker News and Reddit
@@ -66,6 +68,7 @@ On to questions and suggestions!
     * I'm unsure if having an upvote/downvote systems like Quora or Reddit defeats the purpose of the site
     
 **Suggestions**
+
 1. Pinning the [Query self-referential Q&A page](https://query.news/s/we-launched-kinda/ "Query Q&A") on the front page. Someone landing on the home page for the first time won't have a good idea of what the site is supposed to be about. Having an "About" tab right up top will probably help people understand what the site is trying to do, and it could be a simple link to the Q&A page.
 
 ![Sticky]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-sticky.png)
