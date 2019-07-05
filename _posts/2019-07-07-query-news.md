@@ -38,7 +38,9 @@ It doesn't seem like you can answer questions directly yourself at the moment, b
 
 ![Suggestion]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-suggestions.png)
 
-You can browse the current list of topics and questions yourself [here](https://query.news/ "Query"), and see if there's any you'd like to comment on. This seems like an interesting idea! Most news is one-sided, seeking to broadcast a message to the masses. The comments section online is usually a disaster. By making discussion the focus of the site rather than a tacked-on product, hopefully it leads to more productive use cases. If you've ever read something and wondered 'but what about X', Query would be helpful for you. 
+You can browse the current list of topics and questions yourself [here](https://query.news/ "Query"), and see if there's any you'd like to comment on. This seems like an interesting idea! Most news is one-sided, seeking to broadcast a message to the masses. The comments section online is usually a disaster. By making discussion the focus of the site rather than a tacked-on product, hopefully it leads to more productive use cases. If you've ever read something and wondered 'but what about X', Query would be helpful for you.
+
+What might this look like at scale? It could have separate sections by topic area, with verified accounts posting new articles, receiving questions from interested readers, and then answering those questions. It would make Query *the site* for real-time information on a variety of topics, where you can actually dig further and investigate the story as it develops. 
 
 On to questions and suggestions!
 
