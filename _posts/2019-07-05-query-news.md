@@ -79,7 +79,7 @@ On to questions and suggestions!
 
     ![Follow]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-follow-unclear.PNG)
 
-Even after clicking on 'follow', I don't know what joining is supposed to do:
+    Even after clicking on 'follow', I don't know what joining is supposed to do:
     
     ![Followagain]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-follow-still-unclear.png)
 
