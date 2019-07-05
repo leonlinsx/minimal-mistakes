@@ -18,11 +18,11 @@ So the intent for now is to have a Q&A format for news events as they happen. Pe
 
 The landing page is simple, ordering questions in chronological order, with the most recent day first. I'm unsure how questions are sorted within the day itself. I'd assume the order is fixed once the questions are posted, since the timing listed for the updates doesn't seem to affect the order. The site works well on mobile as well.
 
-![Home]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-front-page.png)
+![Home]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-front-page.PNG)
 
 Clicking on the individual topics leads you to a more detailed Q&A page on the topic. Each Q&A page has its own url. The page has a short summary of the news topic, source citation, followed by a table of contents for the questions, and the questions themselves.
 
-![Single]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-single-page.png)
+![Single]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-single-page.PNG)
 
 There are multiple prompts to pose a question, which is as straightforward as typing it in to the question field. As far as I can tell, there isn't immediate moderation on the question, and your question is posted onto the page right away. The site makes it simple to ask a question.
 
@@ -32,11 +32,11 @@ For example, when I posted the below question, it popped up on the bottom of the
 
 ![Spam]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-spam-questions.png)
 
-![Spam]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-spam-questions-2.png)
+![Spam]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-spam-questions-2.PNG)
 
 It doesn't seem like you can answer questions directly yourself at the moment, but you can 'suggest an update' which sends your comment off to an editor:
 
-![Suggestion]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-suggestions.png)
+![Suggestion]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-suggestions.PNG)
 
 You can browse the current list of topics and questions yourself [here](https://query.news/ "Query"), and see if there's any you'd like to comment on. This seems like an interesting idea! Most news is one-sided, seeking to broadcast a message to the masses. The comments section online is usually a disaster. By making discussion the focus of the site rather than a tacked-on product, hopefully it leads to more productive use cases. If you've ever read something and wondered 'but what about X', Query would be helpful for you.
 
@@ -73,15 +73,15 @@ On to questions and suggestions!
 
 1. Pinning the [Query self-referential Q&A page](https://query.news/s/we-launched-kinda/ "Query Q&A") on the front page. Someone landing on the home page for the first time won't have a good idea of what the site is supposed to be about. Having an "About" tab right up top will probably help people understand what the site is trying to do, and it could be a simple link to the Q&A page.
 
-    ![Sticky]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-sticky.png)
+    ![Sticky]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-sticky.PNG)
 
 2. Clarifying what exactly the 'follow' option does. I'm unsure if entering my email subscribes me to all questions for that news topic, subscribes me to all questions on Query, or just one question on the topic
 
-    ![Follow]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-follow-unclear.png)
+    ![Follow]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-follow-unclear.PNG)
 
 Even after clicking on 'follow', I don't know what joining is supposed to do:
-
-    ![Follow2]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-follow-still-unclear.png)
+    
+    ![Followagain]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-follow-still-unclear.png)
 
 3. Tagging questions and having a search functionality seems like something that will be helpful or even required when this grows 
 
