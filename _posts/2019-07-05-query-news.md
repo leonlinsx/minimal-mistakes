@@ -16,7 +16,7 @@ What is Query trying to be? [Based on their own words:](https://query.news/s/we-
 
 So the intent for now is to have a Q&A format for news events as they happen. People will pitch in questions they have on a topic, and someone (who?) will answer them. 
 
-The landing page is simple, ordering questions in chronological order, with the most recent day first. I'm unsure how questions are sorted within the day itself. I'd assume the order is fixed once the questions are posted, since the timing listed for the updates doesn't seem to affect the order. 
+The landing page is simple, ordering questions in chronological order, with the most recent day first. I'm unsure how questions are sorted within the day itself. I'd assume the order is fixed once the questions are posted, since the timing listed for the updates doesn't seem to affect the order. The site works well on mobile as well.
 
 ![Home]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-front-page.png)
 
@@ -73,15 +73,15 @@ On to questions and suggestions!
 
 1. Pinning the [Query self-referential Q&A page](https://query.news/s/we-launched-kinda/ "Query Q&A") on the front page. Someone landing on the home page for the first time won't have a good idea of what the site is supposed to be about. Having an "About" tab right up top will probably help people understand what the site is trying to do, and it could be a simple link to the Q&A page.
 
-![Sticky]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-sticky.png)
+    ![Sticky]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-sticky.png)
 
 2. Clarifying what exactly the 'follow' option does. I'm unsure if entering my email subscribes me to all questions for that news topic, subscribes me to all questions on Query, or just one question on the topic
 
-![Follow]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-follow-unclear.png)
+    ![Follow]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-follow-unclear.png)
 
 Even after clicking on 'follow', I don't know what joining is supposed to do:
 
-![Follow]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-follow-still-unclear.png)
+    ![Follow2]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-follow-still-unclear.png)
 
 3. Tagging questions and having a search functionality seems like something that will be helpful or even required when this grows 
 
