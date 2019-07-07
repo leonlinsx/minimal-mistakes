@@ -30,9 +30,9 @@ There are multiple prompts to pose a question, which is as straightforward as ty
 
 For example, when I posted the below question, it popped up on the bottom of the question list once the page refreshed, which the page did automatically after posting.
 
-![Spam]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-spam-questions.png)
+![Spam1]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-spam-questions.PNG)
 
-![Spam]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-spam-questions-2.PNG)
+![Spam2]({{ site.url }}{{ site.baseurl }}/assets/images/query/query-spam-questions-2.png)
 
 It doesn't seem like you can answer questions directly yourself at the moment, but you can 'suggest an update' which sends your comment off to an editor:
 
