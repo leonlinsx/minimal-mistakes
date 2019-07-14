@@ -8,7 +8,7 @@ If you've used a travel site before, you'll be familiar with a page that looks l
 
 ![CTA]({{ site.url }}{{ site.baseurl }}/assets/images/query/booking-cta.PNG)
 
-with various elements nudging you to complete the booking, e.g. 'only 3 rooms left' or 'deal of the day expires in XX minutes'. [This page](https://ro-che.info/articles/2017-09-17-booking-com-manipulation "roche") has a detailed walkthrough of the booking.com site, which falls under the more benign scale of [dark patterns](https://www.darkpatterns.org/ "link") that are manipulating user behaviour \[1\].
+with various elements nudging you to complete the booking, e.g. 'only 3 rooms left' or 'deal of the day expires in XX minutes'. [This page](https://ro-che.info/articles/2017-09-17-booking-com-manipulation "roche") has a detailed walkthrough of the booking.com site, which falls more benignly on the scale of [dark patterns](https://www.darkpatterns.org/ "link") that are manipulating user behaviour \[1\].
 
 Apparently, consumers are getting more used to such nudges, and this could change how effective nudges are moving forward. From [this post](https://behavioralscientist.org/consumers-are-becoming-wise-to-your-nudge/ "wise up"):
 
