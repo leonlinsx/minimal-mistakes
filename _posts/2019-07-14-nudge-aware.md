@@ -6,7 +6,7 @@ published: true
 
 If you've used a travel site before, you'll be familiar with a page that looks like this: 
 
-![CTA]({{ site.url }}{{ site.baseurl }}/assets/images/query/booking-cta.PNG)
+![CTA]({{ site.url }}{{ site.baseurl }}/assets/images/booking-cta.PNG)
 
 with various elements nudging you to complete the booking, e.g. 'only 3 rooms left' or 'deal of the day expires in XX minutes'. [This page](https://ro-che.info/articles/2017-09-17-booking-com-manipulation "roche") has a detailed walkthrough of the booking.com site, which falls more benignly on the scale of [dark patterns](https://www.darkpatterns.org/ "link") that are manipulating user behaviour \[1\].
 
@@ -18,7 +18,7 @@ Apparently, consumers are getting more used to such nudges, and this could chang
 
 > For these people, not only are these behavioral interventions not working but they’re having the reverse effect. We hypothesize psychological reactance is at play: people kick back when they feel they are being coerced. Several measures in our study support this. A large minority (40 percent) of the British public agreed that that “when someone forces me to do something, I feel like doing the opposite.”
 
-![CTA]({{ site.url }}{{ site.baseurl }}/assets/images/query/nudge-study.png)
+![CTA]({{ site.url }}{{ site.baseurl }}/assets/images/nudge-study.png)
 
 Note that these are self-reported reactions by the participants. It makes sense that people have grown more educated about the ways companies pressure them into making a purchase. It also makes sense that this group would *report* increasing distrust after viewing such tactics. What I'm curious to know is whether consumer behaviour actually changed as well. Even after reporting this lack of belief in the claims and the increased distrust, do people still make the purchase anyway? \[2\] 
 
