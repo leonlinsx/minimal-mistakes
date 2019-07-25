@@ -1,10 +1,10 @@
 ---
 title:  "Mauboussin 2019 interview with Farnam Street"  
 tags: [finance, behavioural, frameworks, mental models, mauboussin, annie duke, farnam street]
-published: true
+published: false
 ---
 
-[//]: # (*If you like this, you might like my [monthly newsletter](https://avoidboringpeople.substack.com/ "ABP")*)
+[//]: # () *If you like this, you might like my [monthly newsletter](https://avoidboringpeople.substack.com/ "ABP")*
 
 Shane Parrish at Farnam Street [did another interview with Michael Mauboussin](https://fs.blog/2013/08/michael-mauboussin-interview-no-4/ "FS Mauboussin") recently. There's some repeat ideas that Mauboussin has talked about before, but as always there's much to learn from the conversation. My highlights below:
 
