@@ -1,6 +1,6 @@
 ---
 title:  "Mauboussin interview with Farnam Street"  
-tags: [finance, behavioural, frameworks, mental models, mauboussin]
+tags: [finance, behavioural, frameworks, mental models, mauboussin, annie duke, farnam street]
 published: false
 ---
 
