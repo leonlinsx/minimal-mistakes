@@ -4,6 +4,7 @@ tags: [finance, behavioural, frameworks, mental models, mauboussin, annie duke, 
 published: false
 ---
 
+[//]: <> (This is also a comment.)
 
 [//]: # () *If you like this, you might like my [monthly newsletter](https://avoidboringpeople.substack.com/ "ABP")*
 
