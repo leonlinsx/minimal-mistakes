@@ -1,7 +1,7 @@
 ---
 title:  "Mauboussin 2019 interview with Farnam Street"  
 tags: [finance, behavioural, frameworks, mental models, mauboussin, annie duke, farnam street]
-published: false
+published: true
 ---
 
 <!--- 
