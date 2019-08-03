@@ -1,7 +1,7 @@
 ---
 title:  "Can you see things in a different way?"  
 tags: [visualisation, aphantasia, IPO, finance, investing, tech, newsletter, advertising, subscription, libra, science, behavioural economics]
-published: false
+published: truie
 ---
 
 *This is a lightly edited version of my monthly newsletter. [Sign up here](https://avoidboringpeople.substack.com/ "ABP")*
