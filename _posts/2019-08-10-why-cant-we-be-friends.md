@@ -1,7 +1,7 @@
 ---
 title:  "Why can't we be friends?"  
-tags: []
-published: false
+tags: [friends, social media]
+published: true
 ---
 
 I recently organised group drinks for 12 people, a meetup for 8, and two separate dinners for 4. I like bringing people together, especially if the people that meet can mutually benefit. Hence my occasional hosting of cocktail nights \[1\] and more frequent ~~spam~~ invitations to people to events happening in NY. It can be frustrating though, especially when you don't get replies. *Not replying is not the same as replying no*. The latter is far more useful and less annoying. The former makes it seem like the event is such a bad suggestion it wasn't even worth replying to. The easy solution is to take the hint that nobody actually wants to go, but I then hear back individually about how they wish they could make a dinner or liked the previous event. It's a struggle.
