@@ -1,7 +1,7 @@
 ---
 title:  "The benefits of friendship"  
 tags: [friendship]
-published: false
+published: true
 ---
 
 Following up on [last week's post](https://www.leonlinsx.com/why-cant-we-be-friends/ "friends") about different types of friendship, this week I'm going over the benefits of friendship, drawing on articles I found online while doing last week's research. 
