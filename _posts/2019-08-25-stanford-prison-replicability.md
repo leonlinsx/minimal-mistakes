@@ -1,7 +1,7 @@
 ---
-title:  "Stanford prison experiment or demonstration?"  
+title:  "Stanford prison experiment or Stanford prison acting class?"  
 tags: [replicability, science]
-published: false
+published: true
 ---
 
 [I've previously written about the replicability crisis in science](https://www.leonlinsx.com/replicability-crisis/ "replicability"). I recently learnt about criticisms of the infamous [Stanford Prison Experiment](https://en.wikipedia.org/wiki/Stanford_prison_experiment "wiki") that I hadn't seen when I was first reading about it. The criticisms invalidate the conclusions of the experiment for me, and I'll highlight excerpts from [this paper by Thibault Le Texie](https://psyarxiv.com/mjhnp/ "paper") below:
