@@ -4,7 +4,7 @@ tags: [replicability, science]
 published: true
 ---
 
-[I've previously written about the replicability crisis in science](https://www.leonlinsx.com/replicability-crisis/ "replicability"). I recently learnt about criticisms of the infamous [Stanford Prison Experiment](https://en.wikipedia.org/wiki/Stanford_prison_experiment "wiki") that I hadn't seen when I was first reading about it. The criticisms invalidate the conclusions of the experiment for me, and I'll highlight excerpts from [this paper by Thibault Le Texie](https://psyarxiv.com/mjhnp/ "paper") below:
+[I've previously written about the replicability crisis in science](https://www.leonlinsx.com/replicability-crisis/ "replicability"). I recently learnt about criticisms of the infamous [Stanford Prison Experiment](https://en.wikipedia.org/wiki/Stanford_prison_experiment "wiki") that I hadn't seen when I was first reading about it. The criticisms invalidate the conclusions of the experiment for me, and I'll highlight excerpts from [this paper by Thibault Le Texier](https://psyarxiv.com/mjhnp/ "paper") below:
 
 > Based on the first detailed published account of the experiment (Zimbardo, 1972a), Erich Fromm pointed out (1) the unethical nature of the harsh conditions imposed on the prisoners, (2) the fact that the personality pretests administered to the volunteers might not have detected a predisposition among some of the subjects for sadistic or masochistic behavior, and (3) the confusing situation for participants created by mixing realistic prison elements with unrealistic ones.
 
