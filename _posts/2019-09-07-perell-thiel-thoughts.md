@@ -44,7 +44,7 @@ This sounds a bit like Ayn Rand's Atlas Shrugged? If you are Christian it follow
 
 I do think the majority of society, especially in the political and economic arena, has moved away from definite optimism. [Tyler Cowen wrote about this recently](https://www.bloomberg.com/opinion/articles/2019-08-29/patreon-s-top-50-list-values-the-ordinary-over-the-transcendent "Tyler").
 
-    > That is a common theme of most of the top entries: They are about “ordinary life.” They tend not to be representations of noble ambition, or of a classical or romantic vision of how human beings might achieve greatness.
+  > That is a common theme of most of the top entries: They are about “ordinary life.” They tend not to be representations of noble ambition, or of a classical or romantic vision of how human beings might achieve greatness.
     
 Are more people becoming disillusioned about the future and our ability to make it better? Where there were once uniting themes across the world e.g. 'defeat the nazis', 'land a man on the moon', 'map the genome', these days it doesn't seem like major countries have a united push towards a common goal. Perhaps that's why everyone is now aiming for ordinary rather than greatness? When it seems like the ultimate goal is to gain wealth rather than achieve something special, we copy our peers and aim for pure monetary maximisation instead.
 
