@@ -42,7 +42,13 @@ This sounds a bit like Ayn Rand's Atlas Shrugged? If you are Christian it follow
 
 > We’ve moved from an atmosphere of utopian promises to one of dystopian threats. Definite Optimism has disappeared. Since the Financial Crisis, tens of thousands of Americans have moved into the Indefinite Optimism and Definite Pessimism quadrants. 
 
-I do think the majority of society, especially in the political and economic arena, has moved away from definite optimism. However, I believe it's still present in some areas, such as startups who have to believe in whatever their grand vision is in order to raise the funding required to get to their desired lifestyle. Regardless of whether they actually believe it, they know that not potraying definite optimism is a death sentence.
+I do think the majority of society, especially in the political and economic arena, has moved away from definite optimism. [Tyler Cowen wrote about this recently](https://www.bloomberg.com/opinion/articles/2019-08-29/patreon-s-top-50-list-values-the-ordinary-over-the-transcendent "Tyler").
+
+    > That is a common theme of most of the top entries: They are about “ordinary life.” They tend not to be representations of noble ambition, or of a classical or romantic vision of how human beings might achieve greatness.
+    
+Are more people becoming disillusioned about the future and our ability to make it better? Where there were once uniting themes across the world e.g. 'defeat the nazis', 'land a man on the moon', 'map the genome', these days it doesn't seem like major countries have a united push towards a common goal. Perhaps that's why everyone is now aiming for ordinary rather than greatness? When it seems like the ultimate goal is to gain wealth rather than achieve something special, we copy our peers and aim for pure monetary maximisation instead.
+
+However, I believe definite optimism is still present in some areas, such as startups who have to believe in whatever their grand vision is in order to raise the funding required to get to their desired lifestyle. Regardless of whether they actually believe it, they know that not potraying definite optimism is a death sentence.
 
 > Until then, he’ll stagger along the soul-crushing stepping stones of life: work hard in middle school so you can do well in high school; work hard in high school so you can do well in college; work hard in college so you can get a respected job; and get a respected job so one day, towards the end of your career, you can finally do what you want to do. All the while you “build skills” and “accumulate options,” as if the next corner will provide the happiness you’ve been seeking all along. 
 
