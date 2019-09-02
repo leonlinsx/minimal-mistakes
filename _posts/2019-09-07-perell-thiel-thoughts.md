@@ -1,7 +1,7 @@
 ---
 title:  "Highlights from Perell's article on Peter Thiel"
 tags: [social, tech, envy, cycles, innovation, ideas]
-published: false
+published: true
 ---
 
 David Perell [wrote an article about Peter Thiel recently](https://www.perell.com/blog/peter-thiel "Perell"). I haven't read extensively on mimetic theory before and want to highlight interesting points from the article below:
@@ -72,4 +72,4 @@ Perell goes on to conclude with some Thiel inspired principles:
 
 In other words, there's enough uncharted territory out there regardless of what sector you're in, and your goal should be to create something new, rather than copy off peers close to you or other existing ideas. I support the idea of aiming higher, since raising expectations likely has huge positive long term effects. However, I wonder how true it is that unique ideas (1) exist in abundance, and (2) are better than copying an existing idea. Additionally, if memetic theory is accurate, then isn't everything derivative?  
 
-*If you like this, you might like my [monthly newsletter](https://avoidboringpeople.substack.com/ "ABP")*
+*If you like this, you might like my [monthly newsletter on finance and tech](https://avoidboringpeople.substack.com/ "ABP")*
