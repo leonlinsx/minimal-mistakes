@@ -1,7 +1,7 @@
 ---
 title:  "Developing a circle of competence loop"  
 tags: [learning, growth]
-published: false
+published: true
 ---
 
 [Benton Moss](https://twitter.com/benton_moss "Benton") of [Circle of Competence](https://www.circleofcompetence.co/ "circle") recently published a [revised framework of how he thinks about developing a circle of competence](https://drive.google.com/file/d/1qRS-XC4OgZzEsMdkRvZKs1GUZzPaK-49/view "updated"). My thoughts on the document are below:
@@ -14,7 +14,7 @@ published: false
 
 I have low faith in anyone's self-awareness, including my own. Besides having [decision journals](https://fs.blog/2014/02/decision-journal/ "decision") or well designed checklist processes, another way to keep yourself objective is to continue the external feedback loop regularly, so that the overall project remains objective.
 
-Benton revised his process from a goal-oriented one into a cyclical one instead, having a loop of curiousity -\> knowledge -\> conviction -\> action. Having learning be a continous process makes sense to me! Your curiousity leads you to learn more about a topic, leading you to increase your conviction in taking the next action. The deeper you go into a topic, the more you realise there's such a depth the the field that you haven't thought about before. For an example, just pick any hobby that you enjoy. There will inevitably be some skill or output that looks unimpressive to the layman but is incredibly difficult to execute, and vice versa as well \[2\]. 
+Benton revised his process from a goal-oriented one into a cyclical one instead, having a loop of curiousity -\> knowledge -\> conviction -\> action. Having learning be a continous process makes sense! Your curiousity leads you to learn more about a topic, leading you to increase your conviction in taking the next action. The deeper you go into a topic, the more you realise there's such a depth the the field that you haven't thought about before. For an example, just pick any hobby that you enjoy. There will inevitably be some skill or output that looks unimpressive to the layman but is incredibly difficult to execute, and vice versa as well \[2\]. 
 
 There's one more step that I'd want to add to this loop. The role of feedback is already been implied within the loop itself, but I think it's important enough to make it explicit as the next step after 'action'. After you take an action, you should seek feedback on that action. This will give you new avenues to explore, continuing the curiousity cycle. 
 
@@ -24,7 +24,7 @@ Obvious, but worth pointing out that it is the net growth rate that matters, not
 
 > Human knowledge accumulation. This represents a very LONG runway on the individual level. Why? Because the fuel for an individual’s growth is all of humanity’s previously accumulated knowledge.
 
-I agree the runway is long, since there's so much knowledge available. The problem now is what is your net growth rate on the individual level. I've gained knowledge in many areas since leaving college, but also lost knowledge in areas I thought I'd never forget. I hope that on net I've grown, but I'm actually unsure.
+I agree the runway is long, since there's so much knowledge available. It's unlikely you'll be the foremost expert in one sector, let alone multiple ones. The problem now is what is your net growth rate on the individual level. I've gained knowledge in many areas since leaving college, but also lost knowledge in areas I thought I'd never forget. I hope that on net I've grown, but I'm actually unsure.
 
 > Economic growth. Opinions will differ on this, but I am a cautious optimist on the future of human innovation and believe there is a long runway for economic growth, provided we continue to make technological progress.
 
@@ -37,6 +37,6 @@ I'm not knowledgeable about space, but would agree here. The costs of exploratio
 **Footnotes**
 1. Or foolhardy ignorance I suppose
 2. There are many flashy cocktails that are horrible to drink, to give a direct example.
-3. I disagree with Yuval Noah harari here and do not think that lifestock etc have had a more successful progression than humans.
+3. I disagree with Yuval Noah Harari here and do not think that lifestock etc have had a more successful progression than humans.
 
 *If you like this, you might like my [monthly newsletter on finance and tech](https://avoidboringpeople.substack.com/ "ABP")*
