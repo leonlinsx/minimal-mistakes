@@ -1,7 +1,7 @@
 ---
-title:  ""  
+title:  "A thousand true fans"  
 tags: [tech, content]
-published: false
+published: true
 ---
 
 I came across [Kevin Kelly's 1,000 true fans essay](https://kk.org/thetechnium/1000-true-fans/ "1000") recently, and thought it was relevant to what I'm trying to do now with the website and the [newsletter](https://avoidboringpeople.substack.com/ "ABP"). Highlights below:
