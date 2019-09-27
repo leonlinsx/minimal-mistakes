@@ -1,10 +1,10 @@
 ---
 title:  "Notes from Button's 2019 TAP summit"  
-tags: [tech, commerce, ads, subscription, marketplace]
-published: false
+tags: [tech, commerce, ads, subscription, marketplace, experience]
+published: true
 ---
 
-I had the privilege of getting an invite from [James Teodorini](https://twitter.com/jamesteodorini?lang=en "James") to Button's [TAP summit 2019.](https://thetapsummit.com "TAP") Button hosted a series of great panelists; my notes are below:
+I had the privilege of getting an invite from [James Teodorini](https://twitter.com/jamesteodorini?lang=en "James") to Button's [TAP summit 2019.](https://thetapsummit.com "TAP") [Button](https://www.usebutton.com/ "button") hosted a great lineup of speakers and organised an excellent event overall. Notes below:
 
 **Jennifer Fleiss, Jetblack**
 - Jetblack's about conversational commerce, text messaging personal shopper. Average user spend monthly is $1.5k \[LL- wow\]
@@ -14,7 +14,7 @@ I had the privilege of getting an invite from [James Teodorini](https://twitter.
   - Text is trusted form of communication
   - We now have technical tools such as machine learning or ability to take a picture and send it to the shopper
   - We're owned and fully funded by Walmart
-- Great gift wrapping and garment bags were a big marketing opportunity that Rent the Runway capitalised on
+- Great gift wrapping and garment bags were a big marketing opportunity that Rent the Runway capitalised on. Others still don't focus on this \[LL- things that seem low to no ROI short term but actually matter\]
 - What's our difference vs AMZN?
   - AMZN shopping is transactional
   - Online shopping has become more of a chore. Price is fine, product is ok, speed is now ok \[LL- recall how Bezos likes to talk about the customer never being satisfied\]
@@ -29,7 +29,7 @@ I had the privilege of getting an invite from [James Teodorini](https://twitter.
   - Get your minimum viable product out asap
   - When customers say no, they usually mean not right now
   
-**Josh Fried Waze, Sarah McCrary GasBuddy, Elan Mosbacher SpotHero, Chris Snyder Via**
+**Josh Fried - Waze, Sarah McCrary - GasBuddy, Elan Mosbacher - SpotHero, Chris Snyder - Via**
 - Organic and referrals have been key to growth
 - What do we think about integration with other apps?
   - For GasBuddy, we haven't had that much succcess. Were seeing us getting a lot of breadth but moving far away from original context
@@ -39,7 +39,7 @@ I had the privilege of getting an invite from [James Teodorini](https://twitter.
   - For SpotHero, we are providing hardware and software to garages that have not historically been tech enabled
   
 **Michael Jaconi, Button**
-- Google and Yahoo anecdote. Yahoo not wanting to implode their business model of display to go after better search results. How do you bet on what to pursue 5 years from now?
+- Google and Yahoo anecdote. Yahoo not wanting to implode their business model of display to go after better search results. Google then choosing to do so and dominating. How do you bet on what to pursue 5 years from now?
 - There's a $440bn opportunity if 75% of online spend is spent on mobile
 - Performance marketing is 
   - Profitable, higher margin, can use that to reinvest in other channels
@@ -52,9 +52,9 @@ I had the privilege of getting an invite from [James Teodorini](https://twitter.
 
 **Joy Robins, Washington Post**
 - Bezos cares more about the product than ads
-- Formed a RED team at WaPo to create a better experience. The Zeus product for faster loading times came out of this team
-- Absolutely not turning our back on ads. But we think that ultimately subscribers are going to be what differentiates you. How can you get loyalty at scale?
-- Realised that readers wanted more authentic travel stories
+- Formed a RED team at WaPo to create a better experience. The new Zeus product for faster loading times came out of this team
+- Absolutely not turning our back on ads. But we think that ultimately subscribers are going to be what differentiates you. How can you get loyalty at scale? 
+- Realised that readers wanted more authentic travel stories \[LL- push to authenticity seems to be a trend\]
 - We think about what a polite experience looks like, and that's not just an ad free experience
 - How can publishers compete as a platform against FB and GOOG on performance marketing?
   - It's hard. Advertisers want to support us but efficiency on FB and GOOG is too strong
@@ -64,29 +64,27 @@ I had the privilege of getting an invite from [James Teodorini](https://twitter.
 
 **Arthur Sevilla, Pinterest**
 - It's hard to translate that physical experience of shopping and joy of discovery to digital
-- Shopping has decreased the experience in favour of the transaction
+- Shopping has decreased the experience in favour of the transaction \[LL- a repeated theme this summit of wanting to improve the experience\]
 - Pinterest is a visual discovery engine
 - Users actually find our branded content useful and relevant
 
-**Aditya Goel Revolut, Babak Farrokh-Siar Jr Acorns, Lowell Putnam Plaid, Derek Joyce Klarna**
+**Aditya Goel - Revolut, Babak Farrokh-Siar Jr - Acorns, Lowell Putnam  - Plaid, Derek Joyce - Klarna**
 - Acorns is about how do you make these big financial decisions small
 - Millenials care about financial wellness
 - Plaid's view is that the amount of change in financial partners is so fast we can't predict which fail
-  - We build connections with all
+  - That's why we build connections with all
   - Our moat is that it's hard work to build all those connections
 - Plaid announcement of Visa and Mastercard partnership goes to show they're no longer walled gardens
 - In the US, where merchant fees are still a high 2-4%, getting that 1% or more back is important. Merchants are sensitive
 - **Customer obsession is key. If you don't focus on the small things, someone else will**
 
 **Ivan Markman, Verizon Media**
-- A third subscription, a third ads, a third commerce is the goal
+- A third subscription, a third ads, a third commerce is the goal for our revenue mix. Still mostly ads now.
 - The world has blurred the lines between non-commercial and transactional 
 - **Our industry is still stuck in the ad model** \[LL- recall Google vs Yahoo anecdote. It's hard to change\]
 - We want to not only increase the relevancy of ads but also know when not to show ads
 - At the government level noone's getting complaints about privacy
-- We're excited about
-  - 5G, the immersion and speed possibilities
-  - Sustainability and energy efficiency improvements
+- We're excited about 5G, the immersion and speed possibilities. Sustainability and energy efficiency improvements
 - We can identify extreme cases of fake news, but for all the rest in the middle, we want to provide consumers choice
 
 **Josh Luber, StockX**
@@ -99,7 +97,7 @@ I had the privilege of getting an invite from [James Teodorini](https://twitter.
   - In the beginning we got sellers easily since they wanted to try all sales channels
   - Our model is also just a better model
 - We dominated in SEO since we have just one page for each model, and that helps us get better paid spend
-- The anonymous nature of the sale is good for us. We're sitting in the middle authenticating the items. Buyers and sellers hate each other, so now they hate us instead.
+- The anonymous nature of the sale is good for us. We're sitting in the middle authenticating the items. **Buyers and sellers hate each other, so now they just hate us instead.**
 - Customer service is the biggest team and the likely key point of failure
 - How do we maintain the authentication process at scale?
   - It's process. We literally created that role of sneaker authenticator since it didn't exist before
