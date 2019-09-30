@@ -1,35 +1,37 @@
 ---
-title:  "Set a reminder in your personal CRM to read this"  
-tags: [finance, tech, china, economics, ]
+title:  "Always be raising"  
+tags: [finance, tech, china, economics, sales, ecommerce, influencers, ambition]
 published: false
 ---
 
 *This is a lightly edited version of my monthly newsletter. [Sign up here](https://avoidboringpeople.substack.com/ "ABP")*
 
 **Takeaways**
-1. The US trade imbalance is caused by excess savings from other countries
+1. The US trade imbalance won't be fixed by focusing on trade since it's actually a capital inflow problem
 2. Chinese influencers are changing the way products are sold
-3. Raising your ambition is in a virtuous cycle with obtaining success
+3. Raise your ambitions to be more successful
 
 **Newsletter admin**
 
-Unsubscribe link is at the bottom \[1\]. Replying to this newsletter goes directly to me, and feedback's always welcome!
+Replying to this newsletter goes directly to me, and feedback's always welcome! Unsubscribe link is at the bottom \[1\]. 
 
 **Tax not tariff**
 
-Michael Pettis is one of the best economists at debunking misconceptions based on first principles \[2\]. He recently wrote about why taxing capital inflows would be better than imposing tariffs in addressing the US trade imbalance.](https://carnegieendowment.org/chinafinancialmarkets/79641 "Pettis")
+Michael Pettis is one of the best economists at debunking misconceptions based on first principles \[2\]. [He recently wrote about why taxing capital inflows would be better than imposing tariffs in addressing the US trade imbalance.](https://carnegieendowment.org/chinafinancialmarkets/79641 "Pettis")
 
 > Some might think that imposing tariffs on imported goods is a more effective way to reduce U.S. trade deficits than levying duties on imported capital, but that’s the wrong approach. 
 
 > If the recent Senate bill had been proposed in the nineteenth century—when trade finance dominated international capital flows—the proposal to tax capital inflows wouldn’t have made much sense. But today, \[...\] the global economy is overflowing with excess savings. The need to park these excess savings somewhere safe is what fuels global capital flows, in turn giving rise to trade imbalances.
 
-Recall that the capital account (money) and the current account (trade) always balance. If the US gets $100 inflow of capital, somewhere down the line $100 of current account outflows happen, increasing the trade deficit (US importing more than it exports). Pettis' point is that the conventional focus on the trade account is misguided, since it is no longer the driving force, and is instead being driven by changes in the capital account. Even if you made big changes on the trade account, that still won't be enough.
+Recall that the capital account (money) and the current account (trade) always balance. If the US gets $100 inflow of capital, somewhere down the line $100 of current account outflows happen, increasing the trade deficit (US importing more than it exports). Pettis' point is that the conventional focus on the trade account is misguided, since it is no longer the driving force, and is instead being driven by changes in the capital account. Even if you made big changes on the trade account, that still won't be enough as long as capital is flowing into the US.
 
 > capital inflows force the U.S. economy to adjust either by increasing unemployment or, more likely, by setting off conditions that cause fiscal or household debt to grow. Put another way, the United States doesn’t absorb foreign capital because the country has a low savings rate—the country’s savings rate is low because it has to absorb so much foreign capital.
 
-When you get capital inflows, [the gap between investment and savings must increase](https://opentextbc.ca/principlesofeconomics/chapter/23-4-the-national-saving-and-investment-identity/ "savings identity"). For the US, that means either investment has to rise, or savings has to decline. Pettis is arguing here that savings are more likely to decline than investment is to rise. Because the US is getting so much foreign capital, it has a low savings rate, and hence the trade deficit. Trying to fix the trade deficit via tariffs might even be counterproductive if it causes more capital to flow into the US.
+When you get capital inflows, [the gap between investment and savings must increase](https://opentextbc.ca/principlesofeconomics/chapter/23-4-the-national-saving-and-investment-identity/ "savings identity"). For the US, that means either investment has to rise, or savings has to decline. Pettis is arguing here that savings are more likely to decline than investment is to rise. Because the US is getting so much foreign capital, it has a low savings rate and trade deficit. Trying to fix the trade deficit via tariffs might even be counterproductive if it causes more capital to flow into the US.
 
 > This is why it is a mistake to think—as many do—that Americans need foreign capital to counter low domestic savings rates, or even that the U.S. current account deficit is driven in part by a burgeoning fiscal deficit. 
+
+If conventional thought is that the US needs to bring in more capital to help with savings or fiscal deficits, that would lead to even larger imbalances.
 
 **Chinese influencer campaigns**
 
