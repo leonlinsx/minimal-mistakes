@@ -1,7 +1,7 @@
 ---
 title:  "Always be raising"  
 tags: [finance, tech, china, economics, sales, ecommerce, influencers, ambition]
-published: false
+published: true
 ---
 
 *This is a lightly edited version of my monthly newsletter. [Sign up here](https://avoidboringpeople.substack.com/ "ABP")*
@@ -11,19 +11,15 @@ published: false
 2. Chinese influencers are changing the way products are sold
 3. Raise your ambitions to be more successful
 
-**Newsletter admin**
-
-Replying to this does go directly to me, and feedback's always welcome! Unsubscribe link is at the bottom \[1\]. 
-
 **Tax not tariff**
 
-There is a common misconception that the US trade imbalance can be corrected with trade measures such as tariffs or exchange rates. Michael Pettis excels at using first principles to explain economics \[2\], and he disagrees, [recently writing about why taxing capital inflows would be better than imposing tariffs in addressing the US trade imbalance.](https://carnegieendowment.org/chinafinancialmarkets/79641 "Pettis")
+There is a common misconception that the US trade imbalance can be corrected with trade measures such as tariffs or exchange rates. Michael Pettis, who excels at using first principles to explain economics \[1\], disagrees, [recently writing about why taxing capital inflows would be better than imposing tariffs in addressing the US trade imbalance.](https://carnegieendowment.org/chinafinancialmarkets/79641 "Pettis")
 
 > Some might think that imposing tariffs on imported goods is a more effective way to reduce U.S. trade deficits than levying duties on imported capital, but that’s the wrong approach. 
 
 > If the recent Senate bill had been proposed in the nineteenth century—when trade finance dominated international capital flows—the proposal to tax capital inflows wouldn’t have made much sense. But today, \[...\] the global economy is overflowing with excess savings. The need to park these excess savings somewhere safe is what fuels global capital flows, in turn giving rise to trade imbalances.
 
-Recall that the capital account (money) and the current account (trade) always balance \[3\]. If the US gets $100 inflow of capital, somewhere down the line $100 of current account outflows happen, increasing the trade deficit (US importing more than it exports). Pettis' point is that the conventional focus on the trade account is misguided, since it is no longer the driving force, and is instead being driven by changes in the capital account. Even if you made big policy changes on the trade account, that still won't be enough as long as capital is flowing into the US.
+Recall that the capital account (money) and the current account (trade) always balance \[2\]. If the US gets $100 inflow of capital, somewhere down the line $100 of current account outflows happen, increasing the trade deficit (US importing more than it exports). Pettis' point is that the conventional focus on the trade account is misguided, since it is no longer the driving force, and is instead being driven by changes in the capital account. Even if you made big policy changes on the trade account, that still won't be enough as long as capital is flowing into the US.
 
 > capital inflows force the U.S. economy to adjust either by increasing unemployment or, more likely, by setting off conditions that cause fiscal or household debt to grow. Put another way, the United States doesn’t absorb foreign capital because the country has a low savings rate—the country’s savings rate is low because it has to absorb so much foreign capital.
 
@@ -41,7 +37,7 @@ If conventional thought concludes that the US needs to bring in more capital to 
 
 > Essentially longtail KOLs (Key Opinion Leaders), KOCs (Key Opinion Consumers) are ordinary internet users who often leave reviews or share their opinions about products. \[...\] with KOCs feeling more peer to peer while KOLs more like an expert talking to a group of people. \[...\] As KOL costs rise and consumer’s desire for authenticity grows, brands (particularly those with lower budgets) are choosing to use private traffic and KOCs to promote their products. 
 
-I'm one of the suckers that gives Google Maps content for free \[4\], so I'm hoping this chinese trend gets exported too. In the US, there's also been increased interest in authenticity, as mentioned in [one of my prior posts about instagram influencers.](https://avoidboringpeople.substack.com/p/would-you-buy-the-libra-neopet-kin?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "insta") I don't think polished profiles and KOLs are going away, but that growth likely slows. Instead, people will start following accounts that are more 'real'. Ad money will still go to whoever can get followers, whether a KOL or KOC. I haven't yet seen an app that gathers the best of your peer recommendations, though FB and Yelp are trying.
+I'm one of the suckers that gives Google Maps content for free \[3\], so I'm hoping this chinese trend gets exported too. In the US, there's also been increased interest in authenticity, as mentioned in [one of my prior posts about instagram influencers.](https://avoidboringpeople.substack.com/p/would-you-buy-the-libra-neopet-kin?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "insta") I don't think polished profiles and KOLs are going away, but that growth likely slows. Instead, people will start following accounts that are more 'real'. Ad money will still go to whoever can get followers, whether a KOL or KOC. I haven't yet seen an app that gathers the best of your peer recommendations, though FB and Yelp are trying.
 
 > The Coming One is that it is an idol incubator, and more votes competitors get from their fans, the more resources they will be given to help them become a celebrity. Audience members are only given 1 vote per day, however, if they bought One Leaf products, they got extra votes. And if they bought specific products, they could get 5 extra votes.
 
@@ -63,7 +59,7 @@ David Perell's [article about ambition](https://www.perell.com/blog/the-paradox-
 
 > Silicon Valley culture is a perspective shift. In school, it helps to fit in. In the Valley, it helps to stand out. The sooner you can stand out, the better. Where school teaches you to pursue guaranteed success, the Valley teaches you to pursue projects with exponential upside; where school teaches you to follow the rules, the Valley teaches you to ignore them carefully; 
 
-If you're looking for world changing ideas, you're more likely to get them from people that can tolerate the higher variance, have big visions to change the status quo, and are ok with skirting a legal and moral boundary (but hopefully not crossing it). This largely works! For all the scandals of Facebook, Amazon, Snapchat, or others, their founders are set for life. Startup success is unlikely but of such a large magnitude it whitewashes whatever you did to get there. Not quite the lesson you'd want to teach in school \[5\]
+If you're looking for world changing ideas, you're more likely to get them from people that can tolerate the higher variance, have big visions to change the status quo, and are ok with skirting a legal and moral boundary (but hopefully not crossing it). This largely works! For all the scandals of Facebook, Amazon, Snapchat, or others, their founders are set for life. Startup success is unlikely but of such a large magnitude it whitewashes whatever you did to get there. Not quite the lesson you'd want to teach in school \[4\]
 
 > In that way, ambition is a virtuous cycle. The more you have, the more you succeed. And the more you succeed, the higher your ambitions. 
 
@@ -71,7 +67,7 @@ This applies both to individuals and companies. Momentum has always been a featu
 
 > When you make a social introduction, you put your reputation on the line. You burn some hard-earned social capital in the name of doing a favor for a friend. But when you make an introduction for a talented and ambitious friend, the calculus flips.
 
-I actually disagree on the concept of burning social capital and think that you shouldn't worry about that when doing introductions. Introduce me to all the interesting people you know! [Avoid boring people.](https://avoidboringpeople.substack.com "ABP") If the person you're reaching out to does keep score, probably best to distance yourself from them. That said, I'm biased here since I a) like bringing people together and b) have high opinions of my friends \[6\]
+I actually disagree on the concept of burning social capital and think that you shouldn't worry about that when doing introductions. Introduce me to all the interesting people you know! [Avoid boring people.](https://avoidboringpeople.substack.com "ABP") If the person you're reaching out to does keep score, probably best to distance yourself from them. That said, I'm biased here since I a) like bringing people together and b) have high opinions of my friends \[5\]
 
 > I once read that Stripe CEO Patrick Collision ends every meeting by asking two questions:
   > Is this the most ambitious plan you could come up with?
@@ -81,17 +77,16 @@ Probably need to fact check this, but I love the anecdote! Most places try to re
 
 > \[Tyler Cowen has said\] “At critical moments in time, you can raise the aspirations of other people significantly, especially when they are relatively young, simply by suggesting they do something better or more ambitious than what they might have in mind. It costs you relatively little to do this, but the benefit to them, and to the broader world may be enormous.”
 
-My life trajectory was changed due to people nudging me to apply for college in the US, in just one of the many instances where a small effort from someone else significantly improved my life. This is one of the reasons I'm so focused on mentorship and would encourage all of you to be as well \[7\]. 
+My life trajectory was changed due to people nudging me to apply for college in the US, in just one of the many instances where a small effort from someone else significantly improved my life. This is one of the reasons I'm so focused on mentorship and would encourage all of you to be as well \[6\]. 
 
 **Footnotes**
 
-1. As mentioned before, I don't like to spam people, and won't get offended if you unsubscribe! 
-2. [He uses accounting identities to walk through various economic scenarios, removing the subjectivity of a lot of analysis. You can't disagree with a math equation's conclusions](https://carnegieendowment.org/chinafinancialmarkets/77009 "identities") 
-3. Yep, I had to look up the balance of payments definition too to jog my memory.
-4. I like the ability to track my thoughts of the places I've been and haven't found a better alternative
-5. Separately, [Thiel's fellowship](https://thielfellowship.org/faq/ "Thiel") famously pays students to drop out.
-6. Uncertain how my friends actually feel on both of these though... 
-7. I've had mixed results in mentorship, but I think that's par for the course and hope that doesn't discourage you. Over the years I've become more ok letting go, since you can't mentor people that don't want to be mentored.
+1. [He uses accounting identities to walk through various economic scenarios, removing the subjectivity of a lot of analysis. You can't disagree with a math equation's conclusions](https://carnegieendowment.org/chinafinancialmarkets/77009 "identities") 
+2. Yep, I had to look up the balance of payments definition too to jog my memory.
+3. I like the ability to track my thoughts of the places I've been and haven't found a better alternative
+4. Separately, [Thiel's fellowship](https://thielfellowship.org/faq/ "Thiel") famously pays students to drop out.
+5. Uncertain how my friends actually feel on both of these though... 
+6. I've had mixed results in mentorship, but I think that's par for the course and hope that doesn't discourage you. Over the years I've become more ok letting go, since you can't mentor people that don't want to be mentored.
 
 **Shout outs**
 
