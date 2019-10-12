@@ -1,12 +1,12 @@
 ---
-title:  "Dirty little secret"  
+title:  "Public secrets"  
 tags: [tech, finance, investing, art]
 published: true
 ---
 
 *If you like this, you might like my [monthly newsletter on finance and tech](https://avoidboringpeople.substack.com/ "ABP")*
 
-Industry insiders have shared knowledge about the sector that outsiders do not. These are the unknown knowns, the public secrets, the non-obvious obvious pieces of knowledge. The list below may seem cynical; I prefer the term realistic. As always, open to being proven wrong.
+Industry insiders have shared knowledge about the sector that outsiders do not. These are the unknown knowns, the public secrets, the non-obvious obvious pieces of knowledge. Everyone in the business is aware of it, but people outside are not. The list below may seem cynical; I prefer the term realistic. As always, open to being proven wrong.
 
 1. Companies don't get value when talking with investment bankers about M&A since the companies know the landscape better. Financing structuring advice is more relevant but also becoming commoditised. 
 2. Investors don't get value from sellside equity research since the published work is by definition consensus. Most value the company connections instead.
