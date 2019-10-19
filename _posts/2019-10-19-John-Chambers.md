@@ -27,7 +27,7 @@ I attended a webinar with [John Chambers](https://en.wikipedia.org/wiki/John_T._
 - Long term thinking
   - At cisco I wasn't focused on quarters, and I wanted competitors to be focused on quarters
   - Most companies now are run with too much short term, quarterly focus
-- Companies fail by doing the same successful thing to often 
+- Companies fail by doing the same successful thing too often 
   - e.g. west virginia in 3 decades became #50 on most measures of wellness
   - If you don't change you'll get left behind
   - People may say that's all part of the natural cycle of things, but it's not a natural occurrence at all. Other states deliberately engineered change for their success
