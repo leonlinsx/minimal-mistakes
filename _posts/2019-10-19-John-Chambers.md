@@ -1,7 +1,7 @@
 ---
 title:  "John Chambers webinar"  
 tags: [tech, business, advice, innovation]
-published: false
+published: true
 ---
 
 *If you like this, you might like my [monthly newsletter on finance and tech](https://avoidboringpeople.substack.com/ "ABP")*
