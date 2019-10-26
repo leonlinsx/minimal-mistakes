@@ -1,7 +1,7 @@
 ---
 title:  "Final message of Boone Pickens"  
 tags: [advice]
-published: false
+published: true
 ---
 
 *If you like this, you might like my [monthly newsletter on finance and tech](https://avoidboringpeople.substack.com/ "ABP")*
@@ -18,11 +18,11 @@ I think this is universal; we all wish that we had the benefit of hindsight to r
 
 > She always made a point of making sure I understood that on the road to success, there’s no point in blaming others when you fail.
 
-Nobody owes us a living ; no one else is responsible for our lives. If we cannot take ownership of our actions and the resulting consequences, we cannot blame others when we fail. People will push back and say 'If only I'd been born rich, if only I'd known about this back then, if only...' But the fact is we weren't, so we have to deal with it and move it. If we keep wallowing in self pity we'll always remain there
+Nobody owes us a living; no one else is responsible for our lives. If we cannot take ownership of our actions and the resulting consequences, we cannot blame others when we fail. People will push back and say 'If only I'd been born rich, if only I'd known about this back then, if only...' But the fact is we weren't, so we have to deal with it and move it. If we keep wallowing in self pity we'll always remain stuck
 
 > A good work ethic is critical.
 
-Related to the above, if you don't want to work hard, the chance of success is lower. It's not impossible of course, and there are plenty of lazy successful people. But the likelihood is reduced.
+Related to the above, if you don't want to work hard, the chance of success is lower. It's not impossible of course, and there are plenty of lazy successful people. But the likelihood is reduced. Working hard doesn't guarantee success, but it raises your chances.
 
 > Don’t think competition is bad, but play by the rules. I loved to compete and win. I never wanted the other guy to do badly; I just wanted to do a little better than he did.
 
@@ -35,6 +35,8 @@ Importantly, evaluate decisions not by the outcome, but by the process of how yo
 > Learn from mistakes. That’s not just a cliché. I sure made my share. Remember the doors that smashed your fingers the first time and be more careful the next trip through.
 
 > Be humble. I always believed the higher a monkey climbs in the tree, the more people below can see his ass. You don’t have to be that monkey.
+
+The stereotype of Boone Pickens is this aggressive corporate raider, so it's interesting he highlighted this.
 
 > Stay fit. You don’t want to get old and feel bad. You’ll also get a lot more accomplished and feel better about yourself if you stay fit. I didn’t make it to 91 by neglecting my health.
 
