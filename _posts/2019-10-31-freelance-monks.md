@@ -118,7 +118,7 @@ I've found that many decisions made within an organisation are to either cover s
 **Shout outs**
 1. I met with Amy Pryke of [Native Noodles](https://www.nativenoodles.com/ "Native"), which is bringing good Singaporean food to NYC. Yes I'm obviously biased here but check them out if you're interested! 
 2. If you're an underrepresented group in tech and looking to recruit, [Ben Jackson of For The Win](https://ftw.nyc/about/ "FTW") would like to help. Let me know and I can reach out.
-3. I job shadowed [Bilyana Freye of the job shadowing marketplace Hoppin](https://gohoppin.com/about "hoppin") and wrote about my experience here. Check them out if you’re interested in finding a cool job to shadow. 
+3. I job shadowed [Bilyana Freye of the job shadowing marketplace Hoppin](https://gohoppin.com/about "hoppin") and wrote an inital take about my experience [here](https://www.leonlinsx.com/hoppin/ "hoppin"). Check them out if you’re interested in finding a cool job to shadow!
 
 **Other**
 1. [The O-ring theory of development describes how small changes in quality cause big changes in wages, when economies are organized such that one weak link can destroy the entire value of production](https://www.youtube.com/watch?v=CKkOmIW9bjg "O-ring")
