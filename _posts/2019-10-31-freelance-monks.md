@@ -8,7 +8,7 @@ published: false
 
 **Takeaways**
 
-1. Operators should learn finance and investors should learn more empathy
+1. Operators should learn finance and investors should learn empathy
 2. The most popular celebrity could one day be a fully digital one
 3. Employment can be thought of as a legal way to own another person
 
@@ -18,23 +18,23 @@ If you subscribed after listening to my cocktail talk, *this newsletter is not a
 
 **What can operators and investors learn from each other**
 
-With the fall from grace of WeWork, there's been a realisation that companies actually need to make money \[2\]. I've also seen comments about how operators would benefit from basic finance knowledge. This article about what operators can learn from investors, and vice versa, comes from Brent Beshore of the investment firm [adventur.es](https://www.adventur.es/our-investment-approach "adventures"):
+With WeWork's fall from grace, there's been a realisation that companies actually need to make money \[2\]. I've also seen comments that operators would benefit from basic finance knowledge. [This article](https://www.adventur.es/investors-and-operators-lessons-ive-learned-from-both-worlds "beshore") about what operators can learn from investors, and vice versa, comes from Brent Beshore of the investment firm [adventur.es](https://www.adventur.es/our-investment-approach "adventures"):
 
 *WHAT OPERATORS CAN LEARN FROM INVESTORS*
 
 > Capital efficiency and capital allocation matter
 
-[Growth is not necessarily good and can even be value destructive, depending on your cost of capital and return on it.](https://www.valuewalk.com/wp-content/uploads/2014/08/Growth-what-is-it-good-for-and-ROIC.pdf "ROIC") The book "The Outsiders" has recently popularised the concept that a CEO's main job is capital allocation, so you're seeing more focus on this now. For the less financially experienced, this is saying you need to know how much your funding costs, what your expected return on investment is, and how efficiently you are expanding.
+[Growth is not necessarily good and can even be value destructive, depending on your cost of capital and return on it.](https://www.valuewalk.com/wp-content/uploads/2014/08/Growth-what-is-it-good-for-and-ROIC.pdf "ROIC") The book "The Outsiders" has recently popularised the concept that a CEO's main job is capital allocation, so you're now seeing more focus on this. For the less financially experienced, this is saying you need to know how much your funding costs, what your expected return on investment is, and how efficiently you are expanding.
 
 > Circle of competence will limit you, but keep you alive
 
-Nobody would assume they can conduct surgery without the proper training, yet everyone and their parents assume they can be above average investors. Perhaps it's due to the [paradox of skill](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&source_id=em&document_id=805456950&serialid=LsvBuE4wt3XNGE0V%2B3ec251NK9soTQqcMVQ9q2QuF2I%3D "CS") I don't want to discourage people from learning on their own, but be aware of where your expertise is in and who you are competing against in any new arena. 
+Nobody would assume they can conduct surgery without the proper training, yet everyone and their parents assume they can be above average investors. Perhaps it's due to the [paradox of skill?](https://research-doc.credit-suisse.com/docView?language=ENG&format=PDF&source_id=em&document_id=805456950&serialid=LsvBuE4wt3XNGE0V%2B3ec251NK9soTQqcMVQ9q2QuF2I%3D "CS") I don't want to discourage people from learning on their own, but be aware of where your expertise is in and who you are competing against in any new arena. 
 
 *WHAT INVESTORS CAN LEARN FROM OPERATORS*
 
 > All businesses are loosely functioning disasters, and some are profitable despite it
 
-Many investors lack operating experience due to the recruitment funnel of "banking to private equity to hedge fund". Because of this, many model businesses with spreadsheet math and lack the context for why their activist proposal would be difficult to execute. The better investors acknowledge their knowledge gaps and seek ways to have more empathy for operators. 
+Many investors lack operating experience due to the recruitment funnel of "banking to private equity to hedge fund". Because of this, they model businesses with spreadsheet math and lack the context for why their activist proposal would be difficult to execute. The better investors acknowledge their knowledge gaps and seek ways to have more empathy for operators. 
 
 > Outsized returns require divergent thinking and action
 
@@ -42,13 +42,13 @@ Investors like to believe they are bold risk takers, though I doubt this is the 
 
 **Digital celebrities, so hot right now**
 
-I was listening to Spotify one day and heard a catchy but strange song, so I went to youtube to look up the artist. Turns out, [it was by a digital celebrity, Miquela](https://www.youtube.com/watch?v=IqlsVdO04Pw "Right Back") \[4\]. [Michael Dempsey elaborates on this digital celebrity phenomenon:](https://medium.com/@mhdempsey/everything-to-know-about-digital-celebrities-and-how-they-could-change-the-world-7b3bf9806073 "Dempsey")
+I heard a catchy but strange song on Spotify and went to youtube to look up the artist. Turns out, [it was by a digital celebrity, Miquela](https://www.youtube.com/watch?v=IqlsVdO04Pw "Right Back") \[4\]. [Michael Dempsey elaborates on this digital celebrity phenomenon:](https://medium.com/@mhdempsey/everything-to-know-about-digital-celebrities-and-how-they-could-change-the-world-7b3bf9806073 "Dempsey")
 
 > The vast majority of these characters today live on social media and post their day-to-day lives and thoughts with the world. Miquela (one of the most famous) has done a shirt collab, released music, and gotten in fights with other digital celebrities.
 
 Many people might find this weird. However, think about your average interaction with a "real" celebrity. Have you even seen them in person before? For all intents and purposes, they might as well be a digital one since you'll never come in contact with them. And what about your interaction with a celebrity who has died? 
 
-Michael touches on Hatsune Miku, a popular digital idol that is part of a [$100 million market](https://www.yanoresearch.com/press/pdf/1773.pdf "miku"). You can read more about the history of it [here.](https://www.urop.uci.edu/journal/journal13/01_le.pdf "history")
+Michael touches on Hatsune Miku, a popular digital idol that is part of a [$100 million market](https://www.yanoresearch.com/press/pdf/1773.pdf "miku"). You can read more about the history of it [here.](https://www.urop.uci.edu/journal/journal13/01_le.pdf "history") Yes those are actual people dancing to a hologram.
 
 > digital celebrities could lead to a world where digital identity layers taking on physical traits is more socially accepted.
 
@@ -109,7 +109,7 @@ I've found that many decisions made within an organisation are to either cover s
 4. I'm predicting someone judging me on my music taste now
 5. Sent in by friend and reader Tian
 6. No, I do not do this. Really.
-7. The realisation that you can do the same amount of work in a T shirt and jeans vs a suit must have been revolutionary. In some ways though, it was! Cultural change takes time.
+7. The realisation that you can do the same amount of work in a T shirt and jeans vs a suit must have been revolutionary. In some ways though, it was! Cultural change takes time. This applies to all places - for all their spiel about acceptance, try wearing a suit in a tech company and see how many snarky comments you get.
 8. I'm less critical than Taleb here of employment. Everyone has their circumstances on why they're doing what they do. Hey I need to pay rent too.
 9. Applies even to founders and majority control shareholders in a business, as seen by Uber and WeWork. The survival of the company (and investor money) is the priority above all.
 10. For more detail, see the O-ring theory of development in the "Other links" section
@@ -118,6 +118,7 @@ I've found that many decisions made within an organisation are to either cover s
 **Shout outs**
 1. I met with Amy Pryke of [Native Noodles](https://www.nativenoodles.com/ "Native"), which is bringing good Singaporean food to NYC. Yes I'm obviously biased here but check them out if you're interested! 
 2. If you're an underrepresented group in tech and looking to recruit, [Ben Jackson of For The Win](https://ftw.nyc/about/ "FTW") would like to help. Let me know and I can reach out.
+3. I job shadowed [Bilyana Freye of the job shadowing marketplace Hoppin](https://gohoppin.com/about "hoppin") and wrote about my experience here. Check them out if you’re interested in finding a cool job to shadow. 
 
 **Other**
 1. [The O-ring theory of development describes how small changes in quality cause big changes in wages, when economies are organized such that one weak link can destroy the entire value of production](https://www.youtube.com/watch?v=CKkOmIW9bjg "O-ring")
