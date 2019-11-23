@@ -4,7 +4,7 @@ tags: [networking, relationships]
 published: false
 ---
 
-*If you liked this, sign up for my monthly* ***[finance and tech newsletter](https://avoidboringpeople.substack.com/ "ABP")***
+*If you liked this, you'll like my monthly* ***[finance and tech newsletter](https://avoidboringpeople.substack.com/ "ABP")***
 
 I first read Keith Ferrazzi's "Never Eat Alone" more than ten years ago and took some useful advice from it. I re-read it recently to see how well it holds up, and took the following notes:
 
@@ -32,4 +32,4 @@ I first read Keith Ferrazzi's "Never Eat Alone" more than ten years ago and took
 
 > A successful mentoring relationship needs equal parts utility and emotion 
 
-*If you liked this, sign up for my monthly* ***[finance and tech newsletter](https://avoidboringpeople.substack.com/ "ABP")***
+*If you liked this, you'll like my monthly* ***[finance and tech newsletter](https://avoidboringpeople.substack.com/ "ABP")***
