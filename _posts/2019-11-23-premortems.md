@@ -35,7 +35,7 @@ Johnson, Sonkin, and Klein go on to discuss five conditions that make premortems
 
 A common theme across these is to ensure the outlier diverse viewpoint gets heard. Most work culture encourages people to speak up and voice their opinion, and I still believe that's the preferable way for and individual to get ahead in their careers. However, this culture that gives more weight to more aggressive personalities also results in neglect of more passive personalities that could contribute critical knowledge. How often have you been in a project meeting where there are multiple people talking over each other in an attempt to prove their status while the real expert feels awkward at speaking up?
 
-And also discuss common mistakes: 
+They also discuss common mistakes: 
 
 > Mistake 1: Asking the group, “What can go wrong?”. \[...\] The essence of the premortem is the firm assertion at the beginning that the plan has gone horribly wrong. It has failed. No equivocation. The reframing is critical in shifting the group’s mindset.
 
