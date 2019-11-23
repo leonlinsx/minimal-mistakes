@@ -4,7 +4,7 @@ tags: [premortems, planning]
 published: true
 ---
 
-*If you like this, you might like my [monthly newsletter on finance and tech](https://avoidboringpeople.substack.com/ "ABP")*
+*If you liked this, you'll like my monthly* ***[finance and tech newsletter](https://avoidboringpeople.substack.com/ "ABP")***
 
 I'm a fan of conducting pre-mortems before projects since they help pre-empt problems. Gary Klein, Paul Sonkin, and Paul Johnson discuss common mistakes and how to conduct these better in [this paper](https://capitalallocatorspodcast.com/wp-content/uploads/Klein-Sonkin-and-Johnson-2019-The-Misuse-of-Premortems-on-Wall-Street.pdf "misuse premortems")
 
@@ -51,4 +51,4 @@ I've made mistake 1 before, so this was a good reminder for me to review the pre
 
 I love premortems and scenario planning since they help align expectations and get buy in from everyone involved. I think they should be a part of every major project plan. The next time I conduct them I'll be keeping the above pointers in mind. 
 
-*If you like this, you might like my [monthly newsletter on finance and tech](https://avoidboringpeople.substack.com/ "ABP")*
+*If you liked this, you'll like my monthly* ***[finance and tech newsletter](https://avoidboringpeople.substack.com/ "ABP")***
