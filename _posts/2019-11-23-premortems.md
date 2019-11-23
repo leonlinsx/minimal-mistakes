@@ -1,7 +1,7 @@
 ---
-title:  ""  
-tags: []
-published: false
+title:  "How to conduct effective premortems"  
+tags: [premortems, planning]
+published: true
 ---
 
 *If you like this, you might like my [monthly newsletter on finance and tech](https://avoidboringpeople.substack.com/ "ABP")*
@@ -19,7 +19,9 @@ What are the benefits of a premortem?
 
 > Third, the premortem fosters a culture of candor, which is usually its most important benefit.
 
-They go on to discuss five conditions that make premortems effective:
+Everyone likes to assume that things will go exactly as planned despite noone actually believing they will. Premortems are a fantastic way to discover previously unanticipated problems, particularly issues that a "lower ranking" team member might be hesitant to raise. By reducing the barrier to contributing, team members feel that their opinions will be listened to and not brushed off.  
+
+Johnson, Sonkin, and Klein go on to discuss five conditions that make premortems effective:
 
 > Problem reframing. The goal of the premortem is to allow the group to identify weaknesses, poor assumptions or hidden risks associated with a plan or an idea. Research shows that it is easier to find reasons for why something has happened as opposed to developing different scenarios for things that might happen
 
@@ -30,6 +32,8 @@ They go on to discuss five conditions that make premortems effective:
 > Group “equality.” It is critically important to have “equal” participation from each team member
 
 > Sense of urgency. It is critical that the premortem follow a rapid pace to avoid paralysis that often comes from too much group discussion and superficial analysis
+
+A common theme across these is to ensure the outlier diverse viewpoint gets heard. Most work culture encourages people to speak up and voice their opinion, and I still believe that's the preferable way for and individual to get ahead in their careers. However, this culture that gives more weight to more aggressive personalities also results in neglect of more passive personalities that could contribute critical knowledge. How often have you been in a project meeting where there are multiple people talking over each other in an attempt to prove their status while the real expert feels awkward at speaking up?
 
 And also discuss common mistakes: 
 
@@ -42,5 +46,9 @@ And also discuss common mistakes:
 > Mistake 4: Having one of the group participants initiate the process. \[...\] The premortem demands honesty and candor, starting with the team leader setting the tone.
 
 > Mistake 5: Letting team members present more than one item from their list or dominating the discussion before moving to the next group member
+
+I've made mistake 1 before, so this was a good reminder for me to review the premortem process. The rest of the mistakes seem to have the intent of increasing democratic participation among all members of the group, which aligns with the theme we just discussed above. 
+
+I love premortems and scenario planning since they help align expectations and get buy in from everyone involved. I think they should be a part of every major project plan. The next time I conduct them I'll be keeping the above pointers in mind. 
 
 *If you like this, you might like my [monthly newsletter on finance and tech](https://avoidboringpeople.substack.com/ "ABP")*
