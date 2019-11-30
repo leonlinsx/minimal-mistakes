@@ -1,6 +1,6 @@
 ---
 title:  "How likely would you accept grandma's friend request in a video game?"  
-tags: [video games, tech, finance, sports, esports, social, rebalancing, probability, behavioural finance, ]
+tags: [video games, tech, finance, sports, esports, social, rebalancing, investing, probability, behavioural finance, career advice, advice, google, dating, math]
 published: false
 ---
 
@@ -14,13 +14,13 @@ published: false
 
 **Video games killed the sports star**
 
-On Nov 21st, the popular gaming company [Valve](https://store.steampowered.com/ "Steam") announced a new game, [Half-Life Alyx](https://half-life.com/en/alyx "Alyx"). Alyx is a sequel in the Half-Life series, widely considered one of the greatest games of all time, the last version being released more than twelve years ago. You can check out the 2 min trailer for Alyx here:
+On Nov 21st, the popular gaming company [Valve](https://store.steampowered.com/ "Steam") announced a new game, [Half-Life Alyx](https://half-life.com/en/alyx "Alyx"). Alyx is a sequel in the Half-Life series, widely considered one of the greatest games of all time; the last update was released twelve years ago. You can check out the 2 min trailer for Alyx below. Keep in mind this is meant to be played *in VR!*
 
 [![Alyx]({{ site.url }}{{ site.baseurl }}/assets/images/Tyro dating market.png)](https://www.youtube.com/watch?v=O2W0N3uKXmo "Alyx")
 
 Why is this important? You're subscribed to read about tech, finance, and the occasional self-deprecating joke; half of you probably didn't click on the video. *Who cares about video games?*
 
-Here's why you should care. I believe video games and esports (watching video games for fun) are the next cultural phenomenon. Just like you'll feel left out of conversations if you haven't watched the latest Avengers movie, the day will soon come when you'll feel sidelined because you haven't played the newest video game \[1\]. I also believe that AR and VR will be the next form factor of how we are entertained, like how the mobile phone, PC, or television has been. I hope that Alyx is the catalyst for taking VR to the mainstream, but acknowledge the market might still be premature.
+Here's why you should care. I believe video games and esports (watching video games for fun) are the next cultural phenomenon. Just like you'll feel left out of conversations if you haven't watched the latest Avengers movie, the day will soon come when you'll feel sidelined because you haven't played or watched the newest video game \[1\]. I also believe that AR and VR will be the next form factor of how we are entertained, like how the mobile phone, PC, or television has been. I hope that Alyx is the catalyst for taking VR to the mainstream, but acknowledge the market might still be premature.
 
 Sounds ridiculous right? After all, Avengers:End Game alone was a $3bn grossing movie, you can't throw a stone \[2\] without hitting an unfunny Avengers meme, and [Marvel movie spinoffs are reproducing like rabbits](https://time.com/5167535/upcoming-marvel-movies/ "List of upcoming Marvel movies"). *How large could video games be?*
 
@@ -28,9 +28,9 @@ Well:
 
 ![a16z]({{ site.url }}{{ site.baseurl }}/assets/images/Tyro dating market.png)
 
-Games are larger than film but still growing quicker. With the [global sports industry at $500bn in size](https://www.businesswire.com/news/home/20190514005472/en/Sports---614-Billion-Global-Market-Opportunities "Sports"), there's still plenty of room for games to continue growing before reaching the same size as sports. 
+Games are larger than film but still growing quicker. With the [global sports industry at $500bn in size](https://www.businesswire.com/news/home/20190514005472/en/Sports---614-Billion-Global-Market-Opportunities "Sports"), there's plenty of room for games to grow before reaching the same size as sports. 
 
-For games to do so, they'd need to expand beyond kids playing Fortnite on their parent's credit cards. [The largest esports tournament already has about the same number of viewers as the Super Bowl](https://marginalrevolution.com/marginalrevolution/2018/08/esports-update.html "MR"), but the smaller tournaments still have much room to go. You'd want new games to be inclusive experiences that adults and even the elderly could appreciate. *Would grandma ever play a video game?*
+For games to do so, they'd need to expand beyond kids playing Fortnite on their parent's credit cards. [The largest esports tournament already has about the same number of viewers as the Super Bowl](https://marginalrevolution.com/marginalrevolution/2018/08/esports-update.html "MR"), but the smaller tournaments cannot compare yet. You'd want new games to be inclusive experiences that adults and even the elderly could appreciate. *Would grandma ever play a video game?*
 
 Well \[3\]:
 
@@ -52,9 +52,9 @@ There are at least three reasons why I'm confident this will happen:
 
 3. Craving for community. Everyone wants to belong to something. Games offer essentially infinite options to identify as part of a larger tribe. As more games realise they are providing a social experience as well, developers will start including community features similar to [Fortnite's in-game concert](https://www.theverge.com/2019/2/21/18234980/fortnite-marshmello-concert-viewer-numbers "Fortnite") \[5\] 
 
-I wonder how the economic model for gaming will change from this. Selling in-game cosmetics for actual cash is [not that old](https://www.eurogamer.net/articles/USD25-wow-horse-makes-millions "WoW"), implying we should see evolution of monetisation models in the future. On esports, Mitch Lasky, former gaming company exec \[6\], points out that [the current structure of esports is different from live sports](https://www.quora.com/What-is-your-view-on-the-future-of-eSports-in-comparison-to-other-major-US-sports "Mitch"). Esports games are directly linked to the publishers, who see esports more of a marketing tool. Esports teams do make money, but only a small share of the overall game revenue. This is in contrast to live sports which get stadium ticketing and TV contract revenue, with teams and players taking a larger share.
+I wonder how the economic model for gaming will change from this. Selling in-game virtual items for actual cash is [not that old](https://www.eurogamer.net/articles/USD25-wow-horse-makes-millions "WoW"), implying  monetisation in games is still immature and we should see evolution of monetisation models in the future. On esports, Mitch Lasky, former gaming company exec \[6\], points out that [the current structure of esports is different from live sports](https://www.quora.com/What-is-your-view-on-the-future-of-eSports-in-comparison-to-other-major-US-sports "Mitch"). Esports games are directly linked to the publishers, who see esports more of a marketing tool. Esports teams do make money, but only a small share of the overall game revenue. This is in contrast to live sports which get stadium ticketing and TV contract revenue, with teams and players taking a larger share.
 
-Perhaps I'm trying to convince myself the thousands of hours I spent playing video games were not wasted. I doubt it though \[7\]. I'm predicting with 75% certainty playing video games becomes the norm rather than the exception, and 50% certainty that VR is the platform that enables this shift. 
+Perhaps I'm trying to convince myself the thousands of hours I spent playing video games were not wasted. I doubt it though \[7\], and think video games and VR are here to stay. I'm predicting with 90% certainty playing video games becomes the norm rather than the exception, and 50% certainty that VR is the platform that enables this shift. 
 
 **Timing luck and lucky timing**
 
@@ -161,7 +161,7 @@ Whether you should "count" or "average" though depends on whether your experts h
 
 **Footnotes**
 
-1. There's already 2.5 billion video gamers, loosely defined, [according to Statista.](https://www.statista.com/statistics/748044/number-video-gamers-world/ "Stats") Even if you haircut that number substantially to account for poor statistical methodology, it's still going to be large. Gamers - they live among us. You'll notice I refer to gaming and esports interchangably, when technically esports are a small fraction of overall video games. I think there's enough ambiguity in definition and that esports will grow enough that the distinction becomes irrelevant. 
+1. There's already 2.5 billion video gamers, loosely defined, [according to Statista.](https://www.statista.com/statistics/748044/number-video-gamers-world/ "Stats") Even if you haircut that number substantially to account for poor statistical methodology, it's still going to be large. Gamers - they live among us. You'll notice I refer to gaming and esports interchangeably, when technically esports are a small fraction of overall video games. I think there's enough ambiguity in definition and that esports will grow enough that the distinction becomes irrelevant. 
 2. Heh. 
 3. I have an ~~irrational~~ highly justified strong dislike for Pokemon Go, but acknowledge that it's single handedly converted more elderly into ~~addicted~~ passionate gamers than any other game I'm aware of
 4. I don't agree with all their trends, particularly the one-off hit point (Games are still one-off hits in expectation) and the organic discovery point (It's just a shifting of advertising channel), but will leave that commentary for another article.
