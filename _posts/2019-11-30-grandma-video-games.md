@@ -30,7 +30,7 @@ Well:
 
 Games are larger than film but still growing quicker. With the [global sports industry at $500bn in size](https://www.businesswire.com/news/home/20190514005472/en/Sports---614-Billion-Global-Market-Opportunities "Sports"), there's still plenty of room for games to continue growing before reaching the same size as sports. 
 
-For games to do so, they'd need to expand beyond kids playing Fornite on their parent's credit cards. [The largest esports tournament already has about the same number of viewers as the Super Bowl](https://marginalrevolution.com/marginalrevolution/2018/08/esports-update.html "MR"), but the smaller tournaments still have much room to go. You'd want new games to be inclusive experiences that adults and even the elderly could appreciate. *Would grandma ever play a video game?*
+For games to do so, they'd need to expand beyond kids playing Fortnite on their parent's credit cards. [The largest esports tournament already has about the same number of viewers as the Super Bowl](https://marginalrevolution.com/marginalrevolution/2018/08/esports-update.html "MR"), but the smaller tournaments still have much room to go. You'd want new games to be inclusive experiences that adults and even the elderly could appreciate. *Would grandma ever play a video game?*
 
 Well \[3\]:
 
@@ -52,7 +52,7 @@ There are at least three reasons why I'm confident this will happen:
 
 3. Craving for community. Everyone wants to belong to something. Games offer essentially infinite options to identify as part of a larger tribe. As more games realise they are providing a social experience as well, developers will start including community features similar to [Fortnite's in-game concert](https://www.theverge.com/2019/2/21/18234980/fortnite-marshmello-concert-viewer-numbers "Fortnite") \[5\] 
 
-I wonder how the economic model for gaming will change from this. Selling in-game cosmetics for actual cash is [not that old](https://www.eurogamer.net/articles/USD25-wow-horse-makes-millions "WoW"), implying we should see evolution of monetisation models in the future. On esports, Mitch Lasky, former gaming compan exec \[6\], points out that [the current structure of esports is different from live sports](https://www.quora.com/What-is-your-view-on-the-future-of-eSports-in-comparison-to-other-major-US-sports "Mitch"). Esports games are directly linked to the publishers, who see esports more of a marketing tool. Esports teams do make money, but only a small share of the overall game revenue. This is in contrast to live sports which get stadium ticketing and TV contract revenue, with teams and players taking a larger share.
+I wonder how the economic model for gaming will change from this. Selling in-game cosmetics for actual cash is [not that old](https://www.eurogamer.net/articles/USD25-wow-horse-makes-millions "WoW"), implying we should see evolution of monetisation models in the future. On esports, Mitch Lasky, former gaming company exec \[6\], points out that [the current structure of esports is different from live sports](https://www.quora.com/What-is-your-view-on-the-future-of-eSports-in-comparison-to-other-major-US-sports "Mitch"). Esports games are directly linked to the publishers, who see esports more of a marketing tool. Esports teams do make money, but only a small share of the overall game revenue. This is in contrast to live sports which get stadium ticketing and TV contract revenue, with teams and players taking a larger share.
 
 Perhaps I'm trying to convince myself the thousands of hours I spent playing video games were not wasted. I doubt it though \[7\]. I'm predicting with 75% certainty playing video games becomes the norm rather than the exception, and 50% certainty that VR is the platform that enables this shift. 
 
@@ -128,13 +128,13 @@ Having established the difference between numeric and verbal probabilities, the 
 
 For example, if received multiple forecasts ranging from 60 to 80%, an "averaging" strategy would get you close to 70%, whereas a "counting" strategy would get you above 80% since so many forecasts confirmed your point of view \[12\]. If you received multiple forecasts that mostly said an event was "likely", an "averaging" strategy would conclude it was "likely", whereas a "counting" strategy would think the event was "highly likely" since so many people said it was "likely"
 
-The researchers found that people combined numerics and verbal probabilities differently: 
+The researchers found that people combined numeric and verbal probabilities differently: 
 
 > although people average multiple numeric forecasts, they “count” multiple verbal probability forecasts, resulting in forecasts that are more extreme than each advisor’s forecast
 
 In other words, we average out to get to 70% in the example above, but once you convert those numerical predictions to verbal ones, we "count" the number of predictions and get to "highly likely" instead of averaging. The researchers also show that this influences behaviour, and consumers can be influenced to purchase an item depending on how the predictions are presented. 
 
-Whether you should "count" or "average" though depends on whether your experts have similar or different information. If they are working off the same information, "averaging" works better at cancelling out idiosyncratic erros. If they are not, then "counting" could be an approximation of a Bayesian strategy that improves your personal forecast. 
+Whether you should "count" or "average" though depends on whether your experts have similar or different information. If they are working off the same information, "averaging" works better at cancelling out idiosyncratic errors. If they are not, then "counting" could be an approximation of a Bayesian strategy that improves your personal forecast. 
 
 **Shout outs**
 
@@ -143,6 +143,7 @@ Whether you should "count" or "average" though depends on whether your experts h
 **Other**
 
 1. [Obvious career mistakes (that might not be so obvious)](https://www.calnewport.com/blog/2019/11/11/the-obvious-way-to-improve-your-career-that-might-not-be-so-obvious/ "Cal")
+    
     > Obvious career mistake #1: you mostly ask for general advice
     
     > Obvious career mistake #2: you copy the surface, not the cause
