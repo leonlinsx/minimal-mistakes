@@ -1,6 +1,6 @@
 ---
-title:  "Would you buy the Libra Neopet Kin token?"  
-tags: []
+title:  "How likely would you accept grandma's friend request in a video game?"  
+tags: [video games, tech, finance, sports, esports, social, rebalancing, probability, behavioural finance, ]
 published: false
 ---
 
@@ -8,7 +8,7 @@ published: false
 
 **Takeaways**
 
-1.
+1. Video games are the next cultural phenomenon and virtual reality will lead that revolution
 2. The timing of when you rebalance your investment portfolio could lead to a significant difference in your returns
 3. We're bad at describing probabilities and even worse at combining them
 
