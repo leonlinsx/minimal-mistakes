@@ -138,7 +138,7 @@ Whether you should "count" or "average" though depends on whether your experts h
 
 **Shout outs**
 
-1. Modatrova (https://www.instagram.com/modatrova/ "Modatrova") is "a traveling boutique bringing emerging fashion brands to shoppers in private settings". The founder's a friend and looking for women who are tastemakers in their community who would be interested in hosting a private event. Please reach out if you'd be interested to host!  
+1. [Modatrova](https://www.instagram.com/modatrova/ "Modatrova") is "a traveling boutique bringing emerging fashion brands to shoppers in private settings". The founder's a friend and looking for women who are tastemakers in their community who would be interested in hosting a private event. Please reach out if you'd be interested to host!  
 
 **Other**
 
