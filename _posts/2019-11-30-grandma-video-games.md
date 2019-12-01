@@ -1,7 +1,7 @@
 ---
 title:  "How likely would you accept grandma's friend request in a video game?"  
 tags: [video games, tech, finance, sports, esports, social, rebalancing, investing, probability, behavioural finance, career advice, advice, google, dating, math]
-published: false
+published: true
 ---
 
 *This is a lightly edited version of my monthly newsletter.* ***[Sign up here](https://avoidboringpeople.substack.com/ "ABP")***
@@ -16,7 +16,7 @@ published: false
 
 On Nov 21st, the popular gaming company [Valve](https://store.steampowered.com/ "Steam") announced a new game, [Half-Life Alyx](https://half-life.com/en/alyx "Alyx"). Alyx is a sequel in the Half-Life series, widely considered one of the greatest games of all time; the last update was released twelve years ago. You can check out the 2 min trailer for Alyx below. Keep in mind this is meant to be played *in VR!*
 
-[![Alyx]({{ site.url }}{{ site.baseurl }}/assets/images/Tyro dating market.png)](https://www.youtube.com/watch?v=O2W0N3uKXmo "Alyx")
+[![Alyx]({{ site.url }}{{ site.baseurl }}/assets/images/Half-Life Alyx.png)](https://www.youtube.com/watch?v=O2W0N3uKXmo "Alyx")
 
 Why is this important? You're subscribed to read about tech, finance, and the occasional self-deprecating joke; half of you probably didn't click on the video. *Who cares about video games?*
 
@@ -26,7 +26,7 @@ Sounds ridiculous right? After all, Avengers:End Game alone was a $3bn grossing 
 
 Well:
 
-![a16z]({{ site.url }}{{ site.baseurl }}/assets/images/Tyro dating market.png)
+![a16z]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
 Games are larger than film but still growing quicker. With the [global sports industry at $500bn in size](https://www.businesswire.com/news/home/20190514005472/en/Sports---614-Billion-Global-Market-Opportunities "Sports"), there's plenty of room for games to grow before reaching the same size as sports. 
 
@@ -34,7 +34,7 @@ For games to do so, they'd need to expand beyond kids playing Fortnite on their 
 
 Well \[3\]:
 
-![Go]({{ site.url }}{{ site.baseurl }}/assets/images/Tyro dating market.png)
+![Go]({{ site.url }}{{ site.baseurl }}/assets/images/Pokemon Go.png)
 
 I'm not alone in being bullish on gaming. a16z, a well-known venture capital firm, has increased their interest in gaming, and [wrote about some trends they believe in](https://a16z.com/2019/10/16/trends-revolutionizing-games/ "a16z") \[4\]: 
 
@@ -54,7 +54,7 @@ There are at least three reasons why I'm confident this will happen:
 
 I wonder how the economic model for gaming will change from this. Selling in-game virtual items for actual cash is [not that old](https://www.eurogamer.net/articles/USD25-wow-horse-makes-millions "WoW"), implying  monetisation in games is still immature and we should see evolution of monetisation models in the future. On esports, Mitch Lasky, former gaming company exec \[6\], points out that [the current structure of esports is different from live sports](https://www.quora.com/What-is-your-view-on-the-future-of-eSports-in-comparison-to-other-major-US-sports "Mitch"). Esports games are directly linked to the publishers, who see esports more of a marketing tool. Esports teams do make money, but only a small share of the overall game revenue. This is in contrast to live sports which get stadium ticketing and TV contract revenue, with teams and players taking a larger share.
 
-Perhaps I'm trying to convince myself the thousands of hours I spent playing video games were not wasted. I doubt it though \[7\], and think video games and VR are here to stay. I'm predicting with 90% certainty playing video games becomes the norm rather than the exception, and 50% certainty that VR is the platform that enables this shift. 
+Perhaps I'm trying to convince myself the thousands of hours I spent playing video games were not wasted. I doubt it though \[7\], and think video games and VR are here to stay. I'm predicting with 90% certainty playing video games becomes the norm rather than the exception, and 50% certainty that VR is the platform that enables this shift. If you don't want to feel left out, I think it's worthwhile to check out a VR experience so you can brag to your kids next time that you were an early adopter.
 
 **Timing luck and lucky timing**
 
@@ -72,7 +72,11 @@ They find that:
   
 In other words, if you have high turnover, rebalance less frequently, or have less constraints, the greater the impact that rebalancing timing will have on your final returns. The arrow below represents the difference between the best performing and the worst performing variation, *of the same portfolio*.
 
-They also present a summary table showing that delta across different investment strategies. To understand the below, it's saying that $1 in the "Enhanced Value" portfolio could have returned you from $4.45 to $5.45, and that entire $1 difference is due to luck in when you rebalance. 
+![Rebalance]({{ site.url }}{{ site.baseurl }}/assets/images/Rebalancing SP500 timing.png)
+
+They also present a summary table showing that delta across different investment strategies. To understand the below, it's saying that $1 in the "Enhanced Value" portfolio could have returned you from $4.45 to $5.45, and that entire $1 difference is due to luck in when you rebalance.
+
+![Rebalance]({{ site.url }}{{ site.baseurl }}/assets/images/Rebalancing SP500 overall table.png)
 
 They conclude by saying: 
 
@@ -132,7 +136,9 @@ The researchers found that people combined numeric and verbal probabilities diff
 
 > although people average multiple numeric forecasts, they “count” multiple verbal probability forecasts, resulting in forecasts that are more extreme than each advisor’s forecast
 
-In other words, we average out to get to 70% in the example above, but once you convert those numerical predictions to verbal ones, we "count" the number of predictions and get to "highly likely" instead of averaging. The researchers also show that this influences behaviour, and consumers can be influenced to purchase an item depending on how the predictions are presented. 
+In other words, we average out to get to 70% in the example above, but once you convert those numerical predictions to verbal ones, we "count" the number of predictions and get to "highly likely" instead of averaging. The researchers also show that this influences behaviour, and consumers can be influenced to purchase an item depending on how the predictions are presented.
+
+![Count]({{ site.url }}{{ site.baseurl }}/assets/images/How people combine probabilities.png)
 
 Whether you should "count" or "average" though depends on whether your experts have similar or different information. If they are working off the same information, "averaging" works better at cancelling out idiosyncratic errors. If they are not, then "counting" could be an approximation of a Bayesian strategy that improves your personal forecast. 
 
