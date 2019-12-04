@@ -6,11 +6,11 @@ published: false
 
 *If you liked this, you'll like my monthly* ***[finance and tech newsletter](https://avoidboringpeople.substack.com/ "ABP")***
 
-I've been following [Josh Wolfe](https://twitter.com/wolfejosh?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor "Josh") of [Lux Capital](https://www.luxcapital.com/ "Lux") for a while now, as he's sharp and also isn't afraid to provide valid criticism when needed. Lux recently gave a short presentation at their annual dinner, youtube link here: 
+I've been following [Josh Wolfe](https://twitter.com/wolfejosh?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor "Josh") of [Lux Capital](https://www.luxcapital.com/ "Lux") for a while now, as he's sharp and unafraid to call people out. Lux recently gave a short presentation at their annual dinner, youtube link here: 
 
 [![Lux]({{ site.url }}{{ site.baseurl }}/assets/images/Lux dinner 2019.png)](https://www.youtube.com/watch?v=hvEPUasRBRg "Lux")
 
-And my notes are below:
+And my notes on the talk are below:
 
 - We lie all the time, whether benign white lies or more serious ones. If someone deceives you without you knowing, they benefit at your expense. There's an evolutionary advantage to lying without getting caught  
   - I [try to avoid lying](https://www.leonlinsx.com/about-me/ "about me"), since I want to be known for reliability. However, *I definitely still lie*. Sometimes it's to avoid hurting someone's feelings. Sometimes it's for selfish desires. Sometimes it's so that I can dodge confronting an awkward truth. I'd assume everyone else is also lying sometimes.
