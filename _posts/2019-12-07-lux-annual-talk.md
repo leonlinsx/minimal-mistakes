@@ -19,6 +19,7 @@ published: true
          position: absolute;
          top: 0;
          width: 100%;
+         display: block;
          margin: 0 auto; <!-- center image -->
       }
       <!-- 4x3 Aspect Ratio -->
