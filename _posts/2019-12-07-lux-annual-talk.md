@@ -24,7 +24,7 @@ published: true
       }
       <!-- 4x3 Aspect Ratio -->
       .iframe-container-4x3 {
-        padding-top: 75%;
+        padding-top: 50%;
       }
 </style> 
 
