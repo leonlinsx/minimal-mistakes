@@ -20,7 +20,7 @@ published: true
          top: 0;
          width: 100%;
          display: block;
-         margin: auto; <!-- center image -->
+         margin: 0 auto; <!-- center image -->
       }
       <!-- 4x3 Aspect Ratio -->
       .iframe-container-4x3 {
