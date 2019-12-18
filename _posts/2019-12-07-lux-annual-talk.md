@@ -9,7 +9,7 @@ published: true
 <style>
       .iframe-container {
         overflow: hidden;        
-        padding-top: 50%; <!-- Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625) -->
+        padding-top: 56.25%; <!-- Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625) -->
         position: relative;
       }
       .iframe-container iframe { 
@@ -21,13 +21,13 @@ published: true
          width: 100%;
          margin: 0 auto; <!-- center image -->
       }
-      <!-- 2x1 Aspect Ratio -->
-      .iframe-container-2x1 {
-        padding-top: 50%;
+      <!-- 4x3 Aspect Ratio -->
+      .iframe-container-4x3 {
+        padding-top: 75%;
       }
 </style> 
 
-<div class="iframe-container-2x1">
+<div class="iframe-container-4x3">
   <iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe>
 </div>
 
