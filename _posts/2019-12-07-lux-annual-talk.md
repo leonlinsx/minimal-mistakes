@@ -4,7 +4,7 @@ tags: [tech, psychology]
 published: true
 ---
 
-*If you liked this, you'll like my monthly* ***[finance and tech newsletter](https://avoidboringpeople.substack.com/ "ABP")***
+*If you like this, you'll like my monthly* ***[finance and tech newsletter](https://avoidboringpeople.substack.com/ "ABP")***
 
 <style>
       .iframe-container {
