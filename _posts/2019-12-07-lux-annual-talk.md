@@ -6,6 +6,32 @@ published: true
 
 *If you liked this, you'll like my monthly* ***[finance and tech newsletter](https://avoidboringpeople.substack.com/ "ABP")***
 
+<style>
+      .iframe-container {
+        overflow: hidden;        
+        padding-top: 50%; <!-- Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625) -->
+        position: relative;
+      }
+      .iframe-container iframe { 
+         border: 0;
+         height: 100%; <!-- Finally, width and height are set to 100% so the iframe takes up 100% of the containers space. -->
+         left: 0;
+         position: absolute;
+         top: 0;
+         width: 100%;
+         <!-- margin: 0 auto; center image -->
+      }
+      <!-- 2x1 Aspect Ratio -->
+      .iframe-container-2x1 {
+        padding-top: 50%;
+      }
+</style> 
+
+<div class="iframe-container">
+  <iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe>
+</div>
+
+
 I've been following [Josh Wolfe](https://twitter.com/wolfejosh?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor "Josh") of [Lux Capital](https://www.luxcapital.com/ "Lux") for a while now, as he's sharp and also unafraid to call people out. Lux recently gave a short presentation at their annual dinner, youtube link here: 
 
 [![Lux]({{ site.url }}{{ site.baseurl }}/assets/images/Lux dinner 2019.png)](https://www.youtube.com/watch?v=hvEPUasRBRg "Lux")
