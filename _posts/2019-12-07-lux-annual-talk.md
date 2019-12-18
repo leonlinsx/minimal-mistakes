@@ -9,7 +9,7 @@ published: true
 <style>
       .iframe-container {
         overflow: hidden;        
-        padding-top: 56.25%; <!-- Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625) -->
+        padding-top: 75%; <!-- Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625) -->
         position: relative;
       }
       .iframe-container iframe { 
