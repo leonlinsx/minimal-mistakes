@@ -27,7 +27,7 @@ published: true
       }
 </style> 
 
-<div class="iframe-container">
+<div class="iframe-container-2x1">
   <iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe>
 </div>
 
