@@ -15,7 +15,7 @@ published: true
       .iframe-container iframe { 
          border: 0;
          height: 100%; <!-- Finally, width and height are set to 100% so the iframe takes up 100% of the containers space. -->
-         left: 0;
+         <!-- left: 0; -->
          position: absolute;
          top: 0;
          width: 100%;
