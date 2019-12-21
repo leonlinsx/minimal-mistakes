@@ -1,0 +1,75 @@
+---
+title:  "Information speed and investing alpha"  
+tags: [finance, investing, tech, information]
+published: false
+---
+
+*If you like this, you'll like my monthly* ***[finance and tech newsletter](https://avoidboringpeople.substack.com/ "ABP")***
+
+<style>
+      .iframe-container {
+        overflow: hidden;        
+        padding-top: 50%; <!-- Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625) -->
+        position: relative;
+      }
+      .iframe-container iframe { 
+         border: 0;
+         height: 100%; <!-- Finally, width and height are set to 100% so the iframe takes up 100% of the containers space. -->
+         left: 0;
+         position: absolute;
+         top: 0;
+         width: 100%;
+         display: block;
+         margin: 0 auto; <!-- center image -->
+      }
+      <!-- 4x3 Aspect Ratio -->
+      .iframe-container-4x3 {
+        padding-top: 75%;
+      }
+</style> 
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
+
+This week's post is commentary on [Geoff Yamane's piece on information speed and investment alpha](https://geoff-yamane.com/blog/2019/9/3/the-commoditization-of-information "Geoff")
+
+> investment strategies \[...\] can be re-framed as information front-running: extraordinary returns almost always derive from knowing some truth before others. The viability of these strategies then is related to how fast information travels.
+
+I'm stating the obvious, but to make money you need to sell something for more than you bought it for \[1\]. Which means you need to have exposure to the investment (long or short) before others do; before the price has corrected to what you believe the true price to be. Which means you knew or believed in something before others did, usually because of some information or analysis you saw. 
+
+If winning in investing depends on timely information, and the timeliness of information changes, that implies the way to win in investing has to change as well. House of Morgan writes about how company executives and bankers would exchange information all the time, for everyone to make money insider trading ahead of the public. With more stringent regulation \[2\] that opportunity was removed. Older hedge fund founders talk about how you used to be able to get the news ahead of others, by physically being at the location it was published. With the internet, that opportunity has also disappeared. When information flows change, investment plans change.
+
+> Today's investment funds broadly seem to have less alpha and this may be due to information moving very quickly
+
+> The successful investment strategies in vogue today all seem to be variants of an information-problem.
+
+Many funds today are run by founders who started their investment careers in the 80s, when the previously mentioned edge was largely about getting quality information ahead of others. These funds are still employing that same approach now, despite the difference in information speed. Large funds such as Citadel, Millenium, DE Shaw trade on quarterly earnings releases. It's plausible that this has caused average returns to be lower \[3\].
+
+> Investment strategies \[...\] seem to be the canary in the coal mine for the declining profitability of many information-dependent business models which derive their profitability from hoarding and exploiting the value of private or expensive-to-access information
+
+Here Geoff generalises the argument to beyond the investment industry. If the edge in investing has declined due to information acceleration, does that mean that other similar industries could be next? He goes on to list life insurance, diamond producers, and chemical producers as examples of industries that profited from hoarding information.  
+
+> Conditions today merely reflect the slow technological commoditization of the different ‘building blocks’ of business: capital, logistics, and now information.
+
+> Long businesses that facilitate the flow of information, short businesses whose profits depend on hoarding it
+
+I'm unsure if I'm understanding the argument correctly here, and actually partially disagree. If you facilitate information flow, you need to be a scaled provider in order to win. If you hoard information, you need that information to be niche and differentiated in order to win. Travel agents hoarded information, but lost out to online travel agents like booking.com which aggregated at a larger scale. Newspapers facilitated information flow, but lost out to facebook which had a differentiated resource hoard of its userbase.
+
+> In our new informationally abundant world, it seems more difficult for any business or person to hoard and exploit the value of proprietary information. \[...\]  What seems to be left for investors are the information problems that don’t scale (hyper-local) and those that do (hyper-scale).
+
+The hyper-local strategies include some forms of mid-market private equity, buying up the 'un-interesting' but also undervalued business that others pass on. I've seen multiple people talk about doing this, since the market is under-served. There's no efficient way of getting the deal flow for this \[4\] and there's high marginal effort and cost to try this.
+
+The hyper-scale strategy involves some form of software, a virtual good that has effectively zero marginal cost. That could explain all the hype around software copmanies. It doesn't matter if you make 1 dollar from every user if you have 1 billion users. 
+
+**Footnotes**
+1. You could buy low, sell high, or sell high, buy low, but if you keep selling something for less than what you bought it for you're either money laundering or not going to stay in business very long. Perhaps both.
+2. See [here](https://insidertrading.procon.org/view.resource.php?resourceID=002391 "insidertrading") for a history of insider trading. As far as I can tell, everyone was doing it up till the 80s. Even now, insider trading regulation is still unclear.
+3. John Huber elaborates on this concept of edge and eroding returns [here](http://sabercapitalmgt.com/black-edge/ "Huber")
+4. That I know of, but interested in hearing otherwise.
+
+*If you liked this, sign up for my monthly* ***[finance and tech newsletter](https://avoidboringpeople.substack.com/ "ABP")***
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
