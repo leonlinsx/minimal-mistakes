@@ -36,9 +36,15 @@ I've found John Huber's categorisation of investment edge indispensable in think
 
 > Everyone understands that there is no info edge in Facebook or Apple. But there isn’t any info edge in smaller stocks either, at least not in a meaningful way that can be reliably utilized. 
 
-> I’ve observed over the years that whatever information an investor believes to be unique is almost always understood by many other market participants, and thus is not valuable. The mispricing is not in the stock itself, but in the investor’s own perception of the value of information:
+I talked about the erosion of information edge from expert networks in [my notes on an investment conference.](https://www.leonlinsx.com/punch-card-2019/ "punch card") I'm unsure if this is as widely believed as John thinks though. In my experience many people still seemed to quote alternative data sources e.g. app usage data, expert network interviews, management meetings as sources of information edge on large cap companies. 
+
+> I’ve observed over the years that whatever information an investor believes to be unique is almost always understood by many other market participants, and thus is not valuable. The mispricing is not in the stock itself, but in the investor’s own perception of the value of information.
+
+This I do believe. Everyone thinks that their information is unique, but it really isn't. 
 
 > investment decisions were made that had nothing to do with long-term value and everything to do with short-term stock price.
+
+With the success of larger platforms such as Citadel, Millenium, DE Shaw that run multiple groups all trading on short-term movements \[1\], the market has shifted its focus towards winning with this investment style. 
 
 > it solidifies two things that I already am very convinced of:
 
@@ -46,7 +52,14 @@ I've found John Huber's categorisation of investment edge indispensable in think
 
 > Second, the investor who is willing to look out three or four years will have a lasting edge because \[...\] the deterioration of the info edge has actually increased the size of the “time horizon” edge.
 
-> The time horizon edge could be summed up this way: the price of gaining this edge is the volatility that could occur in the near term. 
+
+
+> The time horizon edge could be summed up this way: the price of gaining this edge is the volatility that could occur in the near term.
+
+Many fundamental investing firms say they are long term oriented e.g. a typical Tiger Cub would aim for 3 year doubles. However, they themselves are subject to their limited partner pressure for quarterly results. It's easy to say before the fact that you'll double down on a losing investment, but few do it in practice. Let alone 50% declines, people start getting worried at 5% declines.
+
+**Footnotes**
+1. Based on my understanding of how these larger shops work, but lmk if mistaken. 
 
 *If you liked this, sign up for my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
 
