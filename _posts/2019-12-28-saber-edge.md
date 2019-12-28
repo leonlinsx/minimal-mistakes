@@ -1,7 +1,7 @@
 ---
-title:  ""  
-tags: []
-published: false
+title:  "Saber Capital info vs time edge"  
+tags: [investing, finance, information]
+published: true
 ---
 
 *If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
