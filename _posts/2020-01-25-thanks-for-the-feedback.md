@@ -60,10 +60,39 @@ Many points will be outright quotes from the book.
   - Are differences between you and me causing issues?
   - Are the different roles causing issues?
   - Are processes, policies, or something else causing issues?
-- Take responsibility for your part, but don't go to an extreme in denying all responsibility or taking all the blame 
+- Take responsibility for your part, but don't go to an extreme in denying all responsibility or taking all the blame
+- How you react to feedback depends on three things
+  - Your baseline state of happiness and satisfaction e.g. ppl with higher happiness baselines respond more positively to positive feedback than ppl with lower baselines
+  - How far you swing from your baseline when you get feedback e.g. more swing means more sensitivity to negative feedback
+  - How long it takes for you to return to baseline 
+- Some ways to be better prepared for feedback are:
+  - Be prepared for feedback you're expecting, and check in on yourself and slow things down when you're getting it
+  - Separate your feelings in the moment vs the story you're telling about yourself vs the actual feedback
+  - Contain the feedback to what it is about, and understand what it isn't about
+  - Change your point of view to that of others, the future, or more humourous
+  - Accept that you can't control how others view you \[2\]
+- We can't control feedback we get, but can improve how we receive it by:
+  - Moving away from simple labels and towards accepting complexity
+  - Moving away from a fixed mindset to a growth mindset
+- We have to accept three things about ourselves:
+  - We will make mistakes
+  - We have complex intentions
+  - We have contributed to the problem
+- Give yourself a second score based on how well you handle the first score/feedback that you got
+- Having boundaries and being able to turn down feedback is crucial to healthy relationships. These include:
+  - Saying thanks and no e.g. happy to hear it, might not take it
+  - Saying not now e.g. this is too sensitive at the moment
+  - Saying no feedback at all 
+- If you can't change, work to reduce the impact on others
+  - Ask about how it affects them
+  - Coach them to deal with the unchanged you
+  - Try to problem solve as a team
+
+  
 
 **Footnotes**
 1. All coaching includes some evaluation as well, and can often be misunderstood
+2. Don't accept everything that they say outright. Take their opinion as one input of a whole
 
 *If you liked this, sign up for my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
 
