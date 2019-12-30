@@ -50,6 +50,7 @@ In a separate post, Josh talks about [using response rate as a signal as well](h
 
 > Who pays the fee
 
+http://john-joseph-horton.com/papers/longrun.pdf
 
 *If you liked this, sign up for my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
 
