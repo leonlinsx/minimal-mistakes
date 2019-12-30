@@ -39,6 +39,7 @@ Many points will be outright quotes from the book.
   - Relationship triggers are set off by the person giving us feedback, based on how we perceive the person and how we're feeling treated
   - Identity triggers are set off by something causing us to feel threatened about our identity
   - This is all reasonable. Our triggered reactions are not obstacles because they are unreasonable, but because they prevent us from engaging in the conversatoin
+  - Getting better at receiving feedback doesn't mean you have to take the feedback as absolute truth
 - Feedback comes in three different kinds
   - Appreciation and thanks
   - Coaching you on a better way to do the task
