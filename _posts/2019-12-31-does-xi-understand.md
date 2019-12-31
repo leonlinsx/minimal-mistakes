@@ -1,6 +1,6 @@
 ---
-title:  "Would you buy the Libra Neopet Kin token?"  
-tags: []
+title:  "Does Xi Jinping understand seed investing and capital allocation?"  
+tags: [seed investing, investing, venture, finance, capital allocation, suicide, mental health, av, online ads, china, long term]
 published: false
 ---
 
@@ -40,9 +40,9 @@ published: false
 
 **Invest in all the (seed stage) things**
 
-[AngelList released research](https://angel.co/pdf/growth.pdf "Growth") claiming that "seed stage investors would increase their expected return by broadly indexing into every credible deal, a finding that does not hold at later stages." If true, this implies early stage VCs don't add value, ~~might trigger half my readership base~~ 
+[AngelList released research](https://angel.co/pdf/growth.pdf "Growth") claiming that "seed stage investors would increase their expected return by broadly indexing into every credible deal, a finding that does not hold at later stages." If true, this implies early stage VCs don't add value, which might ~~trigger half my readership base~~ be worth looking into.
 
-AngelList is naturally biased since they have [their own venture investing index product](https://angel.co/v/venture/invest "AngelList"), but let's take a closer look \[1\]:
+AngelList is naturally biased since they have [their own venture investing product](https://angel.co/v/venture/invest "AngelList"), but let's take a closer look \[1\]:
 
 > we rely on two concepts. The first is that startups tend to grow faster in their earliest years \[...\] The second is that early-stage investments have longer durations than later-stage investments in those same companies, which is tautological. 
 
@@ -50,7 +50,7 @@ AngelList is naturally biased since they have [their own venture investing index
 
 Growth rates tend to slow once you scale, so the first concept makes sense. It's harder to do 10% growth on $1bn vs $1000, as anyone from the Chinese government to Facebook would remind us when issuing financial guidance. 
 
-I was confused by the duration concept at first, thinking AngelList meant that the average time between fundraising rounds increases as you get later stage, which is not an obvious conclusion \[2\]. This wasn't what they meant though, they're simply saying that an early-stage investment is earlier than a later-stage investment in that company. If you invested in the seed round, you've had longer and higher growth rates to compound your money at compared to investing in the Series C.
+I was confused by the duration concept at first, thinking AngelList meant that the average time between fundraising rounds increases as you get later stage, which is not an obvious conclusion \[2\]. This wasn't what they meant though; they're simply saying that an early-stage investment is earlier than a later-stage investment in that company. If you invested in the seed round, you've had longer and higher growth rates to compound your money at compared to investing in the Series C.
 
 ![power]({{ site.url }}{{ site.baseurl }}/assets/images/Startup valuation over time.png)
 
@@ -116,7 +116,7 @@ There's been increased focus on how management spends money lately, with books s
 
 > The proper goal of capital allocation is to build long-term value per share. The emphasis is on building value and letting the stock market reflect that value. Companies that dwell on boosting their short-term stock price frequently make decisions that are at odds with building value.
 
-How do we differentiate from management building long term value vs pumping short term stock price? It's difficult, but they provide some guidelines later in the document. First, we need to understand how companies get their capital and how they use their capital.
+How do we differentiate from management building long term value vs pumping short term stock price for their next yacht? It's difficult, but they provide some guidelines later in the document. First, we need to understand how companies get their capital and how they use their capital.
 
 Possible sources of capital (how a company gets money) and allocation of capital (how a company spends money) include:
 
