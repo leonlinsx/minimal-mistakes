@@ -1,7 +1,7 @@
 ---
 title:  "Does Xi Jinping understand seed investing and capital allocation?"  
 tags: [seed investing, investing, venture, finance, capital allocation, suicide, mental health, av, online ads, china, long term]
-published: false
+published: true
 ---
 
 *This is a lightly edited version of* ***[my monthly newsletter.](https://avoidboringpeople.substack.com/ "ABP")*** *Sign up here:*
