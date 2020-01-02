@@ -38,12 +38,14 @@ published: false
 The template can be found [here](https://docs.google.com/document/d/1iGZJxnCs91LsHSnOK-C5ACq5SS50PEWRqCMnt2fXVY0/edit?usp=sharing "template"). Below I'll cover the rationale for the structure and some of the questions.
 
 The overall intent is to:
-  - get an overview of the past year
-  - then look deeper into things that worked, didn't work, and why
-  - understand the key learnings and how you've changed
-  - understand how you feel at this moment
-  - know what you need to do for the next year
-  
+  - get an overview of the past year (step 1)
+  - then look deeper into things that worked, didn't work, and why (step 2)
+  - understand the key learnings and how you've changed (step 3)
+  - understand how you feel at this moment (step 4)
+  - know what you need to do for the next year (step 5)
+
+Question rationale:
+
 - What were my successes? 
   - Start out on a positive note. Many people stress over failure, but you need to celebrate your wins as well and take credit for better mental health
   
@@ -75,7 +77,9 @@ The overall intent is to:
   - There are many resources on how to set goals that work e.g SMART goals, having a buddy, focusing on intent etc. Find the one that works for you, and note down the things you need personally to keep you accountable.
 
 - What should I let go?
-  - People like starting new things such as new year resolutions, but often don't look at what they need to leave behind. 
+  - People like starting new things such as new year resolutions, but often don't look at what they need to leave behind.
+  
+Thanks again to Steve Schlafman and Howard Gray for the original template that mine is highly inspired by, plus Anne-Laure Le Cunff, Kelly Thorne Gore, and Henna Inam for the additional questions.
 
 *If you liked this, sign up for my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
 
