@@ -1,6 +1,6 @@
 ---
 title:  "2019 annual reflection"  
-tags: []
+tags: [reflection, risk, learning]
 published: false
 ---
 
