@@ -3,7 +3,34 @@ title:  "What I'd want to learn in investment banking"
 tags: [investment banking, powerpoint, excel, finance, learning, reflection]
 ---
 
-\* *Note: this is a backdated post from a framework I used in the past, edited for brevity*
+\* *Note: this is a backdated post from a framework I used in the past, edited for brevity. If you like this, you might like my newsletter:*
+
+<style>
+      .iframe-container {
+        overflow: hidden;        
+        padding-top: 50%; <!-- Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625) -->
+        position: relative;
+      }
+      .iframe-container iframe { 
+         border: 0;
+         height: 100%; <!-- Finally, width and height are set to 100% so the iframe takes up 100% of the containers space. -->
+         left: 0;
+         position: absolute;
+         top: 0;
+         width: 100%;
+         display: block;
+         margin: 0 auto; <!-- center image -->
+      }
+      <!-- 4x3 Aspect Ratio -->
+      .iframe-container-4x3 {
+        padding-top: 75%;
+      }
+</style> 
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
+
 
 Back when I was leaving investment banking I wanted to reflect on what I'd learnt. Partially because of that, I put together a list of topics that I thought a junior banker should aim to be familiar with during their time there. The list is neither meant to be comprehensive, nor do I think you can be an expert at all the areas after just a few years. Admittedly I've already forgotten some of the areas below. However, I still believe it is helpful for reference. The list is below:
 
