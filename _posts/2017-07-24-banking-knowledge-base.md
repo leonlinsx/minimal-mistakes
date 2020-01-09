@@ -3,7 +3,7 @@ title:  "What I'd want to learn in investment banking"
 tags: [investment banking, powerpoint, excel, finance, learning, reflection]
 ---
 
-\* *Note: this is a backdated post from a framework I used in the past, edited for brevity. If you like this, you might like my newsletter:*
+\* *Note: this is a backdated post from a framework I used in the past, edited for brevity. If you like this, you might like my newsletter: \*
 
 <style>
       .iframe-container {
