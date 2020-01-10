@@ -1,6 +1,6 @@
 ---
 title:  ""  
-tags: []
+tags: [feedback, learning, review, reflection]
 published: false
 ---
 
@@ -40,11 +40,13 @@ Many points will be outright quotes from the book.
   - Identity triggers are set off by something causing us to feel threatened about our identity
   - This is all reasonable. Our triggered reactions are not obstacles because they are unreasonable, but because they prevent us from engaging in the conversatoin
   - Getting better at receiving feedback doesn't mean you have to take the feedback as absolute truth
+  
 - Feedback comes in three different kinds
   - Appreciation and thanks
   - Coaching you on a better way to do the task
   - Evaluation of where you stand \[1\]
   - We need all three, but often get a different type vs what we want
+  
 - Feedback often arrives in the form of a label e.g. Be more confident
   - This causes a difference between what was meant vs what was heard e.g. have the confidence to say you don't know vs give the impression you know things even when you don't
   - In order to reduce this difference, figure out where your feedback is 
