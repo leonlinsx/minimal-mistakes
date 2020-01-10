@@ -131,7 +131,7 @@ Many points will be outright quotes from the book.
 
 **Footnotes**
 1. All coaching includes some evaluation as well, and can often be misunderstood. Evaluation can drown out the other types of feedback
-2. The authors talk about a gap map between my thoughts and feelings to my intentions to my behaviour to my impact on others to others' stories about me
+2. The authors talk about a gap map between **my thoughts and feelings** to **my intentions** to **my behaviour** to **my impact on others** to **others' stories about me**
 3. Don't accept everything that they say outright. Take their opinion as one input of a whole
 4. It seems paradoxical to talk about assertiveness in the context of receiving feedback, but feedback is not a one way activity. Without your point of view the giver will be unaware if what they're saying is useful, right, or in line with what you think
 
