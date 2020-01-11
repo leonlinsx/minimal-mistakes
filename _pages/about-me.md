@@ -14,7 +14,11 @@ It's a nice coincidence that a great way to properly learn about what you read i
 
 I've had some military, investment banking, and public markets investing experience. I don't just focus on those sectors though, and will read and write about whatever I find interesting. Feel free to send stuff that you're fascinated by!
 
-I also send a regular email newsletter to friends, [sign up here](https://avoidboringpeople.substack.com/ "sign up link")!
+I also send a regular email newsletter to friends, sign up here:
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
 
 ### My beliefs
 Partially inspired by [this blog,](https://devonzuegel.com/page/about-me "Devon's blog") below is a public record of my current beliefs. I'll edit as these change over time, but these should give you a good idea of what I stand for.
@@ -24,7 +28,7 @@ Partially inspired by [this blog,](https://devonzuegel.com/page/about-me "Devon'
   * Be upfront about what I don't know. I highly dislike [pretenders](https://fs.blog/2015/01/richard-feynman-knowing-something/ "Feynman on knowing") since I can't trust them. A person that never admits their ignorance is a big red flag, since I have to waste time to figure out what they're making up
   * Be open to changing my mind when enough evidence is presented. [Strong opinions, weakly held.](https://www.saffo.com/02008/07/26/strong-opinions-weakly-held/ "Saffo on opinions") I'd much rather realise I'm wrong on something early
   * Be concise   
-  * Be selective in who I spend time with, since time is precious and I am influenced by my peers. Avoid boring people. Avoid flaky people. Avoid stubborn people
+  * Be selective in who I spend time with, since time is precious and I am influenced by my peers. [Avoid boring people.](https://avoidboringpeople.substack.com/ "ABP") Avoid flaky people. Avoid stubborn people
   * Mean what I say. I do lie sometimes, but generally I'm upfront about what I'm thinking. I might avoid awkward questions though
   * Do what I say I'll do. Reliability is important  
 
@@ -52,3 +56,4 @@ Partially inspired by [this blog,](https://devonzuegel.com/page/about-me "Devon'
   * Suicide prevention and coping with depression
   * Travelling, but more so that I can eat at new places
   * Trying to understand art. Mostly failing
+  * Writing
