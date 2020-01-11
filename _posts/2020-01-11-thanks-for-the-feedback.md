@@ -37,7 +37,7 @@ Over the holidays I read [Thanks for the Feedback](https://www.npr.org/books/tit
 I've summarised the book below and added some of my own thoughts. Note: Many of the points will be outright quotes from the book. 
 
 - There are three different feedback triggers that provoke a response in us when hearing feedback
-  - **Truth triggers** are set off by the sunstance of the feedback; it feels unhelpful or just wrong
+  - **Truth triggers** are set off by the substance of the feedback; it feels unhelpful or just wrong
   - **Relationship triggers** are set off by the person giving us feedback, based on how we perceive the person and how we're feeling treated
   - **Identity triggers** are set off by something causing us to feel threatened about our identity
   - This is all reasonable. Our triggered reactions are not obstacles because they are unreasonable, but because they prevent us from engaging in the conversatoin
@@ -60,7 +60,7 @@ LL: I vastly prefer getting coaching or evaluation at work, but that's obviously
 - Feedback often arrives in the form of a label e.g. You should be more confident
   - This causes a difference between what was meant vs what was heard e.g. have the confidence to say you don't know vs give the impression you know things even when you don't
   - In order to reduce this difference, figure out where your feedback is 
-  - 1) coming from, based on data and their interpretation
+  - 1) coming from, based on the data and their interpretation
     - Ask what's different about 1) the data and 2) the interpretations of it
   - 2) where your feedback is going, what they expect 
     - When receiving coaching, clarify the advice
@@ -87,7 +87,8 @@ LL: I hadn't realised this was a thing, but now that they mentioned it, it makes
   - Are differences between you and me causing issues?
   - Are the different roles causing issues?
   - Are processes, policies, or something else causing issues?
- 
+
+LL: You and your nemesis may both be competent, but have a bad working relationship because of how incentives were structured in your organisation. 
  
 - Take responsibility for your part, but don't go to an extreme in denying all responsibility or taking all the blame
 
@@ -101,7 +102,7 @@ LL: I've been in either extreme before, either dodging blame or excessively self
 ![feedback]({{ site.url }}{{ site.baseurl }}/assets/images/feedback reaction.png)
   
 - Some ways to be better prepared for feedback are:
-  - Be prepared for feedback you're expecting, think in advance about it, and check in on yourself plus slow things down when you're getting it
+  - Think in advance about what it might be, and check in on yourself plus slow things down when you're getting it
   - Separate your feelings in the moment vs the story you're telling about yourself vs the actual feedback
   - Contain the feedback to what it is about, and understand what it isn't about
   - Change your point of view to that of others, the future, or more humourous
@@ -166,7 +167,7 @@ LL: [Waitbutwhy](https://waitbutwhy.com/2018/04/picking-career.html "wait") has 
   - Separate appreciation, coaching, and evaluation
   - Promote learning within the organisation
   
-LL: I haven't looked in depth yet, but I'm hoping the authors wrote more about how to give feedback more effectively as well. 
+LL: I haven't looked in depth yet, but I'm hoping the authors wrote more about how to give feedback more effectively as well. I've seen scarce examples of companies that promote a learning culture, Stripe is one exception that comes to mind, which might be why it's so well regarded. 
 
 Overall, I thought the book was great and well worth the time spent. It's written clearly and even has summary sections for easier browsing. It's a quick read, and I'd encourage you to check it out, especially since we're heading into annual review timing.
 
