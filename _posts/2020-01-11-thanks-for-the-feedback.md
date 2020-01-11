@@ -1,7 +1,7 @@
 ---
-title:  ""  
+title:  "We suck at taking feedback, here's how to get better"  
 tags: [feedback, learning, review, reflection]
-published: false
+published: true
 ---
 
 *If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
@@ -161,7 +161,7 @@ LL: [Waitbutwhy](https://waitbutwhy.com/2018/04/picking-career.html "wait") has 
   
 LL: I haven't looked in depth yet, but I'm hoping the authors wrote more about how to give feedback more effectively as well. 
 
-Overall, I thought the book was great and well worth the time spent. It's written clearly and even has summary sections for easier browsing. 
+Overall, I thought the book was great and well worth the time spent. It's written clearly and even has summary sections for easier browsing. It's a quick read, and I'd encourage you to check it out, especially since we're heading into annual review timing.
 
 **Footnotes**
 1. All coaching includes some evaluation as well, and can often be misunderstood. Evaluation can drown out the other types of feedback
