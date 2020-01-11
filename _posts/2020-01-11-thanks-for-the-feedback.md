@@ -53,6 +53,8 @@ LL: I have definitely not accepted feedback before, to my detriment, when I felt
   - Evaluation of where you stand \[1\]
   - We need all three, but often get a different type vs what we want
   
+![feedback]({{ site.url }}{{ site.baseurl }}/assets/images/feedback mismatch.png)  
+  
 LL: I vastly prefer getting coaching or evaluation at work, but that's obviously not the case for everyone. This explains a lot about why people feel underappreciated or misunderstood. It kind of reminds me of the [Five Love Languages framework](https://www.5lovelanguages.com/ "Five"). I'm starting to explicitly ask for coaching and evaluation as opposed to appreciation at work.
   
 - Feedback often arrives in the form of a label e.g. You should be more confident
@@ -85,7 +87,8 @@ LL: I hadn't realised this was a thing, but now that they mentioned it, it makes
   - Are differences between you and me causing issues?
   - Are the different roles causing issues?
   - Are processes, policies, or something else causing issues?
-  
+ 
+ 
 - Take responsibility for your part, but don't go to an extreme in denying all responsibility or taking all the blame
 
 LL: I've been in either extreme before, either dodging blame or excessively self-flagellating. Neither are productive and also make you look even worse. 
@@ -104,6 +107,7 @@ LL: I've been in either extreme before, either dodging blame or excessively self
   - Change your point of view to that of others, the future, or more humourous
   - Accept that you can't control how others view you \[3\]
   
+  
 - We can't control feedback we get, but can improve how we receive it by:
   - Moving away from simple labels and towards accepting complexity
   - Moving away from a fixed mindset to a growth mindset
@@ -114,6 +118,7 @@ LL: Assuming good intent of the feedback giver \[4\], they actually want to help
   - We will make mistakes
   - We have complex intentions
   - We have contributed to the problem
+  
   
 - Give yourself a second score based on how well you handle the first score/feedback that you got
 
@@ -142,11 +147,13 @@ LL: There are some things that we just can't change about ourselves. You can't s
     - Problem solving: Now what should we do about this feedback?
   - Close: Clarify where things stand explicitly and what to do next
   
+  
 - Couple of ways to take action:
   - Ask 'what's one thing you see me doing that gets in my own way?'
   - Ask 'what's one thing I could do that makes a difference to you?'
   - Try small low-risk experiments
   - Letting people in and asking them for help is where intimacy grows
+  
   
 - Understand the J curve: any time you are changing your habits, you are likely to get worse before you can get better. More importantly, you will feel worse before you get better
 
