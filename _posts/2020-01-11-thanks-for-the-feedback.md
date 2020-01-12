@@ -40,7 +40,7 @@ I've summarised the book below and added some of my own thoughts. Note: Many of 
   - **Truth triggers** are set off by the substance of the feedback; it feels unhelpful or just wrong
   - **Relationship triggers** are set off by the person giving us feedback, based on how we perceive the person and how we're feeling treated
   - **Identity triggers** are set off by something causing us to feel threatened about our identity
-  - This is all reasonable. Our triggered reactions are not obstacles because they are unreasonable, but because they prevent us from engaging in the conversatoin
+  - This is all reasonable. Our triggered reactions are not obstacles because they are unreasonable, but because they prevent us from engaging in the conversation.
   - Getting better at receiving feedback doesn't mean you have to take the feedback as absolute truth
   
 ![feedback]({{ site.url }}{{ site.baseurl }}/assets/images/feedback triggers.png)
