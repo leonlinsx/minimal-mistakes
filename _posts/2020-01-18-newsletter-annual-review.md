@@ -35,6 +35,7 @@ published: false
 Go over stats and put best links
 
 **Favourite writing**
+
 Of course, all my writing ~~is the best~~ can keep getting better. Nevertheless, these were my favourite pieces the past year \[10\]:
 
 1. [Would you buy the Libra Neopet Kin token?](https://avoidboringpeople.substack.com/p/would-you-buy-the-libra-neopet-kin?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Libra") In which I profess to not understanding Facebook's Libra at all.
@@ -48,7 +49,8 @@ Of course, all my writing ~~is the best~~ can keep getting better. Nevertheless,
 5. [Public secrets](https://www.leonlinsx.com/public-secrets/ "Public") In which I list secrets industry insiders all know but wouldn't want to admit to.
 
 **Favourite links**
-Here were the favourite links without commentary that I sent:
+
+Here were the favourite links that I sent:
 
 1. [Cuban sonic weapons, chainsaw puffins, and tortoise sex](https://www.theatlantic.com/science/archive/2019/01/sound-haunted-diplomats-cuba-crickets/579637/)
 2. [The US trade imbalance won't be fixed by focusing on trade since it's actually a capital inflow problem](https://carnegieendowment.org/chinafinancialmarkets/79641 "Trade")
@@ -68,6 +70,7 @@ Here were the favourite links without commentary that I sent:
 10. [Is blockchain good for anything? It's all a matter of trust](https://www.schneier.com/blog/archives/2019/02/blockchain_and_.html "blockchain")
 
 **New additions to my reading list**
+
 1. [Geoff Yamane for investing](https://geoff-yamane.com/about "Geoff"), start with [his post on the investing meta-game](https://geoff-yamane.com/blog/2019/2/28/the-investing-meta-game "Investing")
 2. [The Diff by Byrne Hobart](https://diff.substack.com/) for inflection points in finance nad tech, start with his older post on [what to do when you've spotted a bubble](https://marker.medium.com/so-youve-spotted-a-bubble-3f2fa5cf49a9 "Bubble") 
 3. [The Profile by 
@@ -77,7 +80,9 @@ Polina Marinova](https://theprofile.substack.com/) for stories of interesting pe
 6. [Brett Bivens](https://venturedesktop.substack.com/ "Venture Desktop") on the future of work, wellness, and media.
 
 **Shout outs**
-Friends and acquaintances worked on many fascinating things last year. **Please feel free to reach out if you're interested in what they do.** Note that none of the below is investment advice and I might have a financial or personal interest in the company \[40\] 
+
+Friends and acquaintances worked on many fascinating things last year. **Please feel free to reach out if you're interested in what they do.** Note that none of the below is investment advice and I might have a financial or personal interest in the company \[40\]
+
 1. [Lindsay Burton of Kayo organises industry events for women investors]( https://kayoconferenceseries.com/ "Kayo"), her [leadership retreat](https://kayoconferenceseries.com/events/executive-leadership-retreat/ "leadership") has bestselling author Chris Voss (Never Split the Difference) coming to speak
 2. [Caroline Barton of Modatrova](https://www.instagram.com/modatrova/ "Modatrova") is bringing emerging fashion brands to shoppers in private settings. She's looking for women who are tastemakers in their community who would be interested in hosting.
 3. [Ben Arnstein started Kaliflower](https://www.eatkaliflower.com/ "Kaliflower"), a Spice Road inspired restaurant in Chicago currently rated 4.8 stars on Google.
@@ -93,6 +98,7 @@ Friends and acquaintances worked on many fascinating things last year. **Please 
 13. [Ben Jackson started For The Win](https://ftw.nyc/about/ "FTW") to help underrepresented groups in tech with recruiting
 
 **Footnotes**
+
 10. Note that I said favourite pieces, not necessarily the best or most popular. Just as people can like , I can like something without it being high quality.
 
 
