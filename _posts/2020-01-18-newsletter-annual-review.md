@@ -34,30 +34,38 @@ published: false
 
 **Takeaways**
 
+- The newsletter flywheel and introducing a paid tier for weekly updates
 - 5 favourite articles I wrote 
 - 10 favourite links I sent
 - 6 new additions to my reading list
 - 13 shoutouts to friends and acquaintances building cool stuff
 
+compare against predictions?
+
 **Something old, something new, this is my year in review**
 
-Reflection
+I finished my 2019 reflection [made a new template](https://docs.google.com/document/d/1iGZJxnCs91LsHSnOK-C5ACq5SS50PEWRqCMnt2fXVY0/edit?usp=sharing "new template") based on other helpful articles I saw. I adapted the content and format from [Steve Schlafman
+ and Howard Gray here](https://docs.google.com/document/d/1Ais6wP0HxoFfvHR9JVkf2sw2ft_EUBtb42JYOr6ObGo/edit "template"), and also included helpful advice from [Anne-Laure Le Cunff](https://docs.google.com/presentation/d/1WxAY5ujUeKKQ_Y1c-Ic_rHj2t3Kaw_GOpwTX1jY4y_k/edit?usp=sharing "template"), [Kelly Thorne Gore](https://ibloom.us/blog/10-end-of-the-year-reflection-questions/ "questions"), and [Henna Inam](https://www.forbes.com/sites/hennainam/2018/12/31/ten-questions-to-ask-in-your-personal-year-end-review/#1a0297287e7d "questions"). Note that this is the template that I find helpful for myself, and may not be the template most helpful for you; feel free to adjust as needed. 
+ 
+The template can be found [here](https://docs.google.com/document/d/1iGZJxnCs91LsHSnOK-C5ACq5SS50PEWRqCMnt2fXVY0/edit?usp=sharing "template") and my completed example [here](https://docs.google.com/document/d/1iSrugAAQ9baLTXvh7Ck6YO7MUCB8CbQQqyEX8BMiUv0/edit?usp=sharing "public").
+
+Why I write, procrastination
 
 More engaged subscribers -> More ideas and feedback -> Better and more content
 
+**This is also your regular unsubscribe reminder** dislike this sentence. That's right, *un*subscribe. I'd put an unsubscribe button at the top, but substack doens't have that functionality. My open rate is ~60%, [compared to an industry average of 20%](https://www.campaignmonitor.com/resources/guides/email-marketing-benchmarks/ "industry"), and having extremely engaged readers is preferable to lots of lifeless ones. Help me help you, and **please unsubscribe if you no longer find this relevant**.  
 
-
-Your ideas and feedback have also played a large role in the newsletter's success. You can compare the Dec edition against the [Jan edition](https://avoidboringpeople.substack.com/p/bet-against-self-control-and-sonic?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Jan") to see how much better the newsletter's become, and much of that is due to reader suggestions. The newsletter banner, takeaway section, and separate sections were improvements due to feedback. [The piece on AI](https://avoidboringpeople.substack.com/p/coming-soon?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "AI") and [the piece on employment](https://avoidboringpeople.substack.com/p/why-were-freelance-monks-banned-by?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Taleb") were submitted by you all. **Please keep the ideas and feedback coming, plus correct me whenever I'm wrong.**
+Your ideas and feedback have played a large role in the newsletter's success. You can compare the Dec edition against the [Jan edition](https://avoidboringpeople.substack.com/p/bet-against-self-control-and-sonic?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Jan") to see how much better the newsletter's become, and much of that is due to reader suggestions. The newsletter banner, takeaway section, and separate sections were improvements due to feedback. [The piece on AI](https://avoidboringpeople.substack.com/p/coming-soon?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "AI") and [the piece on employment](https://avoidboringpeople.substack.com/p/why-were-freelance-monks-banned-by?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Taleb") were submitted by you all. **Please keep the ideas and feedback coming, plus correct me whenever I'm wrong.**
 
 My writing style and content has improved over the year. In the beginning I wrote long narratives trying to link separate ideas together. I've changed to a main body with 3 sections of a) finance, b) tech, and c) personal growth, plus sections for other interesting links and shoutouts to friends. It's helped improve the readability of the newsletter, and also made it easier to write \[2\]. Clear sections make it easier to skip to parts that are more relevant for you, and I'm intending to keep that format for the monthly updates.
 
-What I am going to change is the frequency of content. **I'll be experimenting by adding a paid weekly update option**, in addition to the free monthly update option \[3\]. [When I started this I thought I might eventually charge for monthlies while keeping weeklies free](https://avoidboringpeople.substack.com/about?utm_source=menu-dropdown "original"). I now believe more engaged readers would prefer getting more frequent content, and less engaged readers would prefer not getting overwhelmed by weekly emails. 
+What I am changing is the frequency of content. **I'll be experimenting by adding a paid weekly update option**, in addition to the free monthly update option \[3\]. [When I started this I thought I might eventually charge for monthlies while keeping weeklies free](https://avoidboringpeople.substack.com/about?utm_source=menu-dropdown "original"). I now believe more engaged readers would prefer getting more frequent content, and less engaged readers would prefer not getting overwhelmed by weekly emails. 
 
 The weeklies will be more varied in style, content and length; you can check out examples [here](https://www.leonlinsx.com/year-archive/#2019 "Archive"). Past posts included [notes from an investment conference](https://www.leonlinsx.com/punch-card-2019/ "Punch") and [controversies in the art world](https://www.leonlinsx.com/tims-vermeer/ "Vermeer"), though it's essentially whatever I find interesting. Importantly, they will still be available on my personal website for free after a delay. Really, what you're paying for is the early access plus the convenience of getting the content directly \[4\]. If I haven't already convinced you out of this, **you can subscribe to the paid weekly updates for $5/mth with the link below:**
 
 I gave early adopters a complimentary subscription with the old concept in mind. Since that has changed, I'm bumping everyone down to the free tier of monthly updates only, to avoid spamming those that don't want weekly updates. **Please let me know if you had a complimentary subscription and wish to keep it.** I'll upgrade you back, no questions asked, to uphold my promise then of grandfathering in early adopters \[5\].
 
-And now, here's a reminder of why you're still subscribed:
+And now, here's how we avoided boring people in 2019:
 
 **Favourite articles I wrote**
 
@@ -89,7 +97,7 @@ Here were the favourite links that I sent \[11\]:
 
   > Moloch for I don’t believe in god! Moloch who, fought Sins and made Sin out of Sin!
 6. [Women remain unmarried because they lack partners with comparable socioeconomic status,  rather than just because of a sex ratio imbalance]("https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12603")
-7. [The net effect of being pierced and hung on a large hook is greater self-regard and social status.](https://marginalrevolution.com/marginalrevolution/2019/09/do-extreme-rituals-have-functional-benefits.html "Rituals")
+7. [Being pierced and hung on a large hook for greater self-regard and social status.](https://marginalrevolution.com/marginalrevolution/2019/09/do-extreme-rituals-have-functional-benefits.html "Rituals")
 8. [How to conduct more effective premortems](https://capitalallocatorspodcast.com/wp-content/uploads/Klein-Sonkin-and-Johnson-2019-The-Misuse-of-Premortems-on-Wall-Street.pdf "Premortem")
 9. [How the Cretaceous Period seashore affects how Alabama votes](https://www.reddit.com/r/MapPorn/comments/blwlig/the_cretaceous_period_145_to_66_million_years_ago/ "Reddit")
 10. [Is blockchain good for anything? It's all a matter of trust](https://www.schneier.com/blog/archives/2019/02/blockchain_and_.html "blockchain")
