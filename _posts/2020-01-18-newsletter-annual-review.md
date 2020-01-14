@@ -32,9 +32,34 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-Go over stats and put best links
+**Takeaways**
 
-**Favourite writing**
+- 5 favourite articles I wrote 
+- 10 favourite links I sent
+- 6 new additions to my reading list
+- 13 shoutouts to friends and acquaintances building cool stuff
+
+**Something old, something new, this is my year in review**
+
+Reflection
+
+More engaged subscribers -> More ideas and feedback -> Better and more content
+
+
+
+Your ideas and feedback have also played a large role in the newsletter's success. You can compare the Dec edition against the [Jan edition](https://avoidboringpeople.substack.com/p/bet-against-self-control-and-sonic?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Jan") to see how much better the newsletter's become, and much of that is due to reader suggestions. The newsletter banner, takeaway section, and separate sections were improvements due to feedback. [The piece on AI](https://avoidboringpeople.substack.com/p/coming-soon?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "AI") and [the piece on employment](https://avoidboringpeople.substack.com/p/why-were-freelance-monks-banned-by?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Taleb") were submitted by you all. **Please keep the ideas and feedback coming, plus correct me whenever I'm wrong.**
+
+My writing style and content has improved over the year. In the beginning I wrote long narratives trying to link separate ideas together. I've changed to a main body with 3 sections of a) finance, b) tech, and c) personal growth, plus sections for other interesting links and shoutouts to friends. It's helped improve the readability of the newsletter, and also made it easier to write \[2\]. Clear sections make it easier to skip to parts that are more relevant for you, and I'm intending to keep that format for the monthly updates.
+
+What I am going to change is the frequency of content. **I'll be experimenting by adding a paid weekly update option**, in addition to the free monthly update option \[3\]. [When I started this I thought I might eventually charge for monthlies while keeping weeklies free](https://avoidboringpeople.substack.com/about?utm_source=menu-dropdown "original"). I now believe more engaged readers would prefer getting more frequent content, and less engaged readers would prefer not getting overwhelmed by weekly emails. 
+
+The weeklies will be more varied in style, content and length; you can check out examples [here](https://www.leonlinsx.com/year-archive/#2019 "Archive"). Past posts included [notes from an investment conference](https://www.leonlinsx.com/punch-card-2019/ "Punch") and [controversies in the art world](https://www.leonlinsx.com/tims-vermeer/ "Vermeer"), though it's essentially whatever I find interesting. Importantly, they will still be available on my personal website for free after a delay. Really, what you're paying for is the early access plus the convenience of getting the content directly \[4\]. If I haven't already convinced you out of this, **you can subscribe to the paid weekly updates for $5/mth with the link below:**
+
+I gave early adopters a complimentary subscription with the old concept in mind. Since that has changed, I'm bumping everyone down to the free tier of monthly updates only, to avoid spamming those that don't want weekly updates. **Please let me know if you had a complimentary subscription and wish to keep it.** I'll upgrade you back, no questions asked, to uphold my promise then of grandfathering in early adopters \[5\].
+
+And now, here's a reminder of why you're still subscribed:
+
+**Favourite articles I wrote**
 
 Of course, all my writing ~~is the best~~ can keep getting better. Nevertheless, these were my favourite pieces the past year \[10\]:
 
@@ -44,25 +69,25 @@ Of course, all my writing ~~is the best~~ can keep getting better. Nevertheless,
 
 3. [Why were freelance monks banned by the church?](https://avoidboringpeople.substack.com/p/why-were-freelance-monks-banned-by?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "employment") In which I comment on why Nassim Taleb thinks employment is legal slavery
 
-4. [Tell me why](https://www.leonlinsx.com/tell-me-why/ "Tell") In which I question why we believe in anything at all
+4. [Tell me why.](https://www.leonlinsx.com/tell-me-why/ "Tell") In which I question why we believe in anything at all
 
-5. [Public secrets](https://www.leonlinsx.com/public-secrets/ "Public") In which I list secrets industry insiders all know but wouldn't want to admit to.
+5. [Public secrets.](https://www.leonlinsx.com/public-secrets/ "Public") In which I list secrets industry insiders all know but wouldn't want to admit publicly.
 
-**Favourite links**
+**Favourite links I sent**
 
-Here were the favourite links that I sent:
+Here were the favourite links that I sent \[11\]:
 
 1. [Cuban sonic weapons, chainsaw puffins, and tortoise sex](https://www.theatlantic.com/science/archive/2019/01/sound-haunted-diplomats-cuba-crickets/579637/)
 2. [The US trade imbalance won't be fixed by focusing on trade since it's actually a capital inflow problem](https://carnegieendowment.org/chinafinancialmarkets/79641 "Trade")
 3. [Reconstructing facial images based on voice data.](https://arxiv.org/pdf/1905.09773.pdf "facial image") Note that the idea wasn't to recover an exact image, but common visual features that connected with speech attributes.
 4. [What everyone gets wrong about China's social credit](https://www.chinalawtranslate.com/en/social-credit-articles/ "China Law Translate")
-5. [Which of these lines are from a famous poem, and which are from AI?](https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/ "moloch")
+5. [Which of these lines below are from a famous poem, and which are from AI?](https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/ "moloch")
 
-> Moloch whose brief mind is the barrel of gleaming stars! Moloch whose soul is choices of fragrance! Moloch whose framing is glitz and half-cheerios!
+  > Moloch whose brief mind is the barrel of gleaming stars! Moloch whose soul is choices of fragrance! Moloch whose framing is glitz and half-cheerios!
 
-> Moloch! Moloch! Nightmare of Moloch! Moloch the loveless! Mental Moloch! Moloch the heavy judger of men!
+  > Moloch! Moloch! Nightmare of Moloch! Moloch the loveless! Mental Moloch! Moloch the heavy judger of men!
 
-> Moloch for I don’t believe in god! Moloch who, fought Sins and made Sin out of Sin!
+  > Moloch for I don’t believe in god! Moloch who, fought Sins and made Sin out of Sin!
 6. [Women remain unmarried because they lack partners with comparable socioeconomic status,  rather than just because of a sex ratio imbalance]("https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12603")
 7. [The net effect of being pierced and hung on a large hook is greater self-regard and social status.](https://marginalrevolution.com/marginalrevolution/2019/09/do-extreme-rituals-have-functional-benefits.html "Rituals")
 8. [How to conduct more effective premortems](https://capitalallocatorspodcast.com/wp-content/uploads/Klein-Sonkin-and-Johnson-2019-The-Misuse-of-Premortems-on-Wall-Street.pdf "Premortem")
@@ -77,7 +102,7 @@ Here were the favourite links that I sent:
 Polina Marinova](https://theprofile.substack.com/) for stories of interesting people
 4. [Movements by Michal Naka and Adam Feldman](https://movements.substack.com/ "Movements") for news in mobility and transportation
 5. [Josh Breinlinger](https://acrowdedspace.com/ "Josh") for VC frameworks, start with [his post on marketplace rake factors](https://acrowdedspace.com/post/172383900012/marketplace-rake-factors "rake")
-6. [Brett Bivens](https://venturedesktop.substack.com/ "Venture Desktop") on the future of work, wellness, and media.
+6. [Brett Bivens](https://venturedesktop.substack.com/ "Venture Desktop") on the future of work, wellness, and media. Start with his piece on [the consumer subscription roll up opportunity](https://venturedesktop.substack.com/p/the-consumer-subscription-roll-up "Consumer")
 
 **Shout outs**
 
@@ -88,18 +113,24 @@ Friends and acquaintances worked on many fascinating things last year. **Please 
 3. [Ben Arnstein started Kaliflower](https://www.eatkaliflower.com/ "Kaliflower"), a Spice Road inspired restaurant in Chicago currently rated 4.8 stars on Google.
 4. [Bilyana Freye and Luuk Derksen started Hoppin](https://gohoppin.com/ "Hoppin"), a job shadowing marketplace. You can read about my experience [here](https://www.leonlinsx.com/hoppin/ "Hoppin review")
 5. [Trisha Goyal started Break the Love](https://www.breakthelove.com/ "BTL"), a concierge tennis service that helps you book courts, request games/rallies, and book a Pro to help with your game
-6. [Nigel Glenday at Masterworks](https://www.masterworks.io/ "Masterworks") is building a platform for share based art investing
+6. [Nigel Glenday at Masterworks](https://www.masterworks.io/ "Masterworks") is building a platform to invest in shares of art
 7. [Robert Terrin at Tail Risk](https://www.tailrisk.com/ "Tail Risk") is working on cyber security
-8. [Julian Weisser started On Deck, "where top talent goes to explore what's next".](https://www.beondeck.com/ "On Deck") Applications for their next cohort [are now open](https://www.beondeck.com/apply "Apply")
+8. [Julian Weisser started On Deck, "where top talent goes to explore what's next."](https://www.beondeck.com/ "On Deck") Applications for their next cohort [are open](https://www.beondeck.com/apply "Apply")
 9. [Yunzhe Zhou started One Month Projects](https://onemonthprojects.com/ "One month") to give career counselling advice
 10. [Brian Kaplowitz co-founded PB&J, a product development studio to strategise, design, and develop apps for your company](https://drive.google.com/file/d/0BySSPF0N9WyNYWFzNklZUm1oOTltbTNoa2RBOXpvR1I4VG5r/view?usp=sharing "PBJ")
-11. [Benton Moss of Circle of Competence is putting together a collection of the best business content](https://www.circleofcompetence.co/single-post/2019/11/24/Circle-of-Competence-Issue-87 "Business Vault")
+11. [Benton Moss of Circle of Competence is putting together a business vault of the best articles in business](https://www.circleofcompetence.co/single-post/2019/11/24/Circle-of-Competence-Issue-87 "Business Vault")
 12. Madeline Sullivan is looking for investors for her upcoming Manhattan restaurant with [Eamon Rockey](http://www.eamonrockey.com/ "Eamon"), the five-time Michelin-starred restaurateur responsible for Betony, Atera, Compose and Aska. [See here for a deck](https://docsend.com/view/tzjn6w4 "Beton")
 13. [Ben Jackson started For The Win](https://ftw.nyc/about/ "FTW") to help underrepresented groups in tech with recruiting
 
 **Footnotes**
 
-10. Note that I said favourite pieces, not necessarily the best or most popular. Just as people can like , I can like something without it being high quality.
+2. Trying to link together unrelated topics into one coherent narrative took a lot of time, and didn't seem to improve reader engagement, making it not worth the time
+3. The keyword here being experiment, which means there's a chance this blows up in my face
+4. I'm doing a terrible job of selling this aren't I. However, I believe that this is worth trying out and would only want paid readers that really want it. I'm still maintaining the personal website, as it has functionality that substack doesn't and I want to keep something entirely of my own.
+5. Honour system here, I can't keep track of everyone who was given a complimentary subscription. Please don't be shy about it; if I were in your shoes I'd totally ask to get upgraded for free
+10. Note that I said favourite pieces, not necessarily the best or most popular. Just as people can like Love Actually, I can like something without it being high quality. Pieces that missed the cutoff included [my notes from an investment conference](https://www.leonlinsx.com/punch-card-2019/ "Punch Card"), [additional marketplace business rake factors](https://www.leonlinsx.com/additional-marketplace-rake-factors/ "Rake"), [illusions in time](https://www.leonlinsx.com/temporal-illusions/ "temporal"), and [how likely were you to accept grandma's video game friend request?](https://avoidboringpeople.substack.com/p/how-likely-would-you-accept-grandmas?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Video games")
+11. Links that missed the cutoff included [how Mr Rogers anticipated the way children might misinterpret what was being said](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/ "Rogers"), [the O-ring theory of development describing when economies are organized such that one weak link can destroy the entire value of production](https://www.youtube.com/watch?v=CKkOmIW9bjg "O ring"), [a thousand true fans](https://kk.org/thetechnium/1000-true-fans/ "thousand"), [how peak depressive symptoms in girls occur earlier than in boys](https://link.springer.com/article/10.1007/s10964-018-0976-5 "girls depression"), and how [students learn more in active learning classes but dislike it and think they learn less due to the increased effort required.](https://www.pnas.org/content/116/39/19251 "learning")
+40. As always, nothing I write is financial advice, please consult a professional financial advisor etc. Don't sue me; I have no money. 
 
 
 *If you liked this, sign up for my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
