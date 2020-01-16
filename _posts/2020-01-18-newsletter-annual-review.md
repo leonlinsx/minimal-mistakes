@@ -41,13 +41,13 @@ published: false
 
 **Experimenting with paid weekly subscriber updates**
 
-Starting Jan 25 I'll be experimenting with paid weekly updates, in addition to the free monthly update. I'll elaborate below in the annual review section, and the main points are:
+Starting Jan 25 I'll be experimenting with paid weekly updates, in addition to the free monthly update. I'll elaborate in the annual review section at the bottom of this email, and the main points are:
 
 - Pricing is $6/mth or $60/year. Early subscribers get a discount and lifetime pricing of $5/mth or $50/year
 - This gets you early, direct access to weekly content that will be shorter and more varied
 - The monthly content will remain free for as long as I keep writing
 
-If you like living life loosely and sending strangers stipends without even knowing further details, here's the paid subscription button:
+If you like living life loosely and don't need to know more before sending strangers stipends, here's the paid subscription button:
 
 And now, here's how we avoided boring people in 2019:
 
@@ -80,7 +80,7 @@ Here were the favourite links that I sent \[11\]:
   > Moloch! Moloch! Nightmare of Moloch! Moloch the loveless! Mental Moloch! Moloch the heavy judger of men!
 
   > Moloch for I don’t believe in god! Moloch who, fought Sins and made Sin out of Sin!
-6. [Women remain unmarried because they lack partners with comparable socioeconomic status,  rather than just because of a sex ratio imbalance]("https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12603")
+6. [Women remain unmarried because they lack partners with comparable socioeconomic status,  not just because of a sex ratio imbalance](https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12603 "Women")
 7. [Being pierced and hung on a large hook for greater self-regard and social status.](https://marginalrevolution.com/marginalrevolution/2019/09/do-extreme-rituals-have-functional-benefits.html "Rituals")
 8. [How to conduct more effective premortems](https://capitalallocatorspodcast.com/wp-content/uploads/Klein-Sonkin-and-Johnson-2019-The-Misuse-of-Premortems-on-Wall-Street.pdf "Premortem")
 9. [How the Cretaceous Period seashore affects how Alabama votes](https://www.reddit.com/r/MapPorn/comments/blwlig/the_cretaceous_period_145_to_66_million_years_ago/ "Reddit")
