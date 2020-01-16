@@ -35,35 +35,19 @@ published: false
 **Takeaways**
 
 - The newsletter flywheel and introducing a paid tier for weekly updates
-- 5 favourite articles I wrote 
-- 10 favourite links I sent
-- 6 new additions to my reading list
-- 13 shoutouts to friends and acquaintances building cool stuff
 
-compare against predictions?
+- 5 favourite articles I wrote, 10 favourite links I sent, and 6 new additions to my reading list
+- 15 shoutouts to friends and acquaintances building cool stuff
 
-**Something old, something new, this is my year in review**
+**Experimenting with paid weekly subscriber updates**
 
-I finished my 2019 reflection [made a new template](https://docs.google.com/document/d/1iGZJxnCs91LsHSnOK-C5ACq5SS50PEWRqCMnt2fXVY0/edit?usp=sharing "new template") based on other helpful articles I saw. I adapted the content and format from [Steve Schlafman
- and Howard Gray here](https://docs.google.com/document/d/1Ais6wP0HxoFfvHR9JVkf2sw2ft_EUBtb42JYOr6ObGo/edit "template"), and also included helpful advice from [Anne-Laure Le Cunff](https://docs.google.com/presentation/d/1WxAY5ujUeKKQ_Y1c-Ic_rHj2t3Kaw_GOpwTX1jY4y_k/edit?usp=sharing "template"), [Kelly Thorne Gore](https://ibloom.us/blog/10-end-of-the-year-reflection-questions/ "questions"), and [Henna Inam](https://www.forbes.com/sites/hennainam/2018/12/31/ten-questions-to-ask-in-your-personal-year-end-review/#1a0297287e7d "questions"). Note that this is the template that I find helpful for myself, and may not be the template most helpful for you; feel free to adjust as needed. 
- 
-The template can be found [here](https://docs.google.com/document/d/1iGZJxnCs91LsHSnOK-C5ACq5SS50PEWRqCMnt2fXVY0/edit?usp=sharing "template") and my completed example [here](https://docs.google.com/document/d/1iSrugAAQ9baLTXvh7Ck6YO7MUCB8CbQQqyEX8BMiUv0/edit?usp=sharing "public").
+Starting Jan 25 I'll be experimenting with paid weekly updates, in addition to the free monthly update. I'll elaborate below in the annual review section, and the main points are:
 
-Why I write, procrastination
+- Pricing is $6/mth or $60/year. Early subscribers get a discount and lifetime pricing of $5/mth or $50/year
+- This gets you early, direct access to weekly content that will be shorter and more varied
+- The monthly content will remain free for as long as I keep writing
 
-More engaged subscribers -> More ideas and feedback -> Better and more content
-
-**This is also your regular unsubscribe reminder** dislike this sentence. That's right, *un*subscribe. I'd put an unsubscribe button at the top, but substack doens't have that functionality. My open rate is ~60%, [compared to an industry average of 20%](https://www.campaignmonitor.com/resources/guides/email-marketing-benchmarks/ "industry"), and having extremely engaged readers is preferable to lots of lifeless ones. Help me help you, and **please unsubscribe if you no longer find this relevant**.  
-
-Your ideas and feedback have played a large role in the newsletter's success. You can compare the Dec edition against the [Jan edition](https://avoidboringpeople.substack.com/p/bet-against-self-control-and-sonic?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Jan") to see how much better the newsletter's become, and much of that is due to reader suggestions. The newsletter banner, takeaway section, and separate sections were improvements due to feedback. [The piece on AI](https://avoidboringpeople.substack.com/p/coming-soon?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "AI") and [the piece on employment](https://avoidboringpeople.substack.com/p/why-were-freelance-monks-banned-by?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Taleb") were submitted by you all. **Please keep the ideas and feedback coming, plus correct me whenever I'm wrong.**
-
-My writing style and content has improved over the year. In the beginning I wrote long narratives trying to link separate ideas together. I've changed to a main body with 3 sections of a) finance, b) tech, and c) personal growth, plus sections for other interesting links and shoutouts to friends. It's helped improve the readability of the newsletter, and also made it easier to write \[2\]. Clear sections make it easier to skip to parts that are more relevant for you, and I'm intending to keep that format for the monthly updates.
-
-What I am changing is the frequency of content. **I'll be experimenting by adding a paid weekly update option**, in addition to the free monthly update option \[3\]. [When I started this I thought I might eventually charge for monthlies while keeping weeklies free](https://avoidboringpeople.substack.com/about?utm_source=menu-dropdown "original"). I now believe more engaged readers would prefer getting more frequent content, and less engaged readers would prefer not getting overwhelmed by weekly emails. 
-
-The weeklies will be more varied in style, content and length; you can check out examples [here](https://www.leonlinsx.com/year-archive/#2019 "Archive"). Past posts included [notes from an investment conference](https://www.leonlinsx.com/punch-card-2019/ "Punch") and [controversies in the art world](https://www.leonlinsx.com/tims-vermeer/ "Vermeer"), though it's essentially whatever I find interesting. Importantly, they will still be available on my personal website for free after a delay. Really, what you're paying for is the early access plus the convenience of getting the content directly \[4\]. If I haven't already convinced you out of this, **you can subscribe to the paid weekly updates for $5/mth with the link below:**
-
-I gave early adopters a complimentary subscription with the old concept in mind. Since that has changed, I'm bumping everyone down to the free tier of monthly updates only, to avoid spamming those that don't want weekly updates. **Please let me know if you had a complimentary subscription and wish to keep it.** I'll upgrade you back, no questions asked, to uphold my promise then of grandfathering in early adopters \[5\].
+If you like living life loosely and sending strangers stipends without even knowing further details, here's the paid subscription button:
 
 And now, here's how we avoided boring people in 2019:
 
@@ -105,7 +89,7 @@ Here were the favourite links that I sent \[11\]:
 **New additions to my reading list**
 
 1. [Geoff Yamane for investing](https://geoff-yamane.com/about "Geoff"), start with [his post on the investing meta-game](https://geoff-yamane.com/blog/2019/2/28/the-investing-meta-game "Investing")
-2. [The Diff by Byrne Hobart](https://diff.substack.com/) for inflection points in finance nad tech, start with his older post on [what to do when you've spotted a bubble](https://marker.medium.com/so-youve-spotted-a-bubble-3f2fa5cf49a9 "Bubble") 
+2. [The Diff by Byrne Hobart](https://diff.substack.com/) for inflection points in finance and tech, start with his post on [what to do when you've spotted a bubble](https://marker.medium.com/so-youve-spotted-a-bubble-3f2fa5cf49a9 "Bubble") 
 3. [The Profile by 
 Polina Marinova](https://theprofile.substack.com/) for stories of interesting people
 4. [Movements by Michal Naka and Adam Feldman](https://movements.substack.com/ "Movements") for news in mobility and transportation
@@ -114,7 +98,7 @@ Polina Marinova](https://theprofile.substack.com/) for stories of interesting pe
 
 **Shout outs**
 
-Friends and acquaintances worked on many fascinating things last year. **Please feel free to reach out if you're interested in what they do.** Note that none of the below is investment advice and I might have a financial or personal interest in the company \[40\]
+Friends and acquaintances worked hard on fascinating things last year. **Please feel free to reach out if you're interested in what they do.** Note that none of the below is investment advice and I might have a financial or personal interest in the company \[40\]
 
 1. [Lindsay Burton of Kayo organises industry events for women investors]( https://kayoconferenceseries.com/ "Kayo"), her [leadership retreat](https://kayoconferenceseries.com/events/executive-leadership-retreat/ "leadership") has bestselling author Chris Voss (Never Split the Difference) coming to speak
 2. [Caroline Barton of Modatrova](https://www.instagram.com/modatrova/ "Modatrova") is bringing emerging fashion brands to shoppers in private settings. She's looking for women who are tastemakers in their community who would be interested in hosting.
@@ -138,7 +122,7 @@ Friends and acquaintances worked on many fascinating things last year. **Please 
 3. The keyword here being experiment, which means there's a chance this blows up in my face
 4. I'm doing a terrible job of selling this aren't I. However, I believe that this is worth trying out and would only want paid readers that really want it. I'm still maintaining the personal website, as it has functionality that substack doesn't and I want to keep something entirely of my own.
 5. Honour system here, I can't keep track of everyone who was given a complimentary subscription. Please don't be shy about it; if I were in your shoes I'd totally ask to get upgraded for free
-10. Note that I said favourite pieces, not necessarily the best or most popular. Just as people can like Love Actually, I can like something without it being high quality. Pieces that missed the cutoff included [my notes from an investment conference](https://www.leonlinsx.com/punch-card-2019/ "Punch Card"), [additional marketplace business rake factors](https://www.leonlinsx.com/additional-marketplace-rake-factors/ "Rake"), [illusions in time](https://www.leonlinsx.com/temporal-illusions/ "temporal"), and [how likely were you to accept grandma's video game friend request?](https://avoidboringpeople.substack.com/p/how-likely-would-you-accept-grandmas?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Video games")
+10. Note that I said favourite pieces, not necessarily the best or most popular. Just as people can like Love Actually, I can like something without it being good. Pieces that missed the cutoff included [my notes from an investment conference](https://www.leonlinsx.com/punch-card-2019/ "Punch Card"), [additional marketplace business rake factors](https://www.leonlinsx.com/additional-marketplace-rake-factors/ "Rake"), [illusions in time](https://www.leonlinsx.com/temporal-illusions/ "temporal"), and [how likely were you to accept grandma's video game friend request?](https://avoidboringpeople.substack.com/p/how-likely-would-you-accept-grandmas?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Video games")
 11. Links that missed the cutoff included [how Mr Rogers anticipated the way children might misinterpret what was being said](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/ "Rogers"), [the O-ring theory of development describing when economies are organized such that one weak link can destroy the entire value of production](https://www.youtube.com/watch?v=CKkOmIW9bjg "O ring"), [a thousand true fans are all you need](https://kk.org/thetechnium/1000-true-fans/ "thousand"), [how peak depressive symptoms in girls occur earlier than in boys](https://link.springer.com/article/10.1007/s10964-018-0976-5 "girls depression"), and how [students learn more in active learning classes but dislike it and think they learn less.](https://www.pnas.org/content/116/39/19251 "learning")
 40. As always, nothing I write is financial advice, please consult a professional financial advisor etc. Don't sue me; I have no money. 
 
