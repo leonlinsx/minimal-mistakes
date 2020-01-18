@@ -184,8 +184,6 @@ Thank you for all the support, and let's continue to avoid boring people in 2020
 16. I'm doing a terrible job of selling this aren't I. However, I believe that this is worth trying out and only want paid readers that really want it. I'm still maintaining the personal website, as it has functionality that substack doesn't and I want to keep something entirely of my own.
 17. Honour system here, I can't keep track of everyone who was given a complimentary subscription. Please don't be shy about it; if I were in your shoes I'd totally ask to get upgraded for free
 
-5. 
-
 *If you liked this, sign up for my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
 
 <div class="iframe-container-4x3">
