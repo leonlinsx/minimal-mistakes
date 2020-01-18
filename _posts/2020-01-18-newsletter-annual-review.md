@@ -101,7 +101,7 @@ Polina Marinova](https://theprofile.substack.com/) for stories of interesting pe
 
 **Shout outs**
 
-Friends and acquaintances worked hard on fascinating things last year. **Please feel free to reach out if you're interested in what they do.** Note that none of the below is investment advice and I might have a financial or personal interest in the company \[40\]
+Friends and acquaintances worked hard on fascinating things last year. **Please feel free to reach out if you're interested in what they do.** Note that none of the below is investment advice and I might have a financial or personal interest in the company \[5\]
 
 1. [Lindsay Burton of Kayo organises industry events for women investors]( https://kayoconferenceseries.com/ "Kayo"), her [leadership retreat](https://kayoconferenceseries.com/events/executive-leadership-retreat/ "leadership") has bestselling author Chris Voss (Never Split the Difference) coming to speak
 2. [Caroline Barton of Modatrova](https://www.instagram.com/modatrova/ "Modatrova") is bringing emerging fashion brands to shoppers in private settings. She's looking for women who are tastemakers in their community who would be interested in hosting such events
@@ -128,23 +128,44 @@ I finished my annual reflection for 2019 recently, a distinct improvement compar
  
 **Why you should unsubscribe and not pay me money**
 
-Newsletters are seeing a resurgence; everyone and [their mom](https://evilwitches.substack.com/ "mom newsletter") seems to have one now. [Byrne Hobart thinks of them as a precommitment to quality and focused content](https://medium.com/@byrnehobart/ghosting-substack-and-privatized-attention-6a05ec51dc61 "substack"); I think of them as a pendulum swing away from public, generalised noise to private, specialised content. Just as blogging exploded and then slowly declined, I think newsletters as a whole will go through the same trend with 60% certainty, though we're still early in the up cycle. 
+[Newsletters are seeing a resurgence](https://www.theatlantic.com/technology/archive/2019/10/substack-revue-email-newsletter-startups-tinyletter/599557/ "Atlantic"); everyone and [their mom](https://evilwitches.substack.com/ "mom newsletter") \[52\] seems to have one now. [Byrne Hobart thinks of them as a precommitment to quality and focused content](https://medium.com/@byrnehobart/ghosting-substack-and-privatized-attention-6a05ec51dc61 "substack"); I think of them as a pendulum swing away from public, generalised noise to private, specialised content. That implies it'll swing back though. Just as blogging exploded and then slowly declined, I think newsletters as a whole will go through the same trend with 60% certainty, though we're still early in the up cycle. 
 
-Writing is hard. I have literally stared at my screen for ten minutes thinking of what to write, and so I ended up writing this sentence. 
- 
-just like 11/10 biz claim to be the next https://blog.ycombinator.com/read-this-before-you-build-uber-for-x/ 
+Why do I think this? The simple fact is writing is hard. I have literally stared at my screen for ten minutes thinking of what to write, ending up with this sentence \[53\]. 
+
+People think I write like this:
+
+When instead I'm often like this:
+
+Most people writing now will give up after a while, once the difficulty outwears the novelty. The key to survival then is to [just keep swimming](https://www.youtube.com/watch?v=dBtc254NIMc "swimming") and ~~spamming~~ creating content.
+
+I do so by keeping in mind [why I write](https://www.leonlinsx.com/why-i-write/ "why"). I write for myself first and foremost, since "I don’t know what I think until I read what I say” \[54\]. The readership and responses are fantastic to have, and I'll keep writing as long as I remember the primary, selfish goal. It's not you, it's me.
+
+The annual reflection was a convenient excuse for me to think about the future for this newsletter. Like every startup out there, I think of this as a flywheel:
+
+More engaged readers -> More ideas and feedback -> More quality content
+
+I have 3 requests:
+
+Readership has grown compared to when I was directly emailing family and friends years ago. Despite that, my open rates of ~60% are way above [industry average of 20% and best in class of 40%.](https://fs.blog/2019/12/2019-annual-letter/ "FS open") I need your help to keep that going, and prefer quality to quantity. To that end, **please unsubscribe if you're no longer interested** \[55\].
+
+More engaged readers led to more ideas and feedback, a great benefit of writing publicly. You can compare [an early version of this newsletter](https://avoidboringpeople.substack.com/p/bet-against-self-control-and-sonic?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Jan") against [the current](https://avoidboringpeople.substack.com/ "ABP") to see how much has changed. The takeaway section upfront, separate sections, and opening banner all involved user feedback; see footnote for details \[56\]. **Please continue to send in ideas and feedback, and correct me if I'm wrong.**
+
+Which brings me to content, and the announcement of paid weekly updates.  
 
 **Footnotes**
-
 
 1. Note that I said favourite pieces, not necessarily the best or most popular. Just as people can like Love Actually, I can like something without it being good. Pieces that missed the cutoff included [my notes from an investment conference](https://www.leonlinsx.com/punch-card-2019/ "Punch Card"), [additional marketplace business rake factors](https://www.leonlinsx.com/additional-marketplace-rake-factors/ "Rake"), [illusions in time](https://www.leonlinsx.com/temporal-illusions/ "temporal"), and [how likely were you to accept grandma's video game friend request?](https://avoidboringpeople.substack.com/p/how-likely-would-you-accept-grandmas?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Video games")
 2. Links that missed the cutoff included [how Mr Rogers anticipated the way children might misinterpret what was being said](https://www.theatlantic.com/family/archive/2018/06/mr-rogers-neighborhood-talking-to-kids/562352/ "Rogers"), [the O-ring theory of development describing when one weak link can destroy the entire value of production](https://www.youtube.com/watch?v=CKkOmIW9bjg "O ring"), [a thousand true fans are all you need](https://kk.org/thetechnium/1000-true-fans/ "thousand"), [how peak depressive symptoms in girls occur earlier than in boys](https://link.springer.com/article/10.1007/s10964-018-0976-5 "girls depression"), and [how students learn more in active learning classes but dislike it and think they learn less.](https://www.pnas.org/content/116/39/19251 "learning")
 3. I elaborated on Pettis' post [here](https://avoidboringpeople.substack.com/p/always-be-raising?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Tariff")
 4. I responded to Josh in a post [here](https://www.leonlinsx.com/additional-marketplace-rake-factors/ "Rake")
-40. As always, nothing I write is financial advice, please consult a professional financial advisor etc. Don't sue me; I have no money. 
-50. It was still helpful though! 
+5. As always, nothing I write is financial advice, please consult a professional financial advisor etc. Don't sue me; I have no money. 
+50. It was still helpful though! Would encourage you to do a reflection regardless of how late it is.
 51. The others inclued [Anne-Laure Le Cunff](https://docs.google.com/presentation/d/1WxAY5ujUeKKQ_Y1c-Ic_rHj2t3Kaw_GOpwTX1jY4y_k/edit?usp=sharing "template"), [Kelly Thorne Gore](https://ibloom.us/blog/10-end-of-the-year-reflection-questions/ "questions"), and [Henna Inam](https://www.forbes.com/sites/hennainam/2018/12/31/ten-questions-to-ask-in-your-personal-year-end-review/#1a0297287e7d "questions")
-2. Trying to link together unrelated topics into one coherent narrative took a lot of time, and didn't seem to improve reader engagement, making it not worth the time
+52. No, I'm not a subscriber. Just a top google search result. 
+53. Yes, that really happened. I gave up and went to bed shortly after. What follows was written on a separate day.
+54. Flannery O'Connor
+55. I've regularly reminded people to unsubscribe, so this should come as no surprise to older readers. If I could, I'd make the unsubscribe button all the way at the top of the email, but there's technical limitations on substack. Friends and family - I really won't feel offended if you unsubscribe.
+56. At one point in time I was trying to link together unrelated topics into one coherent narrative, as seen in [this example.](https://avoidboringpeople.substack.com/p/long-tails-and-chinese-art-theft?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Early") That took a lot of time but didn't seem to improve reader engagement, leading to me experimenting with the separate sections. The takeaways up top were directly suggested by a friend who essentially said I was too long-winded. The banner from another who suggested I was forgettable. The [post on AI](https://avoidboringpeople.substack.com/p/coming-soon?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "AI") was from a conversation with a friend, and the [Taleb article](https://avoidboringpeople.substack.com/p/why-were-freelance-monks-banned-by?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Taleb") was sent in by a friend. I think the newsletter is better now than it was even a year ago, and look forward to it improving even more. 
 3. The keyword here being experiment, which means there's a chance this blows up in my face
 4. I'm doing a terrible job of selling this aren't I. However, I believe that this is worth trying out and would only want paid readers that really want it. I'm still maintaining the personal website, as it has functionality that substack doesn't and I want to keep something entirely of my own.
 5. Honour system here, I can't keep track of everyone who was given a complimentary subscription. Please don't be shy about it; if I were in your shoes I'd totally ask to get upgraded for free
