@@ -100,13 +100,14 @@ At the end of the day, my writing is for me alone.
 My writing is selfish. 
 
 **Footnotes**
+
 1. Diaries are probably the big exception here, though even the best selling diary was written [with intent on publication,](https://www.annefrank.org/en/anne-frank/go-in-depth/two-versions-annes-diary/ "anne frank two versions") which was surprising for me to learn about. I don't have stats on the proportion of publicly written material vs privately written material, but would assume the majority of material written is intended for others to read. Even [writers famous for being reclusive](https://www.telegraph.co.uk/books/what-to-read/the-late-harper-lee-and-five-other-reclusive-authors/ "reclusive authors") still ended up publishing their work. There's a selection bias here, since they're famous becuase they were published, but I think people are writing to be read. This [list of quotes](https://www.aerogrammestudio.com/2014/03/27/why-i-write-23-quotes-famous-authors/ "why i write quotes") by famous authors on why they write is relevant to browse through, I particularly like these quotes:
 
-  > “Writing is my way of expressing – and thereby eliminating – all the various ways we can be wrong-headed.” – Zadie Smith
+    > “Writing is my way of expressing – and thereby eliminating – all the various ways we can be wrong-headed.” – Zadie Smith
 
-  > “When I sit down to write a book, I do not say to myself, ‘I am going to produce a work of art.’ I write it because there is some lie that I want to expose, some fact to which I want to draw attention, and my initial concern is to get a hearing.” – George Orwell
+    > “When I sit down to write a book, I do not say to myself, ‘I am going to produce a work of art.’ I write it because there is some lie that I want to expose, some fact to which I want to draw attention, and my initial concern is to get a hearing.” – George Orwell
 
-  > “I write because I don’t know what I think until I read what I say.” – Flannery O’Connor
+    > “I write because I don’t know what I think until I read what I say.” – Flannery O’Connor
 
 2. The "author's purpose", as some of us might have been taught. Mildly annoying to note that a quick search on author purpose's turns up [different](http://www.mdc.edu/kendall/collegeprep/documents2/author's%20purposerev818.pdf "purpose 1") [categorisations](https://www.lancasterschools.org/cms/lib/NY19000266/Centricity/Domain/451/B1.pdf "purpose 2"), though most overlap to some degree
 3. Great writing [stays with you](https://www.reddit.com/r/books/comments/88ike0/whats_your_favorite_quote_from_a_book/). 
@@ -122,30 +123,30 @@ My writing is selfish.
 13. There's this set of principles I read somwhere before by a guy who talks about a list of things everyone should know how to do, and setting up a website and custom domain is one of them. I can't recall who or where I saw it, which is unfortunate as there were other interesting remarks on that list, but it's stuck with me as something worth learning about.
 14. I originally wanted to discuss Paul's writing in detail, but couldn't find a way to insert it into the article. Some quotes I found interesting:
   
-  > When I give a draft of an essay to friends, there are two things I want to know: which parts bore them, and which seem unconvincing. The boring bits can usually be fixed by cutting.
+    > When I give a draft of an essay to friends, there are two things I want to know: which parts bore them, and which seem unconvincing. The boring bits can usually be fixed by cutting.
 
-  > The sort of writing that attempts to persuade may be a valid (or at least inevitable) form, but it's historically inaccurate to call it an essay. An essay is something else. \[...\] An essay is something you write to try to figure something out. Figure out what? You don't know yet. And so you can't begin with a thesis, because you don't have one, and may never have one.
+    > The sort of writing that attempts to persuade may be a valid (or at least inevitable) form, but it's historically inaccurate to call it an essay. An essay is something else. \[...\] An essay is something you write to try to figure something out. Figure out what? You don't know yet. And so you can't begin with a thesis, because you don't have one, and may never have one.
 
 I'm not as sure about this. You're still trying to make a point in your writing. Might be semantics though.
 
-  > Why not just sit and think? Well, there precisely is Montaigne's great discovery. Expressing ideas helps to form them. Indeed, helps is far too weak a word. Most of what ends up in my essays I only thought of when I sat down to write them. That's why I write them.
+    > Why not just sit and think? Well, there precisely is Montaigne's great discovery. Expressing ideas helps to form them. Indeed, helps is far too weak a word. Most of what ends up in my essays I only thought of when I sat down to write them. That's why I write them.
 
 Nice to see agreement here with what I discussed above 
 
-  > An essay you publish ought to tell the reader something he didn't already know.
+    > An essay you publish ought to tell the reader something he didn't already know.
 
-  > I'd much rather read an essay that went off in an unexpected but interesting direction than one that plodded dutifully along a prescribed course.
+    > I'd much rather read an essay that went off in an unexpected but interesting direction than one that plodded dutifully along a prescribed course.
 
 With the caveat that the direction is interesting, which is probably the crux of his argument. Avoid boring people?
 
-  > So if you want to write essays, you need two ingredients: a few topics you've thought about a lot, and some ability to ferret out the unexpected.
+    > So if you want to write essays, you need two ingredients: a few topics you've thought about a lot, and some ability to ferret out the unexpected.
 
 I think a lof of this flows out of reading and talking to a variety of people
 
-  > One of the keys to coolness is to avoid situations where inexperience may make you look foolish. If you want to find surprises you should do the opposite. Study lots of different things, because some of the most interesting surprises are unexpected connections between different fields.
+    > One of the keys to coolness is to avoid situations where inexperience may make you look foolish. If you want to find surprises you should do the opposite. Study lots of different things, because some of the most interesting surprises are unexpected connections between different fields.
 
 I've written about [specialisation vs generalisation](https://www.leonlinsx.com/specialists-vs-generalists/ "post link") before
 
-  > Anyone can publish an essay on the Web, and it gets judged, as any writing should, by what it says, not who wrote it. Who are you to write about x? You are whatever you wrote.
+    > Anyone can publish an essay on the Web, and it gets judged, as any writing should, by what it says, not who wrote it. Who are you to write about x? You are whatever you wrote.
 
 I agree that the internet has helped good ideas succeed on merit, though there's an inherent advantage for a famous person's ideas to spread compared to someone more obscure. The reduction in cost of publication does mean your ideas can stay discoverable for a longer period of time. With luck you'll get the response you desire, though it can't be your driving motivation.
