@@ -42,7 +42,7 @@ published: false
 
 **Starting Jan 25 I'll be experimenting with paid weekly updates, in addition to the free monthly update.** I'll elaborate in the annual review section at the bottom of this email, and the main points are:
 
-- Pricing is $6/mth or $60/year. Early subscribers get lifetime pricing of $5/mth or $50/year (~20% discount)
+- Pricing is $6/mth or $60/year. Early subscribers will get pricing of $5/mth or $50/year (~20% discount)
 - This gets you early, direct access to weekly content that will be shorter and more varied
 - Monthly content will remain free for as long as I keep writing
 
@@ -123,14 +123,14 @@ Now that I've advertised others, back to shameless self-promotion:
 
 **Annual reflection**
 
-I finished my annual reflection for 2019 recently, a distinct improvement compared to previous annual reflections completed in March \[50\]. Reflecting is necessary for learning; having a thoughtful template increases the effectiveness and decreases the difficulty in starting the process. This year I updated [my template](https://docs.google.com/document/d/1iGZJxnCs91LsHSnOK-C5ACq5SS50PEWRqCMnt2fXVY0/edit?usp=sharing "new template") by drawing on [Steve Schlafman
- and Howard Gray's version,](https://docs.google.com/document/d/1Ais6wP0HxoFfvHR9JVkf2sw2ft_EUBtb42JYOr6ObGo/edit "template") plus other references \[51\]. This is the template that I find helpful for myself but may not be the template most helpful for you. Feel free to adjust as needed. You can take a look at [my completed reflection](https://docs.google.com/document/d/1iSrugAAQ9baLTXvh7Ck6YO7MUCB8CbQQqyEX8BMiUv0/edit?usp=sharing "reflection") if helpful.
+I finished my annual reflection for 2019 recently, a distinct improvement compared to previous annual reflections completed in March \[6\]. Reflecting is necessary for learning; having a thoughtful template increases the effectiveness and decreases the difficulty in starting the process. This year I updated [my template](https://docs.google.com/document/d/1iGZJxnCs91LsHSnOK-C5ACq5SS50PEWRqCMnt2fXVY0/edit?usp=sharing "new template") by drawing on [Steve Schlafman
+ and Howard Gray's version,](https://docs.google.com/document/d/1Ais6wP0HxoFfvHR9JVkf2sw2ft_EUBtb42JYOr6ObGo/edit "template") plus other references \[7\]. This is the template that I find helpful for myself but may not be the template most helpful for you. Feel free to adjust as needed. You can take a look at [my completed reflection](https://docs.google.com/document/d/1iSrugAAQ9baLTXvh7Ck6YO7MUCB8CbQQqyEX8BMiUv0/edit?usp=sharing "reflection") if helpful.
  
 **Why you should unsubscribe and not pay me money**
 
-[Newsletters are seeing a resurgence](https://www.theatlantic.com/technology/archive/2019/10/substack-revue-email-newsletter-startups-tinyletter/599557/ "Atlantic"); everyone and [their mom](https://evilwitches.substack.com/ "mom newsletter") \[52\] seems to have one now. [Byrne Hobart thinks of them as a precommitment to quality and focused content](https://medium.com/@byrnehobart/ghosting-substack-and-privatized-attention-6a05ec51dc61 "substack"); I think of them as a pendulum swing away from public, generalised noise to private, specialised content. That implies it'll swing back though. Just as blogging exploded and then slowly declined, I think newsletters as a whole will go through the same trend with 60% certainty, though we're still early in the up cycle. 
+[Newsletters are seeing a resurgence](https://www.theatlantic.com/technology/archive/2019/10/substack-revue-email-newsletter-startups-tinyletter/599557/ "Atlantic"); everyone and [their mom](https://evilwitches.substack.com/ "mom newsletter") \[8\] seems to have one now. [Byrne Hobart thinks of them as a precommitment to quality and focused content](https://medium.com/@byrnehobart/ghosting-substack-and-privatized-attention-6a05ec51dc61 "substack"); I think of them as a pendulum swing away from public, generalised noise to private, specialised content. That implies it'll swing back though. Just as blogging exploded and then slowly declined, I think newsletters as a whole will go through the same trend with 60% certainty, though we're still early in the up cycle. 
 
-Why do I think this? The simple fact is writing is hard. I have literally stared at my screen for ten minutes thinking of what to write, ending up with this sentence \[53\]. 
+Why do I think this? The simple fact is writing is hard. I have literally stared at my screen for ten minutes thinking of what to write, ending up with this sentence \[9\]. 
 
 People think I write like this:
 
@@ -138,7 +138,7 @@ When instead I'm often like this:
 
 Most people writing now will give up after a while, once the difficulty outwears the novelty. The key to survival then is to [just keep swimming](https://www.youtube.com/watch?v=dBtc254NIMc "swimming") and ~~spamming~~ creating content.
 
-I do so by keeping in mind [why I write](https://www.leonlinsx.com/why-i-write/ "why"). I write for myself first and foremost, since "I don’t know what I think until I read what I say” \[54\]. The readership and responses are fantastic to have, and I'll keep writing as long as I remember the primary, selfish goal. It's not you, it's me.
+I do so by keeping in mind [why I write](https://www.leonlinsx.com/why-i-write/ "why"). I write for myself first and foremost, since "I don’t know what I think until I read what I say” \[10\]. The readership and responses are fantastic to have, and I'll keep writing as long as I remember the primary, selfish goal. It's not you, it's me.
 
 The annual reflection was a convenient excuse for me to think about the future for this newsletter. Like every startup out there, I think of this as a flywheel:
 
@@ -146,11 +146,23 @@ More engaged readers -> More ideas and feedback -> More quality content
 
 I have 3 requests:
 
-Readership has grown compared to when I was directly emailing family and friends years ago. Despite that, my open rates of ~60% are way above [industry average of 20% and best in class of 40%.](https://fs.blog/2019/12/2019-annual-letter/ "FS open") I need your help to keep that going, and prefer quality to quantity. To that end, **please unsubscribe if you're no longer interested** \[55\].
+Readership has grown compared to when I was directly emailing family and friends years ago. Despite that, my open rates of ~60% are way above [industry average of 20% and best in class of 40%.](https://fs.blog/2019/12/2019-annual-letter/ "FS open") I need your help to keep that going, and prefer quality to quantity. To that end, **please unsubscribe if you're no longer interested** \[11\].
 
-More engaged readers led to more ideas and feedback, a great benefit of writing publicly. You can compare [an early version of this newsletter](https://avoidboringpeople.substack.com/p/bet-against-self-control-and-sonic?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Jan") against [the current](https://avoidboringpeople.substack.com/ "ABP") to see how much has changed. The takeaway section upfront, separate sections, and opening banner all involved user feedback; see footnote for details \[56\]. **Please continue to send in ideas and feedback, and correct me if I'm wrong.**
+More engaged readers led to more ideas and feedback, a great benefit of writing publicly. You can compare [an early version of this newsletter](https://avoidboringpeople.substack.com/p/bet-against-self-control-and-sonic?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Jan") against [the current](https://avoidboringpeople.substack.com/ "ABP") to see how much has changed. The takeaway section upfront, separate sections, and opening banner all involved user feedback; see footnote for details \[12\]. **Please continue to send in ideas and feedback, and correct me if I'm wrong.**
 
-Which brings me to content, and the announcement of paid weekly updates.  
+Which brings me to more quality content, and my experiment with weekly updates for paid subscribers \[13\]. I want to see if there's a small subset of subscribers that would be interested in getting content more often on a weekly, paid basis. Details are:
+
+- Pricing is $6/mth or $60/year. **Early subscribers will get pricing of $5/mth or $50/year**, a ~20% discount as recommended by substack. I'm intending to keep that as a lifetime pricing for early subs, but can't guarantee that substack's tech will let me do that in the future \[14\]. 
+
+- **Paid subscribers get early, direct access to weekly content** \[15\]. This will be more varied than the monthly update, such as my prior posts about [controversies in the art world](https://www.leonlinsx.com/tims-vermeer/ "vermeer") or [how to take feedback better](https://www.leonlinsx.com/thanks-for-the-feedback/ "feedback"). They will also be shorter, less polished, and most importantly still available on my website after a delay. You're really paying for early access to my initial thoughts on whatever I've found interesting recently \[16\].
+
+- **Monthly content will remain free** for as long as I keep writing, and remain structured around tech, finance, and personal growth. I anticipate taking more time to draft these and that they will be better quality than the weekly posts.
+
+**Please subscribe here if I haven't already convinced you out of doing so**
+
+If you were an early reader, I may have given you a complimentary subscription that didn't do anything. I'll be downgrading all of these since I don't want to opt you in to weekly emails without your consent. If you'd like to retain your status *for free*, send me a message. I'll do so, no questions asked, as part of my earlier promise to grandfather in early readers \[58\].
+
+Thank you for all the support, and let's continue to avoid boring people in 2020.
 
 **Footnotes**
 
@@ -159,16 +171,20 @@ Which brings me to content, and the announcement of paid weekly updates.
 3. I elaborated on Pettis' post [here](https://avoidboringpeople.substack.com/p/always-be-raising?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Tariff")
 4. I responded to Josh in a post [here](https://www.leonlinsx.com/additional-marketplace-rake-factors/ "Rake")
 5. As always, nothing I write is financial advice, please consult a professional financial advisor etc. Don't sue me; I have no money. 
-50. It was still helpful though! Would encourage you to do a reflection regardless of how late it is.
-51. The others inclued [Anne-Laure Le Cunff](https://docs.google.com/presentation/d/1WxAY5ujUeKKQ_Y1c-Ic_rHj2t3Kaw_GOpwTX1jY4y_k/edit?usp=sharing "template"), [Kelly Thorne Gore](https://ibloom.us/blog/10-end-of-the-year-reflection-questions/ "questions"), and [Henna Inam](https://www.forbes.com/sites/hennainam/2018/12/31/ten-questions-to-ask-in-your-personal-year-end-review/#1a0297287e7d "questions")
-52. No, I'm not a subscriber. Just a top google search result. 
-53. Yes, that really happened. I gave up and went to bed shortly after. What follows was written on a separate day.
-54. Flannery O'Connor
-55. I've regularly reminded people to unsubscribe, so this should come as no surprise to older readers. If I could, I'd make the unsubscribe button all the way at the top of the email, but there's technical limitations on substack. Friends and family - I really won't feel offended if you unsubscribe.
-56. At one point in time I was trying to link together unrelated topics into one coherent narrative, as seen in [this example.](https://avoidboringpeople.substack.com/p/long-tails-and-chinese-art-theft?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Early") That took a lot of time but didn't seem to improve reader engagement, leading to me experimenting with the separate sections. The takeaways up top were directly suggested by a friend who essentially said I was too long-winded. The banner from another who suggested I was forgettable. The [post on AI](https://avoidboringpeople.substack.com/p/coming-soon?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "AI") was from a conversation with a friend, and the [Taleb article](https://avoidboringpeople.substack.com/p/why-were-freelance-monks-banned-by?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Taleb") was sent in by a friend. I think the newsletter is better now than it was even a year ago, and look forward to it improving even more. 
-3. The keyword here being experiment, which means there's a chance this blows up in my face
-4. I'm doing a terrible job of selling this aren't I. However, I believe that this is worth trying out and would only want paid readers that really want it. I'm still maintaining the personal website, as it has functionality that substack doesn't and I want to keep something entirely of my own.
-5. Honour system here, I can't keep track of everyone who was given a complimentary subscription. Please don't be shy about it; if I were in your shoes I'd totally ask to get upgraded for free
+6. It was still helpful though! Would encourage you to do a reflection regardless of how late it is.
+7. The others inclued [Anne-Laure Le Cunff](https://docs.google.com/presentation/d/1WxAY5ujUeKKQ_Y1c-Ic_rHj2t3Kaw_GOpwTX1jY4y_k/edit?usp=sharing "template"), [Kelly Thorne Gore](https://ibloom.us/blog/10-end-of-the-year-reflection-questions/ "questions"), and [Henna Inam](https://www.forbes.com/sites/hennainam/2018/12/31/ten-questions-to-ask-in-your-personal-year-end-review/#1a0297287e7d "questions")
+8. No, I'm not a subscriber. Just a top google search result. 
+9. Yes, that really happened. I gave up and went to bed shortly after. What follows was written on a separate day.
+10. Flannery O'Connor
+11. I've regularly reminded people to unsubscribe, so this should come as no surprise to older readers. If I could, I'd make the unsubscribe button all the way at the top of the email, but there's technical limitations on substack. Friends and family - I really won't feel offended if you unsubscribe.
+12. At one point in time I was trying to link together unrelated topics into one coherent narrative, as seen in [this example.](https://avoidboringpeople.substack.com/p/long-tails-and-chinese-art-theft?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Early") That took a lot of time but didn't seem to improve reader engagement, leading to me experimenting with the separate sections. The takeaways up top were directly suggested by a friend who essentially said I was too long-winded. The banner from another who suggested I was forgettable. The [post on AI](https://avoidboringpeople.substack.com/p/coming-soon?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "AI") was from a conversation with a friend, and the [Taleb article](https://avoidboringpeople.substack.com/p/why-were-freelance-monks-banned-by?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Taleb") was sent in by a friend. I think the newsletter is better now than it was even a year ago, and look forward to it improving even more.
+13. The keyword here being experiment, which means there's a chance this blows up in my face. I believe in more experimentation in my personal life
+14. I would charge lower, but $5/mth is the minimum allowed on substack. Substack charges 10% plus ~3% for credit card fees.
+15. When I started out, I thought I might charge for the monthly updates and give the weeklies for free. However, it makes more sense to ask more engaged readers to pay instead.
+16. I'm doing a terrible job of selling this aren't I. However, I believe that this is worth trying out and only want paid readers that really want it. I'm still maintaining the personal website, as it has functionality that substack doesn't and I want to keep something entirely of my own.
+17. Honour system here, I can't keep track of everyone who was given a complimentary subscription. Please don't be shy about it; if I were in your shoes I'd totally ask to get upgraded for free
+
+5. 
 
 *If you liked this, sign up for my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
 
