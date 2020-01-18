@@ -160,7 +160,7 @@ Which brings me to more quality content, and my experiment with weekly updates f
 
 **Please subscribe here if I haven't already convinced you out of doing so**
 
-If you were an early reader, I may have given you a complimentary subscription that didn't do anything. I'll be downgrading all of these since I don't want to opt you in to weekly emails without your consent. If you'd like to retain your status *for free*, send me a message. I'll do so, no questions asked, as part of my earlier promise to grandfather in early readers \[58\].
+If you were an early reader, I may have given you a complimentary subscription that didn't do anything. I'll be downgrading all of these since I don't want to opt you in to weekly emails without your consent. If you'd like to retain your status *for free*, send me a message. I'll do so, no questions asked, as part of my earlier promise to grandfather in early readers \[17\].
 
 Thank you for all the support, and let's continue to avoid boring people in 2020.
 
@@ -172,7 +172,7 @@ Thank you for all the support, and let's continue to avoid boring people in 2020
 4. I responded to Josh in a post [here](https://www.leonlinsx.com/additional-marketplace-rake-factors/ "Rake")
 5. As always, nothing I write is financial advice, please consult a professional financial advisor etc. Don't sue me; I have no money. 
 6. It was still helpful though! Would encourage you to do a reflection regardless of how late it is.
-7. The others inclued [Anne-Laure Le Cunff](https://docs.google.com/presentation/d/1WxAY5ujUeKKQ_Y1c-Ic_rHj2t3Kaw_GOpwTX1jY4y_k/edit?usp=sharing "template"), [Kelly Thorne Gore](https://ibloom.us/blog/10-end-of-the-year-reflection-questions/ "questions"), and [Henna Inam](https://www.forbes.com/sites/hennainam/2018/12/31/ten-questions-to-ask-in-your-personal-year-end-review/#1a0297287e7d "questions")
+7. The others included [Anne-Laure Le Cunff](https://docs.google.com/presentation/d/1WxAY5ujUeKKQ_Y1c-Ic_rHj2t3Kaw_GOpwTX1jY4y_k/edit?usp=sharing "template"), [Kelly Thorne Gore](https://ibloom.us/blog/10-end-of-the-year-reflection-questions/ "questions"), and [Henna Inam](https://www.forbes.com/sites/hennainam/2018/12/31/ten-questions-to-ask-in-your-personal-year-end-review/#1a0297287e7d "questions")
 8. No, I'm not a subscriber. Just a top google search result. 
 9. Yes, that really happened. I gave up and went to bed shortly after. What follows was written on a separate day.
 10. Flannery O'Connor
