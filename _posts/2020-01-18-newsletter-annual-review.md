@@ -1,6 +1,6 @@
 ---
 title:  "2019 newsletter year in review"  
-tags: []
+tags: [newsletter, review, finance, tech]
 published: false
 ---
 
@@ -56,17 +56,23 @@ Of course, all my writing ~~is the best~~ can keep getting better. Nevertheless,
 
 1. [Would you buy the Libra Neopet Kin token?](https://avoidboringpeople.substack.com/p/would-you-buy-the-libra-neopet-kin?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Libra") In which I profess to not understanding Facebook's Libra at all
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/neopet-tiger.PNG)
+
 2. [Can you see things in a different way?](https://avoidboringpeople.substack.com/p/can-you-see-things-in-a-different?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Visualise") In which I realise everyone visualises things differently
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Aphantasia-test.png)
 
 3. [Why were freelance monks banned by the church?](https://avoidboringpeople.substack.com/p/why-were-freelance-monks-banned-by?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "employment") In which I comment on why Nassim Taleb thinks employment is legal slavery
 
-> Slave ownership by companies has traditionally taken very curious forms. The best slave is someone you overpay and who knows it, terrified of losing his status
+  > Slave ownership by companies has traditionally taken very curious forms. The best slave is someone you overpay and who knows it, terrified of losing his status
 
 4. [Tell me why.](https://www.leonlinsx.com/tell-me-why/ "Tell") In which I question why we believe in anything at all
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Lizard people vs Higgs.png)
+
 5. [Public secrets.](https://www.leonlinsx.com/public-secrets/ "Public") In which I list secrets industry insiders all know but wouldn't want to admit publicly
 
-> Rigged: News sites, universities, music competitions
+  > Rigged: News sites, universities, music competitions
 
 **Favourite links I sent**
 
@@ -74,8 +80,17 @@ Here were the favourite links that I sent \[2\]:
 
 1. [Cuban sonic weapons, chainsaw puffins, and tortoise sex](https://www.theatlantic.com/science/archive/2019/01/sound-haunted-diplomats-cuba-crickets/579637/ "Cuba")
 2. [The US trade imbalance won't be fixed by focusing on trade since it's actually a capital inflow problem](https://carnegieendowment.org/chinafinancialmarkets/79641 "Trade") \[3\]
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Trade vs capital.png)
+
 3. [Reconstructing facial images based on voice data.](https://arxiv.org/pdf/1905.09773.pdf "facial image") Note that the idea wasn't to recover an exact image, but common visual features that connected with speech attributes.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/speech2face.PNG)
+
 4. [What everyone gets wrong about China's social credit](https://www.chinalawtranslate.com/en/social-credit-articles/ "China Law Translate")
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Social credit china google search.png)
+
 5. [Which of these lines below are from a famous poem, and which are from AI?](https://slatestarcodex.com/2019/02/19/gpt-2-as-step-toward-general-intelligence/ "moloch")
 
   > Moloch whose brief mind is the barrel of gleaming stars! Moloch whose soul is choices of fragrance! Moloch whose framing is glitz and half-cheerios!
@@ -83,10 +98,14 @@ Here were the favourite links that I sent \[2\]:
   > Moloch! Moloch! Nightmare of Moloch! Moloch the loveless! Mental Moloch! Moloch the heavy judger of men!
 
   > Moloch for I don’t believe in god! Moloch who, fought Sins and made Sin out of Sin!
+  
 6. [Women remain unmarried because they lack partners with comparable socioeconomic status,  not just because of a sex ratio imbalance](https://onlinelibrary.wiley.com/doi/full/10.1111/jomf.12603 "Women")
 7. [Being pierced and hung on a large hook for greater self-regard and social status.](https://marginalrevolution.com/marginalrevolution/2019/09/do-extreme-rituals-have-functional-benefits.html "Rituals")
 8. [How to conduct more effective premortems](https://capitalallocatorspodcast.com/wp-content/uploads/Klein-Sonkin-and-Johnson-2019-The-Misuse-of-Premortems-on-Wall-Street.pdf "Premortem") 
 9. [How the Cretaceous Period seashore affects how Alabama votes](https://www.reddit.com/r/MapPorn/comments/blwlig/the_cretaceous_period_145_to_66_million_years_ago/ "Reddit")
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/seashore-elections.jpg)
+
 10. [Is blockchain good for anything? It's all a matter of trust](https://www.schneier.com/blog/archives/2019/02/blockchain_and_.html "blockchain")
 
 **New additions to my reading list**
@@ -128,13 +147,19 @@ I finished my annual reflection for 2019 recently, a distinct improvement compar
  
 **Why you should unsubscribe and not pay me money**
 
-[Newsletters are seeing a resurgence](https://www.theatlantic.com/technology/archive/2019/10/substack-revue-email-newsletter-startups-tinyletter/599557/ "Atlantic"); everyone and [their mom](https://evilwitches.substack.com/ "mom newsletter") \[8\] seems to have one now. [Byrne Hobart thinks of them as a precommitment to quality and focused content](https://medium.com/@byrnehobart/ghosting-substack-and-privatized-attention-6a05ec51dc61 "substack"); I think of them as a pendulum swing away from public, generalised noise to private, specialised content. That implies it'll swing back though. Just as blogging exploded and then slowly declined, I think newsletters as a whole will go through the same trend with 60% certainty, though we're still early in the up cycle. 
+[Newsletters are seeing a resurgence](https://www.theatlantic.com/technology/archive/2019/10/substack-revue-email-newsletter-startups-tinyletter/599557/ "Atlantic"); everyone and [their mom](https://evilwitches.substack.com/ "mom newsletter") \[8\] seems to have one now. [Byrne Hobart thinks of them as a precommitment to quality and focused content](https://medium.com/@byrnehobart/ghosting-substack-and-privatized-attention-6a05ec51dc61 "substack"); I think of them as a pendulum swing away from public, generalised noise to private, specialised content. That implies it'll swing back though. Just as blogging exploded and then slowly declined, I think newsletters as a whole will go through the same trend with 60% certainty, though we're still early in the up cycle.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Google search blogging term.png)
 
 Why do I think this? The simple fact is writing is hard. I have literally stared at my screen for ten minutes thinking of what to write, ending up with this sentence \[9\]. 
 
 People think I write like this:
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/when i write hemingway v2.jpg)
+
 When instead I'm often like this:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/when i write distracted v2.jpg)
 
 Most people writing now will give up after a while, once the difficulty outwears the novelty. The key to survival then is to [just keep swimming](https://www.youtube.com/watch?v=dBtc254NIMc "swimming") and ~~spamming~~ creating content.
 
@@ -142,9 +167,7 @@ I do so by keeping in mind [why I write](https://www.leonlinsx.com/why-i-write/ 
 
 The annual reflection was a convenient excuse for me to think about the future for this newsletter. Like every startup out there, I think of this as a flywheel:
 
-More engaged readers -> More ideas and feedback -> More quality content
-
-I have 3 requests:
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/newsletter flywheel.jpg)
 
 Readership has grown compared to when I was directly emailing family and friends years ago. Despite that, my open rates of ~60% are way above [industry average of 20% and best in class of 40%.](https://fs.blog/2019/12/2019-annual-letter/ "FS open") I need your help to keep that going, and prefer quality to quantity. To that end, **please unsubscribe if you're no longer interested** \[11\].
 
