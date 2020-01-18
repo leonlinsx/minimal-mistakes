@@ -24,6 +24,34 @@ However, while some experiments are easily replicable, others are not. To some e
 
 I guess... I want to believe? 
 
+*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+
+<style>
+      .iframe-container {
+        overflow: hidden;        
+        padding-top: 50%; <!-- Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625) -->
+        position: relative;
+      }
+      .iframe-container iframe { 
+         border: 0;
+         height: 100%; <!-- Finally, width and height are set to 100% so the iframe takes up 100% of the containers space. -->
+         left: 0;
+         position: absolute;
+         top: 0;
+         width: 100%;
+         display: block;
+         margin: 0 auto; <!-- center image -->
+      }
+      <!-- 4x3 Aspect Ratio -->
+      .iframe-container-4x3 {
+        padding-top: 75%;
+      }
+</style> 
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
+
 **Footnotes:**
 1. If you are really out there, know that I'm a proud supporter of the lizard kingdom should the time come for you to take over the world. Long live Queen Diplodocus and all that jazz. 
 2. Couldn't find a statistic on "number of people believing in DNA", but did find this [2005 poll](https://news.gallup.com/poll/19915/americans-conclusive-about-dna-evidence.aspx "gallup poll") that claimed 80% of people found DNA evidence reliable. Newer articles all seem to refer back to this poll without doing a new poll, which I find disconcerting...
