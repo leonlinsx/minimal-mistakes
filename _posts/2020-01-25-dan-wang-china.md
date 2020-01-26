@@ -108,7 +108,9 @@ Agree. When you're squeezing a competitor, your end game has to be permanently c
 
 > We should distinguish technology in three forms: tools, direct instructions (like blueprints and IP), and process knowledge. The third is most important
 
-This is an interesting framework. I suppose that in modern economies where getting every step in the process is key to having a successful outcome, [as described by the O-ring theory of development](https://www.isid.ac.in/~tridip/Teaching/DevEco/Readings/03Expectations/02Kremer-QJE1993.pdf "O ring"), exact process knowledge derived from experience is critical. Knowing how to troubleshoot when things go wrong and are not describe in the instructions is key.
+This is an interesting framework. I suppose that in modern economies where getting every step in the process is key to having a successful outcome, [as described by the O-ring theory of development](https://www.isid.ac.in/~tridip/Teaching/DevEco/Readings/03Expectations/02Kremer-QJE1993.pdf "O ring"), exact process knowledge derived from experience is critical. Knowing how to troubleshoot when things go wrong and are not described in the instructions is key.
+
+The tangible is easier to copy by definition, whereas the intangible is harder and likely takes longer as well. And perhaps you need expert knowledge in the intangible before you can start creating new technology from scratch? 
 
 ![feedback]({{ site.url }}{{ site.baseurl }}/assets/images/Tech dan wang framework.jpg)
 
@@ -120,7 +122,7 @@ Think it depends on what you count as global. In terms of smartphones, [Xiaomi h
 
 Largely agree, and think this will take quite some time. 
 
-Overall, I agree broadly with the short term pessimism, long term optimism view of China. China has gotten good at the manufacturing process and the consumer app layer, but has lagged behind in actual hardware innovation. Even outside of tech, however broady defined, it still faces debt, social pressure, and demographic concerns, just to name a few. None of these are simple issues to solve. It might seem slightly hand-wavy to say they'll figure something out, but I think they will out of necessity. When the alternative is untenable, you tend to find a way.  
+Overall, I agree broadly with the short term pessimism, long term optimism view of China. China has gotten good at the manufacturing process and the consumer app layer, but has lagged behind in actual hardware innovation. Even outside of tech, however broadly defined, it still faces debt, social pressure, and demographic concerns, just to name a few. None of these are simple issues to solve. It might seem slightly hand-wavy to say they'll figure something out, but I think they will out of necessity. When the alternative is untenable, you tend to find a way.  
 
 **Footnotes**
 
