@@ -34,6 +34,11 @@ published: false
 
 **Takeaways**
 
+
+**Decision making**
+
+Most of us like feedback. However,  . [This summary of decision making principles](https://devonzuegel.com/post/no-kings-how-do-you-make-good-decisions-efficiently-in-a-flat-organization "Devon") might help \[30\] : 
+
 **Shoutouts**
 
 1. Thomas Guthrie at [onejob](https://onejob.substack.com/ "onejob") is helping people find their next roles at top startups.
@@ -48,6 +53,8 @@ published: false
 5. [How to design complex and aesthetically pleasing mazes](http://www.cgl.uwaterloo.ca/csk/projects/mazes/ "Mazes")
 
 **Footnotes**
+
+30. Forwarded by [Eitan on twitter](https://twitter.com/cool_idea "Eitan")
 
 *If you liked this, you'll like* ***[my monthly newsletter.](https://avoidboringpeople.substack.com/ "ABP")*** *Sign up here:*
 
