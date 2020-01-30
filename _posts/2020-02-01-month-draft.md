@@ -42,17 +42,27 @@ published: false
 
 **Direct**
 
-Aswath Damodaran, one of the best finance profs out there \[20\], [wrote about direct listings vs IPOs some time back]( http://aswathdamodaran.blogspot.com/2019/10/disrupting-ipo-process-challenging.html? "Aswath"). I'll review highlights below. If you aren't familiar with direct listings, [a16z has a primer](https://a16z.com/2019/07/02/direct-listings/ "a16z")
+Aswath Damodaran, one of the best finance profs out there \[20\], [wrote about direct listings vs IPOs awhile ago]( http://aswathdamodaran.blogspot.com/2019/10/disrupting-ipo-process-challenging.html? "Aswath"). I'll review highlights below; banking ex-colleagues feel free to disagree. If you aren't familiar with direct listings, [a16z has a primer.](https://a16z.com/2019/07/02/direct-listings/ "a16z")
 
-> but the biggest difference is that it cannot raise fresh capital on the offering date, though existing owners can cash out by selling their shares. That is not as much of a problem as it sounds, since the company can choose to raise cash in a pre-listing round from interested investors, or to make a secondary offering, in the months after 
+> but the biggest difference \[in direct listings\] is that it cannot raise fresh capital on the offering date \[...\] That is not as much of a problem as it sounds, since the company can choose to raise cash in a pre-listing round from interested investors, or to make a secondary offering, in the months after 
 
-The inability to raise new capital remains true for now, [after the SEC rejected a proposal to allow it](https://www.cnbc.com/2019/12/06/nyse-proposal-to-allow-fundraising-in-direct-listings-rejected-by-sec.html "CNBC"). As Aswath points out though, this isn't as big a deal since the company can raise before or after the listing instead.
+The inability to raise new capital remains true for now, [after the SEC rejected a proposal to allow it](https://www.cnbc.com/2019/12/06/nyse-proposal-to-allow-fundraising-in-direct-listings-rejected-by-sec.html "CNBC"). As Aswath points out though, this isn't as big a deal since companies can raise before or after the listing instead.
 
-Aswath describes the case that Bankers make for their continued involvement in IPOs \[21\]:
+Aswath describes the case for and against investment banking's continued involvement in IPOs \[21\]:
 
-> Bankers would argue that their experience in financial markets and their relationship with institutional investors give them the insights to determine the optimal timing window 
+> **Timing:** Banks argue their experience and relationships give them insight on the best time to IPO
 
-> past experience with other initial public offerings may allow bankers to guide companies in what information to include in the prospectus and the language to use
+> Damodaran argues that no one can really time the market, as seen when momentum abruptly shifts such as late 2019
+
+I lean more towards Damodaran's side here. In the bank's defense though, in their role as middlemen and talking to investors, they do get regular feedback on what investors are feeling. You can't say for certain until you try to go to market though.
+
+> **Prospectus expertise:** Banks argue their experience can help guide the drafting of the filing documents
+
+> Damodaran argues that most prospectuses look similar, particularly the risk and business sections.
+
+I agree with Damodaran here, though as he implied some of this is due to legal reasons. Risk sections in prospectuses are more for legal protection and less for telling you what's important. 
+
+> **Pricing of the IPO:** Banks argue 
 
 > Pricing: It is on this front where bankers can claim to offer the most value added for three reasons. First, their knowledge of public market pricing can help them bridge the gap with the private market pricing preceding the offering, and in some cases, reduce unrealistic expectations on the part of VCs and founders. Second, they can help frame the offer pricing by finding the best metric to scale the pricing to and identifying the peer group that investors will use in public markets. Third, by reaching out to investors, bankers can not only gauge demand and fine tune the pricing but also isolate concerns that investors may have about the company. 
 
@@ -76,7 +86,7 @@ Aswath describes the case that Bankers make for their continued involvement in I
 
 **What is rough consensus and how it can improve decision making efficiency**
 
-Decision making becomes more difficult as your organisation grows. You want to involve everyone and make them feel included, but that could spiral into multiple meetings where people give input but nothing gets done. [This summary of decision making principles by Devon Zuegel](https://devonzuegel.com/post/no-kings-how-do-you-make-good-decisions-efficiently-in-a-flat-organization "Devon") \[30\] has advice I haven't seen before:
+Decision making becomes more difficult as your organisation grows. You want to involve everyone and make them feel included, but that could spiral into multiple meetings where people give input but nothing gets done. [This summary of IETF decision making principles by Devon Zuegel](https://devonzuegel.com/post/no-kings-how-do-you-make-good-decisions-efficiently-in-a-flat-organization "Devon") \[30\] has advice I haven't seen before:
 
 > We reject: kings, presidents and voting.
 
@@ -86,7 +96,7 @@ The part about rejecting individual decision makers and voting is straightforwar
 
 > If \[...\] the working group has made an informed decision that the objection has been answered or is not enough of a technical problem to prevent moving forward, \[...\] there is rough consensus to go forward, the objection notwithstanding
 
-The key insight here is that objections that are "not enough of a problem" can be overruled. This implies that you will go ahead with decisions that some people in the group dislike, as long as the issue isn't critical to success or failure. **You don't need everyone to agree.**
+The key insight here is that objections that are "not enough of a problem" can be overruled. This implies to go ahead with decisions that some people in the group dislike, as long as the issue isn't critical to success or failure. **You don't need everyone to agree the decision is optimal.**
 
 > Rough consensus relies on the distinction between two types of objections:
 
@@ -94,19 +104,19 @@ The key insight here is that objections that are "not enough of a problem" can b
 
 > 2) Fundamental flaws: "I believe Solution A is unacceptable because XYZ."
 
-During a discussion, clarify which type of objection you're getting, since people communicate with various degrees of subtlety \[31\]. My "worth taking a look at" is usually a "pretty sure this is key so I hope we have a plan". Once clarified, spend the majority of your time on fundamental flaws rather than "not the best choice" feedback.
+During a discussion, clarify which type of objection you're getting, since people communicate with various degrees of subtlety \[31\]. My "worth taking a look at" is usually a "pretty sure this is key so I hope we have a plan". Once clarified, spend the majority of your time discussing fundamental flaws rather than "not the best choice" feedback.
 
-How you define a fundamental flaw depends on your team, and should be decided beforehand. Devon cites substantial technical debt, inability to scale, or too much work as some suitable reasons. You probably can't have too many reasons, as that would lead to nothing getting done. Once you've settled on your reasons, there should be a high bar to accepting new ones during the discussion itself.
+How you define a fundamental flaw depends on your team, and should be decided beforehand. This is team dependent and difficult as well. Devon cites substantial technical debt, inability to scale, or too much work as some suitable reasons. You probably can't have too many reasons, as that would lead to nothing getting done. Once you've settled on your reasons, there should be a high bar to accepting new ones during the discussion itself.
 
-I'd also assume that most people talk during meetings for the sake of talking \[32\]. This implies that most objections should fall under the "not the best choice" category, and you should feel alright moving forward despite them.
+People are incentivised to participate during meetings; I'd also assume that most people talk during meetings for the sake of talking \[32\]. This implies that most objections should fall under the "not the best choice" category, and you should feel alright moving forward in the majority of cases.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Two types of objections.jpg)
 
 > A chair who asks, "Is everyone OK with choice A?" is going to get objections. But a chair who asks, "Can anyone not live with choice A?" is more likely to only hear from folks who think that choice A is impossible to engineer given some constraints
 
-I like the reframing of the question, and intend to use it more often in meetings. 
+I like the reframing of the question, and intend to use it more. 
 
-There are further clarifications on useful and not useful consensus:
+Some things that seem like consensus actually are not:
 
 > An engineering solution that has no objections, but also has no base of support and is met with complete apathy, is not a solution that has any useful sort of consensus
 
@@ -114,19 +124,19 @@ There are further clarifications on useful and not useful consensus:
 
 > Even worse is the "horse-trading" sort of compromise: "\[...\] Neither of us agree. If you stop objecting to my proposal, I'll stop objecting to your proposal and we'll put them both in."
 
-All these are related to people giving up on caring about the issue. This is problematic, and unfortunately I'm unsure what the best way is to revive the interest of the group. Perhaps taking a break and coming back another week?
+All these are related to people giving up on caring about the issue. This is problematic, and unfortunately I'm unsure of the best way to revive the interest of the group. Perhaps taking a break and coming back another week?
 
 > One hundred people for and five people against might not be rough consensus
 
 > Five people for and one hundred people against might still be rough consensus
 
-[The original document](https://tools.ietf.org/html/rfc7282 "IETF") gives more detailed examples \[33\], with the main takeaway coming back to what determing whether the objection is a fundamental flaw or not. The number of people for or against does not matter. 
+[The original document](https://tools.ietf.org/html/rfc7282 "IETF") gives more detailed examples \[33\], with the main takeaway coming back to whether the objection is a fundamental flaw or not. The number of people for or against does not matter. 
 
 > We may use the "hell yeah" principle for hiring and some other decisions, but we use the quick iteration principle when we ship things. We don’t aim for perfection the first time — we build fast, we ship, we learn, we iterate, and we ship again
 
 I agree. As can be inferred from my writing, I'm biased towards experimenting. You don't know what you don't know, and you can't find out until you try. There's too many slide decks and too much theorising compared to people actually executing, since the former is easier to do and still feels productive, whereas the latter is harder and uncomfortable. Unless the flaw is going to ruin your business - and few do - err on the side of getting things done \[34\].
 
-I like the idea of rough consensus because I ~~care about very little~~ prefer efficient meetings. Since most organisations incentivise people to speak up, you usually end up with more opinions and objections than needed. While adopting a rough consensus approach may seem against the principle of inclusivity, I'd think it leads to more effective decision making. 
+I like the idea of rough consensus because I ~~care about very little~~ prefer efficient meetings. Since most organisations incentivise people to speak up, you usually end up with more opinions and objections than needed. While adopting a rough consensus approach seems against the principle of inclusivity, it likely increases effecctiveness in decision making. 
 
 **Shoutouts**
 
@@ -144,7 +154,7 @@ I like the idea of rough consensus because I ~~care about very little~~ prefer e
 **Footnotes**
 
 20. Not just in finance but in actually wanting to educate too. How many profs would tell you to get their book for free online instead of paying for it? 
-21. Full disclosure, I used to be a coverage IB analyst, and worked on IPOs.
+21. Full disclosure, I used to be a coverage IB analyst, and worked on IPOs. Also, investment banking has nothing to do with investing, in case you weren't already aware. 
 30. Forwarded by [Eitan on twitter](https://twitter.com/cool_idea "Eitan"). The original IETF document can be found [here](https://tools.ietf.org/html/rfc7282 "IETF")
 31. This also applies to feedback generally, as I summarise [here](https://www.leonlinsx.com/thanks-for-the-feedback/ "Feedback") about how to get better at taking feedback
 32. To be clear, I'm agreeing that you should speak up at work as much as possible; I just dislike the fact it's necessary
