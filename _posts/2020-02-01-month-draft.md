@@ -40,7 +40,7 @@ published: false
 
 **Question of the month**
 
-**Direct**
+**IPOs vs direct listings**
 
 Aswath Damodaran, one of the best finance profs out there \[20\], [wrote about direct listings vs IPOs awhile ago]( http://aswathdamodaran.blogspot.com/2019/10/disrupting-ipo-process-challenging.html? "Aswath"). I'll review highlights below; banking ex-colleagues feel free to disagree. If you aren't familiar with direct listings, [a16z has a primer.](https://a16z.com/2019/07/02/direct-listings/ "a16z")
 
@@ -100,11 +100,11 @@ Agree that price stabilisation is hard if the IPO is large. Given the context ab
 
 What is the right price? This is a complicated question. A common feature of IPOs is that stock will be pre-sold to professional investors at one price, say $10, and then start trading on the open market post IPO at a premium, say $20. This [IPO pop](https://pitchbook.com/news/articles/understanding-the-ipo-markets-pop-culture "IPO") has been criticised by [VCs such as Bill Gurley,](https://markets.businessinsider.com/news/stocks/slacks-direct-listing-bill-gurley-says-startups-call-morgan-stanley-2019-6-1028298641 "Bill") who say this inefficiency is a money transfer from private investors (VCs like Bill) to public investors who got shares during the IPO process \[24\].  
 
-I agree there is inefficiency in pricing, but most companies prefer underpricing resulting in the stock trading up, rather than overpricing and the stock trading down. If we blame bankers for underpricing, we should applaud them for overpricing and getting the most amount of money for the company. I don't see anyone doing that. A direct listing does make for more efficient pricing though.
+I agree there is inefficiency in pricing, but most companies prefer underpricing resulting in the stock trading up, rather than overpricing and the stock trading down. If we blame bankers for underpricing, we should applaud them for overpricing and getting the most amount of money for the company. I don't see anyone doing that. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/IPO v direct listing blame.png)
 
-Damodaran concludes by giving reasons why the IPO status quo has held, citing inertia, fear of harming the banking relationship, and companies needing someone to blame. I agree with these. In the end it depends on your company. If you're large and well known, you likely can direct list and shouldn't be taking advice from an email newsletter anyway. If you're small and not, you probably need bankers to help market and connect you with investors.
+Damodaran concludes by giving reasons why the IPO status quo has held, citing inertia, fear of harming the banking relationship, and companies needing someone to blame. I agree with these. In the end it depends on your company; a direct listing does have more price efficiency by definition. If you're large and well known, you likely can direct list and shouldn't be taking advice from an email newsletter anyway. If you're small and not, you probably need bankers to help market and connect you with investors.
 
 **What is rough consensus and how it can improve decision making efficiency**
 
