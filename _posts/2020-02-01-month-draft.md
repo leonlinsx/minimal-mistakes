@@ -46,29 +46,61 @@ Aswath Damodaran, one of the best finance profs out there \[20\], [wrote about d
 
 > but the biggest difference \[in direct listings\] is that it cannot raise fresh capital on the offering date \[...\] That is not as much of a problem as it sounds, since the company can choose to raise cash in a pre-listing round from interested investors, or to make a secondary offering, in the months after 
 
-The inability to raise new capital remains true for now, [after the SEC rejected a proposal to allow it](https://www.cnbc.com/2019/12/06/nyse-proposal-to-allow-fundraising-in-direct-listings-rejected-by-sec.html "CNBC"). As Aswath points out though, this isn't as big a deal since companies can raise before or after the listing instead.
+The inability to raise new capital remains true for now, [after the SEC rejected a proposal to allow it](https://www.cnbc.com/2019/12/06/nyse-proposal-to-allow-fundraising-in-direct-listings-rejected-by-sec.html "CNBC"). As Aswath points out, this isn't a dealbreaker since companies can raise before or after the listing instead.
 
 Aswath describes the case for and against investment banking's continued involvement in IPOs \[21\]:
 
 > **Timing:** Banks argue their experience and relationships give them insight on the best time to IPO
 
-> Damodaran argues that no one can really time the market, as seen when momentum abruptly shifts such as late 2019
+> Damodaran argues that no one can really time the market, as seen when momentum abruptly shifts such as in late 2019
 
-I lean more towards Damodaran's side here. In the bank's defense though, in their role as middlemen and talking to investors, they do get regular feedback on what investors are feeling. You can't say for certain until you try to go to market though.
+I lean more towards Damodaran's side here. In the bank's defense, in their role as middlemen talking to investors, they do get regular feedback on how investors are feeling. You can't say for certain until you try actually price your stock though.
 
 > **Prospectus expertise:** Banks argue their experience can help guide the drafting of the filing documents
 
 > Damodaran argues that most prospectuses look similar, particularly the risk and business sections.
 
-I agree with Damodaran here, though as he implied some of this is due to legal reasons. Risk sections in prospectuses are more for legal protection and less for telling you what's important. 
+I agree with Damodaran here, though as he implied some of this is due to legal reasons. Risk sections in prospectuses are more for legal protection and less for telling you what's important. I know ex-colleagues that spent a lot of time drafting sections for the company, but it's hard to add significant value here (sorry guys), especially if the company going public is full of ex-bankers as well. 
 
-> **Pricing of the IPO:** Banks argue 
+> **Pricing of the IPO:** Banks argue they can help bridge the gap between the last private round and the intended public price, find the right comparable company set, choose the appropriate valuation multiples, and identify investor concerns.
 
-> Pricing: It is on this front where bankers can claim to offer the most value added for three reasons. First, their knowledge of public market pricing can help them bridge the gap with the private market pricing preceding the offering, and in some cases, reduce unrealistic expectations on the part of VCs and founders. Second, they can help frame the offer pricing by finding the best metric to scale the pricing to and identifying the peer group that investors will use in public markets. Third, by reaching out to investors, bankers can not only gauge demand and fine tune the pricing but also isolate concerns that investors may have about the company. 
+> Damodaran argues that banks do a bad job at pricing, as seen in the WeWork IPO. This is because they're choosing the wrong comps or multiples, talking to the wrong investors, or biased in the pricing process, with the last being most likely.
 
-> bankers can expand the investor base for an issuing company
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Bank Pricing WeWork FT.jpg)
 
-> \[Bill Gurley, a well known VC\] has been aggressively pushing young companies to consider the direct listing option more seriously. His primary argument has been focused on the underpricing on the offering date, which as he rightly points out, transfers money from private market investors to investment bankers' favored clientele.
+Choosing the wrong comparable company set or multiple is less of a factor. The comp set is socialised among investors beforehand so there's usually broad agreement there \[22\]. There's only a handful of common multiples (EV/Rev, EV/EBITDA, P/E) so the type of multiple is also broadly understood. 
+
+I agree that banks are biased in the pricing process though, and they are incentivised to be. As Matt Levine has written before, the bank is pitching to get hired by the company, hence the higher the price range they pitch the better. It's easier to get hired when you tell the CEO he's worth $1bn instead of $100mm. When they do get hired and need to meet that price is when they start managing expectations.
+
+The right price for the company is a difficult question, and we'll come back to that later.
+
+> **Marketing:** Banks argue that they can reach out to their investor clientele and expand the investor base for an issuing company
+
+> Damodaran argues that a) some companies are now better known than the banks themselves, and b) investors are more skeptical of bank pitches now
+
+The first is subjective; Slack and Spotify can market themselves, [SiTime likely can't](https://www.globenewswire.com/news-release/2019/11/21/1950494/0/en/SiTime-Corporation-Announces-Pricing-of-Initial-Public-Offering.html "SiTime"). If you're less well-known, having a bank to market you is probably a good idea. 
+
+Keeping in mind that [the median IPO offering size is ~$100mm](https://www.statista.com/statistics/251149/median-deal-size-of-ipos-in-the-united-states/ "Statista"), and that [IPOs sell ~20% of the company](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/ "Harvard"), we can infer that most IPOs are not the large household names you're already aware of. You can also browse [the list of recent IPOs](https://www.nyse.com/ipo-center/recent-ipo "NYSE") and see how many you recognise. Most companies probably benefit from having a bank market them and reach out to investors. 
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Median IPO deal size statista.jpg)
+
+I disagree on the second point. If you're a professional investor (buyside) you're not making a decision based on equity research (sellside) recommendations anyway (sorry sellside friends). If you're a retail investor you don't get that info so it's irrelevant. 
+
+> **Underwriting guarantee:** Banks argue they can accept pricing risk and guarantee your stock gets sold at a price
+
+> Damodaran argues that if IPOs are underpricing companies anyway, guaranteeing a lower price isn't helpful
+
+Underwriting guarantees were more relevant historically and are less relevant now. We'll come back to the pricing issue. 
+
+> **After-market pricing support:** Banks argue they can help stabilise the price right after the stock starts trading
+
+> Damodaran argues this is difficult to impossible for larger company IPOs
+
+Agree that price stabilisation is hard if the IPO is large. Given the context above of the median IPO offering size though, I think this still has value for many companies. The way that banks price stabilise is by selling more stock than allocated and entering into a short position against the company. The bank either buys shares from the company or the open market to cover the short position, hence supporting the price.
+
+
+
+Damodaran also discusses Bill Gurley's point that underpricing by banks transfers money from the private investors (VCs like Gurley) to the public investors who were allocated shares during the IPO process. This is when the 
 
 > I think that he is framing the question too narrowly. In fact, the danger with focusing on the offer day pricing jump runs two risks
 
@@ -76,13 +108,7 @@ I agree with Damodaran here, though as he implied some of this is due to legal r
 
 > The second is that Gurley's critique seems to suggest that if bankers did a better job in terms of pricing, where the stock price on the offer date is close to the offer price, that the banker-run IPO model would be okay. I think that a far stronger and persuasive argument would be to show that the problem with the banking IPO model is that changes in the world have diluted and perhaps even eliminated that value of the services that bankers offer in IPOs
 
-> There are, I believe, three reasons why the status quo has held on and that direct listings have no become more common.
-
-> Inertia: The strongest force in explaining much of what we see companies do in terms of investment, dividend and financing is inertia,
-
-> Fear: Unfounded or not, there is the fear that shunning bankers may lead to consequences, ranging from negative recommendations from equity research analysts to bankers actively talking investors out of buying the stock,
-
-> The Blame Game: One of the reasons that companies are so quick to use bankers and consultants to answer questions or take actions that they should be ready to do on their own is that it allows managers and decisions makers to pass the buck, if something goes wrong. 
+Damodaran concludes by giving reasons why the IPO status quo has held, citing inertia, fear of harming the banking relationship, and companies needing someone to blame. I agree with these. 
 
 **What is rough consensus and how it can improve decision making efficiency**
 
@@ -104,9 +130,9 @@ The key insight here is that objections that are "not enough of a problem" can b
 
 > 2) Fundamental flaws: "I believe Solution A is unacceptable because XYZ."
 
-During a discussion, clarify which type of objection you're getting, since people communicate with various degrees of subtlety \[31\]. My "worth taking a look at" is usually a "pretty sure this is key so I hope we have a plan". Once clarified, spend the majority of your time discussing fundamental flaws rather than "not the best choice" feedback.
+During a discussion, clarify which type of objection you're getting, since people communicate with various degrees of subtlety \[31\]. My "unsure about this" is usually a "pretty sure this is wrong" . Once clarified, spend the majority of your time discussing fundamental flaws rather than "not the best choice" feedback.
 
-How you define a fundamental flaw depends on your team, and should be decided beforehand. This is team dependent and difficult as well. Devon cites substantial technical debt, inability to scale, or too much work as some suitable reasons. You probably can't have too many reasons, as that would lead to nothing getting done. Once you've settled on your reasons, there should be a high bar to accepting new ones during the discussion itself.
+How you define a fundamental flaw depends on your team, and should be decided beforehand, another difficult task in itself. Devon cites substantial technical debt, inability to scale, or too much work as some suitable reasons. You probably can't have too many reasons, as that would lead to nothing getting done. Once you've settled on your reasons, there should be a high bar to accepting new ones during the discussion itself.
 
 People are incentivised to participate during meetings; I'd also assume that most people talk during meetings for the sake of talking \[32\]. This implies that most objections should fall under the "not the best choice" category, and you should feel alright moving forward in the majority of cases.
 
@@ -130,7 +156,7 @@ All these are related to people giving up on caring about the issue. This is pro
 
 > Five people for and one hundred people against might still be rough consensus
 
-[The original document](https://tools.ietf.org/html/rfc7282 "IETF") gives more detailed examples \[33\], with the main takeaway coming back to whether the objection is a fundamental flaw or not. The number of people for or against does not matter. 
+[The original document](https://tools.ietf.org/html/rfc7282 "IETF") gives more detailed examples of the above points \[33\], with the main takeaway coming back to whether the objection is a fundamental flaw or not. The number of people for or against does not matter. 
 
 > We may use the "hell yeah" principle for hiring and some other decisions, but we use the quick iteration principle when we ship things. We don’t aim for perfection the first time — we build fast, we ship, we learn, we iterate, and we ship again
 
@@ -141,7 +167,6 @@ I like the idea of rough consensus because I ~~care about very little~~ prefer e
 **Shoutouts**
 
 1. Thomas Guthrie at [onejob](https://onejob.substack.com/ "onejob") is helping people find their next roles at top startups.
-2. 
 
 **Other**
 
@@ -155,6 +180,7 @@ I like the idea of rough consensus because I ~~care about very little~~ prefer e
 
 20. Not just in finance but in actually wanting to educate too. How many profs would tell you to get their book for free online instead of paying for it? 
 21. Full disclosure, I used to be a coverage IB analyst, and worked on IPOs. Also, investment banking has nothing to do with investing, in case you weren't already aware. 
+22. It goes something like this: Investor will ask bank "Hey what comps are you thinking of", The bank will say "This set, this other group, and also this bunch", The investor will say "Oh hmm that's interesting you included that group too but otherwise looks right. What are other investors thinking?"
 30. Forwarded by [Eitan on twitter](https://twitter.com/cool_idea "Eitan"). The original IETF document can be found [here](https://tools.ietf.org/html/rfc7282 "IETF")
 31. This also applies to feedback generally, as I summarise [here](https://www.leonlinsx.com/thanks-for-the-feedback/ "Feedback") about how to get better at taking feedback
 32. To be clear, I'm agreeing that you should speak up at work as much as possible; I just dislike the fact it's necessary
