@@ -34,11 +34,13 @@ published: false
 
 **Takeaways**
 
-1.
-2. 
+1. 
+2. Whether you should do a direct listing depends on the type of company you are
 3. Improve decision making in a company by adopting rough, not total consensus
 
 **Question of the month**
+
+What's an asymmetric risk you're trying to take this year? Mine is meeting more people. 
 
 **IPOs vs direct listings**
 
@@ -60,7 +62,7 @@ I lean more towards Damodaran's side here. In the bank's defense, in their role 
 
 > Damodaran argues that most prospectuses look similar, particularly the risk and business sections.
 
-I agree with Damodaran here, though as he implied some of this is due to legal reasons. Risk sections in prospectuses are more for legal protection and less for telling you what's important \[22\]. I know ex-colleagues that spent a lot of time drafting sections for the company, but it's hard to add significant value here (sorry guys), especially if the company going public is full of ex-bankers as well.
+I agree with Damodaran, though as he implied most of this is due to legal reasons. Risk sections in prospectuses are more for legal protection and less for telling you what's important \[22\]. I know ex-colleagues that spent a lot of time drafting sections for the company, but it's hard to add significant value here (sorry guys), especially if the company going public is full of ex-bankers as well.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/IPO risk factors.png)
 
@@ -102,7 +104,9 @@ Agree that price stabilisation is hard in large IPOs. Given the context above of
 
 What is the right price? This is a complicated question. A common feature of IPOs is that stock will be pre-sold to professional investors at one price, say $10, and then start trading on the open market post IPO at a premium, say $20. This [IPO pop](https://pitchbook.com/news/articles/understanding-the-ipo-markets-pop-culture "IPO") has been criticised by [VCs such as Bill Gurley,](https://markets.businessinsider.com/news/stocks/slacks-direct-listing-bill-gurley-says-startups-call-morgan-stanley-2019-6-1028298641 "Bill") who say this inefficiency is a money transfer from private investors (VCs like Bill) to public investors who got shares during the IPO process \[25\].  
 
-I agree there is inefficiency in pricing, but most companies prefer underpricing resulting in the stock trading up, rather than overpricing and the stock trading down. If we blame bankers for underpricing, we should applaud them for overpricing and getting the most amount of money for the company. I don't see anyone doing that, understandably. Companies seem willing to trade off the inefficiency for better morale. 
+I agree there is inefficiency in pricing, but most companies prefer underpricing resulting in the stock trading up, rather than overpricing and the stock trading down. If we blame bankers for underpricing, we should applaud them for overpricing and getting the most amount of money for the company. I don't see anyone doing that, understandably. 
+
+Companies seem willing to trade off the inefficiency for better morale. Sure you could have gotten $20 at the open and then have the stock trade flat, but the pop from $10 to $20 does (irrationally) make people happier.  
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/IPO v direct listing blame.png)
 
@@ -165,6 +169,7 @@ I like the idea of rough consensus because I ~~care about very little~~ prefer e
 **Shoutouts**
 
 1. Thomas Guthrie at [onejob](https://onejob.substack.com/ "onejob") is helping people find their next roles at top startups.
+2. A friend in equity research is looking for a junior person that wants to cover healthcare tech, lmk if you're interested.
 
 **Other**
 
