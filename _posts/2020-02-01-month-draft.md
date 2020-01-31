@@ -42,6 +42,34 @@ published: false
 
 What's an asymmetric risk you're trying to take this year? Mine is meeting more people. 
 
+**Cosign**
+
+I've been seeing more of [Cosign](https://cosign.co/login "Cosign") recently. Cosign, still in private beta, is "an invite-only community of operators and investors dedicated to championing others in tech." 
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Cosign purpose.png)
+
+I wasn't cool enough to get an invite (story of my life), so I tried signing up for the waitlist. The signup process is straightforward, and heavily relies on you having a strong twitter network. That's a fair assumption for most people in tech \[1\].
+
+They ask you for the name and twitter handle of a person you'd like to endorse:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Cosign person to watch.png)
+
+And ask for reasons why:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Cosign Dave Ambrose.png)
+
+If you'd like to move up the waitlist, Cosign also asks for the same info for a person you'd like to work with. I'm unclear what the difference in intent is here versus the person you'd like to endorse. Testing different framing of the endorsement perhaps?
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Cosign move up waitlist.png)
+
+This seems like a pretty tech thing to do. 
+
+Status signalling
+
+Incentive
+
+Scale
+
 **IPOs vs direct listings**
 
 Aswath Damodaran, one of the best finance profs out there \[20\], [wrote about IPOs vs direct listings awhile ago]( http://aswathdamodaran.blogspot.com/2019/10/disrupting-ipo-process-challenging.html? "Aswath"). I'll review highlights below; banking ex-colleagues feel free to disagree. If you aren't familiar with direct listings, [a16z has a primer.](https://a16z.com/2019/07/02/direct-listings/ "a16z")
@@ -106,11 +134,11 @@ What is the right price? This is a complicated question. A common feature of IPO
 
 I agree there is inefficiency in pricing, but most companies prefer underpricing resulting in the stock trading up, rather than overpricing and the stock trading down. If we blame bankers for underpricing, we should applaud them for overpricing and getting the most amount of money for the company. I don't see anyone doing that, understandably. 
 
-Companies seem willing to trade off the inefficiency for better morale. Sure you could have gotten $20 at the open and then have the stock trade flat, but the pop from $10 to $20 does (irrationally) make people happier.  
+Companies seem willing to trade off the inefficiency for better morale. Sure you could have gotten $20 at the open and then have the stock trade flat, but the pop from $10 to $20 does (irrationally) make people happier. Also, what if you open at $20 and trade down to $10 three months later? What was the right price then?  
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/IPO v direct listing blame.png)
 
-Damodaran concludes by giving reasons why the IPO status quo has held, citing inertia, fear of harming the banking relationship, and companies needing someone to blame. I agree with these. In the end it depends on your company; a direct listing does have more price efficiency by definition. If you're large and well known, you likely can direct list and shouldn't be taking advice from an email newsletter anyway. If you're small and not, you probably need bankers to help market and connect you with investors.
+Damodaran concludes by giving reasons why the IPO status quo has held, citing inertia, fear of harming the banking relationship, and companies needing someone to blame. I agree with these. In the end it depends on your company; a direct listing does have more price efficiency by definition. If you're large and well known, you likely can direct list and shouldn't be taking advice from an email newsletter anyway. If you're small and not, you probably need bankers to help market and connect you with investors. I'm 80% confident IPOs will still be majority of listings in three years time. 
 
 **What is rough consensus and how it can improve decision making efficiency**
 
@@ -181,6 +209,7 @@ I like the idea of rough consensus because I ~~care about very little~~ prefer e
 
 **Footnotes**
 
+1. I have a strong irrational dislike of twitter but begrudgingly acknowledge it can be high value add
 20. Not just in finance but in actually wanting to educate too. How many profs would tell you to get their book for free online instead of paying for it? 
 21. Full disclosure, I used to be a coverage IB analyst, and worked on IPOs. Also, investment banking has nothing to do with investing, in case you weren't already aware.
 22. Companies are incentivised to throw every possible risk they can into the prospectus to reduce legal liability. This is why you see statements like "we have never made a profit and may never make a profit"
