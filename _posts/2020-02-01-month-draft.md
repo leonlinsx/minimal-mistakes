@@ -42,25 +42,27 @@ published: false
 
 **IPOs vs direct listings**
 
-Aswath Damodaran, one of the best finance profs out there \[20\], [wrote about direct listings vs IPOs awhile ago]( http://aswathdamodaran.blogspot.com/2019/10/disrupting-ipo-process-challenging.html? "Aswath"). I'll review highlights below; banking ex-colleagues feel free to disagree. If you aren't familiar with direct listings, [a16z has a primer.](https://a16z.com/2019/07/02/direct-listings/ "a16z")
+Aswath Damodaran, one of the best finance profs out there \[20\], [wrote about IPOs vs direct listings awhile ago]( http://aswathdamodaran.blogspot.com/2019/10/disrupting-ipo-process-challenging.html? "Aswath"). I'll review highlights below; banking ex-colleagues feel free to disagree. If you aren't familiar with direct listings, [a16z has a primer.](https://a16z.com/2019/07/02/direct-listings/ "a16z")
 
 > but the biggest difference \[in direct listings\] is that it cannot raise fresh capital on the offering date \[...\] That is not as much of a problem as it sounds, since the company can choose to raise cash in a pre-listing round from interested investors, or to make a secondary offering, in the months after 
 
 The inability to raise new capital remains true for now, [after the SEC rejected a proposal to allow it](https://www.cnbc.com/2019/12/06/nyse-proposal-to-allow-fundraising-in-direct-listings-rejected-by-sec.html "CNBC"). As Aswath points out, this isn't a dealbreaker since companies can raise before or after the listing instead.
 
-Aswath describes the case for and against investment banking's continued involvement in IPOs \[21\]:
+Aswath describes the case for and against banks managing an IPO vs listing directly with less bank involvement \[21\]:
 
 > **Timing:** Banks argue their experience and relationships give them insight on the best time to IPO
 
-> Damodaran argues that no one can really time the market, as seen when momentum abruptly shifts such as in late 2019
+> Damodaran argues that no one can really time the market, as seen when momentum abruptly shifts, such as in late 2019
 
-I lean more towards Damodaran's side here. In the bank's defense, in their role as middlemen talking to investors, they do get regular feedback on how investors are feeling. You can't say for certain until you try actually price your stock though.
+I lean more towards Damodaran's side here. In the bank's defense, in their role as middlemen talking to investors, they do get regular feedback on how investors are feeling. You can't say for certain until you try to actually price your stock though.
 
 > **Prospectus expertise:** Banks argue their experience can help guide the drafting of the filing documents
 
 > Damodaran argues that most prospectuses look similar, particularly the risk and business sections.
 
-I agree with Damodaran here, though as he implied some of this is due to legal reasons. Risk sections in prospectuses are more for legal protection and less for telling you what's important. I know ex-colleagues that spent a lot of time drafting sections for the company, but it's hard to add significant value here (sorry guys), especially if the company going public is full of ex-bankers as well. 
+I agree with Damodaran here, though as he implied some of this is due to legal reasons. Risk sections in prospectuses are more for legal protection and less for telling you what's important \[22\]. I know ex-colleagues that spent a lot of time drafting sections for the company, but it's hard to add significant value here (sorry guys), especially if the company going public is full of ex-bankers as well.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/IPO risk factors.png)
 
 > **Pricing of the IPO:** Banks argue they can help bridge the gap between the last private round and the intended public price, find the right comparable company set, choose the appropriate valuation multiples, and identify investor concerns.
 
@@ -68,9 +70,9 @@ I agree with Damodaran here, though as he implied some of this is due to legal r
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Bank Pricing WeWork FT.jpg)
 
-Choosing the wrong comparable company set or multiple is less of a factor. The comp set is socialised among investors beforehand so there's usually broad agreement there \[22\]. There's only a handful of common multiples (EV/Rev, EV/EBITDA, P/E) so the type of multiple is also broadly understood. 
+Choosing the wrong comparable company set or multiple is less of a factor. The comp set is socialised among investors beforehand so there's usually broad agreement there \[23\]. There's only a handful of common multiples (EV/Rev, EV/EBITDA, P/E) so the type of multiple is also broadly understood. 
 
-I agree that banks are biased in the pricing process though, and they are incentivised to be. As Matt Levine has written before, the bank is pitching to get hired by the company, hence the higher the price range they pitch the better. It's easier to get hired when you tell the CEO he's worth $1bn instead of $100mm. When they do get hired and need to meet that price is when they start managing expectations.
+I agree that banks are biased in the pricing process though, and they are incentivised to be. As [Matt Levine has written before "Matt")](https://www.bloomberg.com/opinion/articles/2019-09-09/we-might-not-be-working "Matt"), the bank is pitching to get hired by the company, hence the higher the price range pitched the better. It's easier to get hired when you tell the CEO he's worth $1bn instead of $100mm. When they do get hired and need to meet that price is when they start managing expectations.
 
 The right price for the company is a difficult question, and we'll come back to that later.
 
@@ -78,13 +80,13 @@ The right price for the company is a difficult question, and we'll come back to 
 
 > Damodaran argues that a) some companies are now better known than the banks themselves, and b) investors are more skeptical of bank pitches now
 
-The first is subjective; Slack and Spotify can market themselves, [SiTime likely can't](https://www.globenewswire.com/news-release/2019/11/21/1950494/0/en/SiTime-Corporation-Announces-Pricing-of-Initial-Public-Offering.html "SiTime"). If you're less well-known, having a bank to market you is probably a good idea. 
+The first is subjective; Slack and Spotify can market themselves, [SiTime likely can't](https://www.globenewswire.com/news-release/2019/11/21/1950494/0/en/SiTime-Corporation-Announces-Pricing-of-Initial-Public-Offering.html "SiTime"). If you're less well-known, having a bank to market you is probably a good idea. The banks will have connections with investors, you won't.
 
-Keeping in mind that [the median IPO offering size is ~$100mm](https://www.statista.com/statistics/251149/median-deal-size-of-ipos-in-the-united-states/ "Statista"), and that [IPOs sell ~20% of the company](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/ "Harvard"), we can infer that most IPOs are not the large household names you're already aware of. You can also browse [the list of recent IPOs](https://www.nyse.com/ipo-center/recent-ipo "NYSE") and see how many you recognise. Most companies probably benefit from having a bank market them and reach out to investors. 
+Keeping in mind that [the median IPO offering size is ~$100mm](https://www.statista.com/statistics/251149/median-deal-size-of-ipos-in-the-united-states/ "Statista"), and that [IPOs sell ~20% of the company](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/ "Harvard"), we can infer that most IPOs are not the large household names you're already aware of. You can browse [the list of recent IPOs](https://www.nyse.com/ipo-center/recent-ipo "NYSE") and see how many you recognise. Most companies probably benefit from having a bank market them and reach out to investors. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Median IPO deal size statista.jpg)
 
-I disagree on the second point. If you're a professional investor (buyside) you're not making a decision based on equity research (sellside) recommendations anyway (sorry sellside friends). If you're a retail investor you don't get that info so it's irrelevant. 
+The second point seems irrelevant. If you're a professional investor (buyside) you're not making a decision based on equity research (sellside) recommendations anyway (sorry sellside friends). If you're a retail investor you don't get that info.  
 
 > **Underwriting guarantee:** Banks argue they can accept pricing risk and guarantee your stock gets sold at a price
 
@@ -96,11 +98,11 @@ Underwriting guarantees were more relevant historically and are less relevant no
 
 > Damodaran argues this is difficult to impossible for larger company IPOs
 
-Agree that price stabilisation is hard if the IPO is large. Given the context above of the median IPO offering size though, I think this still has value for many companies. The way that banks price stabilise is by selling more stock than allocated and entering into a short position against the company. The bank either gets shares from the company or the open market to cover the short position, hence supporting the price \[23\].
+Agree that price stabilisation is hard in large IPOs. Given the context above of the median IPO offering size though, I think this still has value for many companies. The way that banks price stabilise is by selling more stock than allocated and entering into a short position against the company. The bank either gets shares from the company or the open market to cover the short position, hence supporting the price \[24\].
 
-What is the right price? This is a complicated question. A common feature of IPOs is that stock will be pre-sold to professional investors at one price, say $10, and then start trading on the open market post IPO at a premium, say $20. This [IPO pop](https://pitchbook.com/news/articles/understanding-the-ipo-markets-pop-culture "IPO") has been criticised by [VCs such as Bill Gurley,](https://markets.businessinsider.com/news/stocks/slacks-direct-listing-bill-gurley-says-startups-call-morgan-stanley-2019-6-1028298641 "Bill") who say this inefficiency is a money transfer from private investors (VCs like Bill) to public investors who got shares during the IPO process \[24\].  
+What is the right price? This is a complicated question. A common feature of IPOs is that stock will be pre-sold to professional investors at one price, say $10, and then start trading on the open market post IPO at a premium, say $20. This [IPO pop](https://pitchbook.com/news/articles/understanding-the-ipo-markets-pop-culture "IPO") has been criticised by [VCs such as Bill Gurley,](https://markets.businessinsider.com/news/stocks/slacks-direct-listing-bill-gurley-says-startups-call-morgan-stanley-2019-6-1028298641 "Bill") who say this inefficiency is a money transfer from private investors (VCs like Bill) to public investors who got shares during the IPO process \[25\].  
 
-I agree there is inefficiency in pricing, but most companies prefer underpricing resulting in the stock trading up, rather than overpricing and the stock trading down. If we blame bankers for underpricing, we should applaud them for overpricing and getting the most amount of money for the company. I don't see anyone doing that. 
+I agree there is inefficiency in pricing, but most companies prefer underpricing resulting in the stock trading up, rather than overpricing and the stock trading down. If we blame bankers for underpricing, we should applaud them for overpricing and getting the most amount of money for the company. I don't see anyone doing that, understandably. Companies seem willing to trade off the inefficiency for better morale. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/IPO v direct listing blame.png)
 
@@ -175,10 +177,11 @@ I like the idea of rough consensus because I ~~care about very little~~ prefer e
 **Footnotes**
 
 20. Not just in finance but in actually wanting to educate too. How many profs would tell you to get their book for free online instead of paying for it? 
-21. Full disclosure, I used to be a coverage IB analyst, and worked on IPOs. Also, investment banking has nothing to do with investing, in case you weren't already aware. 
-22. It goes something like this: Investor will ask bank "Hey what comps are you thinking of", The bank will say "This set, this other group, and also this bunch", The investor will say "Oh hmm that's interesting you included that group too but otherwise looks right. What are other investors thinking?"
-23. This is known as a greenshoe option, after the first company that did it
-24. You can see why Bill might be biased here
+21. Full disclosure, I used to be a coverage IB analyst, and worked on IPOs. Also, investment banking has nothing to do with investing, in case you weren't already aware.
+22. Companies are incentivised to throw every possible risk they can into the prospectus to reduce legal liability. This is why you see statements like "we have never made a profit and may never make a profit"
+23. It goes something like this: Investor will ask bank "Hey what comps are you thinking of", the bank will say "This set, this other group, and also this bunch", the investor will say "Oh hmm that's interesting you included that group too but otherwise looks right. What are other investors thinking?", the bank will say "Oh they're comping it against so and so too"
+24. This is known as a greenshoe option, after the first company that featured it
+25. You can see why Bill might be biased here
 30. Forwarded by [Eitan on twitter](https://twitter.com/cool_idea "Eitan"). The original IETF document can be found [here](https://tools.ietf.org/html/rfc7282 "IETF")
 31. This also applies to feedback generally, as I summarise [here](https://www.leonlinsx.com/thanks-for-the-feedback/ "Feedback") about how to get better at taking feedback
 32. To be clear, I'm agreeing that you should speak up at work as much as possible; I just dislike the fact it's necessary
