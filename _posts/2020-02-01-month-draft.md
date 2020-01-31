@@ -96,19 +96,15 @@ Underwriting guarantees were more relevant historically and are less relevant no
 
 > Damodaran argues this is difficult to impossible for larger company IPOs
 
-Agree that price stabilisation is hard if the IPO is large. Given the context above of the median IPO offering size though, I think this still has value for many companies. The way that banks price stabilise is by selling more stock than allocated and entering into a short position against the company. The bank either buys shares from the company or the open market to cover the short position, hence supporting the price.
+Agree that price stabilisation is hard if the IPO is large. Given the context above of the median IPO offering size though, I think this still has value for many companies. The way that banks price stabilise is by selling more stock than allocated and entering into a short position against the company. The bank either gets shares from the company or the open market to cover the short position, hence supporting the price \[23\].
 
+What is the right price? This is a complicated question. A common feature of IPOs is that stock will be pre-sold to professional investors at one price, say $10, and then start trading on the open market post IPO at a premium, say $20. This [IPO pop](https://pitchbook.com/news/articles/understanding-the-ipo-markets-pop-culture "IPO") has been criticised by [VCs such as Bill Gurley,](https://markets.businessinsider.com/news/stocks/slacks-direct-listing-bill-gurley-says-startups-call-morgan-stanley-2019-6-1028298641 "Bill") who say this inefficiency is a money transfer from private investors (VCs like Bill) to public investors who got shares during the IPO process \[24\].  
 
+I agree there is inefficiency in pricing, but most companies prefer underpricing resulting in the stock trading up, rather than overpricing and the stock trading down. If we blame bankers for underpricing, we should applaud them for overpricing and getting the most amount of money for the company. I don't see anyone doing that. A direct listing does make for more efficient pricing though.
 
-Damodaran also discusses Bill Gurley's point that underpricing by banks transfers money from the private investors (VCs like Gurley) to the public investors who were allocated shares during the IPO process. This is when the 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/IPO v direct listing blame.png)
 
-> I think that he is framing the question too narrowly. In fact, the danger with focusing on the offer day pricing jump runs two risks
-
-> The first is that many issuing companies not only don’t seem to mind leaving money on the table, but some actively seem to view this under pricing as good for their stock, in the long term
-
-> The second is that Gurley's critique seems to suggest that if bankers did a better job in terms of pricing, where the stock price on the offer date is close to the offer price, that the banker-run IPO model would be okay. I think that a far stronger and persuasive argument would be to show that the problem with the banking IPO model is that changes in the world have diluted and perhaps even eliminated that value of the services that bankers offer in IPOs
-
-Damodaran concludes by giving reasons why the IPO status quo has held, citing inertia, fear of harming the banking relationship, and companies needing someone to blame. I agree with these. 
+Damodaran concludes by giving reasons why the IPO status quo has held, citing inertia, fear of harming the banking relationship, and companies needing someone to blame. I agree with these. In the end it depends on your company. If you're large and well known, you likely can direct list and shouldn't be taking advice from an email newsletter anyway. If you're small and not, you probably need bankers to help market and connect you with investors.
 
 **What is rough consensus and how it can improve decision making efficiency**
 
@@ -181,6 +177,8 @@ I like the idea of rough consensus because I ~~care about very little~~ prefer e
 20. Not just in finance but in actually wanting to educate too. How many profs would tell you to get their book for free online instead of paying for it? 
 21. Full disclosure, I used to be a coverage IB analyst, and worked on IPOs. Also, investment banking has nothing to do with investing, in case you weren't already aware. 
 22. It goes something like this: Investor will ask bank "Hey what comps are you thinking of", The bank will say "This set, this other group, and also this bunch", The investor will say "Oh hmm that's interesting you included that group too but otherwise looks right. What are other investors thinking?"
+23. This is known as a greenshoe option, after the first company that did it
+24. You can see why Bill might be biased here
 30. Forwarded by [Eitan on twitter](https://twitter.com/cool_idea "Eitan"). The original IETF document can be found [here](https://tools.ietf.org/html/rfc7282 "IETF")
 31. This also applies to feedback generally, as I summarise [here](https://www.leonlinsx.com/thanks-for-the-feedback/ "Feedback") about how to get better at taking feedback
 32. To be clear, I'm agreeing that you should speak up at work as much as possible; I just dislike the fact it's necessary
