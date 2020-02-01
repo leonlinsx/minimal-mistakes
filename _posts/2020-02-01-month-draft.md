@@ -34,13 +34,13 @@ published: false
 
 **Takeaways**
 
-1. 
+1. Cosign is trying to make social capital more tangible
 2. Whether you should do a direct listing depends on the type of company you are
 3. Improve decision making in a company by adopting rough, not total consensus
 
 **Question of the month**
 
-What's an asymmetric risk you're trying to take this year? Mine is meeting more people. 
+What's an asymmetric risk you're trying to take this year? Mine is organise more events. 
 
 **Cosign**
 
@@ -48,27 +48,38 @@ I've been seeing more of [Cosign](https://cosign.co/login "Cosign") recently. Co
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Cosign purpose.png)
 
-I wasn't cool enough to get an invite (story of my life), so I tried signing up for the waitlist. The signup process is straightforward, and heavily relies on you having a strong twitter network. That's a fair assumption for most people in tech \[1\].
+I wasn't cool enough to get an invite (story of my life), so I tried signing up for the waitlist. The signup process is straightforward, and relies on you having a strong twitter network. That's a fair assumption for most people in tech \[1\].
 
 They ask you for the name and twitter handle of a person you'd like to endorse:
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Cosign person to watch.png)
 
-And ask for reasons why:
+And ask for reasons:
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Cosign Dave Ambrose.png)
 
-If you'd like to move up the waitlist, Cosign also asks for the same info for a person you'd like to work with. I'm unclear what the difference in intent is here versus the person you'd like to endorse. Testing different framing of the endorsement perhaps?
+If you'd like to move up the waitlist, Cosign also asks for the same info for a person you'd like to work with. I'm unclear what the difference in intent is here versus the person you'd like to endorse in the first instance. Testing different framing of the endorsement perhaps?
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Cosign move up waitlist.png)
 
-This seems like a pretty tech thing to do. 
+My first thought is this seems like a more exclusive Linkedin. The incentive for joining is to [status signal](https://fs.blog/2019/11/signaling-countersignaling/ "signal") that you're connected to fantastic people and you're also a grateful person. Theoretically your reputation should move in tandem with the person you're endorsing; if they do well you look good and if they do bad you look bad. In practice you likely share more in the upside potential than the downside. If they succeed you can claim you cosigned them early on. If they fail you can claim you didn't know them that well and were just testing out a new tech service.  
 
-Status signalling
+Cosign continues the trend of tech making networks more transparent. From friends (facebook) to colleagues (linkedin) to hobby groups (reddit), what used to be intangible connections between people are now visible. Whereas in the past you needed a letter of introduction or seal of approval, and in the present you need an email or text, perhaps in the future all you'll need is to check the person's cosign page and see if anyone you trust has endorsed that person.
 
-Incentive
+There are three things that I'm curious about:
+  1. Quality checks
+  2. Monetisation
+  3. Ability to scale
 
-Scale
+I wonder how they check that the endorser knows the endorsee. As honoured as he would be to get my endorsement, I doubt Neil Gaiman really needs it \[2\] . Since it's twitter based I assume they check if the endorsee follows the endorser? What if we know each other but don't follow each other since our tweets are mutually irrelevant? Do they get in touch with each endorsee?   
+
+I'm also interested in the business plan. Perhaps they might run ads next to each person's profile, though that probably makes for a bad user experience. Maybe they could do a freemium option like Tinder or Lunchclub. A paid subscription could surface your profile to others and offer an opportunity to connect, you could get more endorsements compared to the free version, or you could get forwarded interesting opportunities. 
+
+I'm most curious about how they will overcome the problem of scale. As with most social networks, [Cosign should be more useful the more people are on it.](https://en.wikipedia.org/wiki/Metcalfe%27s_law "Metcalfe") The more people on it, the higher the chance there will be an endorser you know, which is better signal. All things equal, I'd rather have 100 endorsements of how awesome I am compared to 5. 
+
+Of course, things are never equal in real life. All of us have [Facebook](https://www.theatlantic.com/family/archive/2019/02/15-years-facebook-friendships-wont-die/581824/ "FB") or Linkedin connections that we don't need. It'll be a struggle to keep endorsements meaningful and scarce as they grow the community. 
+
+Overall, I'm interested in tracking their progress over time. Maybe they end up limiting the group size, and doing what [Column](https://s3.amazonaws.com/files.technologyreview.com/p/pub/docs/COLUMN.pdf "Column") is trying to do with exclusive networks \[3\]. Maybe they pivot into recruiting. It's too early to tell, though I'd Cosign Cosign.  
 
 **IPOs vs direct listings**
 
@@ -210,6 +221,8 @@ I like the idea of rough consensus because I ~~care about very little~~ prefer e
 **Footnotes**
 
 1. I have a strong irrational dislike of twitter but begrudgingly acknowledge it can be high value add
+2. If you're actually Neil Gaiman and want my endorsement, we should chat. In person. I might bring one or two books to get signed.
+3. I came across the Column business plan too late to write about it for this month, and you can find out more about it [here](https://www.technologyreview.com/s/615108/column-aron-dsouza-gawker-jake-lodwick-sarah-cone-social-network-peter-thiel/ "Tech Review")
 20. Not just in finance but in actually wanting to educate too. How many profs would tell you to get their book for free online instead of paying for it? 
 21. Full disclosure, I used to be a coverage IB analyst, and worked on IPOs. Also, investment banking has nothing to do with investing, in case you weren't already aware.
 22. Companies are incentivised to throw every possible risk they can into the prospectus to reduce legal liability. This is why you see statements like "we have never made a profit and may never make a profit"
