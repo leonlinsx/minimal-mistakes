@@ -48,7 +48,7 @@ I've been seeing more of [Cosign](https://cosign.co/login "Cosign") recently. Co
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Cosign purpose.png)
 
-I wasn't cool enough to get an invite (story of my life), so I tried signing up for the waitlist. The signup process is straightforward, and relies on you having a strong twitter network. That's a fair assumption for most people in tech \[1\].
+I wasn't cool enough to get an invite (story of my life), so I tried signing up for the waitlist. The signup process is straightforward, and assumes you have a strong twitter network. That's a fair assumption for most people in tech \[1\].
 
 They ask you for the name and twitter handle of a person you'd like to endorse:
 
@@ -62,9 +62,13 @@ If you'd like to move up the waitlist, Cosign also asks for the same info for a 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Cosign move up waitlist.png)
 
-My first thought is this seems like a more exclusive Linkedin. The incentive for joining is to [status signal](https://fs.blog/2019/11/signaling-countersignaling/ "signal") that you're connected to fantastic people and you're also a grateful person. Theoretically your reputation should move in tandem with the person you're endorsing; if they do well you look good and if they do bad you look bad. In practice you likely share more in the upside potential than the downside. If they succeed you can claim you cosigned them early on. If they fail you can claim you didn't know them that well and were just testing out a new tech service.  
+My first thought is this seems like a more exclusive Linkedin. The incentive for joining is to [status signal](https://fs.blog/2019/11/signaling-countersignaling/ "signal") that you're connected to fantastic people and you're also a grateful person. 
+
+Theoretically your reputation should move in tandem with the person you're endorsing; if they do well you look good and if they do bad you look bad. In practice you likely share more in the upside potential than the downside. If they succeed you can claim you cosigned them early on. If they fail you can claim you didn't know them that well and were just testing out a new tech service.  
 
 Cosign continues the trend of tech making networks more transparent. From friends (facebook) to colleagues (linkedin) to hobby groups (reddit), what used to be intangible connections between people are now visible. Whereas in the past you needed a letter of introduction or seal of approval, and in the present you need an email or text, perhaps in the future all you'll need is to check the person's cosign page and see if anyone you trust has endorsed that person.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Tech replacing relationships.png)
 
 There are three things that I'm curious about:
   1. Quality checks
@@ -77,7 +81,9 @@ I'm also interested in the business plan. Perhaps they might run ads next to eac
 
 I'm most curious about how they will overcome the problem of scale. As with most social networks, [Cosign should be more useful the more people are on it.](https://en.wikipedia.org/wiki/Metcalfe%27s_law "Metcalfe") The more people on it, the higher the chance there will be an endorser you know, which is better signal. All things equal, I'd rather have 100 endorsements of how awesome I am compared to 5. 
 
-Of course, things are never equal in real life. All of us have [Facebook](https://www.theatlantic.com/family/archive/2019/02/15-years-facebook-friendships-wont-die/581824/ "FB") or Linkedin connections that we don't need. It'll be a struggle to keep endorsements meaningful and scarce as they grow the community. 
+Of course, things are never equal in real life. All of us have [Facebook](https://www.theatlantic.com/family/archive/2019/02/15-years-facebook-friendships-wont-die/581824/ "FB") or Linkedin connections that we don't need. It'll be a struggle to keep endorsements meaningful and scarce as they grow the community.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Network value connection.jpg)
 
 Overall, I'm interested in tracking their progress over time. Maybe they end up limiting the group size, and doing what [Column](https://s3.amazonaws.com/files.technologyreview.com/p/pub/docs/COLUMN.pdf "Column") is trying to do with exclusive networks \[3\]. Maybe they pivot into recruiting. It's too early to tell, though I'd Cosign Cosign.  
 
@@ -139,7 +145,7 @@ Underwriting guarantees were more relevant historically and are less relevant no
 
 > Damodaran argues this is difficult to impossible for larger company IPOs
 
-Agree that price stabilisation is hard in large IPOs. Given the context above of the median IPO offering size though, I think this still has value for many companies. The way that banks price stabilise is by selling more stock than allocated and entering into a short position against the company. The bank either gets shares from the company or the open market to cover the short position, hence supporting the price \[8\].
+Agree that price stabilisation is hard in large IPOs. Given the context above of the median IPO offering size though, I think this still has value for many companies. The way that banks price stabilise is by selling more stock than allocated and entering into a short position against the company. The bank either gets shares from the company or the open market to cover the short position, hence supporting the price before the open \[8\].
 
 What is the right price? This is a complicated question. A common feature of IPOs is that stock will be pre-sold to professional investors at one price, say $10, and then start trading on the open market post IPO at a premium, say $20. This [IPO pop](https://pitchbook.com/news/articles/understanding-the-ipo-markets-pop-culture "IPO") has been criticised by [VCs such as Bill Gurley,](https://markets.businessinsider.com/news/stocks/slacks-direct-listing-bill-gurley-says-startups-call-morgan-stanley-2019-6-1028298641 "Bill") who say this inefficiency is a money transfer from private investors (VCs like Bill) to public investors who got shares during the IPO process \[25\].  
 
@@ -151,7 +157,7 @@ Companies seem willing to trade off the inefficiency for better morale. Sure you
 
 Damodaran concludes by giving reasons why the IPO status quo has held, citing inertia, fear of harming the banking relationship, and companies needing someone to blame. I agree with these. In the end it depends on your company; a direct listing does have more price efficiency by definition. If you're large and well known, you likely can direct list and shouldn't be taking advice from an email newsletter anyway. If you're small and not, you probably need bankers to help market and connect you with investors. I'm 80% confident IPOs will still be majority of listings in three years time. 
 
-**What is rough consensus and how it can improve decision making efficiency**
+**What is rough consensus and how can it improve decision making efficiency**
 
 Decision making becomes more difficult as your organisation grows. You want to involve everyone and make them feel included, but that could spiral into multiple meetings where people give input but nothing gets done. [This summary of IETF decision making principles by Devon Zuegel](https://devonzuegel.com/post/no-kings-how-do-you-make-good-decisions-efficiently-in-a-flat-organization "Devon") \[30\] has advice I haven't seen before:
 
