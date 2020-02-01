@@ -1,6 +1,6 @@
 ---
-title:  "Would you buy the Libra Neopet Kin token?"  
-tags: []
+title:  "Would you cosign your AI chess partner?"  
+tags: [tech, finance, IPO, direct listing, AI, decision making]
 published: false
 ---
 
