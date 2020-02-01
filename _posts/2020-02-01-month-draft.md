@@ -40,7 +40,7 @@ published: false
 
 **Question of the month**
 
-What's an asymmetric risk you're trying to take this year? Mine is organise more events. 
+What's an asymmetric risk you're trying to take this year? Mine is to organise more events. 
 
 **Cosign**
 
@@ -58,7 +58,7 @@ And ask for reasons:
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Cosign Dave Ambrose.png)
 
-If you'd like to move up the waitlist, Cosign also asks for the same info for a person you'd like to work with. I'm unclear what the difference in intent is here versus the person you'd like to endorse in the first instance. Testing different framing of the endorsement perhaps?
+If you'd like to move up the waitlist, Cosign also asks for the same info for a person you'd like to work with. I'm unclear what the difference is here versus the person you'd like to endorse in the first instance. Perhaps they’re testing different ways of framing of the endorsement?
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Cosign move up waitlist.png)
 
@@ -83,13 +83,13 @@ Overall, I'm interested in tracking their progress over time. Maybe they end up 
 
 **IPOs vs direct listings**
 
-Aswath Damodaran, one of the best finance profs out there \[20\], [wrote about IPOs vs direct listings awhile ago]( http://aswathdamodaran.blogspot.com/2019/10/disrupting-ipo-process-challenging.html? "Aswath"). I'll review highlights below; banking ex-colleagues feel free to disagree. If you aren't familiar with direct listings, [a16z has a primer.](https://a16z.com/2019/07/02/direct-listings/ "a16z")
+[Aswath Damodaran](https://twitter.com/AswathDamodaran?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor "Aswath"), one of the best finance profs out there \[4\], [wrote about IPOs vs direct listings a while ago]( http://aswathdamodaran.blogspot.com/2019/10/disrupting-ipo-process-challenging.html? "Aswath"). I'll review highlights below; banking ex-colleagues feel free to disagree. If you aren't familiar with direct listings, [a16z has a primer.](https://a16z.com/2019/07/02/direct-listings/ "a16z")
 
 > but the biggest difference \[in direct listings\] is that it cannot raise fresh capital on the offering date \[...\] That is not as much of a problem as it sounds, since the company can choose to raise cash in a pre-listing round from interested investors, or to make a secondary offering, in the months after 
 
 The inability to raise new capital remains true for now, [after the SEC rejected a proposal to allow it](https://www.cnbc.com/2019/12/06/nyse-proposal-to-allow-fundraising-in-direct-listings-rejected-by-sec.html "CNBC"). As Aswath points out, this isn't a dealbreaker since companies can raise before or after the listing instead.
 
-Aswath describes the case for and against banks managing an IPO vs listing directly with less bank involvement \[21\]:
+Aswath describes the case for and against banks managing an IPO vs listing directly with less bank involvement \[5\]:
 
 > **Timing:** Banks argue their experience and relationships give them insight on the best time to IPO
 
@@ -101,7 +101,7 @@ I lean more towards Damodaran's side here. In the bank's defense, in their role 
 
 > Damodaran argues that most prospectuses look similar, particularly the risk and business sections.
 
-I agree with Damodaran, though as he implied most of this is due to legal reasons. Risk sections in prospectuses are more for legal protection and less for telling you what's important \[22\]. I know ex-colleagues that spent a lot of time drafting sections for the company, but it's hard to add significant value here (sorry guys), especially if the company going public is full of ex-bankers as well.
+I agree with Damodaran, though as he implied most of this is due to legal reasons. Risk sections in prospectuses are more for legal protection and less for telling you what's important \[6\]. I know ex-colleagues that spent a lot of time drafting sections for the company, but it's hard to add significant value here (sorry guys), especially if the company going public is full of ex-bankers as well.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/IPO risk factors.png)
 
@@ -111,9 +111,9 @@ I agree with Damodaran, though as he implied most of this is due to legal reason
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Bank Pricing WeWork FT.jpg)
 
-Choosing the wrong comparable company set or multiple is less of a factor. The comp set is socialised among investors beforehand so there's usually broad agreement there \[23\]. There's only a handful of common multiples (EV/Rev, EV/EBITDA, P/E) so the type of multiple is also broadly understood. 
+Choosing the wrong comparable company set or multiple is less of a factor. The comp set is socialised among investors beforehand so there's usually broad agreement there \[7\]. There's only a handful of common multiples (EV/Rev, EV/EBITDA, P/E) so the type of multiple is also broadly understood. 
 
-I agree that banks are biased in the pricing process though, and they are incentivised to be. As [Matt Levine has written before "Matt")](https://www.bloomberg.com/opinion/articles/2019-09-09/we-might-not-be-working "Matt"), the bank is pitching to get hired by the company, hence the higher the price range pitched the better. It's easier to get hired when you tell the CEO he's worth $1bn instead of $100mm. When they do get hired and need to meet that price is when they start managing expectations.
+I agree that banks are biased in the pricing process though, and they are incentivised to be. As [Matt Levine has written before](https://www.bloomberg.com/opinion/articles/2019-09-09/we-might-not-be-working "Matt"), the bank is pitching to get hired by the company, hence the higher the price range pitched the better. It's easier to get hired when you tell the CEO he's worth $1bn instead of $100mm. When they do get hired and need to meet that price is when they start managing expectations.
 
 The right price for the company is a difficult question, and we'll come back to that later.
 
@@ -139,7 +139,7 @@ Underwriting guarantees were more relevant historically and are less relevant no
 
 > Damodaran argues this is difficult to impossible for larger company IPOs
 
-Agree that price stabilisation is hard in large IPOs. Given the context above of the median IPO offering size though, I think this still has value for many companies. The way that banks price stabilise is by selling more stock than allocated and entering into a short position against the company. The bank either gets shares from the company or the open market to cover the short position, hence supporting the price \[24\].
+Agree that price stabilisation is hard in large IPOs. Given the context above of the median IPO offering size though, I think this still has value for many companies. The way that banks price stabilise is by selling more stock than allocated and entering into a short position against the company. The bank either gets shares from the company or the open market to cover the short position, hence supporting the price \[8\].
 
 What is the right price? This is a complicated question. A common feature of IPOs is that stock will be pre-sold to professional investors at one price, say $10, and then start trading on the open market post IPO at a premium, say $20. This [IPO pop](https://pitchbook.com/news/articles/understanding-the-ipo-markets-pop-culture "IPO") has been criticised by [VCs such as Bill Gurley,](https://markets.businessinsider.com/news/stocks/slacks-direct-listing-bill-gurley-says-startups-call-morgan-stanley-2019-6-1028298641 "Bill") who say this inefficiency is a money transfer from private investors (VCs like Bill) to public investors who got shares during the IPO process \[25\].  
 
@@ -203,7 +203,7 @@ All these are related to people giving up on caring about the issue. This is pro
 
 I agree. As can be inferred from my writing, I'm biased towards experimenting. You don't know what you don't know, and you can't find out until you try. There's too many slide decks and too much theorising compared to people actually executing, since the former is easier to do and still feels productive, whereas the latter is harder and uncomfortable. Unless the flaw is going to ruin your business - and few do - err on the side of getting things done \[34\].
 
-I like the idea of rough consensus because I ~~care about very little~~ prefer efficient meetings. Since most organisations incentivise people to speak up, you usually end up with more opinions and objections than needed. While adopting a rough consensus approach seems against the principle of inclusivity, it likely increases effecctiveness in decision making. 
+I like the idea of rough consensus because I ~~care about very little~~ prefer efficient meetings. Since most organisations incentivise people to speak up, you usually end up with more opinions and objections than needed. While adopting a rough consensus approach seems against the principle of inclusivity, it likely increases effectiveness in decision making. 
 
 **Shoutouts**
 
@@ -223,17 +223,17 @@ I like the idea of rough consensus because I ~~care about very little~~ prefer e
 1. I have a strong irrational dislike of twitter but begrudgingly acknowledge it can be high value add
 2. If you're actually Neil Gaiman and want my endorsement, we should chat. In person. I might bring one or two books to get signed.
 3. I came across the Column business plan too late to write about it for this month, and you can find out more about it [here](https://www.technologyreview.com/s/615108/column-aron-dsouza-gawker-jake-lodwick-sarah-cone-social-network-peter-thiel/ "Tech Review")
-20. Not just in finance but in actually wanting to educate too. How many profs would tell you to get their book for free online instead of paying for it? 
-21. Full disclosure, I used to be a coverage IB analyst, and worked on IPOs. Also, investment banking has nothing to do with investing, in case you weren't already aware.
-22. Companies are incentivised to throw every possible risk they can into the prospectus to reduce legal liability. This is why you see statements like "we have never made a profit and may never make a profit"
-23. It goes something like this: Investor will ask bank "Hey what comps are you thinking of", the bank will say "This set, this other group, and also this bunch", the investor will say "Oh hmm that's interesting you included that group too but otherwise looks right. What are other investors thinking?", the bank will say "Oh they're comping it against so and so too"
-24. This is known as a greenshoe option, after the first company that featured it
-25. You can see why Bill might be biased here
-30. Forwarded by [Eitan on twitter](https://twitter.com/cool_idea "Eitan"). The original IETF document can be found [here](https://tools.ietf.org/html/rfc7282 "IETF")
-31. This also applies to feedback generally, as I summarise [here](https://www.leonlinsx.com/thanks-for-the-feedback/ "Feedback") about how to get better at taking feedback
-32. To be clear, I'm agreeing that you should speak up at work as much as possible; I just dislike the fact it's necessary
-33. "So, in a large working group with over 100 active participants and broad agreement to go forward with a particular protocol, if a few participants say, "This protocol is going to cause congestion on the network, and it has no mechanism to back off when congestion occurs; we object to going forward without such a mechanism in place", and the objection is met with silence on the mailing list, there is no consensus.  Even if the working group chair makes a working group "last call" on the document, and 100 people actively reply and say, "This document is ready to go forward", if the open issue hasn't been addressed, there's still no consensus, not even rough consensus. It's the existence of the unaddressed open issue, not the number of people, which is determinative in judging consensus.""
-34. Eitan points out this leads to a similar effect of "disagree and commit" that Amazon supposedly has 
+4. Not just in finance but in actually wanting to educate too. How many profs would tell you to get their book for free online instead of paying for it? 
+5. Full disclosure, I used to be a coverage IB analyst, and worked on IPOs. Also, investment banking has nothing to do with investing, in case you weren't already aware.
+6. Companies are incentivised to throw every possible risk they can into the prospectus to reduce legal liability. This is why you see statements like "we have never made a profit and may never make a profit"
+7. It goes something like this: Investor will ask bank "Hey what comps are you thinking of", the bank will say "This set, this other group, and also this bunch", the investor will say "Oh hmm that's interesting you included that group too but otherwise looks right. What are other investors thinking?", the bank will say "Oh they're comping it against so and so too"
+8. This is known as a greenshoe option, after the first company that featured it
+9. You can see why Bill might be biased here
+10. Forwarded by [Eitan on twitter](https://twitter.com/cool_idea "Eitan"). The original IETF document can be found [here](https://tools.ietf.org/html/rfc7282 "IETF")
+11. This also applies to feedback generally, as I summarise [here](https://www.leonlinsx.com/thanks-for-the-feedback/ "Feedback") about how to get better at taking feedback
+12. To be clear, I'm agreeing that you should speak up at work as much as possible; I just dislike the fact it's necessary
+13. "So, in a large working group with over 100 active participants and broad agreement to go forward with a particular protocol, if a few participants say, "This protocol is going to cause congestion on the network, and it has no mechanism to back off when congestion occurs; we object to going forward without such a mechanism in place", and the objection is met with silence on the mailing list, there is no consensus.  Even if the working group chair makes a working group "last call" on the document, and 100 people actively reply and say, "This document is ready to go forward", if the open issue hasn't been addressed, there's still no consensus, not even rough consensus. It's the existence of the unaddressed open issue, not the number of people, which is determinative in judging consensus.""
+14. Eitan points out this leads to a similar effect of "disagree and commit" that Amazon supposedly has 
 
 *If you liked this, you'll like* ***[my monthly newsletter.](https://avoidboringpeople.substack.com/ "ABP")*** *Sign up here:*
 
