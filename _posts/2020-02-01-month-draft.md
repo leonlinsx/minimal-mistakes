@@ -34,7 +34,7 @@ published: false
 
 **Takeaways**
 
-1. Cosign is trying to make social capital more tangible
+1. Cosign is a new company trying to make social capital more tangible
 2. Whether you should do a direct listing depends on the type of company you are
 3. Improve decision making in a company by adopting rough, not total consensus
 
