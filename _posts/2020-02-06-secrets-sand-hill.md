@@ -1,3 +1,37 @@
+---
+title:  ""  
+tags: []
+published: false
+---
+
+*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+
+<style>
+      .iframe-container {
+        overflow: hidden;        
+        padding-top: 50%; <!-- Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625) -->
+        position: relative;
+      }
+      .iframe-container iframe { 
+         border: 0;
+         height: 100%; <!-- Finally, width and height are set to 100% so the iframe takes up 100% of the containers space. -->
+         left: 0;
+         position: absolute;
+         top: 0;
+         width: 100%;
+         display: block;
+         margin: 0 auto; <!-- center image -->
+      }
+      <!-- 4x3 Aspect Ratio -->
+      .iframe-container-4x3 {
+        padding-top: 75%;
+      }
+</style> 
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
+
 **Secrets of Sand Hill Road book summary**
 
 I read [Secrets of Sand Hill Road](https://a16z.com/book/secrets-of-sand-hill-road/ "a16z") over the holidays and thought it was a decent intro to VC and how the industry is incentivised. As someone not in the industry and only with public markets and investment banking experience, I still learnt some things that I hadn't known before. If you are in the industry though I feel like there might not be that much new information. 
@@ -103,3 +137,11 @@ You're starting to see this value add spread among the VC community, from [First
 > First, many of the traditional venture capital firms have increased their fund sizes to be able not only to fund startups in the very early stages, but also to be a source of growth capital throughout their life cycles. Second, as companies have elected to stay private longer, more nontraditional sources of growth capital have entered the financing market. Whereas public mutual funds, hedge funds, sovereign wealth funds, family offices, and other strategic sources of capital had traditionally waited for startups to go public before they would invest growth capital, nearly all these players have now made the decision to invest directly in later-stage startups
 
 Examples include traditionally fundamental long/short tiger cubs such as [Coatue](https://www.businessinsider.com/coatue-management-early-stage-venture-capital-fund-2019-8 "Coatue") or [Tiger Global](https://techcrunch.com/2018/10/22/looks-like-tiger-global-management-just-closed-the-second-biggest-venture-fund-this-year/ "tiger") now having well developed private arms that might be even more successful than their public arms.
+
+
+*If you liked this, sign up for my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
+
