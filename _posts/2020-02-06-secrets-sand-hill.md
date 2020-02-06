@@ -32,9 +32,12 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
+**Takeaway**
+Secrets of Sand Hill Road was a good read even for someone in finance, less so if you're in VC.
+
 **Secrets of Sand Hill Road book summary**
 
-I read [Secrets of Sand Hill Road](https://a16z.com/book/secrets-of-sand-hill-road/ "a16z") over the holidays and thought it was a decent intro to VC and how the industry is incentivised. As someone not in the industry and only with public markets and investment banking experience, I still learnt some things that I hadn't known before. If you are in the industry though I feel like there might not be that much new information. 
+I read [Secrets of Sand Hill Road](https://a16z.com/book/secrets-of-sand-hill-road/ "a16z") over the holidays and thought it was a decent intro to VC and how the industry is incentivised. As someone not in the industry and only with public markets and investment banking experience, I still learnt some things that I hadn't known before. If you are in the industry I feel like there might not be that much new information, though you're likely not the target audience. 
 
 > the "something more" that Marc and Ben decided to build a16z around was a network of people and institutions that could improve the prospects for founding product CEOs to become world-class CEOs
 
