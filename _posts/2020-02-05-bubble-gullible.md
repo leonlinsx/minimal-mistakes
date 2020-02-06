@@ -33,6 +33,7 @@ published: false
 </div>
 
 **Takeaway**
+
 Historical accounts are often exaggerated; we seem to be as gullible then as we are now.
 
 **Are we as gullible now as we used to be?**
@@ -42,6 +43,8 @@ Historical accounts are often exaggerated; we seem to be as gullible then as we 
 > One of the most famous \[apocryphal\] anecdotes in finance is of a promoter in the 1720 South Sea Bubble who lured investors into putting money into “an undertaking of great advantage, but nobody to know what it is.” \[Other tales then\] all reflect the high level of credulity displayed by the investors of 1720. However, it is debatable whether their gullibility was greater than that of the most sophisticated investment professionals in recent times
 
 The South Sea Bubble is a time period surrounding [the famous financial bubble in the stock price of the South Sea Company](https://sites.google.com/site/davesmant/monetary-economics/famous-first-bubbles/south-sea-bubble "SSC"), which looked something like the below. 
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/SSB Dave Smant.jpg)
 
 Andrew traces the origin of the anecdote above to a book by Oldmixon \[1\]. The full anecdote is too lengthy to copy directly so I've placed it in this footnote \[2\], and the summary is essentially:
 
