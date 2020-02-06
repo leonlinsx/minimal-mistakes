@@ -32,6 +32,8 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
+**Takeaway**
+Historical accounts are often exaggerated; we seem to be as gullible then as we are now.
 
 **Are we as gullible now as we used to be?**
 
