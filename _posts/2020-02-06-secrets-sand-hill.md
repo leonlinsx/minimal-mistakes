@@ -33,6 +33,7 @@ published: false
 </div>
 
 **Takeaway**
+
 Secrets of Sand Hill Road was a good read even for someone in finance, less so if you're in VC.
 
 **Secrets of Sand Hill Road book summary**
