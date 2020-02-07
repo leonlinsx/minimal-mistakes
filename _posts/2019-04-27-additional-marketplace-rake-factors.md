@@ -4,7 +4,35 @@ tags: [internet, marketplace]
 published: true
 ---
 
+<style>
+      .iframe-container {
+        overflow: hidden;        
+        padding-top: 50%; <!-- Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625) -->
+        position: relative;
+      }
+      .iframe-container iframe { 
+         border: 0;
+         height: 100%; <!-- Finally, width and height are set to 100% so the iframe takes up 100% of the containers space. -->
+         left: 0;
+         position: absolute;
+         top: 0;
+         width: 100%;
+         display: block;
+         margin: 0 auto; <!-- center image -->
+      }
+      <!-- 4x3 Aspect Ratio -->
+      .iframe-container-4x3 {
+        padding-top: 75%;
+      }
+</style> 
+
 I'm fascinated by marketplaces and network effects since so much of the internet is built on companies succeeding in them e.g. Facebook's network effects, Amazon's 3rd party marketplace, Google's ad marketplace. There are many great writers on these topics, some of which I've outlined under the tech section on my [resources page](https://www.leonlinsx.com/resources/ "resources"). This post details my thoughts on a marketplace rake factor fundamental analysis I saw Josh Breinlinger write about [here.](http://acrowdedspace.com/post/172383900012/marketplace-rake-factors "rake factors")
+
+*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
 
 I liked Josh’s rake factors article because it was the first I’ve seen that attempts to build up fundamental reasons for why a rake is set at a certain percentage, rather than just ‘because comps are at that rake’. Some (many?) markets are indeed just priced based on comps, but I still like having a framework.
  
@@ -49,3 +77,9 @@ I also did some comparison of predicted vs actual rake rates according to his fr
   * Stubhub/Seatgeek take rate 20% + 10% opaque fees + 5% quality control + 5% fraud prevention - 5% high price items = 35% vs 40%+ actual
   
 If I'm mistaken on any of the above or if you have responses, feel free to let me know and I'll correct the post as needed.
+
+*If you liked this, sign up for my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
