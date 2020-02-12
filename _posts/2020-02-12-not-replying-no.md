@@ -1,6 +1,6 @@
 ---
-title:  ""  
-tags: []
+title:  "Not replying is not no, and why you should let people go"  
+tags: [events, organising, friends]
 published: false
 ---
 
@@ -32,12 +32,21 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-One thing I'm trying to do more of this year is organise more events. Just as I believe that meeting new people is asymmetric \[1\], I also believe that bringing people together has disproportionate returns over time. I arrange regular cocktail nights, restaurant dinner meetups, and the occasional exhibition visit. These are some things I've come to believe over time:
+**Takeaway**
+
+Organising events can be frustrating but is an asymmetric opportunity
+
+**Things I’ve learnt organising events**
+
+One thing I'm trying to do more of this year is organise more events. Just as I believe that meeting new people is asymmetric \[1\], I also believe that **bringing people together has disproportionate returns over time.** It’s like playing the social lottery, but for free.
+
+I arrange regular cocktail nights, restaurant dinner meetups, and the occasional exhibition visit. These are some things I've come to believe over time:
 
 1. Be liberal with who you invite initially, and then conservative with them after. 
 
     - Some people are bad with faces. Some people are bad with names. I'm bad with both. I barely remember anyone I meet for the first time, so having a chance to meet them again is important for me. Hence I'm easygoing when inviting people to my events for the first time. At worst we have to deal with a few awkward people for a few hours. 
-  - However, I'm stricter when inviting people for the second time onwards. I usually have a better gauge of their personality then, who they're more likely to get along with, and whether they're likely to reply in the first place \[2\]. Which brings me to my next point:
+    - I also like it when people from different worlds get to interact e.g. finance and food, so I’m biased towards inviting more people the first time round
+    - However, I'm stricter when inviting people for the second time onwards. I usually have a better gauge of their personality then, who they're more likely to get along with, and whether they're likely to reply in the first place \[2\]. Which brings me to my next point:
 
 2. Not replying is different from saying no. 
 
@@ -60,7 +69,8 @@ One thing I'm trying to do more of this year is organise more events. Just as I 
 5. Encourage interaction between multiple people
 
     - I always want to make people feel welcome, whether they're there the first time or tenth. One way I do so is by introducing people along with an interesting fact about them, such as how she might be an expert on chocolate or he might be an expert on wine. It's easier for me to brag about knowing interesting people than it is for people to brag about themselves, and gives people something to start off conversations with
-    - I agree with the quote on how large parties are intimate and there's no privacy at small parties \[3\], but that applies to the guest as an individual. As the host you want that lack of privacy and multiple interactions, rather than a guest just sticking to one other person the entire time. 
+    - I agree with the quote on how large parties are intimate and there's no privacy at small parties \[3\], but that applies to the guest as an individual. As the host you want that lack of privacy and multiple interactions, rather than a guest just sticking to one other person the entire time.
+    - As a host, it’s your responsibility to make people feel included. If you notice someone alone, check in with them or try to find someone for them to talk to 
 
 **Footnotes**
 
