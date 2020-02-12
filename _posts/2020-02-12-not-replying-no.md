@@ -71,6 +71,8 @@ I arrange regular cocktail nights, restaurant dinner meetups, and the occasional
     - I always want to make people feel welcome, whether they're there the first time or tenth. One way I do so is by introducing people along with an interesting fact about them, such as how she might be an expert on chocolate or he might be an expert on wine. It's easier for me to brag about knowing interesting people than it is for people to brag about themselves, and gives people something to start off conversations with
     - I agree with the quote on how large parties are intimate and there's no privacy at small parties \[3\], but that applies to the guest as an individual. As the host you want that lack of privacy and multiple interactions, rather than a guest just sticking to one other person the entire time.
     - As a host, it’s your responsibility to make people feel included. If you notice someone alone, check in with them or try to find someone for them to talk to 
+    
+If you haven’t put together an event before, I think it’s worth trying. Whether you do it for close friends or acquaintances that you want to get to know better is up to you. Hopefully my experience above is a helpful reference. As always, let me know if you disagree on any of the above.    
 
 **Footnotes**
 
