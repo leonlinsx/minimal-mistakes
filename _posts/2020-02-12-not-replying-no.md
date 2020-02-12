@@ -53,7 +53,7 @@ I arrange regular cocktail nights, restaurant dinner meetups, and the occasional
     - I'm unsure if Facebook was the one that started the trend, and it's frustrating how flaky people have become. I understand why people don't reply - uninterested, unsure, afraid of offending etc. However, the implication of not replying is different from replying no. The latter implies I was at least worth the time to click a button; the former implies I wasn't. 
     - You might think your one response doesn't matter, but imagine what happens when half the group thinks that way. That happens more often than you'd think, and it's annoying.
     - It's great if you can give a reason, since that helps me know whether you're uninterested in that kind of event, or just unable to make it that one time. When you don't reply, I don't know which I should assume. I've historically assumed people were just busy, but have lately switched over to assuming people are uninterested.
-  - However, you don't even have to give a reason if you don't want to. Just responding alone is helpful. Within reason, most people will understand when you can't make an event. 
+    - However, you don't even have to give a reason if you don't want to. Just responding alone is helpful. Within reason, most people will understand when you can't make an event. 
   
 3. Let people go.
 
