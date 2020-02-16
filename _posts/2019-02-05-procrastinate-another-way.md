@@ -4,7 +4,33 @@ tags: [psychology, procrastination]
 published: true
 ---
 
-I wrote this while procrastinating on ten other post ideas \[1\]. 
+<style>
+      .iframe-container {
+        overflow: hidden;        
+        padding-top: 50%; <!-- Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625) -->
+        position: relative;
+      }
+      .iframe-container iframe { 
+         border: 0;
+         height: 100%; <!-- Finally, width and height are set to 100% so the iframe takes up 100% of the containers space. -->
+         left: 0;
+         position: absolute;
+         top: 0;
+         width: 100%;
+         display: block;
+         margin: 0 auto; <!-- center image -->
+      }
+      <!-- 4x3 Aspect Ratio -->
+      .iframe-container-4x3 {
+        padding-top: 75%;
+      }
+</style> 
+
+I wrote this while procrastinating on ten other post ideas \[1\].
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
 
 When we have options, we can wait. We wait till time runs out, our options are gone, and we rush our task in some last-minute effort where we convince ourselves that necessity is the mother of invention. And then we talk about the many all nighters we pulled to finish the project/write the essay/digitize our written reviews of chocolate bars \[2\], only to repeat this cycle the next time a longer dated project comes around. We complain about it, but don't want to stop it or don't know how to.
 
@@ -50,3 +76,9 @@ Imposing arbitrary cutoff criteria can force us to just start, which might reduc
 3. I take comfort in the fact that I haven't received a [CAN-SPAN violation notice](https://www.ftc.gov/tips-advice/business-center/guidance/can-spam-act-compliance-guide-business "ftc link"). *Yet*
 4. Cal Newport also writes about the concept of [deep work](http://calnewport.com/books/deep-work/ "cal on deep work") and why we need to set aside enough time to achieve that. Working on smaller tasks as a prelude to working on bigger ones in the same session might help you with that
 5. This is why Jason Zweig says the best way to write better is to just [start writing.](http://jasonzweig.com/on-writing-better-part-1/ "writing better part 1") His posts on writing are also worth reading through, might be a subject of a future post eventually.
+
+*If you liked this, sign up for my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
