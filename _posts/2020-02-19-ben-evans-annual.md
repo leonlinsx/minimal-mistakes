@@ -96,21 +96,21 @@ We haven't stopped needing entertainment; we've just moved on to different chann
 
 TV was one way and passive due to tech limitations with information speed. Newer forms of entertainment take advantage of the increased speed now by experimenting with two way, interactive formats. Hosts can now chat with their viewers directly, get their feedback on what they'd like to see, and even sell them merchandise.
 
-Live streaming isn't limited to games either, if you thought it was a niche hobby. The in real life (IRL) channels on Twitch have [grow in popularity](https://esportsobserver.com/twitch-irl-2018/ "IRL"), and live entertainment apps in China are big. People now expect to be able to interact with the influencer and pretend they are close, perhaps having been conditioned with the rise of social media. 
+Live streaming isn't limited to games either, if you thought it was a niche hobby. The in real life (IRL) channels on Twitch have [grow in popularity](https://esportsobserver.com/twitch-irl-2018/ "IRL"), and live entertainment apps in China are big. People now expect to be able to interact with the influencer and pretend they are close, perhaps having been conditioned with the rise of social media and loss of privacy. 
 
-**Other**
+Lastly, Ben discusses how tech is also coming for narrow segments of the economy \[4\], and that VC investment has now grown beyond just being a US phenomenon. 
 
-> A model that only worked for narrow segments a decade ago now expands into the whole economy e.g. RigUp for oil field workers, Honor for elderly care, Incredible Health for nursing
-
-> Expanding software and tools from work to everyday life
-
-> More and more investment in company creation around the world
+Which brings us to: What's next? 
 
 **The next S curves**
 
 > The tech industry has had a new centre roughly every 15 years e.g. mainframes to PCs to web to mobile. What's next?
 
 > New things such as machine learning, crypto, AR are happening, but that's not the only focus for 2020s
+
+Ben lists many areas of new tech. The concern isn't whether the tech will grow, but whether the tech will grow to the scale that mobile, PC, mainframes have in the past. [He's doubtful that VR will be the next big thing.](https://twitter.com/benedictevans/status/1229095984711585792?s=20 "Twitter")
+
+**Regulation**
 
 > Regulation is a big thing coming to tech
 
@@ -130,22 +130,36 @@ Live streaming isn't limited to games either, if you thought it was a niche hobb
 
 > China and India internet usage is now bigger than the US
 
+Interestingly though, we're still not interacting much with each other. China's users are largely walled off, and US sites have remained US centric. For example, everyone on reddit ([top 20 visited site](https://www.similarweb.com/top-websites "reddit")) still assumes everyone else there is from the US.
+
 > We're seeing a clash of different country regulations
+
+> Tech has become part of the world, so it gets regulated as part of the world
+
+Given the fragmentation, how then should countries regulate tech companies, who are now more global than companies in the past? We're still figuring things out, and companies might cater to the strictest regulation in order to be on the safer side. That likely worsens the user experience for everyone.
 
 > The only certainty: regulation as a regressive tax. Much of regulation is a fixed cost that affects new entrants disproportionately
 
-> Tech has become part of the world, so it gets regulated as part of the world
+Many regulations have good intentions. GDPR in Europe is intended to protect privacy, AB5 in California is intended to protect worker's rights, Dodd-Frank to protect the financial system. 
+
+One problem with regulation though is that complying with regulation costs businesses money. And between a small business and a large one, you can expect the large business to be better placed to afford the legal costs required. Hence an increase in regulation usually helps large incumbents and hinders new entrants. For example, Facebook and Google grew share in Europe post GDPR passing there, since all their competitors started dying out. 
 
 > Worrying about tech isn’t new
 
 > Every wave of tech changes the world, and gets regulated
+
+The twitter account [Pessimists Archive](https://twitter.com/PessimistsArc?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor "Twitter") has a collection of newspaper clippings showing historical opinions about tech which show this to be true. For example, here's people complaining about newspapers:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Pessimist newspaper.jpg)
+
+However, I don't think this means we should adopt the opposite stance, and now worry about tech at all. Like any change, there's likely positive and negative aspects. Regulation should be adopted after carefully studying where tech is failing us, and it won't be easy to get right.
 
 **Footnotes**
 
 1. Think about how many internet friends you have from China, India, Indonesia, or Brazil (if not your home country), which have the 4 largest internet users outside of the US.
 2. Addressable retail = ex. cars, car parts, gasoline, restaurants & bars
 3. This is in contrast to being a first party merchant, when AMZN is the one buying and reselling the items. 3rd party marketplace value of goods sold (GMV) is now larger than 1st party sales, though the revenue to AMZN is still lower.
-4. 
+4. e.g. RigUp for oil field workers, Honor for elderly care, Incredible Health for nursing
 
 *If you liked this, sign up for my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
 
