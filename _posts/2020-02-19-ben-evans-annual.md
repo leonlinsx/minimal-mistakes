@@ -32,13 +32,13 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-[Ben Evans of the venture capital firm a16z](https://www.ben-evans.com/ "ben") did his [annual presentation on tech recently.](https://www.ben-evans.com/presentations "presentation") It's similar in style to [Mary Meeker's internet trends annual report](https://www.bondcap.com/report/itr19/#view/title "Bond"), though less lengthy or diverse. I'll highlight key points below.
-
-He talks about a few broad themes:
+[Ben Evans of the venture capital firm a16z](https://www.ben-evans.com/ "ben") did his [annual presentation on tech recently.](https://www.ben-evans.com/presentations "presentation") It's similar in style to [Mary Meeker's internet trends annual report](https://www.bondcap.com/report/itr19/#view/title "Bond"), though less lengthy or diverse. He talks about a few broad themes:
 
   - Now that everyone is connected to the internet, what can we expect in areas such as ecommerce, entertainment, and other industries?
   - What is the next tech trend, now that we've hit a plateau in smartphones?
   - How will regulation evolve to deal with tech?
+  
+I'll highlight key points below.
 
 > We connected (almost) everyone. There are 5.5bn adults on earth, 5bn have a phone and 4bn have a smartphone
 
