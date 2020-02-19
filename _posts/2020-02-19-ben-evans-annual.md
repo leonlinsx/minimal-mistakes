@@ -148,13 +148,15 @@ Lastly, Ben discusses the global nature of tech:
 
 > China and India internet usage is now bigger than the US
 
-Interestingly though, we're still not interacting much with each other. China's users are largely walled off, and US sites have remained US centric. For example, everyone on reddit ([top 20 visited site](https://www.similarweb.com/top-websites "reddit")) still assumes everyone else there is from the US.
+Interestingly though, we're still not interacting much with each other. China's users are largely walled off, and US sites have remained US centric. For example, everyone on reddit ([top 20 visited site globally](https://www.similarweb.com/top-websites "reddit")) still assumes everyone else there is from the US.
 
 > We're seeing a clash of different country regulations
 
 > Tech has become part of the world, so it gets regulated as part of the world
 
-Given the fragmentation, how then should countries regulate tech companies, who are now more global than companies in the past? We're still figuring things out, and companies might cater to the strictest regulation in order to be on the safer side. That likely worsens the user experience for everyone. If you've noticed more popups related to cookies in the past year, this is what happened. 
+Given the fragmentation, how then should countries regulate tech companies, who are now more global than companies in the past? We're still figuring things out, and companies might cater to the strictest regulation in order to be on the safer side. That likely worsens the user experience for everyone. If you've noticed more annoying popups related to cookies in the past year, that happened due to regulation.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Ben Evans regulation global 6.png)
 
 > The only certainty: regulation as a regressive tax. Much of regulation is a fixed cost that affects new entrants disproportionately
 
@@ -172,7 +174,7 @@ The twitter account [Pessimists Archive](https://twitter.com/PessimistsArc?ref_s
 
 However, I don't think this means we should adopt the opposite stance, and not worry about tech at all. Like any change, there's likely positive and negative aspects. Regulation should be adopted after carefully studying where tech is failing us, and it won't be easy to get right.
 
-To summarise, Ben took a closer look at how tech has impacted ecommerce and TV, and thought about what could come next. He then highlighted the incoming pressure of regulation, and the globalisation of tech's influence. Worries 
+To summarise, Ben took a closer look at how tech has impacted ecommerce and TV, and thought about what could come next. He then highlighted the incoming pressure of regulation, and the globalisation of tech's influence. Worries will always exist, legislators will try to regulate, and businesses will find ways around them. 
 
 **Footnotes**
 
