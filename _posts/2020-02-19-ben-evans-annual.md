@@ -1,5 +1,5 @@
 ---
-title:  ""  
+title:  "Smartphones are boring, what's next?"  
 tags: []
 published: false
 ---
@@ -34,7 +34,7 @@ published: false
 
 **Takeaway**
 
-Now that the world is connected, what’s next? 
+Now that the world is connected, what’s next? How will regulation handle tech?
 
 **Ben Evans on Tech in 2020**
 
@@ -44,7 +44,7 @@ Now that the world is connected, what’s next?
   - What is the next tech trend, now that we've hit a plateau in smartphones?
   - How will regulation evolve to deal with tech?
   
-I'll highlight key points below:
+I'll highlight key points below, Note that I might paraphrase for clarity. 
 
 > We connected (almost) everyone. There are 5.5bn adults on earth, 5bn have a phone and 4bn have a smartphone
 
@@ -82,9 +82,9 @@ Amazon's platforms here refer to Amazon Web Services (AWS) and the AMZN marketpl
 
 > New retailing means new taxes e.g. AMZN product search, Booking/Expedia Google search
 
-Stores have to pay rent in order to physically reach customers. **When your store moves from the physical to the intangible internet, you pay a digital rent instead.** [Customer acquisition cost (CAC) is the new rent](https://www.inc.com/magazine/201805/tom-foster/direct-consumer-brands-middleman-warby-parker.html "CAC"). This takes various forms, such as paying AMZN a fee to advertise your product, or buying ads on Google. 
+Stores pay rent to physically reach customers. **When your store moves from the physical to the intangible internet, you pay a digital rent instead.** [Customer acquisition cost (CAC) is the new rent](https://www.inc.com/magazine/201805/tom-foster/direct-consumer-brands-middleman-warby-parker.html "CAC"). This takes various forms, such as paying AMZN a fee to advertise your product, or buying ads on Google. 
 
-Ben also makes the point that this shift in rent isn't new, and has happened whenever there's a shift in business trends, for example [Sears and its catalogues.](https://www.smithsonianmag.com/history/rise-and-fall-sears-180964181/ "Sears") The exception is when you can find a unique way to reach your customers directly without a middleman. Some investors thought that new Direct to Consumer (DTC) companies such as Casper (mattress company) were such an exception, but have been proven wrong so far.
+Ben also makes the point that this shift in rent isn't new, and has happened whenever there's a shift in business trends, for example [Sears and its catalogues.](https://www.smithsonianmag.com/history/rise-and-fall-sears-180964181/ "Sears") The exception is when you can find a unique way to reach your customers directly without a middleman. Some investors thought that new Direct to Consumer (DTC) companies such as Casper (mattress company) were such an exception, but have been proven wrong on many.
 
 Besides ecommerce, Ben also discusses TV and entertainment: 
 
@@ -108,7 +108,7 @@ TV was one way and passive due to tech limitations with information speed. Newer
 
 Video game live streaming likely has huge room to grow, based on the increasing normalisation of gaming. [2mm people already watch the finals of a video games championship](https://escharts.com/blog/results-the-international-2019 "esports"); how long before it catches up to the [17mm people that watch NFL?](https://www.cnbc.com/2019/12/31/nfl-television-viewership-increases-5percent-for-2019-season.html "CNBC") 
 
-Live streaming isn't limited to games either, if you thought it was a niche hobby. The in real life (IRL) channels on Twitch have [grown in popularity](https://esportsobserver.com/twitch-irl-2018/ "IRL"), and live entertainment apps in China such as karaoke are big. **People now expect to be able to interact with the influencer and pretend they are close,** perhaps having been conditioned with the rise of social media and loss of space.
+Live streaming isn't limited to games either, if you thought it was a niche hobby. The in real life (IRL) channels on Twitch have [grown in popularity](https://esportsobserver.com/twitch-irl-2018/ "IRL"), and live entertainment apps in China such as karaoke are big. **People now expect to be able to interact with the influencer and pretend they are close,** perhaps having been conditioned with the rise of social media and loss of space. [A celeb shoutout app like Cameo is one of the fastest growing marketplaces this year.](https://a16z.com/2020/02/18/marketplace-100/ "a16z")
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/YY app.png)
 
@@ -195,7 +195,7 @@ Some things change, some things stay the same.
 3. The [Masters of Scale podcast](https://mastersofscale.com/tobi-lutke-be-a-platform/ "Tobi") recently covered Shopify's rise and how it went unnoticed for a long time
 4. This is in contrast to being a first party merchant, when AMZN is the one buying and reselling the items. 3rd party marketplace value of goods sold (GMV) is now larger than 1st party sales, though the revenue to AMZN is still lower.
 5. e.g. RigUp for oil field workers, Honor for elderly care, Incredible Health for nursing
-6. I wonder how much of it is stated preference (what people say) vs expressed preference (what people do). For all the people complaining about facebook and others, their userbase is still tremendous. 
+6. I wonder how much of it is stated preference (what people say) vs expressed preference (what people do). For all the people complaining about facebook and others, their user base is still tremendous. 
 
 *If you liked this, sign up for my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
 
