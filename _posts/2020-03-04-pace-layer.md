@@ -26,6 +26,12 @@ published: false
       }
 </style> 
 
+**Takeaway**
+
+The pace layer framework can be used to model civilisations, with each layer moving at its own speed and causing change in others. 
+
+**House and civilisations**
+
 Imagine a building. Perhaps the office you work in, or the house you live in. What parts of that building change over time? How quickly do they change?
 
 <div class="iframe-container-4x3">
