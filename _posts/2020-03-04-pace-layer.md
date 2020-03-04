@@ -28,11 +28,11 @@ published: false
 
 **Takeaway**
 
-The pace layer framework can be used to model civilisations, with each layer moving at its own speed and causing change in others. 
+The pace layer framework can be used to model civilisations, with each layer moving at its own speed and causing change in others. Forcing layers to change too quickly causes catastrophe.  
 
-**House and civilisations**
+**Houses and civilisations**
 
-Imagine a building. Perhaps the office you work in, or the house you live in. What parts of that building change over time? How quickly do they change?
+Imagine a building. Perhaps the office you work in, or the house you live in. **What parts of that building change over time? How quickly do they change?**
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
@@ -50,9 +50,9 @@ And the site of the building itself, that geography essentially stays the same.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/pace layer building.png)
 
-In 1994, [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand "Stewart") of the [Long Now Foundation](http://longnow.org/ "Long Now") proposed the above model as a way to think about how buildings learn and evolve \[1\]. A building can be thought of as having multiple layers, all changing at different rates. A healthy building will allow for controlled interactions between layers, all moving at their own pace. 
+In 1994, [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand "Stewart") of the [Long Now Foundation](http://longnow.org/ "Long Now") proposed the above model as a way to think about how buildings learn and evolve \[1\]. A building can be thought of as having multiple layers, all changing at different rates. **A healthy building will allow for controlled interactions between layers, all moving at their own pace.** 
 
-In 1999, Stewart further extended the framework to apply to civilisations. What parts of civilisation change over time? How quickly do they change? How do they interact?
+In 1999, Stewart further extended the framework to apply to civilisations. **What parts of civilisation change over time? How quickly do they change? How do they interact?**
 
 [He called this framework pace layering, and proposed "six significant levels of pace and size in the working structure of a robust and adaptable civilization."](https://jods.mitpress.mit.edu/pub/issue3-brand "pace")
 
@@ -75,7 +75,7 @@ Change happens across all of the layers, but each at their own pace:
 
 > In a durable society, each level is allowed to operate at its own pace, safely sustained by the slower levels below and kept invigorated by the livelier levels above.
 
-I'm assuming the above means that change isn't bad, and in fact is desirable. A faster moving layer can provide energy to re-energise a slower moving one into a better direction. However, it needs to respect the pace of the slower moving layer:
+I'm assuming the above means that change isn't bad, and in fact is desirable. A faster moving layer can provide energy to re-energise a slower moving one into a better direction. **However, it needs to respect the pace of the slower moving layer:**
 
 > If commerce, for example, is allowed by governance and culture to push nature at a commercial pace, then all-supporting natural forests, fisheries, and aquifers will be lost.
 
@@ -83,7 +83,7 @@ I'm assuming the above means that change isn't bad, and in fact is desirable. A 
 
 > In the Soviet Union, governance tried to ignore the constraints of culture and nature while forcing a five-year-plan infrastructure pace on commerce and art. Thus cutting itself off from both support and innovation, it was doomed.
 
-The above are all examples of how we shouldn't push slow layers to move more quickly. Is there a case where we shouldn't push fast layers to move more slowly? Put another way, when do we want to accelerate change in the faster layers of fashion, commerce, or infastructure? Or should we always aim to reduce our velocity? There doesn't seem to be a clear answer from the article.
+The above are all examples of how we shouldn't push slow layers to move more quickly. Is there a case where we shouldn't push fast layers to move more slowly? Put another way, when do we want to accelerate change in the faster layers of fashion, commerce, or infrastructure? Or should we always aim to reduce our velocity? There doesn't seem to be a clear answer from the article.
 
 Separately, Stewart points out how "as people get older, their interests tend to migrate to the slower parts of the continuum." Fashion is less of a concern compared to the culture you want to pass on to your grandkids. This seems true anecdotally, though the research on this seems [mixed](https://www.journals.uchicago.edu/doi/abs/10.1086/706889?mobileUi=0&journalCode=jop "research") \[2\].
 
@@ -95,7 +95,7 @@ Commerce absorbs that shock and influences infrastructure. New wireless tech is 
 
 Infrastructure often can't be funded entirely by commerce, and gets governmental support \[3\]. Governments allocate capital to fund construction of the systems needed to support the new tech.
 
-Governments then craft the culture of a country over time. Their implicit or explicit incentives shape how society should feel about phone usage, ranging from nonchalence to [mobile game time restrictions.](https://www.scmp.com/news/china/society/article/3036444/chinas-minors-face-new-limits-mobile-games-war-gaming-addiction "china")
+Governments then craft the culture of a country over time. Their implicit or explicit incentives shape how society should feel about phone usage, ranging from nonchalance to [mobile game time restrictions.](https://www.scmp.com/news/china/society/article/3036444/chinas-minors-face-new-limits-mobile-games-war-gaming-addiction "china")
 
 Culture then nudges nature. Given the scale of nature though, we need to be careful what we're disturbing here.
 
