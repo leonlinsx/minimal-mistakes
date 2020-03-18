@@ -30,9 +30,11 @@ published: false
 
 Survival is the only road to riches in investing. Consequences are more important than probabilities. 
 
-**Peter Bernstein interview with Jason Zweig**
+**Peter Bernstein interview by Jason Zweig**
 
-Peter Bernstein was a famous author and asset manager who died in 2009. He's best known for "Against The Gods: The Remarkable Story of Risk", a book on the history of risk which has sold >500k copies. [Jason Zweig, the famous finance journalist,](https://jasonzweig.com/ "Jason") interviewed him a long time ago back in 2004. As with most good interviews, some of the advice is timeless, and perhaps even more applicable in this time of crisis. Highlights below \[1\]: 
+Peter Bernstein was a famous author and asset manager who died in 2009. He's best known for "Against The Gods: The Remarkable Story of Risk", a book on the history of risk which has sold >500k copies. 
+
+[Jason Zweig, the famous finance journalist,](https://jasonzweig.com/ "Jason") interviewed him a long time ago back in 2004. As with most good interviews, some of the advice is timeless, and perhaps even more applicable in this time of crisis. Highlights below \[1\]: 
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
@@ -93,6 +95,8 @@ I'm in agreement that high debt loads eventually lead to a problem due to inabil
 > Q: Over the course of your career, what are the most important things you’d say you had to unlearn?
 
 > A: You have to understand that being wrong is part of the process. And I try to shut up, you know, at cocktail parties. \[...\] There’s always somebody around who looks very smart. I’ve learned that the people who are the most smart aren’t going to make it. \[...\] You just have to be prepared to be wrong and to understand that your ego had better not depend on being proven right. Being wrong is part of the process. It’s really why the market fluctuates.
+
+But make sure that your being wrong doesn't kill you. 
 
 **Footnotes**
 1. Sometimes I might paraphrase the article in order to make the text flow better, just fyi
