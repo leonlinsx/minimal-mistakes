@@ -34,7 +34,7 @@ Survival is the only road to riches in investing
 
 Peter Bernstein was a famous author and asset manager who died in 2009. He's best known for ["Against The Gods: The Remarkable Story of Risk"](https://www.amazon.com/Against-Gods-Remarkable-Story-Risk/dp/0471295639 "ATG"), a book on the history of risk which has sold >500k copies. 
 
-[Jason Zweig, the famous finance journalist,](https://jasonzweig.com/ "Jason") interviewed him a long time ago back in 2004. As with most good interviews, some of the advice is timeless, and perhaps even more applicable in this time of crisis. Highlights below \[1\], which I’ve separated into three main themes of: 
+[Jason Zweig, the famous finance journalist,](https://jasonzweig.com/ "Jason") [interviewed him a long time ago back in 2004.](https://jasonzweig.com/a-long-chat-with-peter-l-bernstein/ "Peter") As with most good interviews, some of the advice is timeless, and perhaps even more applicable in this time of crisis. Highlights below \[1\], which I’ve separated into three main themes of: 
 
   1. Recognition of ignorance
   2. Survival is the only road to riches
