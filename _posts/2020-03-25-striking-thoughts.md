@@ -40,7 +40,7 @@ Bruce Lee remains a well known name even now, more than 30 years after his death
 
 I've highlighted quotes that stood out to me below, and find that they fall into a few broader categories of how to view the world: 
 
-  - Being flexibile
+  - Being flexible
   - Continuously changing
   - Reducing pride
   - Taking responsibility
@@ -54,7 +54,7 @@ I've highlighted quotes that stood out to me below, and find that they fall into
 
 > We are always in a process of becoming and **nothing** is fixed. Have no rigid system in you, and you'll be flexible to change with the ever changing. Open yourself and flow, my friend. Flow in the total openness of the living moment
 
-For me, this was the most prominent idea from the book. Bruce encourages flexibility and adaptability, both in his martial arts and his way of living. Jeet Kune Do, the fighting style he created, was not meant to have forms or patterns. In his personal life, he adapted ideas from everywhere, as long as they worked. 
+**For me, this was the most prominent idea from the book.** Bruce encourages flexibility and adaptability, both in his martial arts and his way of living. Jeet Kune Do, the fighting style he created, was not meant to have forms or patterns. In his personal life, he adapted ideas from everywhere, as long as they worked. 
 
 I agree with being flexible, and the part that's problematic for me is where to draw the limit on the lack of a system. Like many others, I use frameworks to analyse various situations, be they finance or life decisions. It seems like Bruce is advocating against the use of such frameworks as they'll be too rigid. I see where he's coming from, and the right answer to any situation is "it depends" \[1\], but I feel uncomfortable accepting the conclusion that we should avoid frameworks altogether. 
 
@@ -66,9 +66,11 @@ If that's not the case though, how do we decide when to use a framework and when
 
 > The mind must be wide open in order to function freely in thought. For a limited mind cannot think freely
 
-The water and cup metaphor is part of a longer quote that I'll link in the footnote \[2\]. Related to being flexible, Bruce advocates the willingness to accept different points of view. We've talked before about [steelmanning](https://rationalwiki.org/wiki/Straw_man#Steelmanning "steel") an opposing point of view, which is to figure out the strongest possible form of the argument against what you believe. We're all too subsceptible to believing we're right. Instead, we should aim for the opposite and find ways we're wrong. If you're not open minded, you can't change for the better.
+The water and cup metaphor is part of a longer quote that I'll link in the footnote \[2\]. Related to being flexible, Bruce advocates the willingness to accept different points of view. If you’re narrow minded, you’ll miss out on things you need to know the most.
 
-One of the reasons why I write actually is to give the opportunity for others to prove that I'm wrong. If I'm mistaken about something, I want to know as soon as possible. Sure, we might not agree on the issue after debating it, but at least I'm now more aware of points that I could have missed before.
+We've talked before about [steelmanning](https://rationalwiki.org/wiki/Straw_man#Steelmanning "steel") an opposing point of view, which is to figure out the strongest possible form of the argument against what you believe. We're all too susceptible to believing we're right. Instead, we should aim for the opposite and find ways we're wrong. **If you're not open minded, you can't change for the better.**
+
+One of the reasons why I write actually is to give the opportunity for others to prove that I'm wrong. If I'm mistaken about something, I want to know as soon as possible. Sure, we might not agree on the issue even after debating it, but at least I'm now more aware of points that I could have missed before.
 
 **Continuous change and learning**
 
@@ -84,21 +86,21 @@ This naturally flows from being flexible. Since Bruce advocates for the abolishm
 
 There's a tension in man, and we should not aim for either extreme. He emphasises that it is yin **and** yang, not yin **or** yang. The distinction here is that both are complements and cannot be treated separately from each other.
 
-I'm not big on mysticism, so I'll reserve comment on the yin and yang concept. However, I do agree with the general points of continuous change and growing from it. Interestingly, this implies that we should be critical of all our historical actions, since we now better now. Always be cringing.
+I'm not big on mysticism, so I'll reserve comment on the yin and yang concept. However, I do agree with the general points of continuous change and growing from it. Interestingly, this implies that we should be critical of all our historical actions, since we know better now. Always be cringing.
 
 **Reducing pride and ego**
 
 > It is the ego that stands rigidly against things coming from the outside, and it is this "ego rigidity" that makes it impossible for us to accept everything that confronts us
 
-> There is fear and insecurity in pride, for when one aims at being highly esteemed, and having achieved such status, he is automaticallly involved in the fear of losing one's status. Then protection of his status appears to be his most important need, and this creates anxiety
+> There is fear and insecurity in pride, for when one aims at being highly esteemed, and having achieved such status, he is automatically involved in the fear of losing one's status. Then protection of his status appears to be his most important need, and this creates anxiety
 
 > In order to realise our true self we must be willing to live without being dependent upon the opinion of others. When we are completely self-sufficient we can have no fear of not being esteemed by others
 
-Some recently popular books that share this line of thinking include [Ego is the Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818 "Ego") and [The subtle art of not giving a fuck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713 "Subtle"). I haven't read either, though I suspect the main message is self explanatory. 
+Some recently popular books that share this line of thinking include [Ego is the Enemy](https://www.amazon.com/Ego-Enemy-Ryan-Holiday/dp/1591847818 "Ego") and [The subtle art of not giving a fuck](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713 "Subtle"). I haven't read either, though I suspect the main messages are self-explanatory. 
 
 One day I'll write about status games and how a lot of life is [signalling](https://fs.blog/2019/11/signaling-countersignaling/ "FS") that we're better than others. I agree that aiming for no ego, a beginner's mindset, and not caring about others is a goal. I'm less certain how realistic that is, since we all desire recognition from others. Still something to strive for though.
 
-**Taking responsibility for the self**
+**Taking responsibility for yourself**
 
 > What does self-willed mean? Hell, isn't it knowing above all, that, indeed, one is the captain of one's soul, the master of one's life? **To be real, to accept responsibility for oneself**
 
@@ -106,7 +108,7 @@ One day I'll write about status games and how a lot of life is [signalling](http
 
 As adults, the inconvenient truth is that we're solely responsible for our growth, or lack of it. It is up to you to craft your own narrative for your life. If you have a self-defeating story, that's what everyone else will see.  
 
-I'm not saying we all have equal opportunities. The world isn't fair, and never will be. Some people have it easy, some tremendously tough. Get over it. If you don't, you'll be stuck forever waiting for a lucky chance that you won't even be able to capitalise on fully. 
+I'm not saying we all have equal opportunities. The world isn't fair, and never will be. Some people have it easy, some tremendously tough. **Get over it.** If you don't, you'll be stuck forever waiting for a lucky chance that you won't even be able to capitalise on fully. 
 
 **Growing from failure**
 
@@ -120,7 +122,7 @@ I'm not saying we all have equal opportunities. The world isn't fair, and never 
 
 Similarly to the points on ego, these are easy to say and harder to practice. We all intuitively know that failure is necessary for eventual success, but that initial phase is painful. I've avoided pursuing some hobbies for years, just because I know I'll be bad at first \[3\]. The lessons here are simple but not easy.
 
-Another point I want to highlight is the last point about outcome vs attempts. I'm a fan of small scale experimentation, when the stakes are low. As long as you're not [risking your survival](https://avoidboringpeople.substack.com/p/consequences-are-more-important-than "risk"), aiming big is better than aiming small. Assymmetric experimentation means your successes, when they happen, will likely far outweigh your failures. 
+Another point I want to highlight is the last point about outcome vs attempts. I'm a fan of small scale experimentation, when the stakes are low. As long as you're not [risking your survival](https://avoidboringpeople.substack.com/p/consequences-are-more-important-than "risk"), aiming big is better than aiming small. Asymmetric experimentation means your successes, when they happen, will likely far outweigh your failures. 
 
 **Other**
 
@@ -134,16 +136,16 @@ Bruce was already successful, so I'm unsure how relevant that first quote is for
 
 **Concluding thoughts**
 
-Many of Bruce's points are related. He emphasises flexibility first and foremost. One should be open minded, willing to change, aim to learn, reduce one's ego, and recover from failure. There is no perfect state, but a continuous cycle of growth and self-improvement. 
+Many of Bruce's beliefs are related. He emphasises **flexibility first and foremost.** One should be open minded, willing to change, aim to learn, reduce one's ego, and recover from failure. There is no perfect state, but a continuous cycle of growth and self-improvement. 
 
 Don't take his word for it though. In the end, Bruce wants you to think for yourself: 
 
 > Truth is not to be found in a book. Furthermore, such a book merely presents a barrier to progress in your search for truth. Independent inquiry is needed in your search for truth, not dependence on anyone else's view or a mere book
 
-**Footnote**
+**Footnotes**
 1. Is that always the case though? Well, it depends...
 2. “Be like water making its way through cracks. Do not be assertive, but adjust to the object, and you shall find a way around or through it. If nothing within you stays rigid, outward things will disclose themselves. Empty your mind, be formless. Shapeless, like water. If you put water into a cup, it becomes the cup. You put water into a bottle and it becomes the bottle. You put it in a teapot, it becomes the teapot. Now, water can flow or it can crash. Be water, my friend.”
-3. Well, I'm hopeful I'm not bad at them forever.
+3. Well, I'm hopeful I'm not bad at them forever...
 
 
 *If you liked this, sign up for my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
