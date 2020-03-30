@@ -34,7 +34,17 @@ published: false
 
 **Question of the month**
 
-If you have been affected by the crisis and think I could help, please reply directly to this email and we'll problem solve together. 
+If you have been affected by the crisis and think I could help, please reply directly to this email and we'll problem solve together.
+
+**Fluctuat nec mergitur**
+
+> If I can stop one heart from breaking,
+> I shall not live in vain;
+> If I can ease one life the aching,
+> Or cool one pain,
+> Or help one fainting robin
+> Unto his nest again,
+> I shall not live in vain.
 
 **Shoutouts**
 
