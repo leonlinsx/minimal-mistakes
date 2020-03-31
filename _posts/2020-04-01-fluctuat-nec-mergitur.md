@@ -48,6 +48,8 @@ What I can predict is that this crisis will show people for who they really are.
 
 Choose which group you want to be. Choose wisely.
 
+The city of Paris has a motto, [Fluctuat nec mergitur,](https://en.wikipedia.org/wiki/Coat_of_arms_of_Paris "Paris") meaning "tossed by the waves, but does not sink". I'd like to believe this applies to all of us. We're in for a rocky time, but will weather this storm as we always have, by helping each other.
+
 I have no doubt that we will pull through this. Bruised but not broken, we'll recover having reassessed who and what matters most. And one day we'll be telling stories of how we came together as a community and survived. 
 
 I also have no doubt that these will sound like hollow platitudes if you've been personally affected by the crisis. In my biggest failures, I heard them all - time heals all wounds, failure is one step to success, losing opens up new opportunities. I instinctively knew them to be true, but honestly didn't give a shit. 
@@ -60,7 +62,7 @@ If you do need help, there are some resources in the "Other" section below that 
 
 And if you're fortunate enough to be able to help, the "Other" section also highlights ways to do so. 
 
-The city of Paris has a motto, [Fluctuat nec mergitur,](https://en.wikipedia.org/wiki/Coat_of_arms_of_Paris "Paris") meaning "tossed by the waves, but does not sink". We're in for a rocky time, but will weather this storm as we always have, by helping each other. Reach out, even if it's just to one person. You can make a larger difference than you think. 
+In these trying times, we'll be tossed by waves of fear and hopelessness, but will not sink to despair. If we all help rather than harm, we can get through this. Reach out, even if it's just to one person. You can make a larger difference than you think. 
 
 > If I can stop one heart from breaking,
 > I shall not live in vain;
