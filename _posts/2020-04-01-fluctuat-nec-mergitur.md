@@ -36,7 +36,7 @@ published: false
 
 If you have been affected by the crisis and think I could help, please reply directly to this email and we'll problem solve together.
 
-****
+**Designing a better marketplace feedback system**
 
 You use rating systems all the time: apps on mobile, drivers on uber, restaurants on google maps \[1\]. You've also probably noticed how most of them are flawed, not giving you enough precise information to decide if the thing is actually good. A 4.5 star rating doesn't mean much when everyone is also above 4 stars. [Josh Breinlinger of Jackson Square](https://acrowdedspace.com/ "JSV") discusses why this happens to marketplaces [here](https://www.slideshare.net/jbreinlinger/marketplace-pricing-and-feedback "Feedback") and proposes some solutions.
 
@@ -81,6 +81,8 @@ If you're building a marketplace, Josh's points can be summarised as:
   1. evaluate actual rather than potential quality
   2. use relative rather than absolute ratings to get more granularity
   3. use other signals beyond user feedback scores, such as actual behaviour or response rate
+
+
 
 **Fluctuat nec mergitur**
 
@@ -134,7 +136,7 @@ In these trying times, we'll be tossed by waves of fear and hopelessness, but wi
 
 1. I have a personal bias against yelp due to anecdotes of restaurant complaints
 2. I believe it's the difference between a linear (screen once) vs a polynomial (evaluate constantly) function but someone correct me if I'm wrong here
-3. For example, 95% 5 star ratings and 5% 1 star ratings give an average of 4.8, which many people would think is significantly lower than a 5.
+3. For example, 95% 5 star ratings and 5% 1 star ratings give an average of 4.8, which many people would feel is significantly lower than a 5 but is probably not
 30. Doctor Who
 31. I was going to write about the trend of niche irl communities that have been gaining popularity this month such as Not Boring Club, Inter Intellect, Get Real etc. Given the situation though I'll reserve that for later.
 32. Emily Dickinson
