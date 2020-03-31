@@ -44,11 +44,11 @@ If you have been affected by the crisis and think I could help, please reply dir
 
 I can't predict when this crisis will end. I hope it's soon, though I fear it's not.
 
-What I can predict is that this crisis will show people for who they really are. There will be [those that help](https://www.washingtonpost.com/world/europe/italy-coronavirus-doctors-retired/2020/03/28/075dbda0-6f0f-11ea-a156-0048b62cdb51_story.html "doctor") and [those that hinder](https://www.independent.ie/world-news/coronavirus/they-could-kill-someone-gang-of-youths-cough-on-nurse-39074300.html "youth"). Those that keep their word and those that break it. Those that make their reputation and those that disgrace it. 
+What I can predict is that this crisis will show people for who they really are. There will be [those that help](https://www.washingtonpost.com/world/europe/italy-coronavirus-doctors-retired/2020/03/28/075dbda0-6f0f-11ea-a156-0048b62cdb51_story.html "doctor") and [those that harm](https://www.independent.ie/world-news/coronavirus/they-could-kill-someone-gang-of-youths-cough-on-nurse-39074300.html "youth"). Those that keep their word and those that break it. Those that make their reputation and those that disgrace it. 
 
 Choose which group you want to be. Choose wisely.
 
-I have no doubt that we will pull through this. Bruised but not broken, we'll recover having reassessed who and what matters most. And one day we'll be telling stories of how we came together as a community and survived.
+I have no doubt that we will pull through this. Bruised but not broken, we'll recover having reassessed who and what matters most. And one day we'll be telling stories of how we came together as a community and survived. 
 
 I also have no doubt that these will sound like hollow platitudes if you've been personally affected by the crisis. In my biggest failures, I heard them all - time heals all wounds, failure is one step to success, losing opens up new opportunities. I instinctively knew them to be true, but honestly didn't give a shit. 
 
