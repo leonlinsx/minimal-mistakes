@@ -54,7 +54,9 @@ I also have no doubt that these will sound like hollow platitudes if you've been
 
 And that's ok. It's ok to be feeling what you're feeling now. Frightened. Distraught. Lost. 
 
-But know that those feelings will fade, and you're better than your temporary temperaments. [For man is not made for defeat. A man can be destroyed but not defeated.](https://www.goodreads.com/quotes/111352-but-man-is-not-made-for-defeat-he-said-a "Defeat") You'll rise again, should you choose. If you need help, there are some resources in the "Other" section below that might be worth checking out.
+But know that those feelings will fade, and you're better than your temporary temperaments. [For man is not made for defeat. A man can be destroyed but not defeated.](https://www.goodreads.com/quotes/111352-but-man-is-not-made-for-defeat-he-said-a "Defeat") You'll rise again, should you choose. People are ready to help.
+
+If you do need help, there are some resources in the "Other" section below that might be worth checking out.
 
 And if you're fortunate enough to be able to help, the "Other" section also highlights ways to do so. 
 
