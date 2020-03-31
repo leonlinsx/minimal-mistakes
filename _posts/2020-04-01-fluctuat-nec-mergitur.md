@@ -52,7 +52,7 @@ The city of Paris has a motto, [Fluctuat nec mergitur,](https://en.wikipedia.org
 
 I have no doubt that we will pull through this. Bruised but not broken, we'll recover having reassessed who and what matters most. And one day we'll be telling stories of how we came together as a community and survived. 
 
-I also have no doubt that these will sound like hollow platitudes if you've been personally affected by the crisis. In my biggest failures, I heard them all - time heals all wounds, failure is one step to success, losing opens up new opportunities. I instinctively knew them to be true, but honestly didn't give a shit. 
+I also have no doubt that these will sound like hollow platitudes if you've been personally affected by the crisis. In my biggest failures, I heard them all - time heals all wounds, failure is one step to success, losing opens up new opportunities. I instinctively knew them to be true, but honestly didn't give a shit then. 
 
 And that's ok. It's ok to be feeling what you're feeling now. Frightened. Distraught. Lost. 
 
