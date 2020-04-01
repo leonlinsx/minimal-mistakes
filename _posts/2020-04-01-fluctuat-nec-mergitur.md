@@ -28,9 +28,9 @@ published: false
 
 **Takeaways**
 
-1. Ditch the 5 star rating system in favour of relative rankings, user behaviour, and response rates
+1. Design better rating systems using relative rankings, user behaviour, and response rates
 2. Financial crises are about liquidity and not capital
-3. The corona crisis will define a generation
+3. The corona crisis will define a generation; choose how it defines you
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
@@ -52,29 +52,33 @@ To make sure we're on the same page, we'll define a marketplace as a [platform t
 
 Most marketplaces have some quality screening process at the start, and once you pass that you rarely get taken off the platform. Josh is saying that marketplaces should focus on the optimisation, retention, and expulsion processes more than the screening process, as these will be more effective in maintaining quality. **It's the difference between measuring potential vs actual service by the provider.**
 
-This makes sense, and **the difficulty here is one of scale**. If you run a screen and then don't care about quality after, you only need to run it once for every new participant. If you invest in regular quality evaluations, you'll have to run it multiple times, on a participant base that gets larger over time. The costs of doing the latter are likely to continue scaling with your growth as well \[2\].
+This makes sense, and **the difficulty here is one of scale**. If you run a screen and then don't care about quality after, you only need to run it once for every new participant. If you invest in regular quality evaluations, you'll have to run it multiple times, on a participant base that gets larger over time. The costs of doing the latter are likely to continue scaling with your growth as well, not something anyone wants to hear \[2\].
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/JSV/JSV 2 five star bad remove.png)
 
 > 5 star ratings can separate bad sellers but don't have enough granularity to separate good vs great
 
-5 star systems give people a false sense of precision. Since people choose 5 as the default, "average" rating, **differentiating between good vs great is close to impossible.** Even if the ratings start out effective, [grade inflation over time leads to their irrelevance.](http://john-joseph-horton.com/papers/longrun.pdf "Reputation")
+5 star systems give people a false sense of precision. Since people choose 5 as the default, "average" rating, **differentiating between good vs great is close to impossible.** You can get a sense of the terrible sellers, since a 1 star review pulls down the average dramatically \[3\], but the difference between a 4.7 vs a 4.5 is likely [noise rather than signal.](https://www.quora.com/Whats-a-simple-way-to-explain-the-signals-vs-noise-idea "signal") If you want to know the best sellers, and most people do, 5 star ratings aren't that helpful.
 
-You can get a sense of the terrible sellers, since a 1 star review pulls down the average dramatically \[3\], but the difference between a 4.7 vs a 4.5 is likely [noise rather than signal.](https://www.quora.com/Whats-a-simple-way-to-explain-the-signals-vs-noise-idea "signal") Since you'd prefer knowing who the best sellers are rather than the worst, 5 star ratings aren't that helpful.
+Even if the ratings start out effective, [grade inflation over time leads to their irrelevance.](http://john-joseph-horton.com/papers/longrun.pdf "Reputation") The paper there shows how raters feel pressure to give "above average" ratings, continuously pushing the average higher. Think about how reviews for movies, liquor, games all cluster towards the higher end of the range \[4\]. We aren't well calibrated to give ratings on an absolute basis. 
 
-Something I wonder about is when the assumption of the normal distribution of sellers doesn't hold. I can't think of many cases at the moment, outside of artificially restricted platforms where the selection process is exclusive rather than inclusive. For example, if you were to create [a membership club for top restaurants,](https://www.inhousenewyork.com/ "inhouse") the sellers wouldn't be normally distributed. This doesn't affect the validity of the point though, and perhaps even supplements it, since you want even finer granularity between the top sellers. 
+Josh assumes a normal distribution of sellers. Are there cases when this doesn't hold? I can't think of many at the moment, outside of artificially restricted platforms where the selection process is exclusive rather than inclusive. For example, if you were to create [a membership club for top restaurants,](https://www.inhousenewyork.com/ "inhouse") the sellers wouldn't be normally distributed. This doesn't affect the validity of the point though, and perhaps even supplements it, since you want even finer granularity between the top sellers. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/JSV/JSV 3 relative vs absolute.png)
 
 > A relative rating rather than an absolute will be better in separating the good from great
 
-Josh gives the example of [ELO ratings,](https://en.wikipedia.org/wiki/Elo_rating_system "ELO") most commonly used in chess, as a way to mitigate this review problem. ELO ratings compare the results of a competition between two players, awarding points for wins and deducting points for losses. By making ratings a result of comparing one game or one seller **relative to another**, we'll get better quality information of who is good and who is great.
+Josh gives the example of [ELO ratings,](https://en.wikipedia.org/wiki/Elo_rating_system "ELO") most commonly used in chess, as a way to mitigate this review problem. ELO ratings compare the results of a competition between two players, awarding points for wins and deducting points for losses. By making ratings a result of comparing people **relative to another**, we'll get better quality information of who is good and who is great.
 
 Besides user feedback, Josh also suggests to **use actual buyer behaviour** as another signal of quality. If users are presented 3 different babysitting providers and consistently pick one, that provider should be given a better score. Sellers that are consistently closing sales will be seen more often.
 
 This does create a problem where new entrants find it hard to break in. For example, Amazon's first page of organic results usually returns the larger, longer tenured sellers. This is good for the marketplace in the short term since buyers can trust in the quality of the product. I'm less certain it's good in the long term since it might hide new sellers that have better quality at a lower price, who never get enough traction to survive.
 
-In a separate post, Josh talks about **[using response rate as a quality signal as well.](https://acrowdedspace.com/post/186004771432/response-rate-is-a-quality-signal "response rate")** All else equal, having a higher response rate in feedback means the feedback is better quality. A TV series that has 4 stars with a 100% response rate is better than a series that has 4 stars with a 10% response rate. The idea behind this is whether users like the thing enough that they can overcome the initial hurdle of providing feedback. If they didn't have a strong feeling on the subject, they wouldn't bother rating. Ambivalence is bad; the opposite of love is not hate but being ignored.
+In a separate post, Josh talks about **[using response rate as a quality signal as well.](https://acrowdedspace.com/post/186004771432/response-rate-is-a-quality-signal "response rate")** All else equal, having a higher response rate in feedback means the feedback is better quality. A TV series that has 4 stars with a 100% response rate is better than a series that has 4 stars with a 10% response rate. 
+
+The idea behind this is whether users like the thing enough that they can overcome the initial hurdle of providing feedback. If they didn't have a strong feeling on the subject, they wouldn't bother rating. Ambivalence is bad; the opposite of love is not hate but being ignored.
+
+The tricky part comes when one seller has a lower rating but higher response rate than another. You could make the argument that the higher response rate is a better indicator of quality, but you could also say that more people were motivated enough to give it a lower rating. It does depend on your marketplace, and perhaps you could arbitrarily define how much response rate converts into a point on ratings.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/JSV/JSV 4 response rate.png)
 
@@ -88,7 +92,7 @@ If you're building a marketplace, Josh's points can be summarised as:
 
 **Misunderstanding financial crises**
 
-I read ["Misunderstanding financial crises" by Gary Gorton](https://www.amazon.com/Misunderstanding-Financial-Crises-Dont-Coming/dp/019992290X "AMZN") a few years back. It has good points, and could be rewritten to have more structure and to be more clear. Highlights below: 
+I read ["Misunderstanding financial crises" by Gary Gorton](https://www.amazon.com/Misunderstanding-Financial-Crises-Dont-Coming/dp/019992290X "AMZN") a few years back. It has good points on why financial crises occur, and could be rewritten to have more structure and to be more clear. Highlights below: 
 
 > Financial crises all have the same root cause - bank runs and sharp reductions in demand for deposits in the banking system. Crises occur when market participants mistrust the value of bank debt, and there's a sudden large demand for cash from the financial institution
 
@@ -98,9 +102,13 @@ I read ["Misunderstanding financial crises" by Gary Gorton](https://www.amazon.c
 
 Banks are in the business of borrowing and lending money, both to consumers (retail) and companies. When you or your company deposits money into the bank, you're giving the bank a loan with the expectation you'll be able to withdraw that cash in the future. Banks in turn lend out more money than they have, in what's known as [fractional reserve banking](https://en.wikipedia.org/wiki/Fractional-reserve_banking "bank"), with the expectation that not everyone will want to withdraw at the same time. This allows the supply and velocity of money (credit) in the economy to increase and provides liquidity.
 
-Consumer bank runs are largely a thing of a past, due to 1) [FDIC deposit insurance](https://www.fdic.gov/deposit/deposits/faq.html "FDIC") and 2) the size of consumer deposits vs company deposits. It's no longer like [the 1920s where 2 banks would fail a day](https://econproph.com/2009/10/26/fdic-managing-the-crisis-the-fdic-and-rtc-experience/ "1920"). The bigger risk now is bank runs from institutions, be they companies or investment firms. In times of crisis, these firms want to get their cash back. **When they all want it at the same time, it's impossible for the banks to fulfil that demand.**
+Consumer bank runs are largely a thing of a past, due to 1) [FDIC deposit insurance](https://www.fdic.gov/deposit/deposits/faq.html "FDIC") and 2) the size of consumer deposits vs company deposits. It's no longer like [the 1920s where 2 banks would fail a day](https://econproph.com/2009/10/26/fdic-managing-the-crisis-the-fdic-and-rtc-experience/ "1920"). 
 
-I'll skip over the nuances of how these companies keep their cash, since the above example is sufficient to make the point that **liquidity is the cause of crises, not capital.** The bank could still have a lot of illiquid assets (capital), but be unable to provide enough cash on demand. If you've read about the terms [repo,](https://www.quora.com/Where-do-billion-dollar-companies-keep-their-money "repo") commercial paper, revolving credit lately, those all fall under ways companies handle their cash; a simplistic way of thinking about them is that banks have obligations to these companies, and companies are now getting their cash back \[20\].
+The bigger risk now is bank runs from institutions, be they companies or investment firms. In times of crisis, these firms want to get their cash back. **When they all want it at the same time, it's impossible for the banks to fulfil that demand.**
+
+I'll skip over the nuances of how these companies keep their cash; if you've read about the terms [repo,](https://www.quora.com/Where-do-billion-dollar-companies-keep-their-money "repo") commercial paper, or revolving credit lately, those would fall under that umbrella. To simplify, banks have obligations to companies in a variety of forms, and companies are now calling on those obligations to get cash \[5\].  
+
+The main point here is that **liquidity is the cause of crises, not capital.** The bank could still have a lot of capital in the form of illiquid assets, but be unable to provide enough cash on demand at that moment. And the bank can't even sell the less liquid assets at a good price, since it's a crisis, resulting in a downward spiral of liquidity.
 
 > Markets are liquid when there is nothing to know or nothing worth knowing; when there aren't secrets
 
@@ -169,7 +177,8 @@ In these trying times, we'll be tossed by waves of fear and hopelessness, but wi
 1. I have a personal bias against yelp due to anecdotes of restaurant complaints
 2. I believe it's the difference between a linear (screen once) vs a polynomial (evaluate constantly) function but someone correct me if I'm wrong here
 3. For example, 95% 5 star ratings and 5% 1 star ratings give an average of 4.8, which feels significantly different from 5 but isn't really
-20. Why don't companies just keep cash, like you and I? Firstly, there's lack of deposit insurance that will cover balances that large. Secondly, that cash would earn less return. Hence companies enter into repo, treasuries, and other arrangements, in which they exchange their cash for short term liabilities from others. When people think Google has $100bn of cash, that's true - kinda. It does have that amount in total liquid assets, but only a fraction of it in cash equivalents, and the majority in securities. See their [2019 10K page 50, cash and cash equivalents vs marketable securities](https://abc.xyz/investor/static/pdf/20200204_alphabet_10K.pdf?cache=cdd6dbf "10k")
+4. Yeah, no prizes for guessing what I've been up to in isolation
+5. Why don't companies just keep cash, like you and I? Firstly, there's lack of deposit insurance that will cover balances that large. Secondly, that cash would earn less return. Hence companies enter into repo, treasuries, and other arrangements, in which they exchange their cash for short term liabilities from others. When people think Google has $100bn of cash, that's true - kinda. It does have that amount in total liquid assets, but only a fraction of it in cash equivalents, and the majority in securities. See their [2019 10K page 50, cash and cash equivalents vs marketable securities](https://abc.xyz/investor/static/pdf/20200204_alphabet_10K.pdf?cache=cdd6dbf "10k")
 21. The book also discusses four types of potential costs from financial crises: 1) deadweight loss from fiscal transfers from taxpayers to institutions, 2) output loss and increase in unemployment, 3) misallocation of resources due to actions taken to ameliorate the crisis, 4) costs to social well being. We can reduce these costs with good policy but cannot eliminate them, and should expect these to occur in every crisis
 30. Doctor Who
 31. I was going to write about the trend of niche irl communities that have been gaining popularity this month such as Not Boring Club, Inter Intellect, Get Real etc. Given the situation though I'll reserve that for later.
