@@ -29,7 +29,7 @@ published: false
 **Takeaways**
 
 1. Ditch the 5 star rating system in favour of relative rankings, user behaviour, and response rates
-2. Financial crises are aobut liquidity and not capital
+2. Financial crises are about liquidity and not capital
 3. The corona crisis will define a generation
 
 <div class="iframe-container-4x3">
@@ -50,15 +50,15 @@ You use rating systems all the time: apps on mobile, drivers on uber, restaurant
 
 To make sure we're on the same page, we'll define a marketplace as a [platform that matches buyers and sellers](https://a16z.com/marketplace-100/ "a16z"). Amazon, AirBnB, Upwork are all marketplaces.
 
-Most marketplaces have some quality screening process at the start, and once you pass that you rarely get taken off the platform. Josh is saying that marketplaces should focus on the optimisation, retention, and expulsion processes more than the screening process, as these will be more effective in maintaining quality. It's the difference between measuring potential vs actual service by the provider.
+Most marketplaces have some quality screening process at the start, and once you pass that you rarely get taken off the platform. Josh is saying that marketplaces should focus on the optimisation, retention, and expulsion processes more than the screening process, as these will be more effective in maintaining quality. **It's the difference between measuring potential vs actual service by the provider.**
 
-This makes sense, and the difficulty here is one of scale. If you run a screen and then don't care about quality after, you only need to run it once for every new participant. If you invest in regular quality evaluations, you'll have to run it multiple times, on a participant base that gets larger over time. The costs of doing the latter are likely to continue scaling with your growth as well \[2\].
+This makes sense, and **the difficulty here is one of scale**. If you run a screen and then don't care about quality after, you only need to run it once for every new participant. If you invest in regular quality evaluations, you'll have to run it multiple times, on a participant base that gets larger over time. The costs of doing the latter are likely to continue scaling with your growth as well \[2\].
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/JSV/JSV 2 five star bad remove.png)
 
 > 5 star ratings can separate bad sellers but don't have enough granularity to separate good vs great
 
-5 star systems give people a false sense of precision. Since people choose 5 as the default, "average" rating, differentiating between good vs great is close to impossible. Even if the ratings start out effective, [grade inflation over time leads to their irrelevance.](http://john-joseph-horton.com/papers/longrun.pdf "Reputation")
+5 star systems give people a false sense of precision. Since people choose 5 as the default, "average" rating, **differentiating between good vs great is close to impossible.** Even if the ratings start out effective, [grade inflation over time leads to their irrelevance.](http://john-joseph-horton.com/papers/longrun.pdf "Reputation")
 
 You can get a sense of the terrible sellers, since a 1 star review pulls down the average dramatically \[3\], but the difference between a 4.7 vs a 4.5 is likely [noise rather than signal.](https://www.quora.com/Whats-a-simple-way-to-explain-the-signals-vs-noise-idea "signal") Since you'd prefer knowing who the best sellers are rather than the worst, 5 star ratings aren't that helpful.
 
@@ -68,13 +68,13 @@ Something I wonder about is when the assumption of the normal distribution of se
 
 > A relative rating rather than an absolute will be better in separating the good from great
 
-Josh gives the example of [ELO ratings,](https://en.wikipedia.org/wiki/Elo_rating_system "ELO") most commonly used in chess, as a way to mitigate this review problem. ELO ratings compare the results of a competition between two players, awarding points for wins and deducting points for losses. By making ratings a result of comparing one game or one seller to another, we'll get better quality information of who is good and who is great.
+Josh gives the example of [ELO ratings,](https://en.wikipedia.org/wiki/Elo_rating_system "ELO") most commonly used in chess, as a way to mitigate this review problem. ELO ratings compare the results of a competition between two players, awarding points for wins and deducting points for losses. By making ratings a result of comparing one game or one seller **relative to another**, we'll get better quality information of who is good and who is great.
 
-Besides user feedback, Josh also suggests to use actual buyer behaviour as another signal of quality. If users are presented 3 different babysitting providers and consistently pick one, that provider should be given a better score. Sellers that are consistently closing sales will be seen more often.
+Besides user feedback, Josh also suggests to **use actual buyer behaviour** as another signal of quality. If users are presented 3 different babysitting providers and consistently pick one, that provider should be given a better score. Sellers that are consistently closing sales will be seen more often.
 
 This does create a problem where new entrants find it hard to break in. For example, Amazon's first page of organic results usually returns the larger, longer tenured sellers. This is good for the marketplace in the short term since buyers can trust in the quality of the product. I'm less certain it's good in the long term since it might hide new sellers that have better quality at a lower price, who never get enough traction to survive.
 
-In a separate post, Josh talks about [using response rate as a quality signal as well.](https://acrowdedspace.com/post/186004771432/response-rate-is-a-quality-signal "response rate") All else equal, having a higher response rate in feedback means the feedback is better quality. A TV series that has 4 stars with a 100% response rate is better than a series that has 4 stars with a 10% response rate. The idea behind this is whether users like the thing enough that they can overcome the initial hurdle of providing feedback. If they didn't have a strong feeling on the subject, they wouldn't bother rating. Ambivalence is bad; the opposite of love is not hate but being ignored.
+In a separate post, Josh talks about **[using response rate as a quality signal as well.](https://acrowdedspace.com/post/186004771432/response-rate-is-a-quality-signal "response rate")** All else equal, having a higher response rate in feedback means the feedback is better quality. A TV series that has 4 stars with a 100% response rate is better than a series that has 4 stars with a 10% response rate. The idea behind this is whether users like the thing enough that they can overcome the initial hurdle of providing feedback. If they didn't have a strong feeling on the subject, they wouldn't bother rating. Ambivalence is bad; the opposite of love is not hate but being ignored.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/JSV/JSV 4 response rate.png)
 
@@ -98,13 +98,13 @@ I read ["Misunderstanding financial crises" by Gary Gorton](https://www.amazon.c
 
 Banks are in the business of borrowing and lending money, both to consumers (retail) and companies. When you or your company deposits money into the bank, you're giving the bank a loan with the expectation you'll be able to withdraw that cash in the future. Banks in turn lend out more money than they have, in what's known as [fractional reserve banking](https://en.wikipedia.org/wiki/Fractional-reserve_banking "bank"), with the expectation that not everyone will want to withdraw at the same time. This allows the supply and velocity of money (credit) in the economy to increase and provides liquidity.
 
-Consumer bank runs are largely a thing of a past, due to 1) [FDIC deposit insurance](https://www.fdic.gov/deposit/deposits/faq.html "FDIC") and 2) the size of consumer deposits vs company deposits. It's no longer like [the 1920s where 2 banks would fail a day](https://econproph.com/2009/10/26/fdic-managing-the-crisis-the-fdic-and-rtc-experience/ "1920"). The bigger risk now is bank runs from institutions, be they companies or investment firms. In times of crisis, these firms want to get their cash back. When they all want it at the same time, it's impossible for the banks to fulfil that demand.
+Consumer bank runs are largely a thing of a past, due to 1) [FDIC deposit insurance](https://www.fdic.gov/deposit/deposits/faq.html "FDIC") and 2) the size of consumer deposits vs company deposits. It's no longer like [the 1920s where 2 banks would fail a day](https://econproph.com/2009/10/26/fdic-managing-the-crisis-the-fdic-and-rtc-experience/ "1920"). The bigger risk now is bank runs from institutions, be they companies or investment firms. In times of crisis, these firms want to get their cash back. **When they all want it at the same time, it's impossible for the banks to fulfil that demand.**
 
-I'll skip over the nuances of how these companies keep their cash, since the above example is sufficient to make the point that liquidity is the cause of crises, not capital. The bank could still have a lot of illiquid assets (capital), but be unable to provide enough cash on demand. If you've read about the terms [repo,](https://www.quora.com/Where-do-billion-dollar-companies-keep-their-money "repo") commercial paper, revolving credit lately, those all fall under ways companies handle their cash, and a simplistic way of thinking about them is that banks have obligations to these companies, and companies are now getting their cash back \[20\].
+I'll skip over the nuances of how these companies keep their cash, since the above example is sufficient to make the point that **liquidity is the cause of crises, not capital.** The bank could still have a lot of illiquid assets (capital), but be unable to provide enough cash on demand. If you've read about the terms [repo,](https://www.quora.com/Where-do-billion-dollar-companies-keep-their-money "repo") commercial paper, revolving credit lately, those all fall under ways companies handle their cash; a simplistic way of thinking about them is that banks have obligations to these companies, and companies are now getting their cash back \[20\].
 
 > Markets are liquid when there is nothing to know or nothing worth knowing; when there aren't secrets
 
-Conversely, when there are too many unknowns, liquidity stops. In the 08 crisis, banks didn't want to lend to each other because they didn't know which other bank was insolvent. Now, people don't know when normal business will resume, and which businesses will survive. That's why the Fed is stepping in to try and increase liquidity and provide a known source of funds.
+Conversely, **when there are too many unknowns, liquidity stops.** In the 08 crisis, banks didn't want to lend to each other because they didn't know which other bank was insolvent. Now, people don't know when normal business will resume, and which businesses will survive. That's why the Fed is stepping in to try and increase liquidity and provide a known source of funds.
 
 > The banking system has always been viewed as too big to fail. No society has intentionally liquidated its banking system; instead they choose not to enforce debt contracts. They do so by 
 
@@ -114,8 +114,7 @@ Conversely, when there are too many unknowns, liquidity stops. In the 08 crisis,
 
 > 3) bailouts of bad assets
 
-Money and credit is critical to society as it stands currently, and has been for centuries now. It's the inherent tradeoff in having fractional banking, since credit relies on trust. In good times when trust is high, liquidity isn't a concern, credit is extended, and economic activity occurs. In bad times when trust is low, liquidity disappears, credit is withdrawn, and economic activity stalls \[21\
-]. 
+Money and credit is critical to society as it stands currently, and has been for centuries now. It's the inherent tradeoff in having fractional banking, since credit relies on trust. In good times when trust is high, liquidity isn't a concern, credit is extended, and economic activity occurs. In bad times when trust is low, liquidity disappears, credit is withdrawn, and economic activity stalls \[21\]. 
 
 **Fluctuat nec mergitur**
 
@@ -123,17 +122,17 @@ Money and credit is critical to society as it stands currently, and has been for
 
 I can't predict when this crisis will end. [I hope it's soon, though I fear it's not.](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/ "Atlantic")
 
-What I can predict is that this crisis will show people for who they really are. Crises reveal the best but also the worst in us. There will be [those that help](https://www.washingtonpost.com/world/europe/italy-coronavirus-doctors-retired/2020/03/28/075dbda0-6f0f-11ea-a156-0048b62cdb51_story.html "doctor") and [those that harm](https://www.independent.ie/world-news/coronavirus/they-could-kill-someone-gang-of-youths-cough-on-nurse-39074300.html "youth"). Those that keep their word and those that break it. Those that make their reputation and those that disgrace it. 
+What I can predict is that **this crisis will show people for who they really are.** Crises reveal the best but also the worst in us. There will be [those that help](https://www.washingtonpost.com/world/europe/italy-coronavirus-doctors-retired/2020/03/28/075dbda0-6f0f-11ea-a156-0048b62cdb51_story.html "doctor") and [those that harm](https://www.independent.ie/world-news/coronavirus/they-could-kill-someone-gang-of-youths-cough-on-nurse-39074300.html "youth"). Those that keep their word and those that break it. Those that make their reputation and those that disgrace it. 
 
 Choose which group you want to be. Choose wisely. 
 
 The city of Paris has a motto, [Fluctuat nec mergitur,](https://en.wikipedia.org/wiki/Coat_of_arms_of_Paris "Paris") meaning "tossed by the waves, but does not sink". I'd like to believe this applies to all of us. We're in for a rocky time, but will weather this storm as we always have, by helping each other. 
 
-I have no doubt that we will pull through this. Bruised but not broken, we'll recover having reassessed who and what matters most. And one day we'll be telling stories of how we survived by coming together as a community \[31\]. 
+**I have no doubt that we will pull through this.** Bruised but not broken, we'll recover having reassessed who and what matters most. And one day we'll be telling stories of how we survived by coming together as a community \[31\]. 
 
 I also have no doubt that these will sound like hollow platitudes if you've been personally affected by the crisis. In my biggest failures, I heard them all - time heals all wounds, failure is one step to success, losing opens up new opportunities. I instinctively knew them to be true, but honestly didn't give a shit then. 
 
-And that's ok. It's ok to be feeling what you're feeling now. Frightened. Enraged. Lost. 
+**And that's ok.** It's ok to be feeling what you're feeling now. Frightened. Enraged. Lost. 
 
 But know that those feelings will fade, and you're better than your temporary temperaments. [For man is not made for defeat. A man can be destroyed but not defeated.](https://www.goodreads.com/quotes/111352-but-man-is-not-made-for-defeat-he-said-a "Defeat") And when you're ready, there are people standing by to help. 
 
@@ -141,7 +140,7 @@ If you do need help, there are some resources in the "Other" section below that 
 
 And if you're fortunate enough to be able to help, the "Other" section also highlights ways to do so. It's ok if you're not in a position to help right now too, we all have our problems. 
 
-In these trying times, we'll be tossed by waves of fear and hopelessness, but will not sink to despair. If we all help rather than harm, we can get through this. Reach out, even if it's just to one person. You can make a larger difference than you think. 
+In these trying times, we'll be tossed by waves of fear and hopelessness, but will not sink to despair. If we all help rather than harm, we can get through this. Reach out, even if it's just to one person. **You can make a larger difference than you think.**
 
 > If I can stop one heart from breaking,
 > I shall not live in vain;
@@ -154,8 +153,8 @@ In these trying times, we'll be tossed by waves of fear and hopelessness, but wi
 **Shoutouts**
 
 1. I met with Nick Arkinson of [Levatso Holdings](https://www.levatsoholdings.com/ "Levatso"), who's looking to buy a majority stake in a growing company. Companies that fit their model typically have $5M - 20M annual rev, recurring rev model, 15%+ operating margin
-2. If you're in Manhattan and need an hourly retail worker, my friend who's a chocolate expert was laid off and is looking for work
-3. If you're in Chicago and need food, Ben Arnstein of [Kaliflower](https://www.eatkaliflower.com/ "Kaliflower") could use the support
+2. If you're in Manhattan and need an hourly retail worker, my friend who's a chocolate expert was laid off
+3. If you're in Chicago and need dinner, Ben Arnstein of [Kaliflower](https://www.eatkaliflower.com/ "Kaliflower") could use the support
 
 **Other resources to help or get helped**
 
