@@ -1,6 +1,6 @@
 ---
-title:  "Would you buy the Libra Neopet Kin token?"  
-tags: []
+title:  "Fluctuat nec mergitur"  
+tags: [marketplace, feedback, ratings, financial crisis, corona, health, helping, ]
 published: false
 ---
 
@@ -26,11 +26,15 @@ published: false
       }
 </style> 
 
+**Takeaways**
+
+1. Ditch the 5 star rating system in favour of relative rankings, user behaviour, and response rates
+2. Financial crises are aobut liquidity and not capital
+3. The corona crisis will define a generation
+
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
-
-**Takeaways**
 
 **Question of the month**
 
@@ -135,7 +139,7 @@ But know that those feelings will fade, and you're better than your temporary te
 
 If you do need help, there are some resources in the "Other" section below that might be worth checking out.
 
-And if you're fortunate enough to be able to help, the "Other" section also highlights ways to do so. 
+And if you're fortunate enough to be able to help, the "Other" section also highlights ways to do so. It's ok if you're not in a position to help right now too, we all have our problems. 
 
 In these trying times, we'll be tossed by waves of fear and hopelessness, but will not sink to despair. If we all help rather than harm, we can get through this. Reach out, even if it's just to one person. You can make a larger difference than you think. 
 
