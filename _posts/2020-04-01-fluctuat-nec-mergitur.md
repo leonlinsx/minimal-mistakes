@@ -100,7 +100,7 @@ I have no doubt that we will pull through this. Bruised but not broken, we'll re
 
 I also have no doubt that these will sound like hollow platitudes if you've been personally affected by the crisis. In my biggest failures, I heard them all - time heals all wounds, failure is one step to success, losing opens up new opportunities. I instinctively knew them to be true, but honestly didn't give a shit then. 
 
-And that's ok. It's ok to be feeling what you're feeling now. Frightened. Distraught. Lost. 
+And that's ok. It's ok to be feeling what you're feeling now. Frightened. Enraged. Lost. 
 
 But know that those feelings will fade, and you're better than your temporary temperaments. [For man is not made for defeat. A man can be destroyed but not defeated.](https://www.goodreads.com/quotes/111352-but-man-is-not-made-for-defeat-he-said-a "Defeat") And when you're ready, there are people standing by to help. 
 
