@@ -76,7 +76,7 @@ This does create a problem where new entrants find it hard to break in. For exam
 
 In a separate post, Josh talks about **[using response rate as a quality signal as well.](https://acrowdedspace.com/post/186004771432/response-rate-is-a-quality-signal "response rate")** All else equal, having a higher response rate in feedback means the feedback is better quality. A TV series that has 4 stars with a 100% response rate is better than a series that has 4 stars with a 10% response rate. 
 
-The idea behind this is whether users like the thing enough that they can overcome the initial hurdle of providing feedback. If they didn't have a strong feeling on the subject, they wouldn't bother rating. Ambivalence is bad; the opposite of love is not hate but being ignored.
+The idea behind this is whether users like the thing enough that they can overcome the initial hurdle of providing feedback. If they didn't have a strong feeling on the subject, they wouldn't bother rating. **Ambivalence is bad; the opposite of love is not hate but being ignored.**
 
 The tricky part comes when one seller has a lower rating but higher response rate than another. You could make the argument that the higher response rate is a better indicator of quality, but you could also say that more people were motivated enough to give it a lower rating. It does depend on your marketplace, and perhaps you could arbitrarily define how much response rate converts into a point on ratings.
 
@@ -92,7 +92,7 @@ If you're building a marketplace, Josh's points can be summarised as:
 
 **Misunderstanding financial crises**
 
-I read ["Misunderstanding financial crises" by Gary Gorton](https://www.amazon.com/Misunderstanding-Financial-Crises-Dont-Coming/dp/019992290X "AMZN") a few years back. It has good points on why financial crises occur, and could be rewritten to have more structure and to be more clear. Highlights below: 
+I read ["Misunderstanding financial crises" by Gary Gorton](https://www.amazon.com/Misunderstanding-Financial-Crises-Dont-Coming/dp/019992290X "AMZN") a few years back. It has good points on why financial crises occur, and could be rewritten to have more structure and clarity. Highlights below: 
 
 > Financial crises all have the same root cause - bank runs and sharp reductions in demand for deposits in the banking system. Crises occur when market participants mistrust the value of bank debt, and there's a sudden large demand for cash from the financial institution
 
@@ -122,11 +122,11 @@ Conversely, **when there are too many unknowns, liquidity stops.** In the 08 cri
 
 > 3) bailouts of bad assets
 
-Money and credit is critical to society as it stands currently, and has been for centuries now. It's the inherent tradeoff in having fractional banking, since credit relies on trust. In good times when trust is high, liquidity isn't a concern, credit is extended, and economic activity occurs. In bad times when trust is low, liquidity disappears, credit is withdrawn, and economic activity stalls \[21\]. 
+Money and credit is critical to society as it stands currently, and has been for centuries now. It's the inherent tradeoff in having fractional banking, since credit relies on trust. In good times when trust is high, liquidity isn't a concern, credit is extended, and economic activity occurs. In bad times when trust is low, liquidity disappears, credit is withdrawn, and economic activity stalls \[6\]. 
 
 **Fluctuat nec mergitur**
 
-> Goodness is not goodness that seeks advantage. Good is good in the final hour, in the deepest pit, without hope, without witness, without reward. Virtue is only virtue in extremis \[30\]
+> Goodness is not goodness that seeks advantage. Good is good in the final hour, in the deepest pit, without hope, without witness, without reward. Virtue is only virtue in extremis \[7\]
 
 I can't predict when this crisis will end. [I hope it's soon, though I fear it's not.](https://www.theatlantic.com/health/archive/2020/03/how-will-coronavirus-end/608719/ "Atlantic")
 
@@ -136,7 +136,7 @@ Choose which group you want to be. Choose wisely.
 
 The city of Paris has a motto, [Fluctuat nec mergitur,](https://en.wikipedia.org/wiki/Coat_of_arms_of_Paris "Paris") meaning "tossed by the waves, but does not sink". I'd like to believe this applies to all of us. We're in for a rocky time, but will weather this storm as we always have, by helping each other. 
 
-**I have no doubt that we will pull through this.** Bruised but not broken, we'll recover having reassessed who and what matters most. And one day we'll be telling stories of how we survived by coming together as a community \[31\]. 
+**I have no doubt that we will pull through this.** Bruised but not broken, we'll recover having reassessed who and what matters most. And one day we'll be telling stories of how we survived by coming together as a community \[8\]. 
 
 I also have no doubt that these will sound like hollow platitudes if you've been personally affected by the crisis. In my biggest failures, I heard them all - time heals all wounds, failure is one step to success, losing opens up new opportunities. I instinctively knew them to be true, but honestly didn't give a shit then. 
 
@@ -146,7 +146,7 @@ But know that those feelings will fade, and you're better than your temporary te
 
 If you do need help, there are some resources in the "Other" section below that might be worth checking out.
 
-And if you're fortunate enough to be able to help, the "Other" section also highlights ways to do so. It's ok if you're not in a position to help right now too, we all have our problems. 
+And if you're fortunate enough to be able to help, the "Other" section also highlights ways to do so. It's ok if you're not in a position to help right now; [“secure your oxygen mask” first.](https://www.collaborativefund.com/blog/true-at-once/ "collab")
 
 In these trying times, we'll be tossed by waves of fear and hopelessness, but will not sink to despair. If we all help rather than harm, we can get through this. Reach out, even if it's just to one person. **You can make a larger difference than you think.**
 
@@ -156,7 +156,7 @@ In these trying times, we'll be tossed by waves of fear and hopelessness, but wi
 > Or cool one pain,
 > Or help one fainting robin
 > Unto his nest again,
-> I shall not live in vain \[32\]
+> I shall not live in vain \[9\]
 
 **Shoutouts**
 
@@ -179,10 +179,10 @@ In these trying times, we'll be tossed by waves of fear and hopelessness, but wi
 3. For example, 95% 5 star ratings and 5% 1 star ratings give an average of 4.8, which feels significantly different from 5 but isn't really
 4. Yeah, no prizes for guessing what I've been up to in isolation
 5. Why don't companies just keep cash, like you and I? Firstly, there's lack of deposit insurance that will cover balances that large. Secondly, that cash would earn less return. Hence companies enter into repo, treasuries, and other arrangements, in which they exchange their cash for short term liabilities from others. When people think Google has $100bn of cash, that's true - kinda. It does have that amount in total liquid assets, but only a fraction of it in cash equivalents, and the majority in securities. See their [2019 10K page 50, cash and cash equivalents vs marketable securities](https://abc.xyz/investor/static/pdf/20200204_alphabet_10K.pdf?cache=cdd6dbf "10k")
-21. The book also discusses four types of potential costs from financial crises: 1) deadweight loss from fiscal transfers from taxpayers to institutions, 2) output loss and increase in unemployment, 3) misallocation of resources due to actions taken to ameliorate the crisis, 4) costs to social well being. We can reduce these costs with good policy but cannot eliminate them, and should expect these to occur in every crisis
-30. Doctor Who
-31. I was going to write about the trend of niche irl communities that have been gaining popularity this month such as Not Boring Club, Inter Intellect, Get Real etc. Given the situation though I'll reserve that for later.
-32. Emily Dickinson
+6. The book also discusses four types of potential costs from financial crises: 1) deadweight loss from fiscal transfers from taxpayers to institutions, 2) output loss and increase in unemployment, 3) misallocation of resources due to actions taken to ameliorate the crisis, 4) costs to social well being. We can reduce these costs with good policy but cannot eliminate them, and should expect these to occur in every crisis
+7. Doctor Who
+8. I was going to write about the trend of niche irl communities that have been gaining popularity this month such as Not Boring Club, Inter Intellect, Get Real etc. Given the situation though I'll reserve that for later.
+9. Emily Dickinson
 
 *If you liked this, you'll like* ***[my monthly newsletter.](https://avoidboringpeople.substack.com/ "ABP")*** *Sign up here:*
 
