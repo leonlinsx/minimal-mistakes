@@ -1,7 +1,7 @@
 ---
 title:  "Not replying is not no, and why you should let people go"  
 tags: [events, organising, friends]
-published: false
+published: true
 ---
 
 <style>
