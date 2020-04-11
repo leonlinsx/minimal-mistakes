@@ -1,5 +1,5 @@
 ---
-title:  "Don't listen to me, think for yourself"  
+title:  "Bruce Lee's striking thoughts"  
 tags: [bruce lee, philosophy, flexibility, change, pride, failure, happiness]
 published: true
 ---
