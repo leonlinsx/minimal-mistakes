@@ -4,7 +4,11 @@ tags: [seed investing, investing, venture, finance, capital allocation, suicide,
 published: true
 ---
 
-*This is a lightly edited version of* ***[my monthly newsletter.](https://avoidboringpeople.substack.com/ "ABP")*** *Sign up here:*
+**Takeaways**
+
+1. AngelList claims the optimal seed stage investing strategy is to index into every deal
+2. Capital allocation is fundamental to company growth but most people don't know how to do it
+3. What do Michael Phelps and JK Rowling have in common?
 
 <style>
       .iframe-container {
@@ -31,12 +35,6 @@ published: true
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
-
-**Takeaways**
-
-1. AngelList claims the optimal seed stage investing strategy is to index into every deal
-2. Capital allocation is fundamental to company growth but most people don't know how to do it
-3. What do Michael Phelps and JK Rowling have in common?
 
 **Invest in all the (seed stage) things**
 
