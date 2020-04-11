@@ -4,7 +4,9 @@ tags: [china, tech]
 published: true
 ---
 
-*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+**Takeaway**
+
+Dan Wang is short term negative, long term positive on China's technology, and isn't impressed by China tech today.
 
 <style>
       .iframe-container {
@@ -31,10 +33,6 @@ published: true
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
-
-**Takeaway**
-
-Dan Wang is short term negative, long term positive on China's technology, and isn't impressed by China tech today.
 
 **China and tech**
 
