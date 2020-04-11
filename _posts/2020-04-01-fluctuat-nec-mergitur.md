@@ -4,6 +4,12 @@ tags: [marketplace, feedback, ratings, financial crisis, corona, health, helping
 published: true
 ---
 
+**Takeaways**
+
+1. Design better rating systems using relative rankings, user behaviour, and response rates
+2. Financial crises are about liquidity and not capital
+3. The corona crisis will define a generation; choose how it defines you
+
 <style>
       .iframe-container {
         overflow: hidden;        
@@ -25,12 +31,6 @@ published: true
         padding-top: 75%;
       }
 </style> 
-
-**Takeaways**
-
-1. Design better rating systems using relative rankings, user behaviour, and response rates
-2. Financial crises are about liquidity and not capital
-3. The corona crisis will define a generation; choose how it defines you
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
