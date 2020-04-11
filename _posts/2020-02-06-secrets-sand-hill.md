@@ -4,6 +4,10 @@ tags: [VC, finance, investing, tech]
 published: true
 ---
 
+**Takeaway**
+
+Secrets of Sand Hill Road was a good read even for someone in finance, less so if you're in VC.
+
 <style>
       .iframe-container {
         overflow: hidden;        
@@ -25,12 +29,6 @@ published: true
         padding-top: 75%;
       }
 </style> 
-
-**Takeaway**
-
-Secrets of Sand Hill Road was a good read even for someone in finance, less so if you're in VC.
-
-*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
