@@ -4,6 +4,14 @@ tags: [pace layers, frameworks, civilisation, change]
 published: true
 ---
 
+**Takeaway**
+
+The pace layer framework can be used to model civilisations, with each layer moving at its own speed and causing change in others. Forcing layers to change too quickly causes catastrophe.  
+
+**Houses and civilisations**
+
+Imagine a building. Perhaps the office you work in, or the house you live in. **What parts of that building change over time? How quickly do they change?**
+
 <style>
       .iframe-container {
         overflow: hidden;        
@@ -25,14 +33,6 @@ published: true
         padding-top: 75%;
       }
 </style> 
-
-**Takeaway**
-
-The pace layer framework can be used to model civilisations, with each layer moving at its own speed and causing change in others. Forcing layers to change too quickly causes catastrophe.  
-
-**Houses and civilisations**
-
-Imagine a building. Perhaps the office you work in, or the house you live in. **What parts of that building change over time? How quickly do they change?**
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
