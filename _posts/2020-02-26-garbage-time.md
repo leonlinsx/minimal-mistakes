@@ -4,6 +4,16 @@ tags: [time, tech, machine learning, AI, sellside, equity research, happiness]
 published: true
 ---
 
+**Takeaways**
+
+1. You don't need fancy tech to do many things, and usually business needs dictate, not tech
+2. Robots are coming for sellside equity research and it might not matter
+3. You can't get quality time by chasing after it
+
+**Question of the month**
+
+What is something you wish you'd done later in life, rather than earlier? Reply directly to this email to let me know!
+
 <style>
       .iframe-container {
         overflow: hidden;        
@@ -25,16 +35,6 @@ published: true
         padding-top: 75%;
       }
 </style> 
-
-**Takeaways**
-
-1. You don't need fancy tech to do many things, and usually business needs dictate, not tech
-2. Robots are coming for sellside equity research and it might not matter
-3. You can't get quality time by chasing after it
-
-**Question of the month**
-
-What is something you wish you'd done later in life, rather than earlier? Reply directly to this email to let me know!
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
