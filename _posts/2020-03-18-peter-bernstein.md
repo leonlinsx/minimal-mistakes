@@ -1,7 +1,7 @@
 ---
 title:  "Consequences are more important than probabilities"  
-tags: []
-published: false
+tags: [investing, probability, frameworks, ignorance, paradigm]
+published: true
 ---
 
 <style>
