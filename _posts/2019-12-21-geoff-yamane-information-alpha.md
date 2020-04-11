@@ -4,7 +4,7 @@ tags: [finance, investing, tech, information]
 published: true
 ---
 
-*If you like this, you'll like my monthly* ***[finance and tech newsletter](https://avoidboringpeople.substack.com/ "ABP")***
+This week's post is commentary on [Geoff Yamane's piece on information speed and investment alpha](https://geoff-yamane.com/blog/2019/9/3/the-commoditization-of-information "Geoff")
 
 <style>
       .iframe-container {
@@ -31,8 +31,6 @@ published: true
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
-
-This week's post is commentary on [Geoff Yamane's piece on information speed and investment alpha](https://geoff-yamane.com/blog/2019/9/3/the-commoditization-of-information "Geoff")
 
 > investment strategies \[...\] can be re-framed as information front-running: extraordinary returns almost always derive from knowing some truth before others. The viability of these strategies then is related to how fast information travels.
 
