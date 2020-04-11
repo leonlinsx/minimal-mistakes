@@ -4,7 +4,9 @@ tags: [tech, psychology]
 published: true
 ---
 
-*If you like this, you'll like my monthly* ***[finance and tech newsletter](https://avoidboringpeople.substack.com/ "ABP")***
+I've been following [Josh Wolfe](https://twitter.com/wolfejosh?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor "Josh") of [Lux Capital](https://www.luxcapital.com/ "Lux") for a while now, as he's sharp and also unafraid to call people out. Lux recently gave a short presentation at their annual dinner, youtube link here: 
+
+[![Lux]({{ site.url }}{{ site.baseurl }}/assets/images/Lux dinner 2019.png)](https://www.youtube.com/watch?v=hvEPUasRBRg "Lux")
 
 <style>
       .iframe-container {
@@ -31,11 +33,6 @@ published: true
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
-
-
-I've been following [Josh Wolfe](https://twitter.com/wolfejosh?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor "Josh") of [Lux Capital](https://www.luxcapital.com/ "Lux") for a while now, as he's sharp and also unafraid to call people out. Lux recently gave a short presentation at their annual dinner, youtube link here: 
-
-[![Lux]({{ site.url }}{{ site.baseurl }}/assets/images/Lux dinner 2019.png)](https://www.youtube.com/watch?v=hvEPUasRBRg "Lux")
 
 And my notes on the talk are below:
 
