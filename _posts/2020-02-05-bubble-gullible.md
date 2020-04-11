@@ -4,8 +4,6 @@ tags: []
 published: false
 ---
 
-*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
-
 <style>
       .iframe-container {
         overflow: hidden;        
@@ -28,13 +26,16 @@ published: false
       }
 </style> 
 
-<div class="iframe-container-4x3">
-  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
-</div>
 
 **Takeaway**
 
 Historical accounts are often exaggerated; we seem to be as gullible then as we are now.
+
+*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
 
 **Are we as gullible now as we used to be?**
 
