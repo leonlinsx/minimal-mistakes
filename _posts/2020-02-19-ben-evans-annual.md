@@ -1,10 +1,8 @@
 ---
 title:  "Smartphones are boring, what's next?"  
-tags: []
-published: false
+tags: [tech, smartphones, ecommerce, entertainment, regulation, S curve]
+published: true
 ---
-
-*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
 
 <style>
       .iframe-container {
@@ -28,13 +26,16 @@ published: false
       }
 </style> 
 
-<div class="iframe-container-4x3">
-  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
-</div>
 
 **Takeaway**
 
 Now that the world is connected, what’s next? How will regulation handle tech?
+
+*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
 
 **Ben Evans on Tech in 2020**
 
