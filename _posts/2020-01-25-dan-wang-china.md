@@ -1,7 +1,7 @@
 ---
 title:  "Dan Wang on China 2019"  
-tags: [china]
-published: false
+tags: [china, tech]
+published: true
 ---
 
 *If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
