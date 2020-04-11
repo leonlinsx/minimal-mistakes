@@ -4,6 +4,20 @@ tags: [investing, probability, frameworks, ignorance, paradigm]
 published: true
 ---
 
+**Takeaway**
+
+Survival is the only road to riches in investing 
+
+**Peter Bernstein interview by Jason Zweig**
+
+Peter Bernstein was a famous author and asset manager who died in 2009. He's best known for ["Against The Gods: The Remarkable Story of Risk"](https://www.amazon.com/Against-Gods-Remarkable-Story-Risk/dp/0471295639 "ATG"), a book on the history of risk which has sold >500k copies. 
+
+[Jason Zweig, the famous finance journalist,](https://jasonzweig.com/ "Jason") [interviewed him a long time ago back in 2004.](https://jasonzweig.com/a-long-chat-with-peter-l-bernstein/ "Peter") As with most good interviews, some of the advice is timeless, and perhaps even more applicable in this time of crisis. Highlights below \[1\], which I’ve separated into three main themes of: 
+
+  1. Recognition of ignorance
+  2. Survival is the only road to riches
+  3. Paradigm shifts 
+
 <style>
       .iframe-container {
         overflow: hidden;        
@@ -25,20 +39,6 @@ published: true
         padding-top: 75%;
       }
 </style> 
-
-**Takeaway**
-
-Survival is the only road to riches in investing 
-
-**Peter Bernstein interview by Jason Zweig**
-
-Peter Bernstein was a famous author and asset manager who died in 2009. He's best known for ["Against The Gods: The Remarkable Story of Risk"](https://www.amazon.com/Against-Gods-Remarkable-Story-Risk/dp/0471295639 "ATG"), a book on the history of risk which has sold >500k copies. 
-
-[Jason Zweig, the famous finance journalist,](https://jasonzweig.com/ "Jason") [interviewed him a long time ago back in 2004.](https://jasonzweig.com/a-long-chat-with-peter-l-bernstein/ "Peter") As with most good interviews, some of the advice is timeless, and perhaps even more applicable in this time of crisis. Highlights below \[1\], which I’ve separated into three main themes of: 
-
-  1. Recognition of ignorance
-  2. Survival is the only road to riches
-  3. Paradigm shifts 
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
