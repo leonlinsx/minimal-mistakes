@@ -1,7 +1,7 @@
 ---
 title:  "Don't listen to me, think for yourself"  
-tags: [bruce lee, philosophy]
-published: false
+tags: [bruce lee, philosophy, flexibility, change, pride, failure, happiness]
+published: true
 ---
 
 <style>
