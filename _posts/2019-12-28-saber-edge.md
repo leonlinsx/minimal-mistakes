@@ -4,7 +4,7 @@ tags: [investing, finance, information]
 published: true
 ---
 
-*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+I've found John Huber's categorisation of investment edge indispensable in thinking about investing. He recently wrote more about it [here](http://sabercapitalmgt.com/black-edge/ "Edge") \[1\].
 
 <style>
       .iframe-container {
@@ -31,8 +31,6 @@ published: true
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
-
-I've found John Huber's categorisation of investment edge indispensable in thinking about investing. He recently wrote more about it [here](http://sabercapitalmgt.com/black-edge/ "Edge") \[1\].
 
 > Everyone understands that there is no info edge in Facebook or Apple. But there isn’t any info edge in smaller stocks either, at least not in a meaningful way that can be reliably utilized. 
 
