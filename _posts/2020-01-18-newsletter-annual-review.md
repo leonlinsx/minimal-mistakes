@@ -1,7 +1,7 @@
 ---
 title:  "2019 newsletter year in review"  
-tags: [newsletter, review, finance, tech]
-published: false
+tags: [newsletter, review, finance, tech, subscription, shoutouts]
+published: true
 ---
 
 *If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
@@ -28,9 +28,13 @@ published: false
       }
 </style> 
 
+This was the 2019 annual review for the newsletter I write at Avoid Boring People:
+
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
+
+Note that the monthlies are free, focused on finance, tech, and personal growth. The weeklies are paid, on any subject I find interesting, and less polished than the monthlies. Importantly, the weeklies are eventually published on this personal site as well on a lag. The benefit of subscribing is to get them directly and to support a broke author. 
 
 **Takeaways**
 
