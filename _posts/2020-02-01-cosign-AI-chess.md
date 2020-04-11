@@ -1,10 +1,8 @@
 ---
 title:  "Would you cosign your AI chess partner?"  
 tags: [tech, finance, IPO, direct listing, AI, decision making]
-published: false
+published: true
 ---
-
-*This is a lightly edited version of* ***[my monthly newsletter.](https://avoidboringpeople.substack.com/ "ABP")*** *Sign up here:*
 
 <style>
       .iframe-container {
@@ -28,15 +26,17 @@ published: false
       }
 </style> 
 
-<div class="iframe-container-4x3">
-  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
-</div>
-
 **Takeaways**
 
 1. Cosign is a new company trying to make social capital more tangible
 2. Whether you should do a direct listing depends on the type of company you are
 3. Improve decision making in a company by adopting rough, not total consensus
+
+*This is a lightly edited version of* ***[my monthly newsletter.](https://avoidboringpeople.substack.com/ "ABP")*** *Sign up here:*
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
 
 **Question of the month**
 
