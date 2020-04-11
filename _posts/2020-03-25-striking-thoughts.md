@@ -2,7 +2,11 @@
 title:  "Bruce Lee's striking thoughts"  
 tags: [bruce lee, philosophy, flexibility, change, pride, failure, happiness]
 published: true
----
+--- 
+
+**Takeaway**
+
+Independent inquiry is needed in your search for truth, not dependence on anyone else's view or a mere book.
 
 <style>
       .iframe-container {
@@ -25,10 +29,6 @@ published: true
         padding-top: 75%;
       }
 </style> 
-
-**Takeaway**
-
-Independent inquiry is needed in your search for truth, not dependence on anyone else's view or a mere book.
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
