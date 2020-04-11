@@ -1,10 +1,8 @@
 ---
-title:  ""  
-tags: []
-published: false
+title:  "Secrets of Sand Hill Road was worth reading"  
+tags: [VC, finance, investing, tech]
+published: true
 ---
-
-*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
 
 <style>
       .iframe-container {
@@ -28,13 +26,15 @@ published: false
       }
 </style> 
 
-<div class="iframe-container-4x3">
-  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
-</div>
-
 **Takeaway**
 
 Secrets of Sand Hill Road was a good read even for someone in finance, less so if you're in VC.
+
+*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
 
 **Secrets of Sand Hill Road book summary**
 
