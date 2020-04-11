@@ -28,8 +28,6 @@ Over the holidays I read [Thanks for the Feedback](https://www.npr.org/books/tit
       }
 </style> 
 
-*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
-
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
