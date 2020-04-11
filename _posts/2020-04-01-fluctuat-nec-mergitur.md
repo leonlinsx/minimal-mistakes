@@ -1,7 +1,7 @@
 ---
 title:  "Fluctuat nec mergitur"  
-tags: [marketplace, feedback, ratings, financial crisis, corona, health, helping, ]
-published: false
+tags: [marketplace, feedback, ratings, financial crisis, corona, health, helping, liquidity]
+published: true
 ---
 
 <style>
