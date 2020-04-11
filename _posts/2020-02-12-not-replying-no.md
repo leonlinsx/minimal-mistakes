@@ -4,6 +4,10 @@ tags: [events, organising, friends]
 published: true
 ---
 
+**Takeaway**
+
+Organising events can be frustrating but is an asymmetric opportunity
+
 <style>
       .iframe-container {
         overflow: hidden;        
@@ -25,12 +29,6 @@ published: true
         padding-top: 75%;
       }
 </style> 
-
-**Takeaway**
-
-Organising events can be frustrating but is an asymmetric opportunity
-
-*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
