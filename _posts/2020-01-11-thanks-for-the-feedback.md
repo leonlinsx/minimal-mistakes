@@ -4,7 +4,7 @@ tags: [feedback, learning, review, reflection]
 published: true
 ---
 
-*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+Over the holidays I read [Thanks for the Feedback](https://www.npr.org/books/titles/441536239/thanks-for-the-feedback-the-science-and-art-of-receiving-feedback-well-even-when "Thanks") by Douglas Stone and Sheila Heen, and thought it was one of the better books I've read in the past year. It talks about how to make feedback conversations more productive, by explaining the types of feedback and common problems during feedback sessions.
 
 <style>
       .iframe-container {
@@ -28,11 +28,11 @@ published: true
       }
 </style> 
 
+*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
-
-Over the holidays I read [Thanks for the Feedback](https://www.npr.org/books/titles/441536239/thanks-for-the-feedback-the-science-and-art-of-receiving-feedback-well-even-when "Thanks") by Douglas Stone and Sheila Heen, and thought it was one of the better books I've read in the past year. It talks about how to make feedback conversations more productive, by explaining the types of feedback and common problems during feedback sessions. 
 
 I've summarised the book below and added some of my own thoughts. Note: Many of the points will be outright quotes from the book. 
 
