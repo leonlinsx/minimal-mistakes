@@ -1,7 +1,7 @@
 ---
-title:  ""  
-tags: []
-published: false
+title:  "Wisely and slow, they stumble that run fast"  
+tags: [pace layers, frameworks, civilisation, change]
+published: true
 ---
 
 <style>
