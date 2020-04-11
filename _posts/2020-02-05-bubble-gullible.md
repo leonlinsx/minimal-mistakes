@@ -1,7 +1,7 @@
 ---
-title:  ""  
-tags: []
-published: false
+title:  "Are we as gullible now as we used to be"  
+tags: [bubbles, finance]
+published: true
 ---
 
 <style>
