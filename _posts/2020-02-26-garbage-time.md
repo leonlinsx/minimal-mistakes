@@ -1,7 +1,7 @@
 ---
-title:  "Would you buy the Libra Neopet Kin token?"  
-tags: []
-published: false
+title:  "You don't want quality time, you want garbage time"  
+tags: [time, tech, machine learning, AI, sellside, equity research, happiness]
+published: true
 ---
 
 <style>
@@ -26,10 +26,6 @@ published: false
       }
 </style> 
 
-<div class="iframe-container-4x3">
-  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
-</div>
-
 **Takeaways**
 
 1. You don't need fancy tech to do many things, and usually business needs dictate, not tech
@@ -39,6 +35,10 @@ published: false
 **Question of the month**
 
 What is something you wish you'd done later in life, rather than earlier? Reply directly to this email to let me know!
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
 
 **Robots vs people, tech stacks**
 
