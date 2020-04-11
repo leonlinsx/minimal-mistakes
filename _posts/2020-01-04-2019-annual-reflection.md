@@ -4,7 +4,7 @@ tags: [reflection, risk, learning]
 published: true
 ---
 
-*If you like this, you'll like my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+[I've written before about doing year end reflections](https://www.leonlinsx.com/2018-year-end-reflection/ "2018 reflection"). For 2019, I've updated the questions and [made a new template](https://docs.google.com/document/d/1iGZJxnCs91LsHSnOK-C5ACq5SS50PEWRqCMnt2fXVY0/edit?usp=sharing "new template") based on other helpful articles I saw. I adapted the content and format from [Steve Schlafman and Howard Gray here](https://docs.google.com/document/d/1Ais6wP0HxoFfvHR9JVkf2sw2ft_EUBtb42JYOr6ObGo/edit "template"), and also included helpful advice from [Anne-Laure Le Cunff](https://docs.google.com/presentation/d/1WxAY5ujUeKKQ_Y1c-Ic_rHj2t3Kaw_GOpwTX1jY4y_k/edit?usp=sharing "template"), [Kelly Thorne Gore](https://ibloom.us/blog/10-end-of-the-year-reflection-questions/ "questions"), and [Henna Inam](https://www.forbes.com/sites/hennainam/2018/12/31/ten-questions-to-ask-in-your-personal-year-end-review/#1a0297287e7d "questions"). Note that this is the template that I find helpful for myself, and may not be the template most helpful for you; feel free to adjust as needed.
 
 <style>
       .iframe-container {
@@ -31,9 +31,6 @@ published: true
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
-
-[I've written before about doing year end reflections](https://www.leonlinsx.com/2018-year-end-reflection/ "2018 reflection"). For 2019, I've updated the questions and [made a new template](https://docs.google.com/document/d/1iGZJxnCs91LsHSnOK-C5ACq5SS50PEWRqCMnt2fXVY0/edit?usp=sharing "new template") based on other helpful articles I saw. I adapted the content and format from [Steve Schlafman
- and Howard Gray here](https://docs.google.com/document/d/1Ais6wP0HxoFfvHR9JVkf2sw2ft_EUBtb42JYOr6ObGo/edit "template"), and also included helpful advice from [Anne-Laure Le Cunff](https://docs.google.com/presentation/d/1WxAY5ujUeKKQ_Y1c-Ic_rHj2t3Kaw_GOpwTX1jY4y_k/edit?usp=sharing "template"), [Kelly Thorne Gore](https://ibloom.us/blog/10-end-of-the-year-reflection-questions/ "questions"), and [Henna Inam](https://www.forbes.com/sites/hennainam/2018/12/31/ten-questions-to-ask-in-your-personal-year-end-review/#1a0297287e7d "questions"). Note that this is the template that I find helpful for myself, and may not be the template most helpful for you; feel free to adjust as needed. 
  
 The template can be found [here](https://docs.google.com/document/d/1iGZJxnCs91LsHSnOK-C5ACq5SS50PEWRqCMnt2fXVY0/edit?usp=sharing "template") and my completed example [here](https://docs.google.com/document/d/1iSrugAAQ9baLTXvh7Ck6YO7MUCB8CbQQqyEX8BMiUv0/edit?usp=sharing "public"). Below I'll cover the rationale for the structure and some of the questions.
 
