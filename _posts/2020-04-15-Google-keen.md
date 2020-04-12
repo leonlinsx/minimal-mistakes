@@ -41,6 +41,7 @@ published: false
 - Asking a question flow leads nowhere
 - Opening a card leads to a 2 line preview of the article, not the article itself. 
 - Why is there no home feed of all the gems I want?
+- Can't add a gem without a keen?
 
 *If you liked this, sign up for my * ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
 
