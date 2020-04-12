@@ -4,6 +4,8 @@ tags: []
 published: false
 ---
 
+**Takeaway**
+
 <style>
       .iframe-container {
         overflow: hidden;        
@@ -26,13 +28,13 @@ published: false
       }
 </style> 
 
-**Takeaway**
-
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-*If you liked this, sign up for my monthly* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+**Main**
+
+*If you liked this, sign up for my * ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
