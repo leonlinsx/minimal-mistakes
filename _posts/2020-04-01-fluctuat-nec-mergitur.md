@@ -44,7 +44,7 @@ If you have been affected by the crisis and think I could help, please reply dir
 
 You use rating systems all the time: apps on mobile, drivers on uber, restaurants on google maps \[1\]. You've also probably noticed how most of them are flawed, not giving you enough precise information to decide if the thing is actually good. A 4.5 star rating doesn't mean much when everyone is also above 4 stars. [Josh Breinlinger of Jackson Square](https://acrowdedspace.com/ "JSV") discusses why this happens to marketplaces [here](https://www.slideshare.net/jbreinlinger/marketplace-pricing-and-feedback "Feedback") and proposes some solutions.
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/JSV/JSV 1 optimise retain expel.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/JSV/JSV 1 optimise retain expel.PNG)
 
 > Ppl focus too much on screening initially, when they should focus on optimisation post acceptance
 
@@ -54,7 +54,7 @@ Most marketplaces have some quality screening process at the start, and once you
 
 This makes sense, and **the difficulty here is one of scale**. If you run a screen and then don't care about quality after, you only need to run it once for every new participant. If you invest in regular quality evaluations, you'll have to run it multiple times, on a participant base that gets larger over time. The costs of doing the latter are likely to continue scaling with your growth as well, not something anyone wants to hear \[2\].
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/JSV/JSV 2 five star bad remove.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/JSV/JSV 2 five star bad remove.PNG)
 
 > 5 star ratings can separate bad sellers but don't have enough granularity to separate good vs great
 
@@ -64,7 +64,7 @@ Even if the ratings start out effective, [grade inflation over time leads to the
 
 Josh assumes a normal distribution of sellers. Are there cases when this doesn't hold? I can't think of many at the moment, outside of artificially restricted platforms where the selection process is exclusive rather than inclusive. For example, if you were to create [a membership club for top restaurants,](https://www.inhousenewyork.com/ "inhouse") the sellers wouldn't be normally distributed. This doesn't affect the validity of the point though, and perhaps even supplements it, since you want even finer granularity between the top sellers. 
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/JSV/JSV 3 relative vs absolute.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/JSV/JSV 3 relative vs absolute.PNG)
 
 > A relative rating rather than an absolute will be better in separating the good from great
 
