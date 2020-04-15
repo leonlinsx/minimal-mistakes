@@ -1,5 +1,5 @@
 ---
-title:  "Google Keen beta test"  
+title:  "Google Keen beta test and walkthrough"  
 tags: [tech, google, interests]
 published: true
 ---
@@ -56,11 +56,11 @@ There was also an option at the bottom to "email me about new finds". I'd normal
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Keen/Keen 3.jpg)
 
-The next step gave a text box to "list searches or questions you want results for." I was unsure whether putting as many searches as possible was better than just having one phrase, so I only put in one search query. I assumed that this would give me more targeted results compared to putting a long list of phrases, but can't confirm it
+The next step gave a text box to "list searches or questions you want results for." I was unsure whether putting as many searches as possible was better than just having one phrase, so I only put in one search query. I assumed that this would give me more targeted results compared to putting a long list of phrases, but can't confirm it.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Keen/Keen 4.jpg)
 
-I could also add members to this list (a Keen?). Members woud be able to add gems to the keen. Since I have no friends I left that untouched, just like most of us in quarantine. 
+I could also add members to this list (a Keen?). Members would be able to add gems to the keen. Since I have no friends I left that untouched, just like most of us in quarantine. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Keen/Keen 5.jpg)
 
@@ -72,7 +72,7 @@ The site now prompted me to add a gem to my collection, and to also gem what I l
 
 Let's create a gem then. I clicked that plus sign again, and a popup appeared, prompting me to "add something new." I was lost at this point, since the UI looks like a single line, and was wondering if I should be adding a link, an image, a body of text, or something else. If you type a lot of text, it does start scrolling down, but without a visual scroll bar on the right. I'd assume that's for design purposes. The text box maxes out at 4 lines before it scrolls down, whether on mobile or desktop, which I assume is to leave enough white space below for the post preview.
 
-I ended up looking at other people's collections before coming back to this, which doesn't seem like a great user flow. Based on what other people were doing, I put in a title, an article link, and then a bunch of hashtags \[4\]. I tried putting in line breaks but those didn't seem to show up when the gem is published.
+I ended up looking at other people's collections before coming back to this, which doesn't seem like a great user flow. Based on what other people were doing, I put in a title, an article link, and then a bunch of hashtags \[4\]. I tried putting in line breaks but those didn't seem to show up when the gem was published.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Keen/Keen 7.jpg)
 
@@ -80,7 +80,7 @@ The popup does show a preview of the link after a slight delay. You can't edit t
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Keen/Keen 8.jpg)
 
-After clicking save, my gem was created, and I could find it by clicking on the "gems" option in the navigation menu, which I assume shows all the gems that I've created. This would be in comparison to "feed", which would be gems that Keen thinks I should check out. The "following" option gives me the option to add more searches or queestions to this collection. 
+After clicking save, my gem was created, and I could find it by clicking on the "gems" option in the navigation menu, which I assume shows all the gems that I've created. This would be in comparison to "feed", which would be gems that Keen thinks I should check out. The "following" option gives me the option to add more searches or questions to this collection. 
 
 That's the flow from signup to the collection creation step done, so let's also look at how browsing works.  
 
@@ -161,7 +161,7 @@ Overall, Keen reminds me of a more visual, snappy version of Pinterest blended w
 4. The screenshot below was taken after I'd already created a few gems; my first attempts at doing so gave errors in the process due to what I believe was an account sign in issue where I was using an admin or someone else's account
 5. Or running beta tests and sending out links to those. Hmmm.
 
-*If you liked this, sign up for my * ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+*If you liked this, sign up for my ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*** *
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
