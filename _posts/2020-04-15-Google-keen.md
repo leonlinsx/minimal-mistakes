@@ -116,43 +116,43 @@ Having played around with Keen, below are some initial thoughts, keeping in mind
 
 1. Who is the intended content creator on Keen? When I add collections and gems, am I supposed to just be spamming links, since there's no space to create my own content on Keen itself? If we assume this becomes a scaled product, what's the incentive for a content creator to continue posting links? 
 
-  I'm assuming it's for follower counts, since there aren't like or view counts. So it seems like this would be another Pinterest, except for ideas. As a content creator myself I'm open to adding my content to more sites for reach, as long as I believe the return in views is worth the time investment. Keen's size probably isn't there yet, but could be in a bull case. 
+    I'm assuming it's for follower counts, since there aren't like or view counts. So it seems like this would be another Pinterest, except for ideas. As a content creator myself I'm open to adding my content to more sites for reach, as long as I believe the return in views is worth the time investment. Keen's size probably isn't there yet, but could be in a bull case. 
 
-  However, given that all the links will direct me off Keen, I'd rather build that relationship with the user directly, e.g. I'd rather have you read my newsletter via email than browse it on Keen. This implies that I don't have incentive to keep you on Keen once you're following me outside of it, and might even be disincentivised, since you'll find other content that's not mine.
+    However, given that all the links will direct me off Keen, I'd rather build that relationship with the user directly, e.g. I'd rather have you read my newsletter via email than browse it on Keen. This implies that I don't have incentive to keep you on Keen once you're following me outside of it, and might even be disincentivised, since you'll find other content that's not mine.
 
 2. Who is the intended content consumer on Keen? 
 
-  The random collection feature is a bit more like Tik Tok, Stumble Upon, or Instagram. It doesn't seem to be related to either my own Google search history or the collections and gems I've already uploaded. Is the average user someone who is bored and looking for entertainment then? At scale, I suppose there would be enough interesting categories for people to explore every time they roll the dice. It does seem like a small group of people that would be looking for "content unrelated to what I like but randomly adjacent enough to be interesting." 
+    The random collection feature is a bit more like Tik Tok, Stumble Upon, or Instagram. It doesn't seem to be related to either my own Google search history or the collections and gems I've already uploaded. Is the average user someone who is bored and looking for entertainment then? At scale, I suppose there would be enough interesting categories for people to explore every time they roll the dice. It does seem like a small group of people that would be looking for "content unrelated to what I like but randomly adjacent enough to be interesting." 
 
-  Keen is meant to help me "stay keen on your interests, get recommendations, and curate good ideas." I suppose if I created collections of just the things I was interested in, and relied on the feed within those collections to return random search results, I might occasionally find a relevant link. Since I don't know how those results are ranked and returned, I'm uncertain if they'll be worth my time to browse, especially since they will bounce me off Keen's page every time.
+    Keen is meant to help me "stay keen on your interests, get recommendations, and curate good ideas." I suppose if I created collections of just the things I was interested in, and relied on the feed within those collections to return random search results, I might occasionally find a relevant link. Since I don't know how those results are ranked and returned, I'm uncertain if they'll be worth my time to browse, especially since they will bounce me off Keen's page every time.
 
-  There's a comment feature in Keen, but other social features seem lacking, and I wasn't able to click into user profiles. Makes me think that the use case is for ideas rather than a social product. 
+    There's a comment feature in Keen, but other social features seem lacking, and I wasn't able to click into user profiles. Makes me think that the use case is for ideas rather than a social product. 
 
 3. How is this going to be monetised?
 
-  With Google, perhaps never. If it does monetise though I'd assume it would come in the form of display ads, perhaps in the form of sponsored collections or sponsored gems.
+    With Google, perhaps never. If it does monetise though I'd assume it would come in the form of display ads, perhaps in the form of sponsored collections or sponsored gems.
 
 4. How will this grow and acquire creators and consumers?
 
-  There's low incentive for creators to promote Keen, since they'd rather promote their content directly if given the option. e.g. if I posted on twitter, I'd rather direct you to my personal site than to Keen. 
+    There's low incentive for creators to promote Keen, since they'd rather promote their content directly if given the option. e.g. if I posted on twitter, I'd rather direct you to my personal site than to Keen. 
 
-  Consumers could be interested in promoting Keen as a new way of discovering content, assuming that there's enough quality content to browse through. Perhaps some of those become creators.
+    Consumers could be interested in promoting Keen as a new way of discovering content, assuming that there's enough quality content to browse through. Perhaps some of those become creators.
 
-  That implies that the gating factor to growth is going to be the acquisition of enough creators on the platform, before there is enough scale on consumers to make it worthwhile. If I were Google, I'd be targeting content creators on other sites and giving them perks for posting on Keen \[5\]. And if they had a feature to highlight a leaderboard of creators by follows, collections, or gems, and then rewarding the top creators, that could also be interesting.
+    That implies that the gating factor to growth is going to be the acquisition of enough creators on the platform, before there is enough scale on consumers to make it worthwhile. If I were Google, I'd be targeting content creators on other sites and giving them perks for posting on Keen \[5\]. And if they had a feature to highlight a leaderboard of creators by follows, collections, or gems, and then rewarding the top creators, that could also be interesting.
 
 5. How will costs grow?
 
-  I'd assume the plan is to have a flywheel of users attracting creators attracting users in the long term, so that customer acquisition costs are low. In the short term, there's the fixed costs of employees working on this, and what could be a high variable cost in acquiring new creators and users via ads and social outreach. 
+    I'd assume the plan is to have a flywheel of users attracting creators attracting users in the long term, so that customer acquisition costs are low. In the short term, there's the fixed costs of employees working on this, and what could be a high variable cost in acquiring new creators and users via ads and social outreach. 
 
 6. Why is there no home page feed of all my collections and gems?
 
-  Seems like the intent was to have a separate feed for each interest, which becomes annoying once you get to scale. I can't customise how my collections or gems look either. 
+    Seems like the intent was to have a separate feed for each interest, which becomes annoying once you get to scale. I can't customise how my collections or gems look either. 
 
 7. Why can't I add a gem without adding it to a Keen?
 
-  Put another way, can't I just create gems rather than having to set up a Keen to house them? If I had 10 different interests, would I need to find 10 Keens to add my gems to? Considering I'm tagging the gems as well, seems convoluted.
+    Put another way, can't I just create gems rather than having to set up a Keen to house them? If I had 10 different interests, would I need to find 10 Keens to add my gems to? Considering I'm tagging the gems as well, seems convoluted.
 
-  Overall, Keen reminds me of a more visual, snappy version of Pinterest blended with Stumbleupon. I'm still unsure what the use case is and how they'll grow the product given the current incentive alignment, but we'll see in time. Like most social products, it's hard to predict success from a beta.
+    Overall, Keen reminds me of a more visual, snappy version of Pinterest blended with Stumbleupon. I'm still unsure what the use case is and how they'll grow the product given the current incentive alignment, but we'll see in time. Like most social products, it's hard to predict success from a beta.
 
 **Footnotes**
 1. Not as exclusive as it sounds, I was just in a slack group with a person who was handing them out. Full disclosure, there was talk about giving gift cards to beta testers.
