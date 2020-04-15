@@ -161,7 +161,7 @@ Overall, Keen reminds me of a more visual, snappy version of Pinterest blended w
 4. The screenshot below was taken after I'd already created a few gems; my first attempts at doing so gave errors in the process due to what I believe was an account sign in issue where I was using an admin or someone else's account
 5. Or running beta tests and sending out links to those. Hmmm.
 
-*If you liked this, sign up for my ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*** *
+*If you liked this, sign up for my* ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
