@@ -7,6 +7,32 @@ title: Resources I find useful
 
 Below are the blogs, books, and more that I've liked. Not presented in any particular order. I mostly use a RSS reader to follow interesting sites; currently using [feedly](https://feedly.com/ "feedly link") since they murdered Google Reader. Note that just because I post about something does not mean I endorse the site or the point the author is making.
 
+<style>
+      .iframe-container {
+        overflow: hidden;        
+        padding-top: 50%; <!-- Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625) -->
+        position: relative;
+      }
+      .iframe-container iframe { 
+         border: 0;
+         height: 100%; <!-- Finally, width and height are set to 100% so the iframe takes up 100% of the containers space. -->
+         left: 0;
+         position: absolute;
+         top: 0;
+         width: 100%;
+         display: block;
+         margin: 0 auto; <!-- center image -->
+      }
+      <!-- 4x3 Aspect Ratio -->
+      .iframe-container-4x3 {
+        padding-top: 75%;
+      }
+</style> 
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
+
 ### Investment sites
 1. [Collaborative Fund](https://www.collaborativefund.com/blog/ "Collabora[tive Fund blog") for VC and investment news
 2. [Market folly](https://www.marketfolly.com/ "market folly") for hedge fund news
