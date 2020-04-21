@@ -44,23 +44,23 @@ Historically, people believed that a person's development peaked after the adole
 
 The five stages he proposes, after an initial "newborn infant" stage \[4\], are:
 
-  1.  Meaning making. Children realise they have control over their actions and become aware that things exist beyond themselves. Thinking is still fantastical and illogical, and subject to impulsive feelings. "Parents should support their children's fantasies while challenging them to take responsibility for themselves and their feelings as they begin to perceive the world realistically and differentiate themselves from others"
+1.  Meaning making. Children realise they have control over their actions and become aware that things exist beyond themselves. Thinking is still fantastical and illogical, and subject to impulsive feelings. "Parents should support their children's fantasies while challenging them to take responsibility for themselves and their feelings as they begin to perceive the world realistically and differentiate themselves from others"
   
-  2. Instrumental mind. Thinking becomes more realistic and logical, and the dominance of feelings declines. Children start understanding rules and how their lives are structured. They start to better understand who they are and what they want. They also start understanding how to compete and how to cooperate. They are mostly concerned about themselves, and find it difficult to consider how their actions will affect others. 
+2. Instrumental mind. Thinking becomes more realistic and logical, and the dominance of feelings declines. Children start understanding rules and how their lives are structured. They start to better understand who they are and what they want. They also start understanding how to compete and how to cooperate. They are mostly concerned about themselves, and find it difficult to consider how their actions will affect others. 
   
-  Kegan gives an example of a would be car thief refraining from stealing because she was worried that she would be sent to jail if she got caught. It would be better if she didn't steal because it was the right thing to do, but she's not there yet in terms of stage of development.
+    Kegan gives an example of a would be car thief refraining from stealing because she was worried that she would be sent to jail if she got caught. It would be better if she didn't steal because it was the right thing to do, but she's not there yet in terms of stage of development.
   
-  3. Socialised mind. People start becoming aware of how others think of them, and strive to be perceived well by others. They look to others for validation and direction. They act in ways that consider how other's view of them might change. Relationships are the most important thing. This is the start of a more "adult" stage of development.
+3. Socialised mind. People start becoming aware of how others think of them, and strive to be perceived well by others. They look to others for validation and direction. They act in ways that consider how other's view of them might change. Relationships are the most important thing. This is the start of a more "adult" stage of development.
   
-  If you've ever made a decision because it might please others or because you thought they wanted you to make that choice, this is the stage of development that guides that.
+    If you've ever made a decision because it might please others or because you thought they wanted you to make that choice, this is the stage of development that guides that.
   
-  4. Self-authoring mind. People now take responsibility for themselves, and develop their own systems on what they feel is right. They no longer depend on others for validation, but can get satisfaction by themselves. Relationships are part of them rather than dominating their purpose. 
+4. Self-authoring mind. People now take responsibility for themselves, and develop their own systems on what they feel is right. They no longer depend on others for validation, but can get satisfaction by themselves. Relationships are part of them rather than dominating their purpose. 
   
-  Kegan believes this doesn't usually happen until your 20s, and some people might neer reach this stage. The article cites research (small sample size warning) in showing that the majority of adults interviewed are not at this stage \[5\]. It is a gradual but the most dynamic change in development to move from "socialised" to "self-authoring"
+    Kegan believes this doesn't usually happen until your 20s, and some people might neer reach this stage. The article cites research (small sample size warning) in showing that the majority of adults interviewed are not at this stage \[5\]. It is a gradual but the most dynamic change in development to move from "socialised" to "self-authoring"
   
-  5. Self-transforming mind. People see beyond themselves, others, and their system. They recognise the shared features of the systems they and others live in, but also the limitations. They are able to critique the systems and adjust them over time. 
+5. Self-transforming mind. People see beyond themselves, others, and their system. They recognise the shared features of the systems they and others live in, but also the limitations. They are able to critique the systems and adjust them over time. 
   
-  Kegan believes people don't reach this before their 40s, and most people never reach this stage at all. An example would be how society or individuals started realising in the importance of some laws such as equal rights
+    Kegan believes people don't reach this before their 40s, and most people never reach this stage at all. An example would be how society or individuals started realising in the importance of some laws such as equal rights
   
 **Applications**
 
