@@ -1,6 +1,6 @@
 ---
-title:  "Would you buy the Libra Neopet Kin token?"  
-tags: []
+title:  "We wanted Her, instead we got Tinder"  
+tags: [AI, machine learning, tech, finance, value investing, Li Lu, tradeoffs, valuation]
 published: false
 ---
 
@@ -75,7 +75,7 @@ AI requires [graphics processing units (GPUs) to do the computing.](https://www.
 
 Compare selling Microsoft Office vs selling a consulting offering to a company. In the first case, you can give the same copy of Office that you've been selling to all other companies. In the second, you'll have to create new materials tailored for that client \[5\], which means you'll always incur incremental costs when getting more revenue. 
 
-If AI is more like the second case, this means we shouldn't expect the other 15% (and any other COGS) to go down either. [That low margin still takes a lot of work to get.](https://avc.com/2020/04/not-all-gross-margin-is-the-same/ "AVC") **Not only are AI companies less profitable, but we should expect that margin profile to last for a while**
+If AI is more like the second case, this means we shouldn't expect the other 15% (and any other COGS) to go down either. [That low margin still takes a lot of work to get. ](https://avc.com/2020/04/not-all-gross-margin-is-the-same/ "AVC") **Not only are AI companies less profitable, but we should expect that margin profile to last for a while**
 
 **Moat**
 
@@ -107,7 +107,7 @@ If AI has limited use cases, the total addressable market to sell your AI produc
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/AI rev multiple.jpg)
 
-Businesses are often valued based on a multiple of some financial metric such as reveue, EBITDA, or net income. Software companies are usually valued at a higher multiple than services companies, due to the reasons mentioned above. [Higher gross margins matter, as described by Two Sigma](https://twosigmaventures.com/blog/article/why-gross-margins-matter/ "Two") 
+Businesses are often valued based on a multiple of some financial metric such as revenue, EBITDA, or net income. Software companies are usually valued at a higher multiple than services companies, due to the reasons mentioned above. [Higher gross margins matter, as described by Two Sigma](https://twosigmaventures.com/blog/article/why-gross-margins-matter/ "Two") 
 
 Both a16z and Scott are implying that **an AI company is more similar to a services company and hence should get a lower valuation multiple than a software company.** Even if you think they'll get a higher multiple than the 2x revenue that services get, AI companies shouldn't be getting the 10x revenue that traditional software companies do, and that these AI companies previously raised money at.
 
@@ -151,7 +151,7 @@ This doesn't take away from his general point though, that **speculating as he d
 
 > For the most part though, you can just ignore him. But when Mr. Market becomes extremely worked up – either excited or depressed – you can use him to buy and sell.
 
-He discusses [the popular anecdote of Mr Market,](https://fs.blog/2013/11/mr-market/ "Market") which highlights how the stock market can be viewed as something that shouts a price at you continously. It's up to you to make a decision on when to buy and sell, and you're better off ignoring the market price most of the time. You're not in a hurry; activity is the enemy.
+He discusses [the popular anecdote of Mr Market,](https://fs.blog/2013/11/mr-market/ "Market") which highlights how the stock market can be viewed as something that shouts a price at you continuously. It's up to you to make a decision on when to buy and sell, and you're better off ignoring the market price most of the time. You're not in a hurry; activity is the enemy.
 
 > When you are at school and hear about value investing, you think it should be no big deal to put into practice. But as soon as you get to work, you realise that there are real people on the other side of every transaction. \[...\] they are superior to you in every way and don’t at all resemble Graham’s Mr. Market. So after a while, after being continuously scolded by your boss, you will feel that Mr. Market and these people are all better than you. You will start to have doubts. 
 
@@ -189,7 +189,7 @@ I've discussed [being open-minded and intellectually honest before,](https://avo
 
 This is a contrast to how many other investment funds work in practice, where they usually want investment analysts to increase their coverage of names and industry sectors over time. It's hard to tell the limited partners of your fund (the ones that give you their capital for you to invest) that you're not making any changes to the portfolio, and you like the names you're already in. Keep that up long enough and they'll wonder why they're paying you to do nothing. Hence, for many funds there's an incentive to actively trade in and out of names, and the larger the set of names you know the better. This works for some places, and is not Li Lu's style.
 
-**Concluding thoughts**
+**Concluding thoughts on value investing**
 
 > this profession doesn’t demand you to be especially smart, nor to have a high IQ or the best academic credentials
 
@@ -223,7 +223,7 @@ Writing your newsletter post as scheduled on the weekend vs binge watching Peaky
 
 In life, we face tradeoffs all the time. 
 
-If someone tells you there's no tradeoff for something, they're either naive, or trying to sell you something. Either way, probably best to avoid them.
+**If someone tells you there's no tradeoff for something, they're either naive, or trying to sell you something.** Either way, probably best to avoid them.
 
 Companies run efficiently don't have redundancies. That saves costs, until things break. But neither can you have backups for everything, since it'll be exorbitantly expensive.
 
@@ -269,7 +269,7 @@ Looking forward to hearing back!
 
 **Footnotes**
 
-1. People would say [machine learning is a subset of AI](https://towardsdatascience.com/clearing-the-confusion-ai-vs-machine-learning-vs-deep-learning-differences-fce69b21d5eb "ML"), I'll use the terms interchangeably here for convenience since it seems the principles hold across both areas; Scott would disagree. "The intention of ML is to enable machines to learn by themselves using the provided data and make accurate predictions."
+1. People would say [machine learning is a subset of AI](https://towardsdatascience.com/clearing-the-confusion-ai-vs-machine-learning-vs-deep-learning-differences-fce69b21d5eb "ML"), I'll use the terms interchangeably here for convenience since it seems the principles hold across both areas; Scott would separate them. "The intention of ML is to enable machines to learn by themselves using the provided data and make accurate predictions."
 2. Credit [Daniel McCarthy on twitter](https://twitter.com/d_mccar/status/1237738926086987777?s=20 "Daniel")
 3. The cloud operations here include training the AI model, model inference, data transfer
 4. PDF pg 6 on their FY20 Q4 8K. Also note that for simplicity I've taken wholeco COGS, which includes the less profitable professional services business. If you take the COGS on subscription alone, they're at 80% gross margins.
