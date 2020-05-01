@@ -1,10 +1,12 @@
 ---
-title:  "Fred Wilson AMA"  
-tags: [tech]
+title:  "What will stick and what will not?"  
+tags: [tech, VC, covid, education, healthcare, investing]
 published: false
 ---
 
 **Takeaway**
+
+Fred Wilson thinks the big question you should be asking now is what behaviours are going to stick and which are not
 
 <style>
       .iframe-container {
@@ -34,7 +36,13 @@ published: false
 
 **Main**
 
-Fred Wilson of Union Square Ventures is one of the more famous VCs based in NYC, due in large part to his popular blog [AVC](https://avc.com/ "AVC"). He recently did an ["Ask Me Anything" style virtual event](https://askmeanythinglivefredwilson.splashthat.com/? "Link") \[1\] at Betaworks; notes below \[2\]:
+Fred Wilson of Union Square Ventures is one of the more famous VCs based in NYC, due in part to his popular blog [AVC](https://avc.com/ "AVC"). He recently did an ["Ask Me Anything" style virtual event](https://askmeanythinglivefredwilson.splashthat.com/? "Link") \[1\] at [Betaworks](https://betaworks.com/ "Beta"). Notes below \[2\], and I’ve bucketed them into five categories:
+
+1. General covid reactions
+2. Market specific discussions
+3. Thoughts on founders raising capital now
+4. Thoughts on being a VC now
+5. Other
 
 **General Covid reactions**
 
@@ -61,7 +69,7 @@ LL - Note that Fred is [the Chairman of the Board at Etsy](https://investors.ets
   
 LL - I feel this is the major question most investors are wondering. I have some preliminary thoughts here and will probably write about them in the future. Initial thought is anything social related will revert to pre Covid.
   
-4. What's different in this upheavel vs prior ones?
+4. What's different in this upheaval vs prior ones?
   - Would look at industries being most disrupted to see e.g. in 2009 crypto came out of the finance crisis
   - There'll be ideas born out of the disruption e.g. telehealth, online learning where there's a real need for those kinds of things given the situation we're in. 
   - More broadly people are saying that "it's great I can just text a doctor and get what i need, I don't need to go to hospital,"
@@ -70,8 +78,8 @@ LL - I feel this is the major question most investors are wondering. I have some
 5. Do you expect higher % of startups to fold in next few mths, and what advice do you have for them?
   - I think failure rates are absolutely going to go up 
   - Government has done a lot to try keep people on payroll, and that's going to give companies a shot at surviving
-  - There already are companies that have had to lighten up on headcout
-  - Moves that government haas made will have meaningful impact **if business sector can come back by a june timeframe.** That is when many businesses will have to take another look at cost structures
+  - There already are companies that have had to lighten up on headcount
+  - Moves that government has made will have meaningful impact **if business sector can come back by a june timeframe.** That is when many businesses will have to take another look at cost structures
   
 LL - most people seem to have written off Q2 for 2020
 
@@ -82,7 +90,7 @@ LL - most people seem to have written off Q2 for 2020
   - e.g. crypto still can't deliver a consumer experience as good as the ones that big banks can deliver today. Until we do, crypto will stay in the niche sector it's in today
   - the whole sector is still scary and not for faint of heart, being difficult for non tech-savvy people to get into
   
-LL - Things such as Libra, [which I've written about before](https://avoidboringpeople.substack.com/p/would-you-buy-the-libra-neopet-kin "Libra") aren't helping   
+LL - Things such as Libra, [which I've written about before,](https://avoidboringpeople.substack.com/p/would-you-buy-the-libra-neopet-kin "Libra") aren't helping   
   
 7. What's your thesis around healthcare?
   - We do not invest in the more scientific part of healthcare such as new therapeutics
@@ -107,7 +115,7 @@ LL - Historically healthcare and education are two sectors in the US that have b
   - It's always critical to try to figure out who those people are
   - Even if you put off raising money till june, you can use this period now to find out who are those investors who will invest at your stage and have interest in the problems you're solving
   - If you already have investors, they can help you do that
-  - **Now is the time to be doing legwork** if you need to ask other enterpreneurs, investors etc to figure out who you should be targeting
+  - **Now is the time to be doing legwork** if you need to ask other entrepreneurs, investors etc to figure out who you should be targeting
   
 LL - If you're running a company, you'll likely benefit from always being in marketing mode. You want investors to know your story before you ask them for capital, regardless of the stage you're in. Even Amazon does investor relations outreach. Unless you think you're better than Amazon, you should be doing so too.
 
@@ -137,7 +145,7 @@ LL - There are people that will say they've been raising without meeting in pers
   
 14. What tools are you using to get more confident when doing diligence on a person?
   - It's been a little lazy of us to think we have a good nose, making investments by sitting in a room and getting good vibes to justify backing a person
-  - But tha's what the industry has relied on since 80s
+  - But that's what the industry has relied on since 80s
   - What I've encouraged people to do is to do more reference checking via linkedin or back channel references
   - I think this is going to be good for the industry. It's going to make it more possible for people who haven't been able to access VC market to do so. Will allow us to back people in more analytical ways rather than social ways
   
@@ -157,9 +165,9 @@ LL - I have heard this book mentioned multiple times now, guess I need to read i
    - duckduckgo, wordpress are other examples
    
 17. Once you open up, will proximity of your office be less important?
-  - Yes. If everything we've talked about is right, being less location sensitive in our investing is somethig we should embrace
+  - Yes. If everything we've talked about is right, being less location sensitive in our investing is something we should embrace
   - This crisis will make it easier to do that
-  - I still think lanugage and cultural differences are something we can't overcome easily. e.g. hearing a pitch by someone less proficient in english is still more difficult for me  
+  - I still think language and cultural differences are something we can't overcome easily. e.g. hearing a pitch by someone less proficient in english is still more difficult for me  
 
 **Footnotes**
 
