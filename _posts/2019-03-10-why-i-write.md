@@ -157,29 +157,29 @@ My writing is selfish.
 
     > The sort of writing that attempts to persuade may be a valid (or at least inevitable) form, but it's historically inaccurate to call it an essay. An essay is something else. \[...\] An essay is something you write to try to figure something out. Figure out what? You don't know yet. And so you can't begin with a thesis, because you don't have one, and may never have one.
 
-I'm not as sure about this. You're still trying to make a point in your writing. Might be semantics though.
+    I'm not as sure about this. You're still trying to make a point in your writing. Might be semantics though.
 
     > Why not just sit and think? Well, there precisely is Montaigne's great discovery. Expressing ideas helps to form them. Indeed, helps is far too weak a word. Most of what ends up in my essays I only thought of when I sat down to write them. That's why I write them.
 
-Nice to see agreement here with what I discussed above 
+    Nice to see agreement here with what I discussed above 
 
     > An essay you publish ought to tell the reader something he didn't already know.
 
     > I'd much rather read an essay that went off in an unexpected but interesting direction than one that plodded dutifully along a prescribed course.
 
-With the caveat that the direction is interesting, which is probably the crux of his argument. Avoid boring people?
+    With the caveat that the direction is interesting, which is probably the crux of his argument. Avoid boring people?
 
     > So if you want to write essays, you need two ingredients: a few topics you've thought about a lot, and some ability to ferret out the unexpected.
 
-I think a lof of this flows out of reading and talking to a variety of people
+    I think a lof of this flows out of reading and talking to a variety of people
 
     > One of the keys to coolness is to avoid situations where inexperience may make you look foolish. If you want to find surprises you should do the opposite. Study lots of different things, because some of the most interesting surprises are unexpected connections between different fields.
 
-I've written about [specialisation vs generalisation](https://www.leonlinsx.com/specialists-vs-generalists/ "post link") before
+    I've written about [specialisation vs generalisation](https://www.leonlinsx.com/specialists-vs-generalists/ "post link") before
 
     > Anyone can publish an essay on the Web, and it gets judged, as any writing should, by what it says, not who wrote it. Who are you to write about x? You are whatever you wrote.
 
-I agree that the internet has helped good ideas succeed on merit, though there's an inherent advantage for a famous person's ideas to spread compared to someone more obscure. The reduction in cost of publication does mean your ideas can stay discoverable for a longer period of time. With luck you'll get the response you desire, though it can't be your driving motivation.
+    I agree that the internet has helped good ideas succeed on merit, though there's an inherent advantage for a famous person's ideas to spread compared to someone more obscure. The reduction in cost of publication does mean your ideas can stay discoverable for a longer period of time. With luck you'll get the response you desire, though it can't be your driving motivation.
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
