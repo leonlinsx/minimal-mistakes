@@ -10,6 +10,32 @@ Writing is selfish.
 
 Well, perhaps not all writing. If you're writing for yourself and never intend for anyone to read it, you're an exception \[1\]. But the majority of writing is intended for someone else to read and respond to. Whether that be a paper at school, email at work, or self-referential blog post on your web site, you're yelling to get your audience's attention, with the purpose usually to inform, entertain, or persuade \[2\]. When you want someone to read something you wrote, you're forcing your ideas into their mind. You're stealing their time, their most precious commodity. Content creation is also attention appropriation.
 
+<style>
+      .iframe-container {
+        overflow: hidden;        
+        padding-top: 50%; <!-- Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625) -->
+        position: relative;
+      }
+      .iframe-container iframe { 
+         border: 0;
+         height: 100%; <!-- Finally, width and height are set to 100% so the iframe takes up 100% of the containers space. -->
+         left: 0;
+         position: absolute;
+         top: 0;
+         width: 100%;
+         display: block;
+         margin: 0 auto; <!-- center image -->
+      }
+      <!-- 4x3 Aspect Ratio -->
+      .iframe-container-4x3 {
+        padding-top: 75%;
+      }
+</style> 
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
+
 Not all writing shouts at you with the same intensity. That school paper which you've used [double spacing after each fullstop](https://www.instructionalsolutions.com/blog/one-space-vs-two-after-period "spacing"), [increased the font size of punctuation marks](https://www.reddit.com/r/UnethicalLifeProTips/comments/743goz/ulpt_coming_up_short_on_the_length_of_your_essay/ "punctuation font"), and [messed with the line spacing between lines](https://support.office.com/en-us/article/change-the-line-spacing-in-word-1970e24a-441c-473d-918f-c6805237fbf4 "line spacing") is a weak whimper, created to fulfil some criteria and hopefully never referenced again once you've been graded. But good writing, great writing, comes at you with a ferocity and intensity like a storm at sea, demanding your complete focus \[3\]. Little of our writing is going to be good, and even less will be great, but we still write with the hope that our intended recipient glances at it. We want that theft of your time. We want to be read. 
 
 Yet we have to face the inconvenient reality that most of our writing goes unread. We shout into the abyss, but the abyss doesn't shout back \[4\]. It's deathly quiet. Take Howard Marks's [experience with his now-famous memos:](https://ritholtz.com/2018/10/mib-howard-marks-oaktree-capital/ "Marks story"):
@@ -97,7 +123,11 @@ As you can see, I'm not placing good odds on the popularity of this site. Perhap
 
 At the end of the day, my writing is for me alone. 
 
-My writing is selfish. 
+My writing is selfish.
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
 
 **Footnotes**
 
@@ -150,3 +180,7 @@ I've written about [specialisation vs generalisation](https://www.leonlinsx.com/
     > Anyone can publish an essay on the Web, and it gets judged, as any writing should, by what it says, not who wrote it. Who are you to write about x? You are whatever you wrote.
 
 I agree that the internet has helped good ideas succeed on merit, though there's an inherent advantage for a famous person's ideas to spread compared to someone more obscure. The reduction in cost of publication does mean your ideas can stay discoverable for a longer period of time. With luck you'll get the response you desire, though it can't be your driving motivation.
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
