@@ -189,8 +189,6 @@ M
 4. Gusto does cloud based payroll and human resource services
 5. I can't find the source for this idea, lmk if you do and I'll credit them
 
-*If you liked this, sign up for my * ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
-
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
