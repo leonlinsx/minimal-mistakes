@@ -79,7 +79,7 @@ Lexi
 - It's also interesting to ask what has stayed the same. 
   - Our fundamental strategy and mission hasn't changed. Gusto is [a people platform, we deliver prosperity.](https://gusto.com/about "Gusto") 
 - Since march, one area we needed people working on first was health and safety for employees
-- We have an employee workplace experience workstream, and there we ingest data from local jurisdication and federal law, to set up risk frameworks
+- We have an employee workplace experience workstream, and there we ingest data from local jurisdiction and federal law, to set up risk frameworks
   - **That workstream meant that most of us were already working from home, even before it was mandated,** since were taking in all that information and felt that we had to be able to work from home soon
 - Providing a service like Gusto is not a nice to have, it's a must have for our customers, so we feel strong in that regard
 - Based on what we're reading in our data, we're indeed seeing employees going off payroll and businesses going out of business 
