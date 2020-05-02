@@ -38,7 +38,7 @@ Michelle Zatlyn and Lexi Reese believe operators need to cut down to "must haves
 
 [Operator Collective](https://operatorcollective.com/about/ "Op Co") is a newly founded group for operators from diverse backgrounds to support founders both operationally and financially. Members include C suite people from Stripe, Waymo, Zendesk. 
 
-They recently [held an event](https://operatorcollective.com/events/ "event") on "How do you shift your operations during a crisis?" where they interviewed Michelle Zatlyn, [Cloudflare](https://en.wikipedia.org/wiki/Cloudflare "Cloud") Co-Founder COO and Lexi Reese, [Gusto](https://en.wikipedia.org/wiki/Gusto_(company) "Gusto") COO \[1\]. Notes below, with M representing Michelle and L, Lexi. They'll sometimes be paraphrased for clarity, and covered the following topics:
+They recently [held an event](https://operatorcollective.com/events/ "event") on "How do you shift your operations during a crisis?" where they interviewed Michelle Zatlyn, [Cloudflare](https://en.wikipedia.org/wiki/Cloudflare "Cloud") Co-Founder COO and Lexi Reese, [Gusto](https://en.wikipedia.org/wiki/Gusto_(company) "Gusto") COO \[1\]. Notes below will sometimes be paraphrased for clarity, and covered the following topics:
 
 1. What does a COO actually do?
 2. How have you changed operations internally?
@@ -46,7 +46,7 @@ They recently [held an event](https://operatorcollective.com/events/ "event") on
 
 **What does a COO actually do?**
 
-M 
+Michelle 
 - I was a founder at Cloudflare \[2\], but I didn't start with the COO title. It was something we grew into. 
   - 3 of us started the company, and 2 of us are still running it \[3\]. 
   - A different group of people report to me vs the CEO. A lot of the go to market (GTM) functions report to me. Legal, technology, finance to Matthew (Cloudflare CEO)
@@ -55,7 +55,7 @@ M
 - But if you look at large companies, not a lot have COOs. So there's some concern about when a company is in its lifecycle. 
   - Is it out of build mode and into maintain mode? Would you you still need a COO then?
 
-L 
+Lexi 
 - Josh, Gusto CEO \[4\], had been given advice that you really need a COO, but need to be intentional about why you're hiring one
   - If you're hiring a COO, you need to be explicit about what job needs to be done, that you either have no experience for or no bandwidth 
 - I was hired to run customer experience. The challenge we have at Gusto is how to reliably and scalably deliver a customer experience that's unmatched, but do so in a way that's efficient and repeatable. Serving 10k businesses vs 100k is different. 
@@ -66,7 +66,7 @@ L
 
 **What has the impact of Covid been on strategic planning, and have you made any modifications?**
 
-M 
+Michelle 
 - **This is not the time for "nice to haves", only "must haves".** Have put projects on hold.
   - We also asked people to flag to their manager if they thought the project they were working on was not a priority for the business, and we saw good outcomes from that
 - Right now there are more questions than answers, it's still messy and depends on the company
@@ -75,7 +75,7 @@ M
 - We ask ourselves, "What have you learnt in this week that can change the business going forward"
 - We'd always operated quickly, and are operating even more quickly now
 
-L
+Lexi
 - It's also interesting to ask what has stayed the same. 
   - Our fundamental strategy and mission hasn't changed. Gusto is [a people platform, we deliver prosperity.](https://gusto.com/about "Gusto") 
 - Since march, one area we needed people working on first was health and safety for employees
@@ -92,7 +92,7 @@ L
 
 **What metrics are you looking at?**
 
-M 
+Michelle 
 - We try to find leading indicators. 
 - We sell services to internet properties, and traffic has been up 40%. We sell to businesses, from SMBs to big business developers
 - We want to know how does the pipeline look, since that dictates how the business will work
@@ -105,7 +105,7 @@ M
   - It's prudent to plot all of that customer activity and look and track with the team, to see if you're on upswing or downswing of slope
 - One thing that keeps coming up is that **in a crisis, leadership matters, and that's up to all of us.** Whether you like it or not, some companies will come out stronger, gaining market share, and others will lose, and you'll have to decide which of those you want to be as a leader
 
-L 
+Lexi 
 - At the start of the crisis, we were meeting daily as an extended leadership team, including engineering, marketing, business tech etc
 - The way we bucketed our priorities was
   - 1) current customer health, how they're growing, whether they're up/downgrading 
@@ -119,7 +119,7 @@ L
 
 **What have you been doing with respect to communications within the company?**
 
-L 
+Lexi 
 - Would be helpful to know how we're organised at Gusto
   - We have an executive team that reports to the CEO. That's the head of finance, people, engineering, product, and myself.
   - We also have an extended group of 15 people that form an extended leadership team 
@@ -137,7 +137,7 @@ L
   - Every other week there's a town hall, and then Q&A via [slido](https://www.sli.do/ "slido"), where we commit to answering everyone's question within 24hrs
   - So it's **alternating between telling and showing and letting people ask questions**
 
-M 
+Michelle 
 - We were an in person company, had an environment where people come into office, and that led to a rhythm of communicating. And then all of a sudden we had to convert all of that to virtual interaction instead. 
 - Couple of things we did 
   - We told our people managers, they need to be checking in with their team 2x vs before. For the first few weeks the idea was like "we want to be able to reach out to everyone and they can say they've had a conversation with their manager"
@@ -149,13 +149,13 @@ M
 
 **What have been some challenges?**
 
-M
+Michelle
 - Our all hands used to be in person, now someone gave feedback that seeing larger face for zoom is better, so we might start doing that
 - What we've said internally is that **we don't want to return back to normal, but rather back to better**
 - Internet traffic is way up, and it's been a challenge thinking of how to make changes to engineering side to scale the system
 - Also **rethinking what do we want to use our office space for** after this
 
-L 
+Lexi 
 - There are so many great parts about what's happened, even as there's so many horrible things that are going on.
 - Things that were always there are now standing out e.g. what's your mission, do you live your values, these help you make decisions
 - Your courage of conviction needs to be there, and you need to evaluate value and mission
@@ -171,7 +171,7 @@ L
 
 **How are you thinking about new customers and new business?**
 
-M 
+Michelle 
 - We really want to come out of this stronger. 
 - We've shifted on the marketing side. We've needed to check what was working, and do those still work? What does the data say and does it make sense in this new environment?
   - You need empathy
