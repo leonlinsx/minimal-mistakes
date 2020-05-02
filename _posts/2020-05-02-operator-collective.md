@@ -1,10 +1,12 @@
 ---
-title:  ""  
-tags: []
+title:  "How to get back to better"  
+tags: [tech, operations, COO, communications, strategy, metrics, customers]
 published: false
 ---
 
 **Takeaway**
+
+Michelle Zatlyn and Lexi Reese believe operators need to cut down to "must haves", track metrics more frequently, and check in with customers more during this period in order to get "back to better"
 
 <style>
       .iframe-container {
@@ -36,7 +38,11 @@ published: false
 
 [Operator Collective](https://operatorcollective.com/about/ "Op Co") is a newly founded group for operators from diverse backgrounds to support founders both operationally and financially. Members include C suite people from Stripe, Waymo, Zendesk. 
 
-They recently [held an event](https://operatorcollective.com/events/ "event") on "How do you shift your operations during a crisis?" where they interviewed Michelle Zatlyn, [Cloudflare](https://en.wikipedia.org/wiki/Cloudflare "Cloud") Co-Founder COO and Lexi Reese, [Gusto](https://en.wikipedia.org/wiki/Gusto_(company) "Gusto") COO \[1\]. Notes below, with M representing Michelle and L, Lexi. They'll sometimes be paraphrased for clarity.
+They recently [held an event](https://operatorcollective.com/events/ "event") on "How do you shift your operations during a crisis?" where they interviewed Michelle Zatlyn, [Cloudflare](https://en.wikipedia.org/wiki/Cloudflare "Cloud") Co-Founder COO and Lexi Reese, [Gusto](https://en.wikipedia.org/wiki/Gusto_(company) "Gusto") COO \[1\]. Notes below, with M representing Michelle and L, Lexi. They'll sometimes be paraphrased for clarity, and covered the following topics:
+
+1. What does a COO actually do?
+2. How have you changed operations internally?
+3. How are you thinking about the future?
 
 **What does a COO actually do?**
 
