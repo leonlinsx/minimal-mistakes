@@ -34,6 +34,8 @@ published: false
 
 **Main**
 
+https://vimeo.com/414116322
+
 - teaching underappreciated.
   - hard to do
   - but also daycare
@@ -94,6 +96,20 @@ published: false
   - Think there's a moral obligation to society to provide basic support to some
   - Beyond moral, there's also a purely academic and draconian reson. If you don't provide support now there'll be costs later
   - Technological displacement is real in the short term. In the long term it creates all sorts of jobs people can't imagine
+  - There's a lot of latent pricing power in some companies e.g. spectrum that could have raised prices but didn't due to fear of backlash. And when they do, that'll result in others coming to provide competing services
+  - I'm bullish on areas that haven't raised pricing, and when the incumbents do it'll create whitespace for new companies
+- Individuals have a moral responsibility to learn and level themselves up, and it's never been easier for them to do that
+- Technological onshoring will be critical, I'm bullish on it
+  - From security and geopolitical perspective will be more popular 
+  - Will have redundancy, greater distribution, more onshoring
+  - Should sacrifice the efficienty to get more slack in the system
+- How has your investment thesis involved? Do you have any being driven by Covid?
+  - We've tracked this, about 20 out of the 130 or so Lux companies that are directly impacted, whether 3D printing swabs or scanning physical spaces
+  - All of that has been totally unintentional, nothing we're doing purposely for Covid
+  - Believe vast majority of VC will be investing in telepresence spacce so I'm not interested in that
+- Spotlight of our attention now is on Covid, and all the stuff outside of that is going to be important
+  - The same way how in a heist movie the robbers will do a test to gauge initial response
+  - If you're a back actor you've seen what the first response is
   
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
