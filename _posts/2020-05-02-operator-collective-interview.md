@@ -44,6 +44,8 @@ They recently [held an event](https://operatorcollective.com/events/ "event") on
 2. How have you changed operations internally?
 3. How are you thinking about the future?
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Op Co companies.png)
+
 **What does a COO actually do?**
 
 Michelle 
