@@ -76,7 +76,7 @@ Recently, they hosted an Ask Me Anything (AMA) of [Megan O'Connor](https://twitt
 
 - How will schools teach the emotional aspect of growth if we move towards screen based learning?
   - computer based learning can teach you so much, but learning with other humans is important. **You grow through social interaction, and that is why we send people to school in person**
-  - there's already some great curriculm on this e.g. [Move this world](https://www.movethisworld.com/ "move") \[5\]
+  - there's already some great curriculum on this e.g. [Move this world](https://www.movethisworld.com/ "move") \[5\]
   - and I think we're going to find social and emotional learning becoming an important subject of its own, and more of a focal point than it was before
   
 *LL - Education is not just about learning lessons, learning how to learn, or status signalling. While it includes all of those and more, the socialisation aspect is also important. Josh Wolfe touches on the daycare aspect of schooling in a talk I'll be summarising later this week as well.*
@@ -88,16 +88,16 @@ Recently, they hosted an Ask Me Anything (AMA) of [Megan O'Connor](https://twitt
   
 - Do you think there's a bigger place for online learning permanently?
   - the cool thing that's going to happen is it's going to **more personalised and self-paced after this**
-  - this will allow students to know what skils they have, and map their assignments against their skills
+  - this will allow students to know what skills they have, and map their assignments against their skills
   - you could tag what skills students are getting after a lesson, how it maps against the learning journey for that student, and what skills are relevant for future path and careers 
   - skills are more important than grades or scores  
 
-*LL - I'm unclear if she meant that skills are going to be more important, or that they should be more important. Short of taking someon on a trial basis, it's hard to evaluate skills accurately. I'm more skeptical that online testing can solve this issue of tested skills vs actual ability*
+*LL - I'm unclear if she meant that skills are going to be more important, or that they should be more important. Short of taking someone on a trial basis, it's hard to evaluate skills accurately. I'm more skeptical that online testing can solve this issue of tested skills vs actual ability*
 
 - How do you see test taking evolve?
   - what will have the most radical shift from this is higher education
   - the focus of most people in high school is about how to get good SAT scores to get into a good college \[6\]
-  - studetns will start thinking in terms of career paths, and how college fits or doesn't fit into that path
+  - students will start thinking in terms of career paths, and how college fits or doesn't fit into that path
   - as people think about that tradeoff, test taking will lower in importance
   - test taking has quickly moved online, but the importance of test scores will change, and we'll start looking for other markers of students ability
   
@@ -113,8 +113,8 @@ Recently, they hosted an Ask Me Anything (AMA) of [Megan O'Connor](https://twitt
     - create the best experiences for students
   - don't think we'll move away from credentials. If anything, we're seeing that moving online too
     - even seeing that in engineering, people getting credentials online
-  - think we're going to see the wild west in terms of online credentialling, will see huge boom in that sector
-    - in the same way we saw a boom in organic labels, we'll see the same here in skills credentialling
+  - think we're going to see the wild west in terms of online credentialing, will see huge boom in that sector
+    - **in the same way we saw a boom in organic labels, we'll see the same here in skills credentialing**
 
 - People will be thinking about "how do I continue to grow as a worker?"
   - prior to all this it was one of the hottest spaces e.g. [GILD](https://gilld.com/ "GILD")
@@ -129,18 +129,18 @@ Recently, they hosted an Ask Me Anything (AMA) of [Megan O'Connor](https://twitt
   - real world educators are already leveraging those types of videos in their in person classes
   - it's like tik tok meets udemy. I think it's the responsibility of major players to certify that this is where you can learn something
   
-*LL - live streaming teaching is already a thing in China, where top teachers can supposedly [earn up to $3mm USD yearly.](https://www.chinadaily.com.cn/china/2017-01/11/content_27920747.htm "China") Givent it's an influencer based market, there's probably a long tail of educators barely making anything*
+*LL - live streaming teaching is already a thing in China, where top teachers can supposedly [earn up to $3mm USD yearly.](https://www.chinadaily.com.cn/china/2017-01/11/content_27920747.htm "China") Given it's an influencer based market, there's probably a long tail of educators barely making anything*
 
 - How do you square there being too much content online for the passion economy vs the apprenticeship model?
   - in terms of learning something from a creator, that world has arrived
   - in terms of applying to more traditional coursework, there's still a tricky world ahead, and it's a saturated market
   - i believe that we as humans are always going to be in a state of learning
-    - students spend all day in school. We now see adults doing things like [masterclass](https://www.masterclass.com/ "master") in their free time.
+    - students spend all day in school. We now see adults doing things like [Masterclass](https://www.masterclass.com/ "master") in their free time.
     - it'll be interesting if people start using the majority of free time to be a learner
    
 - What form factors do you find most interesting for ed tech?
   - there's proprietary software in the fitness space that can be applied to the education space
-  - in terms of information management systems, something like [canvas](https://www.instructure.com/canvas/ "canvas")
+  - in terms of information management systems, something like [Canvas](https://www.instructure.com/canvas/ "canvas")
   - I don't think anyone thought that zoom was and education platform until recently. Once they figure out privacy issues they'll likely be the largest education provider
   - there's also a lot of free solutions e.g. quizlet that are already popular and continue to grow
   - **in terms of who will win, it will be those who do a great job of onboarding new clients**
@@ -150,7 +150,7 @@ Recently, they hosted an Ask Me Anything (AMA) of [Megan O'Connor](https://twitt
 - What do you see as the macro impacts on education?
   - a trend we've seen is a holistic 'reboot your career' education service. That's going to continue
   - we're already seeing a lot of furloughed or laid off people. They're taking online courses on online platforms to show prospective employers that they still know how to learn new things
-  - companies have a responsibility to educate employees through credentialling
+  - companies have a responsibility to educate employees through credentialing
   - **maybe there is an opportunity for a provider to focus on gig economy workers** 
   
 - What are some companies out of left field that might also see opporunities?
