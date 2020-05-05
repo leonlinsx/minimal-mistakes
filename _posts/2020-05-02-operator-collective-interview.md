@@ -1,7 +1,7 @@
 ---
 title:  "How to get back to better"  
 tags: [tech, operations, COO, communications, strategy, metrics, customers]
-published: false
+published: true
 ---
 
 **Takeaway**
