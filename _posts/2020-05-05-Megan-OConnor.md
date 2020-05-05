@@ -1,10 +1,12 @@
 ---
-title:  ""  
-tags: []
+title:  "How online credentialing will be like organic food labelling"  
+tags: [education, tech, university]
 published: false
 ---
 
 **Takeaway**
+
+Megan O’Connor discusses how schooling at home requires access, platforms, plus more digestible units, and how the future of education could look more personalised with more online credentialing
 
 <style>
       .iframe-container {
@@ -40,7 +42,7 @@ This post is relevant if you're interested in education technology
 
 [Human Ventures](https://humanventures.co/about-us "Human") is an NYC based [startup incubator and VC fund](https://www.fastcompany.com/90311721/exclusive-human-ventures-elevates-its-woman-led-startup-studio-with-a-50-million-debut-fund "VC"), bringing together founders to build a company before deciding whether to invest in them \[1\]. 
 
-Recently, they hosted an Ask Me Anything (AMA) of [Megan O'Connor](https://twitter.com/meganmoconnor?lang=en "Megan"), one of their founders. Megan was previously founder of [Clark](https://www.hiclark.com/ "Clark") tutoring and currently Entrepreneur in Residence at Kaplan; clearly experienced in the education space \[2\]. Notes below cover the following areas:
+Recently, they hosted an Ask Me Anything (AMA) of [Megan O'Connor](https://twitter.com/meganmoconnor?lang=en "Megan"), one of their founders. Megan was previously founder of [Clark](https://www.hiclark.com/ "Clark") tutoring and currently Entrepreneur in Residence at Kaplan; she’s clearly experienced in the education space \[2\]. Notes below cover the following areas:
 
 1. How the education sector is dealing with Covid
 2. What the future of edtech might look like
@@ -118,7 +120,7 @@ Recently, they hosted an Ask Me Anything (AMA) of [Megan O'Connor](https://twitt
 
 - People will be thinking about "how do I continue to grow as a worker?"
   - prior to all this it was one of the hottest spaces e.g. [GILD](https://gilld.com/ "GILD")
-  - what does it mean for different people in your company to have a titles? What skills are needed? 
+  - what does it mean for different people in your company to have a title? What skills are needed? 
     - there are consulting companies that come in to benchmark what skills a title requires, what success looks like at each step
     - recommend what skills are needed for employees
   - I believe that online corporate solutions are going to be the way forward
@@ -127,7 +129,8 @@ Recently, they hosted an Ask Me Anything (AMA) of [Megan O'Connor](https://twitt
 - How do you think about influencer led education content?
   - we'll continue to see celebrity educators grow
   - real world educators are already leveraging those types of videos in their in person classes
-  - it's like tik tok meets udemy. I think it's the responsibility of major players to certify that this is where you can learn something
+  - it's like tik tok meets udemy \[7\]
+  - I think it's the responsibility of major players to certify that this is where you can learn something
   
 *LL - live streaming teaching is already a thing in China, where top teachers can supposedly [earn up to $3mm USD yearly.](https://www.chinadaily.com.cn/china/2017-01/11/content_27920747.htm "China") Given it's an influencer based market, there's probably a long tail of educators barely making anything*
 
@@ -137,7 +140,9 @@ Recently, they hosted an Ask Me Anything (AMA) of [Megan O'Connor](https://twitt
   - i believe that we as humans are always going to be in a state of learning
     - students spend all day in school. We now see adults doing things like [Masterclass](https://www.masterclass.com/ "master") in their free time.
     - it'll be interesting if people start using the majority of free time to be a learner
-   
+ 
+*LL - I’m more skeptical here; most people are lazy (myself included).* 
+ 
 - What form factors do you find most interesting for ed tech?
   - there's proprietary software in the fitness space that can be applied to the education space
   - in terms of information management systems, something like [Canvas](https://www.instructure.com/canvas/ "canvas")
@@ -153,7 +158,7 @@ Recently, they hosted an Ask Me Anything (AMA) of [Megan O'Connor](https://twitt
   - companies have a responsibility to educate employees through credentialing
   - **maybe there is an opportunity for a provider to focus on gig economy workers** 
   
-- What are some companies out of left field that might also see opporunities?
+- What are some companies out of left field that might also see opportunities?
   - we're seeing a huge uptick in education marketplaces that need people to provide education for students via tutoring
   - a more macro trend is companies that are creating their own universities, becoming more like a vocational school e.g. a company would train you themselves before you start work
   - another interesting thing is how many students are not reachable by schools 
@@ -173,7 +178,7 @@ Recently, they hosted an Ask Me Anything (AMA) of [Megan O'Connor](https://twitt
   - right now we have pod seating in most classrooms before university, and then lecture halls in universities
   - how i think layouts will change is there'll be more space between people, 
     - group work will take new forms,
-    - we'll also see people at home more used to how to interact. You could even do shared experiences withe people using screens  
+    - we'll also see people at home more used to how to interact. You could even do shared experiences with people using screens  
 
 *LL - The change in physical layouts seems a temporary measure to me. Just as restaurants can't survive at half capacity, I don't think most schools can either*
 
@@ -200,6 +205,7 @@ Recently, they hosted an Ask Me Anything (AMA) of [Megan O'Connor](https://twitt
 4. A massive open online course [is an online course aimed at unlimited participation and open access via the web.](https://en.wikipedia.org/wiki/Massive_open_online_course "wiki") Coursera is one such example.
 5. "Move This World is a social emotional learning (SEL) program that uses interactive videos, movement, and creative expression to help students and educators develop emotional intelligence skills for long-term wellbeing."
 6. For the non Americans, this is a pre-university standardised test, like the A-levels or IB. 
+7. Tik Tok is a short video app; udemy is an online course provider. I suppose if you had short form education content in an infinite scrolling experience, you could have more engagement, though the vids would have to be really short, and I’m unsure how you’d structure that
 
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
