@@ -34,7 +34,7 @@ published: false
 
 **Main**
 
-[Josh Wolfe](https://luxcapital.com/team/josh-wolfe/ "Josh") is a VC at Lux Capital, which invests in early-stage ventures that are solving hard tech problems of the future, such as [drone sentry security systems](https://www.youtube.com/watch?v=pmI4Bwks2bg "Anduril") \[1\]. He was recently interviewed by Michael Milstein, founder of [Company,](https://www.company.co/about-us/ "Company) a curated community of NYC startups and entreprenuers. The video link is [here](https://vimeo.com/414116322 "link"), and notes below cover:
+[Josh Wolfe](https://luxcapital.com/team/josh-wolfe/ "Josh") is a VC at Lux Capital, which invests in early-stage ventures that are solving hard tech problems of the future, such as [drone sentry security systems](https://www.youtube.com/watch?v=pmI4Bwks2bg "Anduril") \[1\]. He was recently interviewed by Michael Milstein, founder of [Company,](https://www.company.co/about-us/ "Company") a curated community of NYC startups and entreprenuers. The video link is [here](https://vimeo.com/414116322 "link"), and notes below cover:
 
  **Current situation**
 
