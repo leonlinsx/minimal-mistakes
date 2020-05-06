@@ -86,6 +86,8 @@ Recently, they hosted an Ask Me Anything (AMA) of [Megan O'Connor](https://twitt
 - How do you calculate a value of degree now?
   - we're going to see the market dictate how valuable we see degrees
   
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Unbundling education.jpg)  
+  
 **Future of education tech**  
   
 - Do you think there's a bigger place for online learning permanently?
