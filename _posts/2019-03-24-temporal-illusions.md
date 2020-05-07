@@ -10,6 +10,32 @@ You can use your hands to touch both your nose and foot. Obvious. \[1\]
 
 When you do touch both your nose and foot at the same time, you feel the touches at the same time. Obvious, and now you're wondering where this is going. But let's pause here and think about this. How is it that you feel the touch on your nose, which is closer to your brain, at the same time that you feel the touch on your foot, which is further away? The non-intuitive conclusion is that our brain has a slight window of time where it processes signals and then interprets what we feel. Brain, time, and memory are linked. Perception then, is a temporal illusion.
 
+<style>
+      .iframe-container {
+        overflow: hidden;        
+        padding-top: 50%; <!-- Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625) -->
+        position: relative;
+      }
+      .iframe-container iframe { 
+         border: 0;
+         height: 100%; <!-- Finally, width and height are set to 100% so the iframe takes up 100% of the containers space. -->
+         left: 0;
+         position: absolute;
+         top: 0;
+         width: 100%;
+         display: block;
+         margin: 0 auto; <!-- center image -->
+      }
+      <!-- 4x3 Aspect Ratio -->
+      .iframe-container-4x3 {
+        padding-top: 75%;
+      }
+</style> 
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
+
 I had the privilege of hearing David Eagleman talk at the [Long Now anniversary event](https://eagleman.com/blog/the-brain-and-the-now "talk link") \[2\] a while back where he talked about this and other temporal illusions. I recently realised he wrote a post about his research too. [The post](https://www.edge.org/conversation/brain-time "brain time") is worth reading in its entirety, but below are the parts I found most interesting: 
 
 > We all know about optical illusions, in which things appear different from how they really are; less well known is the world of temporal illusions. When you begin to look for temporal illusions, they appear everywhere. In the movie theater, you perceive a series of static images as a smoothly flowing scene. Or perhaps you've noticed when glancing at a clock that the second hand sometimes appears to take longer than normal to move to its next position—as though the clock were momentarily frozen.
@@ -57,3 +83,6 @@ I don't know if this has any relevance to how we live our lives; just thought it
 4. Why sprinters [react faster to the sound rather than sight of a gun](https://www.realclearscience.com/blog/2016/08/theres_an_amazing_reason_why_races_are_started_with_guns.html "gun starts")
 5. I'm unsure if this is the right way to think about it, but should I assume that anything <100ms latency would work? Or does it have to be half of that to account for the time it takes for me to see the output and then press a key action, <50ms ? Hoping someone can clarify this for me
 
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
