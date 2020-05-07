@@ -220,8 +220,9 @@ Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram")
   
 - There's something really powerful about exploring the meaning of meaning
   - Thinking about the objects around us, the meaning they might hold for others that is lost on us
-  - e.g. a brick on a street might have significance for someone, but we'll walk past it without knowing. 
-  - Situations like this happen all the time
+    - e.g. a brick on a street might have significance for someone, but we'll walk past it without knowing. 
+    - Situations like this happen all the time and we're unaware
+  - 
 
 **Footnotes**
 
