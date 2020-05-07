@@ -153,8 +153,13 @@ published: false
 
 **VC**
 
-- VC is a less transactional business 
-  - Game theoretic, I'm only as good as the last deal I did, and have to maintain my long term reputation, which will be compromised if I exploit someone
+- What can you see from the perch of VC that others can't?
+  - The cliche thing about VC generally is that the best way to predict the future is to invent it. Those people are the scientists and engineers, often inspired by science fiction, that say they want that thing to be real and make it so
+  - Our job is to find these people before others and take an asymmetric view on them; the power of someone who has a secret
+  - We go around finding these people and finding out if full of shit or not
+
+- VC is a less transactional business than for example retail
+  - Game theoretic; I'm only as good as the last deal I did, and have to maintain my long term reputation, which will be compromised if I exploit someone
   - The payback of an investor exploiting someone naive would be pretty swift. e.g. news would travel quickly if a founder got screwed over on terms
 
 - How does someone know there's space to break into?
@@ -207,11 +212,11 @@ Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram")
 *LL - Unsure if I entirely understand Josh's last point here. It seemed he advocates for investing in areas where the incumbent can raise prices but hasn't, which would be opposite to how Buffett or perhaps a value investor would think. They'd prefer to invest in the incumbent that can take prices up but hasn't needed to yet.*
 
 - Cancel culture is resulting in virtually nil tolerance if someone makes one footfall
-  - People that have great contributions to society are being advised to stay low, out of limelight
+  - People that have great contributions to society are being shut down. They are being advised to stay low, out of limelight
   - Comedians are an entire class of people we pay to reveal uncomfortable truths.
     - The social scientists of human nature
     - Given permission to say the things people might be thinking but are afraid to say
-    - Comedians reveal great truths. Probably so many of them depressed because they see truth and are burdened
+    - Comedians reveal great truths. Probably so many of them depressed because they see truth and are burdened by the truths they see
   - It's also an interesting phenomenon on figuring out what is the shared collective temperature and who gets to set that
   
 - I like the thought experiment of imagining a world where a person existed but the technology didn't e.g. Mozart without the harpsicle, Gates without the PC, Hendrix without the electric guitar
@@ -245,11 +250,22 @@ Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram")
   - Where technology is trending is where the line between model and reality is thinning
 
 - Increasing weight placed on tools that can detect veracity
-  - 
+  - deepfakes are getting better
+  - race between deception and detection
+
+- I'm not in the [Nick Bostrom](https://samharris.org/ "Nick") or [Sam Harris](https://samharris.org/ "Sam") camp for artificial general intelligence. I'm more in [David Deutsch's](https://en.wikipedia.org/wiki/David_Deutsch "David") camp
+  - Bostrom, along with other very smart people, is concerned about us becoming paper clip factories and being harvested by sentient machines that have run amok
+    - We're approaching high accuracy in being able to construct text from machines that would fool most people
+  - Deutsch makes argument that the more dangerous thing is not AI run amok but the average teenager
+    - Inside a simulation you can have all the tools that you give it, but won't have tools that are outside the system
+    - Even when AI can create something that would fool most people into thinking it was created by a human, it's all still constrained by the system
+    - If you accept the premise that the AI is within a simulation, they can't come out of the simulation's constraints
+    
 
 **Footnotes**
 
 1. Other investment areas include "3D printing; machine learning; artificial intelligence; flying robots; surgical robots; synthetic biology; genomics; satellites; space; drones; computational imaging and recognition; new materials; holograms; “fixers” for the future; the internet of things; connected hardware; the smart home and virtual reality." I've previously done a short response to another of Josh's videos [here](https://www.leonlinsx.com/lux-annual-talk/ "Lux") and Polina Marinova has done a profile on him [here](https://fortune.com/2018/09/20/josh-wolfe-lux-capital/ "josh")
+2. Eric has a segment at the start where he talks about how idealism is a cover story for wealth or power transfers e.g. feminism for companies to get more labour, free access to information for companies to gather data moats, patriotism to dilute the power of labour. It's an interesting theory, and I think it's hard to separate people who are genuine believers of the cause vs people who are trying to exploit the cause.  
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
