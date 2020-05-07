@@ -182,7 +182,12 @@ published: false
 
 - Cancel culture is resulting in virtually nil tolerance if someone makes one footfall
   - People that have great contributions to society are being advised to stay low, out of limelight
-  -  
+  - Comedians are an entire class of people we pay to reveal uncomfortable truths.
+    - The social scientists of human nature
+    - Given permission to say the things people might be thinking but are afraid to say
+  - It's also an interesting phenomenon on figuring out what is the shared collective temperature and who gets to set that
+  
+
 
 **Footnotes**
 
