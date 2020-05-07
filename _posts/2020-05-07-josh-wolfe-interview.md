@@ -182,7 +182,7 @@ Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram")
     - If you're an entrepreneur that hasn't had someone believe in them, and then you get someone that agrees with your vision, that sets a chain reaction off
 
 - We like to believe before someone else understands 
-    - Need to be careful though since it's hard to tell at inception of the company between a visionary vs someone trying to defraud you
+    - Need to be careful though, since it's hard to tell at inception of the company between a visionary vs someone trying to defraud you
     - When I meet somebody, I assume "there's daggers behind smiles". Someone smiles and I assume there's an alternative motive. Partially due to how I grew up in Coney Island
      
 - When I look for entrepreneurs I look for a common trait, that chip on their shoulder
@@ -229,40 +229,46 @@ Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram")
   
 - There's something really powerful about exploring the meaning of meaning
   - Thinking about the objects around us, the meaning they might hold for others that is lost on us
-    - e.g. a brick on a street might have significance for someone, but we'll walk past it without knowing. 
-    - Situations like this happen all the time and we're unaware
+   - e.g. a brick on a street might have significance for someone, but we'll walk past it without knowing. 
+   - Situations like this happen all the time and we're unaware. There's something really powerful there to explore
+   - Stories can inject meaning into an object
+   - There's also so many uses of an object. In one case it can be dangerous, in another nobody cares. It's complicated on how the meta labeling of these happens
 
 - Are we going too quick in some areas?
   - Many ideas and concepts require context to be understood, and there's nuance in everything
-  - Is there a case to be made that we should go slower? 
-  - People have grown so cynical they don't know who to trust
+  - Is there a case to be made that we should go slower?
+  - I think it's less of a case that people are gullible
+  - Instead, people have grown so cynical they don't know who to trust
   
 - We each have lots of hidden selves, depending on the context
   - The way I am with you vs an entrepreneur vs a board meeting is all different
   - Different power dymanic, expectations
+  - Some of these groups don't even know about each other
   - Don't think it's overtly hidden, just not relevant for differnt context
   
 - The gap between reality and simulation is shrinking
   - Technologically we're better able to model and measure the world around us with greater resolution
   - The robots and tech that are navigating reality are using models, as we do
-  - The machine does not know the difference between a game simulation and actually driving on the road
-  - All the things that fiction can invoke in you are entirely real, but coming from something fake
+  - The machine does not know the difference between a game simulation that is teaching it to drive and actually driving on the road
+  - All the things that fiction can invoke in you are entirely real, authentic reactions, but they are coming from something fake
   
-- The most persuasive argument I've heard about consciousness comes from [Jeff Hawkins](https://loupventures.com/002-jeff-hawkins/ "Jeff") and it comes from memory prediction
-  - If you see my shoes, you'll associate that with me. If you see my shoes and then see someone else, you'll get emotional surprise
+- The most persuasive argument I've heard about consciousness comes from [Jeff Hawkins](https://loupventures.com/002-jeff-hawkins/ "Jeff") and it is about memory prediction
+  - If you see my shoes, you'll associate that with me. If you see my shoes and then see someone else, you'll get an emotional surprise. That adjusts the mental model you have, so you have an updating model of reality
   - How this model of reality we hold interacts with the real world and is getting continuous feedback
   - Where technology is trending is where the line between model and reality is thinning
-
-- Increasing weight placed on tools that can detect veracity
-  - deepfakes are getting better
-  - race between deception and detection
+  
+- If you think about finding opportunity between abundance and scarcity
+  - In the late 90s everyone was producing blogs and providing information online, the scarce thing was being able to find that needle in the haystack, ergo Google was created
+  - Today given the abundance of tools we have in editing where the simulacrum and reality keeps shrinking, the scarce thing is being able to detect veracity
+    - Increasing weight of value will be placed on tools that can detect veracity in deepfakes, photo edits etc
+    - Race between deception and detection
 
 - I'm not in the [Nick Bostrom](https://samharris.org/ "Nick") or [Sam Harris](https://samharris.org/ "Sam") camp for artificial general intelligence. I'm more in [David Deutsch's](https://en.wikipedia.org/wiki/David_Deutsch "David") camp
   - Bostrom, along with other very smart people, is concerned about us becoming paper clip factories and being harvested by sentient machines that have run amok
-    - We're approaching high accuracy in being able to construct text from machines that would fool most people
-  - Deutsch makes argument that the more dangerous thing is not AI run amok but the average teenager
-    - Inside a simulation you can have all the tools that you give it, but won't have tools that are outside the system
-    - Even when AI can create something that would fool most people into thinking it was created by a human, it's all still constrained by the system
+    - We're approaching high accuracy in being able to construct text from machines that would fool most people, beat humans at games etc
+  - Deutsch makes the argument that the more dangerous thing is not AI run amok but the average teenager
+    - Inside a simulation, the simulation can have all the tools that you give it, but it won't have tools that are outside the simulation and it can't create tools outside of the system
+    - Even when AI can create something that would pass a Turing Test and be able to fool most people into thinking it was created by a human, it's still constrained by the system
     - If you accept the premise that the AI is within a simulation, they can't come out of the simulation's constraints
     
 
