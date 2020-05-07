@@ -156,7 +156,33 @@ published: false
 - VC is a less transactional business 
   - Game theoretic, I'm only as good as the last deal I did, and have to maintain my long term reputation, which will be compromised if I exploit someone
   - The payback of an investor exploiting someone naive would be pretty swift. e.g. news would travel quickly if a founder got screwed over on terms
-  - 
+
+- How does someone know there's space to break into?
+  - I'm psychotically obsessed on competitive advantage
+  - Looking at things where nobody else is there
+  - This requires understanding of consensus, have to understand shared realities and breaking through that shared reality
+  - Entrepreneurship is arrogance of the highest order, requires you knowing what everyone else believes and then having the confidence to say you're going in a different direction
+  - That's the status seeking, identity creating thing I think we call creativity
+  
+- Being an authentic contrarian vs a consensus contrarian
+  - Peter Thiel is an example of an authentic contrarian, compared to everyone who says they are contrarian but aren't really. However, Thiel also has a measure of what everyone else believes
+  - Not just the ability to withstand being misunderstood, but also being disliked. Comfort in discomfort
+  - The most painful feeling is to be socially ostracised, whether that's through technology or other means.
+    - It's why people trying to leave any sect or tribe experience so much pain
+  - Elements of truth in the [Asch conformity](https://en.wikipedia.org/wiki/Asch_conformity_experiments 
+Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram"), [Zimbardo prison](https://www.simplypsychology.org/zimbardo.html "Zimbardo") experiments, though some results are being questioned
+    - These show that due to social pressure, many people will feel it's not worth pursuing truth, and would rather have the comfort of being accepeted
+    - Having an ally helps. If you can get just one person's support it'll lead to great things. If you're an entrepreneur that hasn't had someone believe in them, and then you get someone that agrees with your vision, that sets a chain reaction off
+
+- We like to believe before someone else understands. 
+    - Need to be careful though since it's hard to tell at inception of the company between a visionary vs someone trying to defraud you
+    - When I meet somebody, I assume "there's daggers behind smiles". Someone smiles and I assume there's an alternative motive. Partially due to how I grew up in Coney Island
+     
+- When I look for entrepreneurs I look for a common trait, that chip on their shoulder
+  - Chips on shoulders put chips in pockets
+  - There's something they have to prove, inextinguishable flame that compels them forward
+  - Often in the face of some adversity they suffered
+ 
 
 **Other**
 
@@ -185,9 +211,17 @@ published: false
   - Comedians are an entire class of people we pay to reveal uncomfortable truths.
     - The social scientists of human nature
     - Given permission to say the things people might be thinking but are afraid to say
+    - Comedians reveal great truths. Probably so many of them depressed because they see truth and are burdened
   - It's also an interesting phenomenon on figuring out what is the shared collective temperature and who gets to set that
   
-
+- I like the thought experiment of imagining a world where a person existed but the technology didn't e.g. Mozart without the harpsicle, Gates without the PC, Hendrix without the electric guitar
+  - Great artistic expression comes because somebody wants to communicate and finds their medium to do so
+  - There's something broken in you, you don't feel understood, and you find the instrument to express yourself
+  
+- There's something really powerful about exploring the meaning of meaning
+  - Thinking about the objects around us, the meaning they might hold for others that is lost on us
+  - e.g. a brick on a street might have significance for someone, but we'll walk past it without knowing. 
+  - Situations like this happen all the time
 
 **Footnotes**
 
