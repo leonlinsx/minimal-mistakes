@@ -34,7 +34,7 @@ published: false
 
 **Main**
 
-*If you liked this, sign up for my * ***[finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")***
+*If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
