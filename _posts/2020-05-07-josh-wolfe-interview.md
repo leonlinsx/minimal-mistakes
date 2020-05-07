@@ -149,7 +149,14 @@ published: false
   - Africa will become the next breeding ground, similar to the Middle East, you'll see dissatisfied and unemployed youth. Countries pulling out will create power vacuum
   - Space 
   
-*LL - I agree that trying to find out what else is happening in the shadow of Covid is important, and am still figuring that out. Africa and Space are areas that have been known trends the past five years at least, and I'm wondering what other areas are currently being underestimated.*  
+*LL - I agree that trying to find out what else is happening in the shadow of Covid is important, and am still figuring that out. Africa and Space are areas that have been known trends the past five years at least, and I'm wondering what other areas are currently being underestimated.*
+
+**VC**
+
+- VC is a less transactional business 
+  - Game theoretic, I'm only as good as the last deal I did, and have to maintain my long term reputation, which will be compromised if I exploit someone
+  - The payback of an investor exploiting someone naive would be pretty swift. e.g. news would travel quickly if a founder got screwed over on terms
+  - 
 
 **Other**
 
@@ -172,6 +179,10 @@ published: false
   - I'm bullish on areas that haven't raised pricing and likely will. When the incumbents do it'll create whitespace for new companies to come in with disruptive situation
   
 *LL - Unsure if I entirely understand Josh's last point here. It seemed he advocates for investing in areas where the incumbent can raise prices but hasn't, which would be opposite to how Buffett or perhaps a value investor would think. They'd prefer to invest in the incumbent that can take prices up but hasn't needed to yet.*
+
+- Cancel culture is resulting in virtually nil tolerance if someone makes one footfall
+  - People that have great contributions to society are being advised to stay low, out of limelight
+  -  
 
 **Footnotes**
 
