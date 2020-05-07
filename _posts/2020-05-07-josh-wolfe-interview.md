@@ -239,7 +239,13 @@ Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram")
   - The machine does not know the difference between a game simulation and actually driving on the road
   - All the things that fiction can invoke in you are entirely real, but coming from something fake
   
+- The most persuasive argument I've heard about consciousness comes from [Jeff Hawkins](https://loupventures.com/002-jeff-hawkins/ "Jeff") and it comes from memory prediction
+  - If you see my shoes, you'll associate that with me. If you see my shoes and then see someone else, you'll get emotional surprise
+  - How this model of reality we hold interacts with the real world and is getting continuous feedback
+  - Where technology is trending is where the line between model and reality is thinning
 
+- Increasing weight placed on tools that can detect veracity
+  - 
 
 **Footnotes**
 
