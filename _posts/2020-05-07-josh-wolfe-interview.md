@@ -222,7 +222,24 @@ Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram")
   - Thinking about the objects around us, the meaning they might hold for others that is lost on us
     - e.g. a brick on a street might have significance for someone, but we'll walk past it without knowing. 
     - Situations like this happen all the time and we're unaware
-  - 
+
+- Are we going too quick in some areas?
+  - Many ideas and concepts require context to be understood, and there's nuance in everything
+  - Is there a case to be made that we should go slower? 
+  - People have grown so cynical they don't know who to trust
+  
+- We each have lots of hidden selves, depending on the context
+  - The way I am with you vs an entrepreneur vs a board meeting is all different
+  - Different power dymanic, expectations
+  - Don't think it's overtly hidden, just not relevant for differnt context
+  
+- The gap between reality and simulation is shrinking
+  - Technologically we're better able to model and measure the world around us with greater resolution
+  - The robots and tech that are navigating reality are using models, as we do
+  - The machine does not know the difference between a game simulation and actually driving on the road
+  - All the things that fiction can invoke in you are entirely real, but coming from something fake
+  
+
 
 **Footnotes**
 
