@@ -176,7 +176,7 @@ The talks covered:
   - **The machine does not know the difference between a game simulation that is teaching it to drive and actually driving on the road**
   - All the things that fiction can invoke in you are entirely real, authentic reactions, but they are coming from something fake
   
-*LL - This is an interesting point, that since the machine understands the world in terms of however you're programming it, the machine doesn't care if you're feeding it real world data or fake data. It reacts in the same way. Similarly, humans are also programmed to react to stimulus. Whether that is real world data or fake stories, we can still react to it. Sometimes our reactions to fake stories might even be stronger than to real life issues, such as when a movie can make you cry but the news story of a death doesn't. I think the takeaway here is that humans are driven by stories."  
+*LL - This is an interesting point, that since the machine understands the world in terms of however you're programming it, the machine doesn't care if you're feeding it real world data or fake data. It reacts in the same way. Similarly, humans are also programmed to react to stimulus. Whether that is real world data or fake stories, we can still react to it. Sometimes our reactions to fake stories might even be stronger than to real life issues, such as when a movie can make you cry but the news story of a death doesn't. I think the takeaway here is that humans are driven by stories."* 
 
 - If you think about finding opportunity between abundance and scarcity
   - In the late 90s everyone was producing blogs and providing information online, the scarce thing was being able to find that needle in the haystack, ergo Google was created
