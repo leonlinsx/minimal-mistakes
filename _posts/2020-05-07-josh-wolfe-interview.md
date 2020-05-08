@@ -314,6 +314,11 @@ The talks covered:
     
 *LL - This might be a reference to [Godel's incompleteness theorem,](https://www.scientificamerican.com/article/what-is-godels-theorem/ "Godel") which states that within a complete system, there are statements that are unprovable using the inherent logic of the system itself \[4\]. Josh is making the argument that AI will be limited in scope to whatever system it is running in. Because we control the systems a layer of reality above the AI, AI will not be able to have more power than we do.*
 
+**For more on Josh Wolfe check out these links**
+
+1.
+2. 
+
 **Footnotes**
 
 1. Other investment areas include "3D printing; machine learning; artificial intelligence; flying robots; surgical robots; synthetic biology; genomics; satellites; space; drones; computational imaging and recognition; new materials; holograms; “fixers” for the future; the internet of things; connected hardware; the smart home and virtual reality." I've previously done a short response to Lux Capital's 2019 annual video [here](https://www.leonlinsx.com/lux-annual-talk/ "Lux") and Polina Marinova has done a profile on Josh [here](https://fortune.com/2018/09/20/josh-wolfe-lux-capital/ "josh")
