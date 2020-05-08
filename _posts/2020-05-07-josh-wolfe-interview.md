@@ -56,7 +56,7 @@ The talks covered:
   - If you recall that funny [BBC interview](https://www.youtube.com/watch?v=Mh4f9AYRCZY "bbc") of the kids walking in on a parent, we were all laughing because it was absurd
     - Now, absurd has become the normal
     
-*LL - For more thoughts on how education could change because of this, see [my recent recap of Megan O'Connor's views](https://avoidboringpeople.substack.com/p/how-online-credentialing-will-be "Megan")
+*LL - For more thoughts on how education could change because of this, see [my recent recap of Megan O'Connor's views](https://avoidboringpeople.substack.com/p/how-online-credentialing-will-be "Megan")*
     
 - Positive side of this is that it's allowed us to be more together
   - People are contributing to teach each other, communities are forming
