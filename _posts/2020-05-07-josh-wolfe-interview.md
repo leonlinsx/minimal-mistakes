@@ -38,9 +38,9 @@ People interested in covid predictions, frontier technology, and the search for 
 
 **Josh Wolfe on covid, the future, and the search for meaning**
 
-[Josh Wolfe](https://luxcapital.com/team/josh-wolfe/ "Josh") is a venture capitalist (VC) at Lux Capital, which invests in early-stage ventures that are "at the outermost edges of what is possible". Examples include [drone sentry security systems](https://www.youtube.com/watch?v=pmI4Bwks2bg "Anduril"), [brain machine interfaces](https://luxcapital.com/companies/ctrl-labs/ "Ctrl"), and [3D data platforms](https://luxcapital.com/companies/matterport/ "3D") \[1\]. Josh has become more well known the past few years due to his less conventional way of thinking and his communications.
+[Josh Wolfe](https://luxcapital.com/team/josh-wolfe/ "Josh") is a venture capitalist (VC) at Lux Capital, which invests in early-stage ventures that are "at the outermost edges of what is possible". Examples include [drone sentry security systems](https://www.youtube.com/watch?v=pmI4Bwks2bg "Anduril"), [brain machine interfaces](https://luxcapital.com/companies/ctrl-labs/ "Ctrl"), and [3D data platforms](https://luxcapital.com/companies/matterport/ "3D") \[1\]. Josh has become more well known the past few years due to his less conventional way of thinking and his public posting of those ideas.
 
-Josh was recently interviewed [here](https://vimeo.com/414116322 "Michael") by Michael Milstein, founder of [Company,](https://www.company.co/about-us/ "Company") a curated community of NYC startups and entreprenuers. I was going to do a summary of that talk, but realised Josh was also separately interviewed [here](https://podcasts.apple.com/us/podcast/33-josh-wolfe-the-mind-financing-the-future/id1469999563?i=1000473458522 "Eric") by [Eric Weinstein](https://twitter.com/EricRWeinstein?s=20 "Eric"), managing director at Thiel Capital, the investment firm founded by Peter Thiel \[2\]. I'm going to respond to both talks below, combining ideas from each where appropriate, and paraphrasing throughout. 
+Josh was recently interviewed [here](https://vimeo.com/414116322 "Michael") by Michael Milstein, founder of [Company,](https://www.company.co/about-us/ "Company") a curated community of NYC startups and entrepreneurs. I was going to do a summary of that talk, but realised Josh was also separately interviewed [here](https://podcasts.apple.com/us/podcast/33-josh-wolfe-the-mind-financing-the-future/id1469999563?i=1000473458522 "Eric") by [Eric Weinstein](https://twitter.com/EricRWeinstein?s=20 "Eric"), managing director at Thiel Capital, the investment firm founded by Peter Thiel \[2\]. I'm going to respond to both talks below, combining ideas from each where appropriate, and paraphrasing throughout. 
 
 The talks covered:
 
@@ -316,8 +316,9 @@ The talks covered:
 
 **For more on Josh Wolfe check out these links**
 
-1.
-2. 
+1. [His Q&A with Polina Marinova](https://fortune.com/2018/09/20/josh-wolfe-lux-capital/ "Q&A")
+2. [Summary of ideas from Josh Wolfe by Thomas Hollands](https://www.xsrus.com/writing/posts/josh-wolfe/ "Summary")
+3. [Podcast notes from other podcasts with Josh](https://podcastnotes.org/?s=josh+wolfe "Josh") \[5\]
 
 **Footnotes**
 
@@ -325,6 +326,7 @@ The talks covered:
 2. Eric's podcast included a good amount of him talking as well. For purposes of this post I'll be excluding them. He has a segment at the start where he talks about how idealism is a cover story for wealth or power transfers e.g. feminism for companies to get more labour, free access to information for companies to gather data moats, patriotism to dilute the power of labour. It's an interesting theory, and I think it's hard to separate people who are genuine believers of the cause vs people who are trying to exploit the cause.
 3. [Peter Thiel is a famous entrepreneur and VC known for his provocative statements.](https://foundersfund.com/team/peter-thiel/ "Thiel") He cofounded Paypal, Palantir, and is a partner at Founders Fund, a VC firm.
 4. I'm not a mathematician, and [apparently Godel's theorem is frequently misunderstood](https://math.stackexchange.com/questions/453503/can-someone-explain-g%C3%B6dels-incompleteness-theorems-in-layman-terms "math"), so feel free to correct me here if I'm wrong
+5. Credit @anbuteau
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
