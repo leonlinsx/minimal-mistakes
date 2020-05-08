@@ -168,13 +168,15 @@ The talks covered:
   - And when they do, that'll result in others coming to provide competing services
   - **I'm bullish on areas that haven't raised pricing and likely will.** When the incumbents do it'll create whitespace for new companies to come in with disruptive situation
   
-*LL - Unsure if I entirely understand Josh's last point here. It seemed he advocates for investing in areas where the incumbent can raise prices but hasn't, which would be opposite to how Buffett or perhaps a value investor would think. They'd prefer to invest in the incumbent that can take prices up but hasn't needed to yet.*
+*LL - Unsure if I entirely understand Josh's last point here. It seems he advocates for investing in startups in areas where the incumbent can raise prices but hasn't, which would be opposite to how Buffett or perhaps a value investor would think. They'd prefer to invest in the incumbent that can take prices up but hasn't needed to yet, since that demonstrates latent customer value.*
 
 - The gap between reality and simulation is shrinking
   - Technologically we're better able to model and measure the world around us with greater resolution
   - The robots and tech that are navigating reality are using models, as we do
   - **The machine does not know the difference between a game simulation that is teaching it to drive and actually driving on the road**
   - All the things that fiction can invoke in you are entirely real, authentic reactions, but they are coming from something fake
+  
+*LL - This is an interesting point, that since the machine understands the world in terms of however you're programming it, the machine doesn't care if you're feeding it real world data or fake data. It reacts in the same way. Similarly, humans are also programmed to react to stimulus. Whether that is real world data or fake stories, we can still react to it. Sometimes our reactions to fake stories might even be stronger than to real life issues, such as when a movie can make you cry but the news story of a death doesn't. I think the takeaway here is that humans are driven by stories."  
 
 - If you think about finding opportunity between abundance and scarcity
   - In the late 90s everyone was producing blogs and providing information online, the scarce thing was being able to find that needle in the haystack, ergo Google was created
@@ -229,10 +231,12 @@ Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram")
     - When I meet somebody, I assume "there's daggers behind smiles". Someone smiles and I assume there's an alternative motive. Partially due to how I grew up in Coney Island
      
 - When I look for entrepreneurs I look for a common trait, that chip on their shoulder
-  - Chips on shoulders put chips in pockets
+  - **Chips on shoulders put chips in pockets**
   - Could be that they are a minority, grew up in broken family, or something else
   - There's something they have to prove, an inextinguishable flame that compels them forward regardless of the money or fame they get
   - Often in the face of some adversity they suffered where everyone else was over there and they were ok being the lone person
+
+*LL - Josh might be biased here due to his own tough upbringing. Having something to drive you when all else fails definitely helps with motivation, such as Lincoln, Rowling, or Jim Carrey. There are also plenty of successful people that had an easier start, such as Gates, Bezos, or Zuckerberg.*
 
 **Search for meaning**
 
@@ -241,24 +245,29 @@ Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram")
   - There's something broken in you, you don't feel understood
   - You want to find the instrument to express yourself
   
+*LL - If you want crazy outcomes you'll likely be dealing with crazy people. There is no line between genius and madness, the only thing that distinguishes them is whether consensus comes around to agree with you. We all admire Newton now, and conveniently forget he spent a good amount of time on alchemy. That made sense for this time, but is a crazy idea in hindsight. I feel that everyone has crazy ideas, and don't execute on most due to fear of social isolation.*
+  
 - There's something really powerful about exploring the meaning of meaning
   - Thinking about the objects around us, the meaning they might hold for others that is lost on us
    - e.g. a brick on a street might have significance for someone, but we'll walk past it without knowing. 
-   - Situations like this happen all the time and we're unaware. There's something really powerful there to explore
+  - Situations like this happen all the time and we're unaware. There's something really powerful there to explore
    - Stories can inject meaning into an object
-   - There's also so many uses of an object. In one case it can be dangerous, in another nobody cares. It's complicated on how the meta labeling of these happens
+  - There's also so many uses of an object. In one case it can be dangerous, in another nobody cares. It's complicated on how the meta labeling of these happens
 
-- Are we going too quick in some areas?
+- **Are we going too quick in some areas?**
   - Many ideas and concepts require context to be understood, and there's nuance in everything
   - Is there a case to be made that we should go slower?
   - I think it's less of a case that people are gullible
   - Instead, people have grown so cynical they don't know who to trust
+  
+*LL - This goes back to [the pace layer concept](https://avoidboringpeople.substack.com/p/wisely-and-slow-they-stumble-that "pace"), which proposes that some systems in civilisation have a certain pace they should move at, and that going faster causes problems.*  
   
 - We each have lots of hidden selves, depending on the context
   - The way I am with you vs an entrepreneur vs a board meeting is all different
   - Different power dymanic, expectations
   - Some of these groups don't even know about each other
   - Don't think it's overtly hidden, just not relevant for differnt context
+  - I've always thought **the worst terrorist attack would be if we just released everyone's emails and texts for the past year**
 
 **Other**
 
@@ -284,6 +293,8 @@ Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram")
     - Comedians reveal great truths. Probably so many of them depressed because they see truth and are burdened by the truths they see
   - It's also an interesting phenomenon on figuring out what is the shared collective temperature and who gets to set that   
 
+*LL - Can you separate the idea from the person? Should you? Given the crazy genius hypothesis above, should we expect unpalatable statements from our idols every now and then? I try to evaluate ideas on their own merit, but it's impossible to do without bias.*
+
 - The most persuasive argument I've heard about consciousness comes from [Jeff Hawkins](https://loupventures.com/002-jeff-hawkins/ "Jeff") and it is about memory prediction
   - If you see my shoes, you'll associate that with me. If you see my shoes and then see someone else, you'll get an emotional surprise. That adjusts the mental model you have, so you have an updating model of reality
   - How this model of reality we hold interacts with the real world and is getting continuous feedback
@@ -297,13 +308,14 @@ Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram")
     - Even when AI can create something that would pass a Turing Test and be able to fool most people into thinking it was created by a human, it's still constrained by the system
     - If you accept the premise that the AI is within a simulation, they can't come out of the simulation's constraints
     
-
+*LL - This might be a reference to [Godel's incompleteness theorem,](https://www.scientificamerican.com/article/what-is-godels-theorem/ "Godel") which states that within a complete system, there are statements that are unprovable using the inherent logic of the system itself \[4\]. Josh is making the argument that AI will be limited in scope to whatever system it is running in. Because we control the systems a layer of reality above the AI, AI will not be able to have more power than we do.*
 
 **Footnotes**
 
 1. Other investment areas include "3D printing; machine learning; artificial intelligence; flying robots; surgical robots; synthetic biology; genomics; satellites; space; drones; computational imaging and recognition; new materials; holograms; “fixers” for the future; the internet of things; connected hardware; the smart home and virtual reality." I've previously done a short response to Lux Capital's 2019 annual video [here](https://www.leonlinsx.com/lux-annual-talk/ "Lux") and Polina Marinova has done a profile on Josh [here](https://fortune.com/2018/09/20/josh-wolfe-lux-capital/ "josh")
 2. Eric's podcast included a good amount of him talking as well. For purposes of this post I'll be excluding them. He has a segment at the start where he talks about how idealism is a cover story for wealth or power transfers e.g. feminism for companies to get more labour, free access to information for companies to gather data moats, patriotism to dilute the power of labour. It's an interesting theory, and I think it's hard to separate people who are genuine believers of the cause vs people who are trying to exploit the cause.
 3. [Peter Thiel is a famous entrepreneur and VC known for his provocative statements.](https://foundersfund.com/team/peter-thiel/ "Thiel") He cofounded Paypal, Palantir, and is a partner at Founders Fund, a VC firm.
+4. I'm not a mathematician, and [apparently Godel's theorem is frequently misunderstood](https://math.stackexchange.com/questions/453503/can-someone-explain-g%C3%B6dels-incompleteness-theorems-in-layman-terms "math"), so feel free to correct me here if I'm wrong
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
