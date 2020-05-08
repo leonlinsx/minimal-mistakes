@@ -4,7 +4,7 @@ tags: []
 published: false
 ---
 
-**Takeaway**
+**Takeaways**
 
 <style>
       .iframe-container {
@@ -34,7 +34,14 @@ published: false
 
 **Main**
 
-[Josh Wolfe](https://luxcapital.com/team/josh-wolfe/ "Josh") is a VC at Lux Capital, which invests in early-stage ventures that are solving hard tech problems of the future, such as [drone sentry security systems](https://www.youtube.com/watch?v=pmI4Bwks2bg "Anduril") \[1\]. He was recently interviewed by Michael Milstein, founder of [Company,](https://www.company.co/about-us/ "Company") a curated community of NYC startups and entreprenuers. The video link is [here](https://vimeo.com/414116322 "link"), and notes below cover:
+[Josh Wolfe](https://luxcapital.com/team/josh-wolfe/ "Josh") is a VC at Lux Capital, which invests in early-stage ventures that are "at the outermost edges of what is possible". Examples include [drone sentry security systems](https://www.youtube.com/watch?v=pmI4Bwks2bg "Anduril"), [brain machine interfaces](https://luxcapital.com/companies/ctrl-labs/ "Ctrl"), and [3D data platforms](https://luxcapital.com/companies/matterport/ "3D") \[1\]. 
+
+Josh was recently interviewed [here](https://vimeo.com/414116322 "Michael") by Michael Milstein, founder of [Company,](https://www.company.co/about-us/ "Company") a curated community of NYC startups and entreprenuers. I was going to do a summary of that talk, but realised Josh was also separately interviewed [here](https://podcasts.apple.com/us/podcast/33-josh-wolfe-the-mind-financing-the-future/id1469999563?i=1000473458522 "Eric") by [Eric Weinstein](https://twitter.com/EricRWeinstein?s=20 "Eric"), managing director at Thiel Capital, the investment firm founded by Peter Thiel. I'm going to respond to both talks below, combining ideas from each where appropriate, and paraphrasing throughout. 
+
+The talks covered:
+
+- Thoughts on the current covid situation
+- 
 
  **Current situation**
 
@@ -47,16 +54,16 @@ published: false
     - Now, absurd has become the normal
     
 - Positive side of this is that it's allowed us to be more together
-  - People are contributing to teach each other, communities forming
-  - For example, our households are doing debates with people taking the view that opposes theirs
+  - People are contributing to teach each other, communities are forming
+  - For example, we are isolating with a friend's household. Our households are doing debates with people taking the view that opposes theirs
   
 - When you don't have resources, necessity is mother of invention
   - In my experience I find that a lot of entrepreneurs have to hack things together
   - You have limited resources and are trying to cobble something together
   - When you are well resourced at a large company you just call a department to get what you need
-  - Scarcity is a virture
+  - Scarcity is a virtue
   
-- [Santa Fe institute](https://www.santafe.edu/ "Santa Fe") has put out great material on current situation
+- The [Santa Fe institute](https://www.santafe.edu/ "Santa Fe") has put out great material on current situation
   - Transmission of virus, biologically, which is independent of what people believe
   - Transmission of information, and there you have both fact and misinformation
   - So you have the speed of biology but also speed of how people are believing things which affects everything
@@ -272,9 +279,10 @@ Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram")
     - If you accept the premise that the AI is within a simulation, they can't come out of the simulation's constraints
     
 
+
 **Footnotes**
 
-1. Other investment areas include "3D printing; machine learning; artificial intelligence; flying robots; surgical robots; synthetic biology; genomics; satellites; space; drones; computational imaging and recognition; new materials; holograms; “fixers” for the future; the internet of things; connected hardware; the smart home and virtual reality." I've previously done a short response to another of Josh's videos [here](https://www.leonlinsx.com/lux-annual-talk/ "Lux") and Polina Marinova has done a profile on him [here](https://fortune.com/2018/09/20/josh-wolfe-lux-capital/ "josh")
+1. Other investment areas include "3D printing; machine learning; artificial intelligence; flying robots; surgical robots; synthetic biology; genomics; satellites; space; drones; computational imaging and recognition; new materials; holograms; “fixers” for the future; the internet of things; connected hardware; the smart home and virtual reality." I've previously done a short response to Lux Capital's 2019 annual video [here](https://www.leonlinsx.com/lux-annual-talk/ "Lux") and Polina Marinova has done a profile on Josh [here](https://fortune.com/2018/09/20/josh-wolfe-lux-capital/ "josh")
 2. Eric has a segment at the start where he talks about how idealism is a cover story for wealth or power transfers e.g. feminism for companies to get more labour, free access to information for companies to gather data moats, patriotism to dilute the power of labour. It's an interesting theory, and I think it's hard to separate people who are genuine believers of the cause vs people who are trying to exploit the cause.  
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
