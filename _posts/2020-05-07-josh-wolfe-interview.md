@@ -6,6 +6,10 @@ published: false
 
 **Takeaways**
 
+**Relevant for**
+
+People interested in covid predictions, frontier technology, and the search for meaning
+
 <style>
       .iframe-container {
         overflow: hidden;        
@@ -86,15 +90,15 @@ The talks covered:
 **Covid predictions**
 
 - Huge disconnect between the real economy and what the market believes
-  - When I look at economic destruction that is permanent, particularly for the time it'll take to rebuild for SMBs, I don't think that's fully appreciated
+  - When I look at economic destruction that is permanent, particularly for the time it'll take to rebuild for small and medium businesses, I don't think that's fully appreciated
   - Big businesses will be fine
   - We've lost so many jobs so quickly compared to how we created them
   - The ripple effect has been masked by massive federal intervention, buying at the very top of the stack and then all the way down
 
-*LL - I'm having trouble understanding this as well. The bull case is that all of this job loss was priced in, which is why we saw such a large drop. With the Fed giving a backstop to everything, perhaps risk is reduced. Also, if everyone is thinking that things are too good to be true, that implies consensus is cautious already, so we're not at the irrational exuberence stage. The bear case is that this is going to be similar to Jan/Feb, where we all knew covid was happening in China but the market still kept going up*
+*LL - I'm having trouble understanding this as well. The bull case is that all of this job loss was priced in, which is why we saw such a large drop. With the Fed giving a backstop to everything, perhaps risk is reduced. Also, if everyone is thinking that things are too good to be true, that implies consensus is pessimistic already, so we're not at the irrational exuberance stage. The bear case is that this is going to be similar to Jan/Feb, where we all knew covid was happening in China but the market still kept going up*
 
 - The crisis sets up situation where I can see two kinds of companies emerging that dominate:
-  - Proxies for 1980's europe, **semi state-owned companies** e.g. Total in France, BP in UK. We could see that writ large
+  - Proxies for 1980's Europe, **semi state-owned companies** e.g. Total in France, BP in UK. We could see that writ large
     - Feel we could see a large company becoming a sacrifice here, leading to wave of semi-nationalisation. 
     - These companies could do well with the implicit support, access to cheap capital, government backing 
   - If you continue to see fed support in public markets, you're more likely to see inefficiencies in private markets. There'll be less tourist capital in private markets. People might do **rollups of supply chain, logistics, rebuilding the economy types of businesses**
@@ -176,7 +180,7 @@ The talks covered:
   - **The machine does not know the difference between a game simulation that is teaching it to drive and actually driving on the road**
   - All the things that fiction can invoke in you are entirely real, authentic reactions, but they are coming from something fake
   
-*LL - This is an interesting point, that since the machine understands the world in terms of however you're programming it, the machine doesn't care if you're feeding it real world data or fake data. It reacts in the same way. Similarly, humans are also programmed to react to stimulus. Whether that is real world data or fake stories, we can still react to it. Sometimes our reactions to fake stories might even be stronger than to real life issues, such as when a movie can make you cry but the news story of a death doesn't. I think the takeaway here is that humans are driven by stories."* 
+*LL - This is an interesting point, that since the machine understands the world in terms of however you're programming it, the machine doesn't care if you're feeding it real world data or fake data. It reacts in the same way. Similarly, humans are also programmed to react to stimulus. Whether that is real world data or fake stories, we can still react to it. Sometimes our reactions to fake stories might even be stronger than to real life issues, such as when a movie can make you cry but the news story of a death doesn't. I think the takeaway here is that humans are driven by stories.* 
 
 - If you think about finding opportunity between abundance and scarcity
   - In the late 90s everyone was producing blogs and providing information online, the scarce thing was being able to find that needle in the haystack, ergo Google was created
@@ -209,7 +213,7 @@ The talks covered:
   - Entrepreneurship is arrogance of the highest order, requires you knowing what everyone else believes, and then having the confidence to say you're going in a different direction
   - That's the status seeking, identity creating thing I think we call creativity
   
-*LL - Similar to the principle of [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence "Fence"), that you shouldn't change something until you understand the reason behind the current state, it's usually worth understanding why your proposed business doesn't yet exist. Sometimes ideas that sound great at first (group coupons, meal kits, DTC) don't work because the market is too small, customer acqusition is too expensive, or the unit economics don't make sense.* 
+*LL - Similar to the principle of [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence "Fence"), that you shouldn't change something until you understand the reason behind the current state, it's usually worth understanding why your proposed business doesn't yet exist. Sometimes ideas that sound great at first (group coupons, meal kits, DTC) don't work because the market is too small, customer acquisition is too expensive, or the unit economics don't make sense.* 
   
 - Being an authentic contrarian vs a consensus contrarian
   - Peter Thiel \[3\] is an example of an authentic contrarian, compared to everyone who says they are contrarian but aren't really
@@ -218,7 +222,7 @@ The talks covered:
   - The most painful feeling is to be socially ostracised, whether that's through technology or other means
     - It's why people trying to leave any sect experience so much pain, spite, tribal exclusion
   - Elements of truth in the [Asch conformity](https://en.wikipedia.org/wiki/Asch_conformity_experiments 
-Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram"), [Zimbardo prison](https://www.simplypsychology.org/zimbardo.html "Zimbardo") experiments, though some results are being questioned
+"Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram"), [Zimbardo prison](https://www.simplypsychology.org/zimbardo.html "Zimbardo") experiments, though some results are being questioned
     - These experiments show that due to social pressure, many people will feel it's not worth pursuing truth, and would rather have the comfort of being accepeted
     - Having an ally helps. You need to not be the only lunatic
     - If you can get just one person's support it'll lead to great things. 
@@ -264,9 +268,9 @@ Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram")
   
 - We each have lots of hidden selves, depending on the context
   - The way I am with you vs an entrepreneur vs a board meeting is all different
-  - Different power dymanic, expectations
+  - Different power dynamic, expectations
   - Some of these groups don't even know about each other
-  - Don't think it's overtly hidden, just not relevant for differnt context
+  - Don't think it's overtly hidden, just not relevant for different context
   - I've always thought **the worst terrorist attack would be if we just released everyone's emails and texts for the past year**
 
 **Other**
