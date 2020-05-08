@@ -40,7 +40,9 @@ People interested in covid predictions, frontier technology, and the search for 
 
 [Josh Wolfe](https://luxcapital.com/team/josh-wolfe/ "Josh") is a venture capitalist (VC) at Lux Capital, which invests in early-stage ventures that are "at the outermost edges of what is possible". Examples include [drone sentry security systems](https://www.youtube.com/watch?v=pmI4Bwks2bg "Anduril"), [brain machine interfaces](https://luxcapital.com/companies/ctrl-labs/ "Ctrl"), and [3D data platforms](https://luxcapital.com/companies/matterport/ "3D") \[1\]. Josh has become more well known the past few years due to his less conventional way of thinking and his public posting of those ideas.
 
-Josh was recently interviewed [here](https://vimeo.com/414116322 "Michael") by Michael Milstein, founder of [Company,](https://www.company.co/about-us/ "Company") a curated community of NYC startups and entrepreneurs. I was going to do a summary of that talk, but realised Josh was also separately interviewed [here](https://podcasts.apple.com/us/podcast/33-josh-wolfe-the-mind-financing-the-future/id1469999563?i=1000473458522 "Eric") by [Eric Weinstein](https://twitter.com/EricRWeinstein?s=20 "Eric"), managing director at Thiel Capital, the investment firm founded by Peter Thiel \[2\]. I'm going to respond to both talks below, combining ideas from each where appropriate, and paraphrasing throughout. 
+Josh was recently interviewed [here](https://vimeo.com/414116322 "Michael") by Michael Milstein, founder of [Company,](https://www.company.co/about-us/ "Company") a curated community of NYC startups and entrepreneurs. I was going to do a summary of that talk, but realised Josh was also separately interviewed [here](https://podcasts.apple.com/us/podcast/33-josh-wolfe-the-mind-financing-the-future/id1469999563?i=1000473458522 "Eric") by [Eric Weinstein](https://twitter.com/EricRWeinstein?s=20 "Eric"), managing director at Thiel Capital, the investment firm founded by Peter Thiel \[2\]. 
+
+Instead, I'm going to first do highlights, followed by longer notes with my thoughts inline from the combined three hours of audio \[3\]. There’s also a section at the end with more links to learn about Josh and Lux.
 
 The talks covered:
 
@@ -50,10 +52,16 @@ The talks covered:
 - How he thinks of the VC space and what he looks for
 - The search for meaning
 
+Highlights include:
+
+- Companies that could emerge 
+
+**Full notes from the talks**
+
  **Current situation**
 
 - The hardest thing for most people to deal with now is the kids 
-  - It's easier for us as adults to adjust but harder for them when missing out on the social aspect of school
+  - It's easier for us as adults to adjust, but harder for them when missing out on the social aspect of school
   - As most of us have come to realise, teaching is underappreciated 
     - It's not just hard to do at an individual and classroom level
     - But it's also a form of daycare
@@ -66,7 +74,7 @@ The talks covered:
   - People are contributing to teach each other, communities are forming
   - For example, we are isolating with a friend's household. Our households are doing debates with people taking the view that opposes theirs
   
-*LL - Tangentially, the surge in virtual events has also had a positive side effect of expanding access to events that used to be more exclusive. Where conferences and social clubs would have once limited their in person attendance to members only, many of them are now opening them up to the general public. Some even for free. I wonder if they'll continue streaming these events for free once we get back to normal. People would still pay to network in person, so it seems like a positive tactic.* 
+*LL - Tangentially, the surge in virtual events has also had a positive side effect of expanding access to events that used to be more exclusive. Where conferences and social clubs would have once limited their in person attendance to paid members only, many of them are now opening them up to the general public. Some even for free. I wonder if they'll continue streaming these events for free once we get back to normal. People would still pay to network in person, so it seems like a positive tactic for future user acquisition.* 
   
 - A possible upside of the situation is that when you don't have resources, necessity is mother of invention
   - In my experience I find that a lot of entrepreneurs have to hack things together
@@ -78,14 +86,16 @@ The talks covered:
   - Transmission of virus, biologically, which is independent of what people believe
   - Transmission of information, and there you have both fact and misinformation
   - So you have the speed of biology but also speed of how people are believing things which affects everything
-  
+
+*LL - The Santa Fe institute is a research institute dedicated to studying complex systems and how they interact. Notable members include Bill Gurley, Michael Mauboussin, and Pierre Omidyar. We like to believe in simple direct cause and effects, when usually there are multiple causes and secondary effects that respond to each other. We’re not built for complexity.*
+
 - Many different layers all fiercely reacting to each other in this crisis
   - Biology
   - Political
   - Economic
   - Stock Market
 
-*LL - For a framework on how layers interact with each other, check out the [pace layer](https://avoidboringpeople.substack.com/p/wisely-and-slow-they-stumble-that "pace") summary I did a while back. It's the idea by Stewart Brand that civilisations consist of multiple layers, each moving at their own speed while interacting with other layers above and below them.*
+*LL - For a framework on how layers interact with each other, check out the [pace layer](https://avoidboringpeople.substack.com/p/wisely-and-slow-they-stumble-that "pace") summary I did a while back. It's the idea by [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand "Stewart") that civilisations consist of multiple layers, each moving at their own speed while interacting with other layers above and below them.*
 
 **Covid predictions**
 
@@ -323,10 +333,10 @@ The talks covered:
 **Footnotes**
 
 1. Other investment areas include "3D printing; machine learning; artificial intelligence; flying robots; surgical robots; synthetic biology; genomics; satellites; space; drones; computational imaging and recognition; new materials; holograms; “fixers” for the future; the internet of things; connected hardware; the smart home and virtual reality." I've previously done a short response to Lux Capital's 2019 annual video [here](https://www.leonlinsx.com/lux-annual-talk/ "Lux") and Polina Marinova has done a profile on Josh [here](https://fortune.com/2018/09/20/josh-wolfe-lux-capital/ "josh")
-2. Eric's podcast included a good amount of him talking as well. For purposes of this post I'll be excluding them. He has a segment at the start where he talks about how idealism is a cover story for wealth or power transfers e.g. feminism for companies to get more labour, free access to information for companies to gather data moats, patriotism to dilute the power of labour. It's an interesting theory, and I think it's hard to separate people who are genuine believers of the cause vs people who are trying to exploit the cause.
-3. [Peter Thiel is a famous entrepreneur and VC known for his provocative statements.](https://foundersfund.com/team/peter-thiel/ "Thiel") He cofounded Paypal, Palantir, and is a partner at Founders Fund, a VC firm.
+2. Eric's podcast included a good amount of him talking as well. For purposes of this post I'll be excluding them. He has a segment at the start where he talks about how idealism is a cover story for wealth or power transfers e.g. feminism for companies to get more labour, free access to information for companies to gather data moats, patriotism to dilute the power of labour. It's an interesting theory, and I think it's hard to separate people who are genuine believers of the cause vs people who are trying to exploit the cause. [Peter Thiel is a famous entrepreneur and VC known for his provocative statements.](https://foundersfund.com/team/peter-thiel/ "Thiel") He cofounded Paypal, Palantir, and is a partner at Founders Fund, a VC firm.
+3. As always, I’ll be paraphrasing for clarity sometimes
 4. I'm not a mathematician, and [apparently Godel's theorem is frequently misunderstood](https://math.stackexchange.com/questions/453503/can-someone-explain-g%C3%B6dels-incompleteness-theorems-in-layman-terms "math"), so feel free to correct me here if I'm wrong
-5. Credit @anbuteau
+5. Credit [@anbuteau](https://twitter.com/anbuteau/status/1258348730626998275?s=20)
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
