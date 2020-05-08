@@ -32,7 +32,7 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-**Main**
+**Josh Wolfe on covid, the future, and the search for meaning**
 
 [Josh Wolfe](https://luxcapital.com/team/josh-wolfe/ "Josh") is a venture capitalist (VC) at Lux Capital, which invests in early-stage ventures that are "at the outermost edges of what is possible". Examples include [drone sentry security systems](https://www.youtube.com/watch?v=pmI4Bwks2bg "Anduril"), [brain machine interfaces](https://luxcapital.com/companies/ctrl-labs/ "Ctrl"), and [3D data platforms](https://luxcapital.com/companies/matterport/ "3D") \[1\]. Josh has become more well known the past few years due to his less conventional way of thinking and his communications.
 
