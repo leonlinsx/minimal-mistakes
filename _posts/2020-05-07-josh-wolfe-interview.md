@@ -203,22 +203,38 @@ Highlights include:
 
 - **Increasing weight of value will be placed on tools that can detect veracity**
   - You want to find the opportunity between abundance and scarcity
-  - In the late 90s everyone was producing blogs and providing information online, the scarce thing was being able to find that needle in the haystack, ergo Google was created
-  - Today given the abundance of tools we have in editing where the simulacrum and reality keeps shrinking, the scarce thing is being able to detect veracity
-    - **Increasing weight of value will be placed on tools that can detect veracity** in deepfakes, photo edits etc
-    - Race between deception and detection
+  - In the late 90s everyone was producing blogs and providing information online. The scarce thing was being able to find that needle in the haystack, hence leading to the creation of Google
+  - Today, we have an abundance of editing tools, and the gap between simulacrum and reality keeps shrinking. The scarce thing will be being able to detect veracity e.g. in deepfakes
+  - It's a continuous race between deception and detection
+    
+*LL - You want to find the [rate determining step](https://en.wikipedia.org/wiki/Rate-determining_step "RDS") of the time period you're in. Power lies in the technologies and institutions that can gatekeep.*    
 
 **Being a VC**
+
+- **What can you see from the perch of VC that others can't?**
+  - It's a cliche, and the best way to predict the future is to invent it. 
+  - Those people inventing the future are the scientists and engineers, often inspired by science fiction, that say they want that thing to be real and make it so
+  - Our job is to find these people before others and take an asymmetric view on them
+  - We say that we like to believe before someone else understands
+  - We look for thse people and see if they're full of shit or not. It's hard to tell at inception of the company between a visionary vs someone trying to defraud you
+  - When I meet somebody, I assume "there's daggers behind smiles". Someone smiles and I assume there's an alternative motive. It's partially due to how I grew up in Coney Island
+  
+*LL - Another thing that Lux did was to also [go to universities beyond Stanford and MIT, where most VCs already were at](https://thehustle.co/polina-marinova-josh-wolfe "Hustle")*
+     
+- **Chips on shoulders put chips in pockets**
+  - When I look for entrepreneurs I look for a common trait, that chip on their shoulder
+  - Could be that they are a minority, grew up in broken family, or something else
+  - There's something they have to prove, an inextinguishable flame that compels them forward regardless of the money or fame they get
+  - Often in the face of some adversity they suffered where \[they were an outcast\]
+
+*LL - Josh might be biased here due to his own tough upbringing. Having something to drive you when all else fails definitely helps with motivation, such as Lincoln, Rowling, or Jim Carrey. There are also plenty of successful people that had an easier start, such as Gates, Bezos, or Zuckerberg.*
+
 
 - How has your investment thesis involved? Do you have any investments being driven by Covid?
   - We've tracked this, and about 20 out of the 130 or so Lux companies are directly impacted, whether they're 3D printing swabs or scanning physical spaces
   - All of that has been totally unintentional, nothing we're doing purposely for Covid
   - The vast majority of VC will be investing in telepresence space, so I'm not interested in that
 
-- What can you see from the perch of VC that others can't?
-  - The cliche thing about VC generally is that the best way to predict the future is to invent it. Those people inventing the future are the scientists and engineers, often inspired by science fiction, that say they want that thing to be real and make it so
-  - **Our job is to find these people before others and take an asymmetric view on them;** it's the power of someone who has a secret
-  - We go around finding these people and finding out if they're full of shit or not
 
 - VC is a less transactional business than for example retail
   - Game theoretic; I'm only as good as the last deal I did, and have to maintain my long term reputation, which will be compromised if I exploit someone
@@ -256,17 +272,7 @@ Highlights include:
     
 *LL - I've written about the replicability issues with the Stanford prison experiment before [here.](https://www.leonlinsx.com/stanford-prison-replicability/ "stanford") I do agree that people will agree with options that are not optimal due to social pressure. There are also cases such as [the Abilene paradox](https://en.wikipedia.org/wiki/Abilene_paradox "paradox") where the group decides on an action that is counter to the preferences of most of the group. The nuance though is whether people do so for decisions of consequence or not.* 
 
-- **We like to believe before someone else understands** 
-    - Need to be careful though, since it's hard to tell at inception of the company between a visionary vs someone trying to defraud you
-    - When I meet somebody, I assume "there's daggers behind smiles". Someone smiles and I assume there's an alternative motive. Partially due to how I grew up in Coney Island
-     
-- When I look for entrepreneurs I look for a common trait, that chip on their shoulder
-  - **Chips on shoulders put chips in pockets**
-  - Could be that they are a minority, grew up in broken family, or something else
-  - There's something they have to prove, an inextinguishable flame that compels them forward regardless of the money or fame they get
-  - Often in the face of some adversity they suffered where everyone else was over there and they were ok being the lone person
 
-*LL - Josh might be biased here due to his own tough upbringing. Having something to drive you when all else fails definitely helps with motivation, such as Lincoln, Rowling, or Jim Carrey. There are also plenty of successful people that had an easier start, such as Gates, Bezos, or Zuckerberg.*
 
 **Search for meaning**
 
