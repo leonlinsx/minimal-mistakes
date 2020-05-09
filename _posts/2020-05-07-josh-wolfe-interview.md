@@ -172,7 +172,7 @@ Highlights include:
     
 *LL - Latch is an app that allows you to unlock doors and share access with others, including generating temporary access codes. Due to the cost, fulfiling the last mile of delivery is still a big problem for any logistics company. Drones have been floated as an alternative to human couriers, though most of those are still in the testing phase and it's uncertain how that would scale in a crowded city.*   
 
-**3. Tools that can detect truth will becoming increasingly important**
+**3. Tools that can detect truth will becoming increasingly important in the future**
 
 - **Technological displacement is real in the short term. In the long term it creates all sorts of jobs people can't imagine**
   - There's no way you'd have imagined web designers, youtubers, or vloggers 30 years ago
@@ -181,6 +181,15 @@ Highlights include:
   - \[As a result\], individuals have a moral responsibility to learn and level themselves up. Conveniently it's also never been easier for them to do that.
 
 *LL - I'd agree that both the amount of things to learn and the convenience to learn them have increased. However, I'm more skeptical that people will do so. There has always been more than enough material for people to spend the rest of their lives learning, but we always run into other priorities. I say this on my third attempt to learn python... \[7\]*
+
+- **How should we think about welfare and Universal Basic Income (UBI) in the modern world?**
+  - Media is doing a good job at bringing spotlight on some of the worst hit people who do not have resources
+  - Disproportionate effect on less well off communities; action is needed to provide a safety net. This is the most urgent social program that needs to be put in place by cities
+  - The big question is how are you going to pay for it? Maybe some of it is repurposed from Medicare, Social Security
+  - There's a moral obligation to society to provide basic foundational support. Some 80% of people live paycheck to paycheck. 
+  - Beyond moral, there's also a logical, purely academic and draconian reason. If you don't provide support now there'll be costs later, whether that's chronic illness, jails, or rehabilitation
+  - If there was a time politically palatable to try it, it would be now
+  - I think it's an experiment worth trying
 
 - **Stuff happening outside of covid is being overlooked, and that is what will define the rest of the year**
   - The spotlight of the world's attention now is on covid, \[resulting in ignorance of everything else\]
@@ -289,51 +298,40 @@ Highlights include:
   - Stories can inject meaning into an object e.g. a brick on a street might have significance for someone, but we'll walk past it without knowing. 
   - Situations like this happen all the time and yet we're unaware. There's something really powerful there to explore
   - Objects also have many uses, and require context to be understood. In one case it can be dangerous, in another nobody cares. That meta labeling of this happens is complicated
+  - Many ideas and concepts require context to be understood, and there's nuance in everything
   
 - **We each have lots of hidden selves, depending on the context**
   - The way I am with you vs an entrepreneur vs a board meeting is all different. There's different power dynamics and expectations
   - Some of these groups don't even know about each other
   - I don't think these selves are overtly hidden, they're just not relevant for different contexts
-  - I've always thought that the worst terrorist attack would be if we just released everyone's emails and texts for the past year, since that would reveal private thoughts about others
+  - I've always thought that the worst terrorist attack would be if we just released everyone's emails and texts for the past year, since that would reveal private thoughts about others   
 
 - **Great artistic expression comes because somebody wants to communicate and finds their medium to do so**
   - I like the thought experiment of imagining a world where a person existed but the technology didn't e.g. Mozart without the harpsicle, Gates without the PC, Hendrix without the electric guitar
   - Creatives often feel that there's something broken inside, they don't feel understood
   - You want to find the instrument to express yourself
-  
-*LL - If you want crazy outcomes you'll likely be dealing with crazy people. There is no line between genius and madness, the only thing that distinguishes them is whether consensus comes around to agree with you. We all admire Newton now, and conveniently forget [he spent a good amount of time on alchemy.](https://www.discovermagazine.com/the-sciences/isaac-newton-worlds-most-famous-alchemist "Newton") That made sense for this time, but is a crazy idea in hindsight. What is brilliant now might have, and likely would have, failed in the past*
 
 - **Comedians reveal great truths about human nature**
   - Cancel culture is resulting in virtually nil tolerance if someone makes one footfall
-  - People that have great contributions to society are being shut down. They are being advised to stay low, out of the limelight
+  - People that have great contributions to society are being shut down. They are being advised to stay low, out of the limelight. \[This is not ideal for society, and often there are inconvenient truths \]
   - Comedians are an entire class of people we pay to reveal uncomfortable truths.
-    - The social scientists of human nature
-    - Given permission to say the things people might be thinking but are afraid to say
-    - Comedians reveal great truths. Probably so many of them depressed because they see truth and are burdened by the truths they see
-  - It's also an interesting phenomenon on figuring out what is the shared collective temperature and who gets to set that   
+    - They're the social scientists of human nature, given permission to say the things people might be thinking but are afraid to say
+    - They reveal great truths. Probably so many of them are depressed because they see truths and are burdened by them
+  - It's also an interesting phenomenon on figuring out what is the shared collective temperature \[of what is acceptable\] and who gets to set that
 
-*LL - Can you separate the idea from the person? Should you? Given the crazy genius hypothesis above, should we expect unpalatable statements from our idols every now and then? I try to evaluate ideas on their own merit, but it's impossible to do without bias.*
+*LL - If you want crazy outcomes you'll likely be dealing with crazy people. There is no line between genius and madness, the only thing that distinguishes them is whether consensus comes around to agree with you. We all admire Newton now, and conveniently forget [he spent a good amount of time on alchemy.](https://www.discovermagazine.com/the-sciences/isaac-newton-worlds-most-famous-alchemist "Newton") That made sense for this time, but is a crazy idea in hindsight. What is brilliant now might have, and likely would have, failed in the past*
+
+*Can you separate the idea from the person? Should you? Given the crazy genius hypothesis above, should we expect unpalatable statements from our idols every now and then? I try to evaluate ideas on their own merit, but it's impossible to do without bias.*
 
 - **Are we going too quick in some areas?**
-  - Many ideas and concepts require context to be understood, and there's nuance in everything
+  - 
   - Is there a case to be made that we should go slower?
   - I think it's less of a case that people are gullible
   - Instead, people have grown so cynical they don't know who to trust
   
-*LL - This goes back to [the pace layer concept](https://avoidboringpeople.substack.com/p/wisely-and-slow-they-stumble-that "pace"), which proposes that some systems in civilisation have a certain pace they should move at, and that going faster causes problems.*  
-  
+*LL - This goes back to [the pace layer concept](https://avoidboringpeople.substack.com/p/wisely-and-slow-they-stumble-that "pace"), which proposes that some systems in civilisation have a certain pace they should move at, and that going faster causes problems.*    
 
 
-**Other**
-
-- **How should we think about welfare and Universal Basic Income (UBI) in the modern world?**
-  - Media is doing a good job at bringing spotlight on some of the worst hit people who do not have resources
-  - Disproportionate effect on less well off communities; action is needed to provide a safety net. This is the most urgent social program that needs to be put in place by cities
-  - **The big question is how are you going to pay for it?** Maybe some of it is repurposed from Medicare, Social Security
-  - There's a moral obligation to society to provide basic foundational support. Some 80% of people live paycheck to paycheck. 
-  - Beyond moral, there's also a logical, purely academic and draconian reason. If you don't provide support now there'll be costs later, whether that's chronic illness, jails, or rehabilitation
-  - If there was a time politically palatable to try it, it would be now
-  - I think it's an experiment worth trying
 
 
 
