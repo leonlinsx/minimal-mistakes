@@ -38,11 +38,13 @@ People interested in covid predictions, frontier technology, and the search for 
 
 **Josh Wolfe on what the future holds**
 
-[Josh Wolfe](https://luxcapital.com/team/josh-wolfe/ "Josh") is a venture capitalist (VC) at Lux Capital, which invests in early-stage ventures that are "at the outermost edges of what is possible". Examples include [drone sentry security systems](https://www.youtube.com/watch?v=pmI4Bwks2bg "Anduril"), [brain machine interfaces](https://luxcapital.com/companies/ctrl-labs/ "Ctrl"), and [3D data platforms](https://luxcapital.com/companies/matterport/ "3D") \[1\]. Josh has become more well known the past few years due to his less conventional way of thinking and his public posting of those ideas.
+[Josh Wolfe](https://luxcapital.com/team/josh-wolfe/ "Josh") is a venture capitalist (VC) at Lux Capital, which invests in early-stage ventures "at the outermost edges of what is possible". Examples include [drone sentry security systems](https://www.youtube.com/watch?v=pmI4Bwks2bg "Anduril"), [brain machine interfaces](https://luxcapital.com/companies/ctrl-labs/ "Ctrl"), and [3D data platforms](https://luxcapital.com/companies/matterport/ "3D") \[1\]. Josh has become more well known the past few years due to his less conventional way of thinking and his public posting of those ideas.
 
 Josh was recently interviewed [here](https://vimeo.com/414116322 "Michael") by Michael Milstein, founder of [Company,](https://www.company.co/about-us/ "Company") a curated community of NYC startups and entrepreneurs. I was going to do a summary of that talk, but realised Josh was also separately interviewed [here](https://podcasts.apple.com/us/podcast/33-josh-wolfe-the-mind-financing-the-future/id1469999563?i=1000473458522 "Eric") by [Eric Weinstein](https://twitter.com/EricRWeinstein?s=20 "Eric"), managing director at Thiel Capital, the investment firm founded by Peter Thiel \[2\]. 
 
-As such, I’ve synthesised the notes from the combined three hours of audio, and grouped them into the five categories below \[3\]. I’ve also added highlights at the start, and more links on Josh to check out at the end. The things I do for you all \[4\]. This is a 5,000 word post, so feel free to jump to whichever section strikes you.
+As such, I’ve synthesised the notes from the combined three hours of audio, and grouped them into the five categories below \[3\]. I’ve also added highlights at the start, and more links on Josh to check out at the end. The things I do for you all \[4\]. 
+
+I was also originally going to send this to paid subs only, but ended up writing so much that I figured I should share it with everyone. Paid subs, I’ll send another post to make up for it. This is a 5,000 word post, so feel free to jump to whichever section strikes you.
 
 The talks covered:
 
@@ -59,7 +61,7 @@ Highlights include:
 - Two types of companies might dominate post crisis: semi state-owned companies and those that are rolling up supply chains
 - We need to pay more attention to events happening that are overlooked due to Covid, such as China’s moves, Africa, and space
 - AI isn't as dangerous as people are thinking since it'll be constrained by the system it is in
-- Increasing weight will be put on tools that can detect truthfulness
+- Increasing value will be placed on tools that can detect truthfulness
 - Chips on shoulders put chips in pockets
 - Being an authentic contrarian vs a consensus contrarian requires not only the ability to be misunderstood, but also disliked
 - Great artistic expression comes from people finally finding a medium to express themselves after not feeling understood
@@ -67,7 +69,7 @@ Highlights include:
 
 **Full notes from the talks**
 
- **1. Strengthening our sense of community**
+ **1. The crisis is strengthening our sense of community**
 
 - **The social impact from the disruption to education is terrible**
   - As most of us have come to realise, teaching is underappreciated. It's not just hard to do, from the individual to the classroom level, but also a form of daycare
@@ -90,7 +92,7 @@ Highlights include:
   - Scarcity is a virtue since it leads them to be resourceful and creative
   - Contrast this to a large, well resourced company that can get what they need by just calling a department or assistant. 
 
-*LL- There's a saying that constraints cause creativity, which is what Josh is implying here. Some supporting evidence for that is how "startup in a big company" types [never seem to succeed](https://twitter.com/jensenharris/status/993695458517110784?s=20 "startup")
+*LL- There's a saying that constraints cause creativity, which is what Josh is implying here. Some supporting evidence for that is how "startup in a big company" types [never seem to succeed](https://twitter.com/jensenharris/status/993695458517110784?s=20 "startup")*
 
 - **The current situation is complex, with many different layers reacting to each other**
   - The [Santa Fe institute](https://www.santafe.edu/ "Santa Fe") has put out great material on the current situation
@@ -98,7 +100,7 @@ Highlights include:
   - Transmission of information, on the other hand, has both fact and fiction, being subject to what people believe
   - The interaction of these biological, informational, political, economical, social and more layers result in a complex system \[that's difficult to understand\]
   - 
-*LL - The Santa Fe institute is a research institute dedicated to studying complex systems and how they interact. Notable members include Bill Gurley, Michael Mauboussin, and Pierre Omidyar. We like to believe in simple direct cause and effects, when usually there are multiple causes and secondary effects all interacting at once. We’re not built for complexity.*
+*LL - The Santa Fe institute is a research institute dedicated to studying complex systems and how they interact. Notable members include Bill Gurley, Michael Mauboussin, and Pierre Omidyar. We like to believe in simple direct cause and effects, [when usually there are multiple causes and secondary effects all interacting at once.](https://fs.blog/knowledge-project/jennifer-garvey-berger/ "FS") We’re not built for complexity.*
 
 *For a framework on how layers interact with each other, check out my [pace layer](https://avoidboringpeople.substack.com/p/wisely-and-slow-they-stumble-that "pace") summary. It's the idea by [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand "Stewart") that civilisations consist of multiple layers, each moving at their own speed while interacting with other layers above and below them.*
 
@@ -107,10 +109,10 @@ Highlights include:
 **2. Semi state-owned companies could be the dominant force emerging from the crisis**
 
 - **There's a huge disconnect between the real economy and what the market believes**
-  - I don't think the amount of permanent economic destruction is fully appreciated
+  - The amount of permanent economic destruction isn't fully appreciated
   - Big businesses will be fine, but small and medium businesses will take a long time to rebuild
   - We've lost so many jobs so quickly compared to how long we took in creating them
-  - The ripple effects so far have bene masked by massive federal intervention. They've been buying at the very top of the stack and all the way down
+  - The ripple effects so far have been masked by massive federal intervention. They've been buying at the very top of the stack and all the way down
   - What's underappreciated is that the economy is asymmetric in crashing vs being built up
 
 *LL - I'm having trouble understanding this as well. The bull case is that all of this job loss was priced in, which is why we saw such a large drop in the market initially. The Fed giving a backstop to everything might be reducing risk. Also, if everyone thinks that things are too good to be true, it implies they're being cautious and not irrationally exuberant.*
@@ -118,7 +120,7 @@ Highlights include:
 *The bear case is that this is going to be similar to Jan/Feb, where we all knew covid was happening in China but the market still kept going up*
 
 - **The extremes of a complete lockdown and complete normalcy are both unlikely**
-  - The state we're in as of Apr 30 is a temporarily tolerable intolerabe situation. We might last perhaps 4 weeks?
+  - The state we're in as of Apr 30 is a temporarily tolerable intolerable situation. We might last perhaps 4 weeks?
   - How dense cities react is going to be different vs how other areas react. The difference in this reaction will frustrate people in cities
     - The greatest economic centers are also the ones most hard hit; when you're in a city you get far more of the good during normal times but also more of the bad
     - An optimistic scenario I have for dense cities, using NYC as a proxy, is for NYC to be "open at 30% of normal density by Jun 1.
@@ -138,7 +140,7 @@ Highlights include:
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Frustration pendulum.jpg)
 
 - **I can see two kinds of companies emerging from this that dominate**
-  - **Semi state-owned companies** similar to what happened in 1980's Europe with Total in France, BP in UK etc. 
+  - **Semi state-owned companies**, similar to what happened in 1980's Europe with Total in France, BP in UK etc. 
     - It feels like we could see a large public company become a sacrifice here, leading to wave of semi-nationalisation
     - Such companies could do well with the implicit government support and access to cheap capital
   - **Rollups of supply chain, logistics, "rebuild the economy"** types of businesses
@@ -170,7 +172,7 @@ Highlights include:
     - It's about how you solve the last 100 feet problem in delivery, not just the last mile. Every home is a different case, we might still need humans \[and have a hybrid system\]
     - Something like [Latch](https://www.latch.com/latch-app "Latch") could let you trust people to enter your house and place things
     
-*LL - Latch is an app that allows you to unlock doors and share access with others, including generating temporary access codes. Due to the cost, fulfiling the last mile of delivery is still a big problem for any logistics company. Drones have been floated as an alternative to human couriers, though most of those are still in the testing phase and it's uncertain how that would scale in a crowded city.*   
+*LL - Latch is an app that allows you to unlock doors and share access with others, including generating temporary access codes. Due to the cost, fulfilling the last mile of delivery is still a big problem for any logistics company. Drones have been floated as an alternative to human couriers, though most of those are still in the testing phase and it's uncertain how that would scale in a crowded city.*   
 
 **3. Tools that can detect truth will becoming increasingly important in the future**
 
@@ -202,14 +204,14 @@ Highlights include:
 
 - **The gap between reality and simulation is shrinking**
   - Humans have a model of reality. 
-  - \[I like the\] memory prediction argument for consciousness by [Jeff Hawkins](https://loupventures.com/002-jeff-hawkins/ "Jeff"). For example, if you see my shoes, you'll associate that with me. If you see my shoes and then see someone else, you'll get an emotional surprise. You'll adjust the mental model you have, updating your model of rality
-  - This model of reality humans hold interacts with the real world and is getting continuous feedback
+  - \[I like the\] memory prediction argument for consciousness by [Jeff Hawkins](https://loupventures.com/002-jeff-hawkins/ "Jeff"). For example, if you see my shoes, you'll associate that with me. If you see my shoes and then see someone else, you'll get an emotional surprise. You'll adjust the mental model you have, updating your model of reality
+  - Humans hold this model of reality that interacts with the real world and is getting continuous feedback
   - Robots and technology navigate reality use models, just as humans do
   - Those models are increasing in resolution as we've kept improving the technology in modeling and measuring the world 
   - A machine does not know the difference between a game simulation that is teaching it to drive, and actually driving on the road. \[From its point of view, those two things are the same\]
   - It's similar to how fiction can invoke authentic emotions and reactions in you, despite coming from something fake
   
-*LL - It's an interesting point that machines react the same way whether you feed them "fake" or "real" data. Humans also react to stimulus, whether fake or real. Sometimes we might even have a stronger reaction to fiction than fact, such as when a movie makes us cry but a news story about a death doesn't phase us. Humans are narrative driven creatures.
+*LL - It's an interesting point that machines react the same way whether you feed them "fake" or "real" data. Humans also react to stimulus, whether fake or real. Sometimes we might even have a stronger reaction to fiction than fact, such as when a movie makes us cry but a news story about a death doesn't phase us. Humans are narrative driven creatures.*
 
 *What happens when real and fake are indistinguishable? Will we all prefer to stay in the fake world? How do power dynamics change if everyone prefers living in Fortnite vs irl?* 
 
@@ -234,7 +236,7 @@ Highlights include:
 
 **4. True contrarians epxerience pain**
 
-- **How has your investment thesis evolved, and has it changed due to covid?
+- **How has your investment thesis evolved, and has it changed due to covid?**
   - About 20 out of the 130 or so Lux companies are directly impacted by covid, whether they're 3D printing swabs or scanning physical spaces
   - All of that has been totally unintentional, there's nothing we're purposely doing for covid
   - The vast majority of VC will be investing in telepresence space, so I'm not interested in that
@@ -249,10 +251,10 @@ Highlights include:
 - **We say that we like to believe before someone else understands**
   - I'm psychotically obsessed about competitive advantage, and that requires looking at things where nobody else is there
   - It's a cliche, and the best way to predict the future is to invent it. 
-  - Those people inventing the future are the scientists and engineers, often inspired by science fiction, that say they want that thing to be real and make it so
+  - Those people inventing the future are the scientists and engineers, often inspired by science fiction, that say they want that thing to be real and make it so. From sci fi to sci fact.
   - Our job is to find these people before others and take an asymmetric view on them
-  - We look for thse people and see if they're full of shit or not. It's hard to tell at inception of the company between a visionary vs someone trying to defraud you
-  - When I meet somebody, I assume "there's daggers behind smiles". Someone smiles and I assume there's an alternative motive. It's partially due to how I grew up in Coney Island
+  - We look for these people and see if they're full of shit or not. It's hard to tell at inception of the company between a visionary vs someone trying to defraud you
+  - When I meet somebody, I assume ["there's daggers behind smiles".](https://twitter.com/wolfejosh/status/1203733608651010048?s=20 "dagger") Someone smiles and I assume there's an alternative motive. It's partially due to how I grew up in Coney Island
   
 *LL - Another thing that Lux did was to also [go to universities beyond Stanford and MIT, where most VCs already were at.](https://thehustle.co/polina-marinova-josh-wolfe "Hustle") Josh also mentioned that he's a natural skeptic, vs his partner who's a natural optimist*
      
@@ -277,7 +279,7 @@ Highlights include:
   - The most painful feeling is to be socially ostracised, whether that's through technology or other means. It's why people trying to leave any sect experience so much pain from the tribal exclusion
   - There are elements of truth in the [Asch conformity](https://en.wikipedia.org/wiki/Asch_conformity_experiments 
 "Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram"), and [Zimbardo prison](https://www.simplypsychology.org/zimbardo.html "Zimbardo") experiments, though some results are being questioned
-  - These experiments show that due to social pressure, many people will feel it's not worth pursuing truth. They'd rather have the comfort of being accepeted
+  - These experiments show that due to social pressure, many people will feel it's not worth pursuing truth. They'd rather have the comfort of being accepted
   - They also show that having an ally helps. You need to not be the only lunatic
   - Similarly, if you can get just one person's support as an entrepreneur it can lead to great things 
   - If you're an entrepreneur that hasn't had someone believe in them, and then you get someone that agrees with your vision, that sets a chain reaction off
