@@ -156,6 +156,11 @@ Highlights include:
 
 *LL - People usually criticise the lack of slack in the system without realising that it was a direct result of the efficiency that allowed lower prices. Companies are also threatening to move supply chains in response to the crisis. I'm less interested in what people are saying, and more interested in what they actually end up doing. I'm less certain that companies will move, unless they can get cost savings through the move*
 
+- **There's a tradeoff between liberty and public health in the short term** 
+  - Even John Stuart Mill did not believe that a sick person under quarantine should have freedom to go out
+  - Given there's no antiviral, we have to tradeoff liberty in the short term for the benefit of broader society
+  - We'll have to be cautious, since some small liberties once given away don't come back e.g. security screenings post 9-11
+
 - **What do you think would be different had this crisis occurred 10 years in the future?**
   - Distributed healthcare
     - Many companies are experimenting with distributed in person medicine, where you won't have to go to a physical center and can get healthcare remotely instead
@@ -167,7 +172,7 @@ Highlights include:
     
 *LL - Latch is an app that allows you to unlock doors and share access with others, including generating temporary access codes. Due to the cost, fulfiling the last mile of delivery is still a big problem for any logistics company. Drones have been floated as an alternative to human couriers, though most of those are still in the testing phase and it's uncertain how that would scale in a crowded city.*   
 
-**3. Stuff in the shadows will define the rest of the year**
+**3. Tools that can detect truth will becoming increasingly important**
 
 - **Technological displacement is real in the short term. In the long term it creates all sorts of jobs people can't imagine**
   - There's no way you'd have imagined web designers, youtubers, or vloggers 30 years ago
@@ -175,30 +180,29 @@ Highlights include:
   - I have no idea what my kids are going to want to do, and no idea what the most important jobs are going to be
   - \[As a result\], individuals have a moral responsibility to learn and level themselves up. Conveniently it's also never been easier for them to do that.
 
-*LL - I'd agree that both the amount of things to learn and the convenience to learn them have increased. However, I'm more skeptical that people will do so. There has always been more than enough material for people to spend the rest of their lives learning, but we always run into other priorities. I say this on my third attempt to learn python...*
+*LL - I'd agree that both the amount of things to learn and the convenience to learn them have increased. However, I'm more skeptical that people will do so. There has always been more than enough material for people to spend the rest of their lives learning, but we always run into other priorities. I say this on my third attempt to learn python... \[7\]*
 
 - **Stuff happening outside of covid is being overlooked, and that is what will define the rest of the year**
-  - The spotlightof the world's attention now is on covid, \[resulting in ignorance of everything else\]
+  - The spotlight of the world's attention now is on covid, \[resulting in ignorance of everything else\]
   - In a heist movie the robbers will do a test to gauge the initial response
   - If you're a bad actor you've seen what the first response from the world is and can now work around it
   - The three things I would look at seriously are
     - Who's coming in to help the many emerging markets that are struggling. That's usually **China.**
     - **Africa** is becoming similar to the Middle East; the next breeding ground of dissatisfied and unemployed youth. Countries pulling out from there will create a power vacuum
     - **Space**
+
+- **The gap between reality and simulation is shrinking**
+  - Robots and technology navigate reality use models, just as humans do
+  - Those models are increasing in resolution as we've kept improving the technology in modeling and measuring the world 
+  - A machine does not know the difference between a game simulation that is teaching it to drive, and actually driving on the road. \[From its point of view, those two things are the same\]
+  - It's similar to how fiction can invoke authentic emotions and reactions in you, despite coming from something fake
   
-*LL - I agree that trying to find out what else is happening in the shadow of Covid is important, and am still figuring that out. Africa and Space are areas that have been known trends the past five years at least, and I'm wondering what other areas are currently being underestimated.*
+*LL - It's an interesting point that machines react the same way whether you feed them "fake" or "real" data. Humans also react to stimulus, whether fake or real. Sometimes we might even have a stronger reaction to fiction than fact, such as when a movie makes us cry but a news story about a death doesn't phase us. Humans are narrative driven creatures.
 
+*What happens when real and fake are indistinguishable? Will we all prefer to stay in the fake world? How do power dynamics change if everyone prefers living in Fortnite vs irl?* 
 
-
-- The gap between reality and simulation is shrinking
-  - Technologically we're better able to model and measure the world around us with greater resolution
-  - The robots and tech that are navigating reality are using models, as we do
-  - **The machine does not know the difference between a game simulation that is teaching it to drive and actually driving on the road**
-  - All the things that fiction can invoke in you are entirely real, authentic reactions, but they are coming from something fake
-  
-*LL - This is an interesting point, that since the machine understands the world in terms of however you're programming it, the machine doesn't care if you're feeding it real world data or fake data. It reacts in the same way. Similarly, humans are also programmed to react to stimulus. Whether that is real world data or fake stories, we can still react to it. Sometimes our reactions to fake stories might even be stronger than to real life issues, such as when a movie can make you cry but the news story of a death doesn't. I think the takeaway here is that humans are driven by stories.* 
-
-- If you think about finding opportunity between abundance and scarcity
+- **Increasing weight of value will be placed on tools that can detect veracity**
+  - You want to find the opportunity between abundance and scarcity
   - In the late 90s everyone was producing blogs and providing information online, the scarce thing was being able to find that needle in the haystack, ergo Google was created
   - Today given the abundance of tools we have in editing where the simulacrum and reality keeps shrinking, the scarce thing is being able to detect veracity
     - **Increasing weight of value will be placed on tools that can detect veracity** in deepfakes, photo edits etc
@@ -297,10 +301,6 @@ Highlights include:
 
 **Other**
 
-- There's a tradeoff between liberty and public health in the short term 
-  - Even John Stuart Mill did not believe that a sick person under quarantine should have freedom to go out
-  - Given there's no antiviral, we have to tradeoff liberty in the short term for benefit of broader society
-  - Have to be cautious since some small liberties once given away don't come back, e.g. security screenings post 9-11
 
 - How should we think about welfare and Universal Basic Income (UBI) in the modern world?
   - Media is doing a good job on bringing spotlight on some of worst hit people who do not have resources
@@ -348,13 +348,14 @@ Thanks to [Polina Marinova](https://theprofile.substack.com/) for reviewing a dr
 **Footnotes**
 
 1. Other investment areas include "3D printing; machine learning; artificial intelligence; flying robots; surgical robots; synthetic biology; genomics; satellites; space; drones; computational imaging and recognition; new materials; holograms; “fixers” for the future; the internet of things; connected hardware; the smart home and virtual reality." I've previously done a short response to Lux Capital's 2019 annual video [here](https://www.leonlinsx.com/lux-annual-talk/ "Lux")
-2. Eric's podcast included a good amount of him talking as well. Since I want this post to focus on Josh, I'll be excluding Eric’s points. Eric has a segment at the start where he talks about how idealism is a cover story for wealth or power transfers e.g. feminism for companies to get more labour, free access to information for companies to gather data moats, patriotism to dilute the power of labour. It's an interesting theory, and I think it's hard to separate people who are genuine believers of the cause vs people who are trying to exploit the cause. Separately, [Peter Thiel is a famous entrepreneur and VC known for his provocative statements.](https://foundersfund.com/team/peter-thiel/ "Thiel") He cofounded Paypal, Palantir, and is a partner at Founders Fund, a VC firm.
+2. Eric's podcast included a good amount of him talking as well. Since I want this post to focus on Josh, I'll be excluding Eric’s points. He has a segment at the start where he talks about how idealism is a cover story for wealth or power transfers e.g. feminism for companies to get more labour, free access to information for companies to gather data moats, patriotism to dilute the power of labour. It's an interesting theory, and I think it's hard to separate people who are genuine believers of the cause vs people who are trying to exploit the cause. Separately, [Peter Thiel is a famous entrepreneur and VC known for his provocative statements.](https://foundersfund.com/team/peter-thiel/ "Thiel") He cofounded Paypal, Palantir, and is a partner at Founders Fund, a VC firm.
 3. As always, I’ll be paraphrasing for clarity sometimes
 4. Don’t get full of yourselves, I wrote this mostly for myself to consolidate notes. You can't increase playback speed on the vimeo video; the horror.
 5. Josh talks about how they make people take the opposite view of what they believe in the debates, which is good practice in my opinion.
 6. That speaker list is crazy, just saying. Could you have imagined such a line up for any one school's graduation?
-7. I'm not a mathematician, and [apparently Godel's theorem is frequently misunderstood](https://math.stackexchange.com/questions/453503/can-someone-explain-g%C3%B6dels-incompleteness-theorems-in-layman-terms "math"), so feel free to correct me here if I'm wrong
-8. Credit [@anbuteau](https://twitter.com/anbuteau/status/1258348730626998275?s=20)
+7. Now that I've mentioned this publicly, I'm never going to succeed am I.
+8. I'm not a mathematician, and [apparently Godel's theorem is frequently misunderstood](https://math.stackexchange.com/questions/453503/can-someone-explain-g%C3%B6dels-incompleteness-theorems-in-layman-terms "math"), so feel free to correct me here if I'm wrong
+9. Credit [@anbuteau](https://twitter.com/anbuteau/status/1258348730626998275?s=20)
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
