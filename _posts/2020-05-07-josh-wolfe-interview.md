@@ -67,7 +67,7 @@ Highlights include:
 
 **Full notes from the talks**
 
- **Current situation**
+ **1. Strengthening our sense of community**
 
 - **The social impact from the disruption to education is terrible**
   - As most of us have come to realise, teaching is underappreciated. It's not just hard to do, from the individual to the classroom level, but also a form of daycare
@@ -89,57 +89,59 @@ Highlights include:
   - My experience is that a lot of entrepreneurs have to hack things together. They have limited resources and are trying to cobble something together \[despite the difficulty\]
   - Scarcity is a virtue since it leads them to be resourceful and creative
   - Contrast this to a large, well resourced company that can get what they need by just calling a department or assistant. 
-    
+
+*LL- There's a saying that constraints cause creativity, which is what Josh is implying here. Some supporting evidence for that is how "startup in a big company" types [never seem to succeed](https://twitter.com/jensenharris/status/993695458517110784?s=20 "startup")
+
 - **The current situation is complex, with many different layers reacting to each other**
-  
-*LL - Tangentially, the surge in virtual events has also had a positive side effect of expanding access to events that used to be more exclusive. Where conferences and social clubs would have once limited their in person attendance to paid members only, many of them are now opening them up to the general public. Some even for free. I wonder if they'll continue streaming these events for free once we get back to normal. People would still pay to network in person, so it seems like a positive tactic for future user acquisition.* 
-  
-- The [Santa Fe institute](https://www.santafe.edu/ "Santa Fe") has put out great material on current situation
-  - Transmission of virus, biologically, which is independent of what people believe
-  - Transmission of information, and there you have both fact and misinformation
-  - So you have the speed of biology but also speed of how people are believing things which affects everything
+  - The [Santa Fe institute](https://www.santafe.edu/ "Santa Fe") has put out great material on the current situation
+  - Transmission of the virus is a biological fact, independent of beliefs
+  - Transmission of information, on the other hand, has both fact and fiction, being subject to what people believe
+  - The interaction of these biological, informational, political, economical, social and more layers result in a complex system that's difficult to understand
+  - 
+*LL - The Santa Fe institute is a research institute dedicated to studying complex systems and how they interact. Notable members include Bill Gurley, Michael Mauboussin, and Pierre Omidyar. We like to believe in simple direct cause and effects, when usually there are multiple causes and secondary effects all interacting at once. We’re not built for complexity.*
 
-*LL - The Santa Fe institute is a research institute dedicated to studying complex systems and how they interact. Notable members include Bill Gurley, Michael Mauboussin, and Pierre Omidyar. We like to believe in simple direct cause and effects, when usually there are multiple causes and secondary effects that respond to each other. We’re not built for complexity.*
+*For a framework on how layers interact with each other, check out my [pace layer](https://avoidboringpeople.substack.com/p/wisely-and-slow-they-stumble-that "pace") summary. It's the idea by [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand "Stewart") that civilisations consist of multiple layers, each moving at their own speed while interacting with other layers above and below them.*
 
-- Many different layers all fiercely reacting to each other in this crisis
-  - Biology
-  - Political
-  - Economic
-  - Stock Market
-
-*LL - For a framework on how layers interact with each other, check out the [pace layer](https://avoidboringpeople.substack.com/p/wisely-and-slow-they-stumble-that "pace") summary I did a while back. It's the idea by [Stewart Brand](https://en.wikipedia.org/wiki/Stewart_Brand "Stewart") that civilisations consist of multiple layers, each moving at their own speed while interacting with other layers above and below them.*
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Pace layer civilisation.jpg)
 
 **Covid predictions**
 
-- Huge disconnect between the real economy and what the market believes
-  - When I look at economic destruction that is permanent, particularly for the time it'll take to rebuild for small and medium businesses, I don't think that's fully appreciated
-  - Big businesses will be fine
-  - We've lost so many jobs so quickly compared to how we created them
-  - The ripple effect has been masked by massive federal intervention, buying at the very top of the stack and then all the way down
+- **There's a huge disconnect between the real economy and what the market believes**
+  - I don't think the amount of permanent economic destruction is fully appreciated
+  - Big businesses will be fine, but small and medium businesses will take a long time to rebuild
+  - We've lost so many jobs so quickly compared to how long we took in creating them
+  - The ripple effects so far have bene masked by massive federal intervention. They've been buying at the very top of the stack and all the way down
+  - What's underappreciated is that the economy is asymmetric in crashing vs being built up
 
-*LL - I'm having trouble understanding this as well. The bull case is that all of this job loss was priced in, which is why we saw such a large drop. With the Fed giving a backstop to everything, perhaps risk is reduced. Also, if everyone is thinking that things are too good to be true, that implies consensus is pessimistic already, so we're not at the irrational exuberance stage. The bear case is that this is going to be similar to Jan/Feb, where we all knew covid was happening in China but the market still kept going up*
+*LL - I'm having trouble understanding this as well. The bull case is that all of this job loss was priced in, which is why we saw such a large drop in the market initially. The Fed giving a backstop to everything might be reducing risk. Also, if everyone thinks that things are too good to be true, it implies they're being cautious and not irrationally exuberant.*
 
-- The crisis sets up situation where I can see two kinds of companies emerging that dominate:
-  - Proxies for 1980's Europe, **semi state-owned companies** e.g. Total in France, BP in UK. We could see that writ large
-    - Feel we could see a large company becoming a sacrifice here, leading to wave of semi-nationalisation. 
-    - These companies could do well with the implicit support, access to cheap capital, government backing 
-  - If you continue to see fed support in public markets, you're more likely to see inefficiencies in private markets. There'll be less tourist capital in private markets. People might do **rollups of supply chain, logistics, rebuilding the economy types of businesses**
-  - What's underappreciated is the restart of the economy, it's more asymmetric in crashing vs building up
+*The bear case is that this is going to be similar to Jan/Feb, where we all knew covid was happening in China but the market still kept going up*
 
-*LL - Josh is also likely drawing on how Fannie and Freddie, the two large mortgage securitisation companies, were [taken over by the government in the financial crisis.](https://en.wikipedia.org/wiki/Federal_takeover_of_Fannie_Mae_and_Freddie_Mac "Fannie")*
+- **I can see two kinds of companies emerging from this that dominate**
+  - **Semi state-owned companies** similar to what happened in 1980's Europe with Total in France, BP in UK etc. 
+    - It feels like we could see a large public company become a sacrifice here, leading to wave of semi-nationalisation
+    - Such companies could do well with the implicit government support and access to cheap capital
+  - **Rollups of supply chain, logistics, "rebuild the economy"** types of businesses
+    - If you continue to see the Fed support public markets, inefficiencies are more likely to happen in private markets. 
+    - There'll be less tourist capital in private markets
 
-- What do you think would be different had this crisis occurred 10 years in the future?
+*LL - Josh is also likely drawing on how Fannie and Freddie, the two large US mortgage securitisation companies, were [taken over by the government in the financial crisis.](https://en.wikipedia.org/wiki/Federal_takeover_of_Fannie_Mae_and_Freddie_Mac "Fannie")*
+
+*I'm unsure I fully understand Josh's second example, since those rollup types of companies also exist as large publicly traded ones*
+
+- **What do you think would be different had this crisis occurred 10 years in the future?**
   - Distributed healthcare
-    - A lot of companies experimenting with distributed in person medicine. Things that you wouldn't have to go to a physical center and can get remotely instead. 
-    - What is a high end diagnostic tool for imaging now will be more distributed; everyone will have one the way we all have a thermometer now
-  - Distribution of logistics
-    - More robots and automation will make us more effectively route goods, like how routers route bits.
-    - How do you solve the last 100 feet problem, not just the last mile? Every home is different, might still require humans
-    - Perhaps something like [Latch](https://www.latch.com/latch-app "Latch") will let you trust people to enter your house and place things
+    - Many companies are experimenting with distributed in person medicine, where you won't have to go to a physical center and can get healthcare remotely instead
+    - For example, what is a high end image diagnostic tool now will become more distributed; everyone will have one the way we all have a thermometer
+  - Distributed logistics
+    - Robots and automation will increase effectiveness in routing of physical goods, like how routers route digital bits
+    - It's about how you solve the last 100 feet problem in delivery, not just the last mile. Every home is a different case, we might still need humans \[and have a hybrid system\]
+    - Something like [Latch](https://www.latch.com/latch-app "Latch") could let you trust people to enter your house and place things
     
-*LL - Latch is an app that allows you to unlock doors and share access with others, including generating temporary access codes. Last mile problems in terms of delivering things that very last mile are still a big issue for any company dealing with logistics, due to the cost in providing such a service. Drones have been floated as an alternative to human couriers, though most of those are still in the testing phase and it's uncertain how that would scale in a crowded city.*    
+*LL - Latch is an app that allows you to unlock doors and share access with others, including generating temporary access codes. Due to the cost, fulfiling the last mile of delivery is still a big problem for any logistics company. Drones have been floated as an alternative to human couriers, though most of those are still in the testing phase and it's uncertain how that would scale in a crowded city.*    
 
-- How do you see this playing out?
+- **The extremes of a complete lockdown and complete normalcy are both unlikely**
+  - The state we're in as of Apr 30 is a temporarily tolerable intolerabe situation. We might last perhaps 4 weeks?
   - I see two extremes of locking down vs letting everyone go back to normal 
     - **Both these extremes of complete lockdown and complete back to normal are unlikely**
     - This state we're in (as of Apr 30) is a tolerably intolerable situation for a period of time, but not forever. Perhaps 4 weeks?
