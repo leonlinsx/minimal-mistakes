@@ -1,10 +1,8 @@
 ---
-title:  ""  
-tags: []
+title:  "Authentic contrarians vs consensus contrarians"  
+tags: [covid, tech, finance, vc, consensus, pace layer, business, china, africa, space, AI, contrarian, creativity]
 published: false
 ---
-
-**Takeaways**
 
 **Relevant for**
 
