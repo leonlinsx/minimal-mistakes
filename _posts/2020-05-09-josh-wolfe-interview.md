@@ -42,7 +42,7 @@ People interested in covid predictions, frontier technology, and the search for 
 
 Josh was recently interviewed [here](https://vimeo.com/414116322 "Michael") by Michael Milstein, founder of [Company,](https://www.company.co/about-us/ "Company") a curated community of NYC startups and entrepreneurs. I was going to do a summary of that talk, but realised Josh was also separately interviewed [here](https://podcasts.apple.com/us/podcast/33-josh-wolfe-the-mind-financing-the-future/id1469999563?i=1000473458522 "Eric") by [Eric Weinstein](https://twitter.com/EricRWeinstein?s=20 "Eric"), managing director at Thiel Capital, the investment firm founded by Peter Thiel \[2\]. 
 
-As such, I’ve synthesised the notes from the combined three hours of audio, and grouped them into the five categories below \[3\]. I’ve also added highlights at the start, and more links on Josh to check out at the end. The things I do for you all \[4\]. This is a 5,000 word post, so feel free to jump around to whichever section strikes you.
+As such, I’ve synthesised the notes from the combined three hours of audio, and grouped them into the five categories below \[3\]. I’ve also added highlights at the start, and more links on Josh to check out at the end. The things I do for you all \[4\]. This is a 5,000 word post, so feel free to jump to whichever section strikes you.
 
 The talks covered:
 
@@ -54,14 +54,14 @@ The talks covered:
 
 Highlights include:
 
-- Two types of companies might dominate post crisis: semi-state owned companies and those that are rolling up supply chains
+- The interaction of multiple layers creates a complex system for covid that's difficult to understand
 - Cities are likely to experience a pendulum effect in density increasing and decreasing
-- Technology will displace jobs now but create opportunities we can’t begin to imagine in the future
-- We should pay more attention to events happening now that are being hidden in the shadow of the covid crisis, such as China’s moves, Africa, and space
-- Machines do not know the difference between running a simulation and running in the real world
+- Two types of companies might dominate post crisis: semi state-owned companies and those that are rolling up supply chains
+- We need to pay more attention to events happening that are overlooked due to Covid, such as China’s moves, Africa, and space
+- AI isn't as dangerous as people are thinking since it'll be constrained by the system it is in
 - Increasing weight will be put on tools that can detect truthfulness
+- Chips on shoulders put chips in pockets
 - Being an authentic contrarian vs a consensus contrarian requires not only the ability to be misunderstood, but also disliked
-- Josh likes to believe before someone else understands
 - Great artistic expression comes from people finally finding a medium to express themselves after not feeling understood
 - The worst terrorist attack would involve revealing your texts
 
@@ -96,7 +96,7 @@ Highlights include:
   - The [Santa Fe institute](https://www.santafe.edu/ "Santa Fe") has put out great material on the current situation
   - Transmission of the virus is a biological fact, independent of beliefs
   - Transmission of information, on the other hand, has both fact and fiction, being subject to what people believe
-  - The interaction of these biological, informational, political, economical, social and more layers result in a complex system that's difficult to understand
+  - The interaction of these biological, informational, political, economical, social and more layers result in a complex system \[that's difficult to understand\]
   - 
 *LL - The Santa Fe institute is a research institute dedicated to studying complex systems and how they interact. Notable members include Bill Gurley, Michael Mauboussin, and Pierre Omidyar. We like to believe in simple direct cause and effects, when usually there are multiple causes and secondary effects all interacting at once. We’re not built for complexity.*
 
@@ -262,7 +262,7 @@ Highlights include:
   - There's something they have to prove, an inextinguishable flame that compels them forward regardless of the money or fame they get
   - Often in the face of some adversity they suffered where \[they were an outcast\]
 
-*LL - Josh might be biased here due to his own tough upbringing. Having something to drive you when all else fails definitely helps with motivation, such as Lincoln, Rowling, or Jim Carrey. There are also plenty of successful people that had an easier start, such as Gates, Bezos, or Zuckerberg.*
+*LL - Josh might be biased here due to his own tough upbringing. Having something to drive you when all else fails definitely helps with motivation, such as Lincoln, Rowling, or Jim Carrey. There are also plenty of successful people that had an easier start, such as Gates, Bezos, or Zuckerberg. Everyone likes to say they're an underdog.*
 
 - **Entrepreneurship requires understanding what consensus is**
   - \[Being a good entrepreneur isn't just about ignoring reality\], it requires understanding of consensus. You have to understand shared realities and break through that shared reality
@@ -323,30 +323,15 @@ Highlights include:
 
 *Can you separate the idea from the person? Should you? Given the crazy genius hypothesis above, should we expect unpalatable statements from our idols every now and then? I try to evaluate ideas on their own merit, but it's impossible to do without bias.*
 
-- **Are we going too quick in some areas?**
-  - 
-  - Is there a case to be made that we should go slower?
-  - I think it's less of a case that people are gullible
-  - Instead, people have grown so cynical they don't know who to trust
-  
-*LL - This goes back to [the pace layer concept](https://avoidboringpeople.substack.com/p/wisely-and-slow-they-stumble-that "pace"), which proposes that some systems in civilisation have a certain pace they should move at, and that going faster causes problems.*    
-
-
-
-
-
-
-
-
-
 Thanks to [Polina Marinova](https://theprofile.substack.com/) for reviewing a draft of this post
 
 **For more on Josh Wolfe check out these links**
 
 1. His interviews with [Polina Marinova](https://theprofile.substack.com/ "profile") in [2020](https://thehustle.co/polina-marinova-josh-wolfe "2020") and [2018](https://fortune.com/2018/09/20/josh-wolfe-lux-capital/ "Q&A")
-2. [Summary of ideas from Josh Wolfe by Thomas Hollands](https://www.xsrus.com/writing/posts/josh-wolfe/ "Summary")
-3. [Podcast notes from other podcasts with Josh](https://podcastnotes.org/?s=josh+wolfe "Josh") \[5\]
+2. His [Farnam Street interview](https://fs.blog/knowledge-project/josh-wolfe/ "Josh")
+3. [Podcast notes from other podcasts with Josh](https://podcastnotes.org/?s=josh+wolfe "Josh") \[9\]
 4. [Futura](https://www.youtube.com/playlist?list=PL9blNW0RGhICZbiLZsI1i_1ebp9nYy58L "Futura"), the youtube series by Lux Capital showcasing portfolio companies.
+5. [Summary of ideas from Josh Wolfe by Thomas Hollands](https://www.xsrus.com/writing/posts/josh-wolfe/ "Summary")
 
 **Footnotes**
 
