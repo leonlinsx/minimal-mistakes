@@ -34,6 +34,8 @@ published: false
 
 **Main**
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
+
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
 <div class="iframe-container-4x3">
