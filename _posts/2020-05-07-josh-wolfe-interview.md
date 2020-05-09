@@ -104,7 +104,7 @@ Highlights include:
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Pace layer civilisation.jpg)
 
-**Covid predictions**
+**2. Semi state-owned companies could be the dominant force emerging from the crisis**
 
 - **There's a huge disconnect between the real economy and what the market believes**
   - I don't think the amount of permanent economic destruction is fully appreciated
@@ -116,6 +116,26 @@ Highlights include:
 *LL - I'm having trouble understanding this as well. The bull case is that all of this job loss was priced in, which is why we saw such a large drop in the market initially. The Fed giving a backstop to everything might be reducing risk. Also, if everyone thinks that things are too good to be true, it implies they're being cautious and not irrationally exuberant.*
 
 *The bear case is that this is going to be similar to Jan/Feb, where we all knew covid was happening in China but the market still kept going up*
+
+- **The extremes of a complete lockdown and complete normalcy are both unlikely**
+  - The state we're in as of Apr 30 is a temporarily tolerable intolerabe situation. We might last perhaps 4 weeks?
+  - How dense cities react is going to be different vs how other areas react. The difference in this reaction will frustrate people in cities
+    - The greatest economic centers are also the ones most hard hit; when you're in a city you get far more of the good during normal times but also more of the bad
+    - An optimistic scenario I have for dense cities, using NYC as a proxy, is for NYC to be "open at 30% of normal density by Jun 1.
+    - Subways might be another story but on average we'll be at 30% density
+    - By Jun 15 there'll be reports that NYC is at a lower density, inducing people to come back
+    - That causes a pendulum effect of density going up and down
+    - I think NYC can be at 50% density in the fall. We'll have preparedness plans in place then, and it'll be less bad than people think
+  - College towns \[and places similar to them\] will start to open earlier
+    - There'll be a difference between the haves and have-nots
+    - College towns will be testing everyone, not having large classes, and holding small classes in large spaces
+    - An interesting thing about college towns is that they have the cultural vibrancy of cities but without the density concerns
+    - We could see a migration of older people and retirees around college towns, to be around that vibrancy
+    - Separately, I also see some percentage of colleges disappearing in the next five years. There'll be a repurposing of assets that die out around them
+    
+*LL - That pendulum effect is somewhat similar to what [Tyler Cowen believes](https://marginalrevolution.com/marginalrevolution/2020/04/where-we-stand.html "Tyler"), and how I'm currently thinking as well. Because of the amount of competing concerns, I don't think locking down for extended periods of time will last. We'll get frustrated and loosen up, as is already happening in most of the US. Things will get worse and we'll tighten up again. I hope to be proven wrong on this.*
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Frustration pendulum.jpg)
 
 - **I can see two kinds of companies emerging from this that dominate**
   - **Semi state-owned companies** similar to what happened in 1980's Europe with Total in France, BP in UK etc. 
@@ -129,6 +149,13 @@ Highlights include:
 
 *I'm unsure I fully understand Josh's second example, since those rollup types of companies also exist as large publicly traded ones*
 
+- **We'll sacrifice efficiency to get more slack in the system**
+  - Technological onshoring will be critical and I'm bullish on it
+  - It'll become more popular due to the security and geopolitical perspective
+  - We'll have more redundancy, greater distribution, more onshoring
+
+*LL - People usually criticise the lack of slack in the system without realising that it was a direct result of the efficiency that allowed lower prices. Companies are also threatening to move supply chains in response to the crisis. I'm less interested in what people are saying, and more interested in what they actually end up doing. I'm less certain that companies will move, unless they can get cost savings through the move*
+
 - **What do you think would be different had this crisis occurred 10 years in the future?**
   - Distributed healthcare
     - Many companies are experimenting with distributed in person medicine, where you won't have to go to a physical center and can get healthcare remotely instead
@@ -138,67 +165,30 @@ Highlights include:
     - It's about how you solve the last 100 feet problem in delivery, not just the last mile. Every home is a different case, we might still need humans \[and have a hybrid system\]
     - Something like [Latch](https://www.latch.com/latch-app "Latch") could let you trust people to enter your house and place things
     
-*LL - Latch is an app that allows you to unlock doors and share access with others, including generating temporary access codes. Due to the cost, fulfiling the last mile of delivery is still a big problem for any logistics company. Drones have been floated as an alternative to human couriers, though most of those are still in the testing phase and it's uncertain how that would scale in a crowded city.*    
+*LL - Latch is an app that allows you to unlock doors and share access with others, including generating temporary access codes. Due to the cost, fulfiling the last mile of delivery is still a big problem for any logistics company. Drones have been floated as an alternative to human couriers, though most of those are still in the testing phase and it's uncertain how that would scale in a crowded city.*   
 
-- **The extremes of a complete lockdown and complete normalcy are both unlikely**
-  - The state we're in as of Apr 30 is a temporarily tolerable intolerabe situation. We might last perhaps 4 weeks?
-  - I see two extremes of locking down vs letting everyone go back to normal 
-    - **Both these extremes of complete lockdown and complete back to normal are unlikely**
-    - This state we're in (as of Apr 30) is a tolerably intolerable situation for a period of time, but not forever. Perhaps 4 weeks?
-  - There will be a **difference between how the dense cities react vs other areas**
-    - The greatest economic centers are also the ones most hard hit
-    - When you're in a city you get far more of the good during normal times but also more of the bad
-    - Scaling of virus effects in dense cities have been painful
-    - Between now and Jun 1, using NYC as a proxy, by Jun 1 NYC will be "open" at 30% of normal density. Subways may be different story but on average 30%
-    - By Jun 15 there may be reports that NYC is at lower density and that'll induce people to start coming back
-    - Then you'll get this pendulum effect of density going up and down, and then NYC will be at 50% density in the fall
-    - We'll have preparedness plans in place for fall and it'll be less bad than people think
-    - That's the optimistic case, though when I discuss this with Andrew he thinks I'm crazy
-    - The difference in how cities vs other areas react will frustrate the people in cities
-  - College towns will start to open earlier
-    - Will be a difference between have and have nots
-    - Will be testing everyone, not having large classes, lockdown on campuses
-    - Interesting thing about college towns is that they have cultural vibrancy of cities but without the density concerns
-    - Could see migration of older people and retirees around college towns to be around that vibrancy
-    - Also see some percentage of colleges disappearing in the next five years
-    - There'll be a repurposing of assets that die out, particularly around college towns
-    
-*LL - That pendulum effect is somewhat similar to what [Tyler Cowen believes](https://marginalrevolution.com/marginalrevolution/2020/04/where-we-stand.html "Tyler"), and how I'm currently thinking as well. Because of the myriad amount of competing concerns, I don't think locking down for extended periods of time will last. We'll get frustrated and loosen up, as is already happening in most of the US. Things will get worse and we'll tighten up again. I hope to be proven wrong on this.*
-
-**General predictions**
+**3. Stuff in the shadows will define the rest of the year**
 
 - **Technological displacement is real in the short term. In the long term it creates all sorts of jobs people can't imagine**
-  - No way you'd have imagined web designers, youtubers, vloggers 30 years ago
+  - There's no way you'd have imagined web designers, youtubers, or vloggers 30 years ago
+  - Even Facebook, Netflix, etc didn't exist in their current iterations a decade ago
   - I have no idea what my kids are going to want to do, and no idea what the most important jobs are going to be
-  - Facebook, Netflix, etc didn't exist in their current iterations a decade ago 
-  
-- Individuals have a moral responsibility to learn and level themselves up, and it's never been easier for them to do that
+  - \[As a result\], individuals have a moral responsibility to learn and level themselves up. Conveniently it's also never been easier for them to do that.
 
-*LL - I'd agree that both the amount of things to learn and the convenience to learn them have increased. However, I'm more skeptical that people will do so. There has always been more than enough material for people to spend the rest of their lives learning, but we always run into other priorities.*
+*LL - I'd agree that both the amount of things to learn and the convenience to learn them have increased. However, I'm more skeptical that people will do so. There has always been more than enough material for people to spend the rest of their lives learning, but we always run into other priorities. I say this on my third attempt to learn python...*
 
-- Technological onshoring will be critical; I'm bullish on it
-  - From a security and geopolitical perspective it will become more popular 
-  - Will have redundancy, greater distribution, more onshoring
-  - **Will sacrifice the efficiency to get more slack in the system**
-
-*LL - People are criticising the lack of slack in the system, usually without realising that it was a direct result of the efficiency that allowed lower prices. Companies are also threatening to move supply chains in response to the crisis. I'm less interested in what people are saying, and more interested in what they actually end up doing. I'd predict many of them make a show of things, and few of them actually do change.*
-
-- Spotlight of the world's attention now is on Covid, and **all the stuff outside of that is going to be important and is what is going to define the rest of the year**
-  - The same way how in a heist movie the robbers will do a test to gauge initial response
-  - If you're a bad actor you've seen what the first response is and will work around it  
-
-- Three things that I would look at seriously
-  - In the face of many emerging markets that are struggling, who's coming in to help them. It's likely **China.**
-  - **Africa** will become the next breeding ground, similar to the Middle East, you'll see dissatisfied and unemployed youth. Countries pulling out will create power vacuum
-  - **Space** 
+- **Stuff happening outside of covid is being overlooked, and that is what will define the rest of the year**
+  - The spotlightof the world's attention now is on covid, \[resulting in ignorance of everything else\]
+  - In a heist movie the robbers will do a test to gauge the initial response
+  - If you're a bad actor you've seen what the first response from the world is and can now work around it
+  - The three things I would look at seriously are
+    - Who's coming in to help the many emerging markets that are struggling. That's usually **China.**
+    - **Africa** is becoming similar to the Middle East; the next breeding ground of dissatisfied and unemployed youth. Countries pulling out from there will create a power vacuum
+    - **Space**
   
 *LL - I agree that trying to find out what else is happening in the shadow of Covid is important, and am still figuring that out. Africa and Space are areas that have been known trends the past five years at least, and I'm wondering what other areas are currently being underestimated.*
 
-- There's a lot of latent pricing power in some companies e.g. Spectrum, Fios that could have raised prices but didn't due to fear of backlash. 
-  - And when they do, that'll result in others coming to provide competing services
-  - **I'm bullish on areas that haven't raised pricing and likely will.** When the incumbents do it'll create whitespace for new companies to come in with disruptive situation
-  
-*LL - Unsure if I entirely understand Josh's last point here. It seems he advocates for investing in startups in areas where the incumbent can raise prices but hasn't, which would be opposite to how Buffett or perhaps a value investor would think. They'd prefer to invest in the incumbent that can take prices up but hasn't needed to yet, since that demonstrates latent customer value.*
+
 
 - The gap between reality and simulation is shrinking
   - Technologically we're better able to model and measure the world around us with greater resolution
@@ -238,6 +228,12 @@ Highlights include:
   - **This requires understanding of consensus,** have to understand shared realities and breaking through that shared reality
   - Entrepreneurship is arrogance of the highest order, requires you knowing what everyone else believes, and then having the confidence to say you're going in a different direction
   - That's the status seeking, identity creating thing I think we call creativity
+  
+- There's a lot of latent pricing power in some companies e.g. Spectrum, Fios that could have raised prices but didn't due to fear of backlash. 
+  - And when they do, that'll result in others coming to provide competing services
+  - **I'm bullish on areas that haven't raised pricing and likely will.** When the incumbents do it'll create whitespace for new companies to come in with disruptive situation
+  
+*LL - Unsure if I entirely understand Josh's last point here. It seems he advocates for investing in startups in areas where the incumbent can raise prices but hasn't, which would be opposite to how Buffett or perhaps a value investor would think. They'd prefer to invest in the incumbent that can take prices up but hasn't needed to yet, since that demonstrates latent customer value.*  
   
 *LL - Similar to the principle of [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence "Fence"), that you shouldn't change something until you understand the reason behind the current state, it's usually worth understanding why your proposed business doesn't yet exist. Sometimes ideas that sound great at first (group coupons, meal kits, DTC) don't work because the market is too small, customer acquisition is too expensive, or the unit economics don't make sense.* 
   
