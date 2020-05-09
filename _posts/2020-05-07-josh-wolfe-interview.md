@@ -50,7 +50,7 @@ The talks covered:
 2. Predictions on covid related consequences
 3. Predictions on general future state of the world
 4. How he thinks of the VC space and what he looks for
-5. The search for meaning
+5. The search for meaning and how context matters
 
 Highlights include:
 
@@ -192,6 +192,9 @@ Highlights include:
     - **Space**
 
 - **The gap between reality and simulation is shrinking**
+  - Humans have a model of reality. 
+  - \[I like the\] memory prediction argument for consciousness by [Jeff Hawkins](https://loupventures.com/002-jeff-hawkins/ "Jeff"). For example, if you see my shoes, you'll associate that with me. If you see my shoes and then see someone else, you'll get an emotional surprise. You'll adjust the mental model you have, updating your model of rality
+  - This model of reality humans hold interacts with the real world and is getting continuous feedback
   - Robots and technology navigate reality use models, just as humans do
   - Those models are increasing in resolution as we've kept improving the technology in modeling and measuring the world 
   - A machine does not know the difference between a game simulation that is teaching it to drive, and actually driving on the road. \[From its point of view, those two things are the same\]
@@ -201,25 +204,48 @@ Highlights include:
 
 *What happens when real and fake are indistinguishable? Will we all prefer to stay in the fake world? How do power dynamics change if everyone prefers living in Fortnite vs irl?* 
 
+- **AI isn't as dangerous as people are thinking**
+  - I'm not in the [Nick Bostrom](https://samharris.org/ "Nick") or [Sam Harris](https://samharris.org/ "Sam") camp for artificial general intelligence. I'm more in [David Deutsch's](https://en.wikipedia.org/wiki/David_Deutsch "David") camp
+  - Bostrom, along with other very smart people, is concerned about us becoming paper clip factories and being harvested by sentient machines that have run amok
+    - We are indeed approaching high accuracy in some tasks, such as being able to construct text from machines that would fool most people, beat humans at games etc
+  - Deutsch makes the argument that the more dangerous thing is not AI run amok but the average teenager
+    - Inside a simulation, the simulation can have all the tools that you give it. However, it won't have tools that are outside the simulation and it can't create tools outside of the system
+    - Even when AI can create something that would pass a Turing Test and be able to fool most people into thinking it was created by a human, it will still constrained by the system
+    - If you accept the premise that the AI is within a simulation, they can't come out of the simulation's constraints
+    
+*LL - This might be a reference to [Godel's incompleteness theorem,](https://www.scientificamerican.com/article/what-is-godels-theorem/ "Godel") which states that within a complete system, there are statements that are unprovable if you only use the logic of the system itself \[8\]. Josh is making the argument that AI will be limited in scope to whatever system it is running in. Because we control the systems a layer of reality above the AI, AI will not be able to have more power than we do.*
+
 - **Increasing weight of value will be placed on tools that can detect veracity**
   - You want to find the opportunity between abundance and scarcity
   - In the late 90s everyone was producing blogs and providing information online. The scarce thing was being able to find that needle in the haystack, hence leading to the creation of Google
   - Today, we have an abundance of editing tools, and the gap between simulacrum and reality keeps shrinking. The scarce thing will be being able to detect veracity e.g. in deepfakes
   - It's a continuous race between deception and detection
     
-*LL - You want to find the [rate determining step](https://en.wikipedia.org/wiki/Rate-determining_step "RDS") of the time period you're in. Power lies in the technologies and institutions that can gatekeep.*    
+*LL - You want to find the [rate determining step](https://en.wikipedia.org/wiki/Rate-determining_step "RDS") of the time period you're in. Power lies in the technologies and institutions that can gatekeep.*
 
-**Being a VC**
+**4. True contrarians epxerience pain**
 
-- **What can you see from the perch of VC that others can't?**
+- **How has your investment thesis evolved, and has it changed due to covid?
+  - About 20 out of the 130 or so Lux companies are directly impacted by covid, whether they're 3D printing swabs or scanning physical spaces
+  - All of that has been totally unintentional, there's nothing we're purposely doing for covid
+  - The vast majority of VC will be investing in telepresence space, so I'm not interested in that
+
+- **VC is a less transactional business than other one off businesses**
+  - There's a game theoretic approach here
+  - I'm only as good as the last deal I did. I have to maintain my long term reputation, which will be compromised if I exploit someone
+  - The payback of an investor exploiting someone naive would be pretty swift. e.g. news would travel quickly if a founder got screwed over on terms
+  
+*LL - I'm less certain on this. There are VC firms that have given tough deals, fired founders, or backed competitors, and they've all still managed to survive so far. If you're able to write large checks regardless of the situation, seems like there'll always be a company that seeks you out. Whether that leads to a positive outcome for both of you is a separate issue.*
+
+- **We say that we like to believe before someone else understands**
+  - I'm psychotically obsessed about competitive advantage, and that requires looking at things where nobody else is there
   - It's a cliche, and the best way to predict the future is to invent it. 
   - Those people inventing the future are the scientists and engineers, often inspired by science fiction, that say they want that thing to be real and make it so
   - Our job is to find these people before others and take an asymmetric view on them
-  - We say that we like to believe before someone else understands
   - We look for thse people and see if they're full of shit or not. It's hard to tell at inception of the company between a visionary vs someone trying to defraud you
   - When I meet somebody, I assume "there's daggers behind smiles". Someone smiles and I assume there's an alternative motive. It's partially due to how I grew up in Coney Island
   
-*LL - Another thing that Lux did was to also [go to universities beyond Stanford and MIT, where most VCs already were at](https://thehustle.co/polina-marinova-josh-wolfe "Hustle")*
+*LL - Another thing that Lux did was to also [go to universities beyond Stanford and MIT, where most VCs already were at.](https://thehustle.co/polina-marinova-josh-wolfe "Hustle") Josh also mentioned that he's a natural skeptic, vs his partner who's a natural optimist*
      
 - **Chips on shoulders put chips in pockets**
   - When I look for entrepreneurs I look for a common trait, that chip on their shoulder
@@ -229,66 +255,64 @@ Highlights include:
 
 *LL - Josh might be biased here due to his own tough upbringing. Having something to drive you when all else fails definitely helps with motivation, such as Lincoln, Rowling, or Jim Carrey. There are also plenty of successful people that had an easier start, such as Gates, Bezos, or Zuckerberg.*
 
-
-- How has your investment thesis involved? Do you have any investments being driven by Covid?
-  - We've tracked this, and about 20 out of the 130 or so Lux companies are directly impacted, whether they're 3D printing swabs or scanning physical spaces
-  - All of that has been totally unintentional, nothing we're doing purposely for Covid
-  - The vast majority of VC will be investing in telepresence space, so I'm not interested in that
-
-
-- VC is a less transactional business than for example retail
-  - Game theoretic; I'm only as good as the last deal I did, and have to maintain my long term reputation, which will be compromised if I exploit someone
-  - The payback of an investor exploiting someone naive would be pretty swift. e.g. news would travel quickly if a founder got screwed over on terms
-  
-*LL - I'm less certain on this. There are VC firms that have given tough deals, fired founders, or backed competitors, and they've all still managed to survive so far. If you're able to write large checks regardless of the situation, seems like there'll always be a company that seeks you out. Whether that leads to a positive outcome for all is a separate issue.*  
-
-- How does someone know there's space to break into?
-  - I'm psychotically obsessed on competitive advantage
-  - Looking at things where nobody else is there
-  - **This requires understanding of consensus,** have to understand shared realities and breaking through that shared reality
-  - Entrepreneurship is arrogance of the highest order, requires you knowing what everyone else believes, and then having the confidence to say you're going in a different direction
+- **Entrepreneurship requires understanding what consensus is**
+  - \[Being a good entrepreneur isn't just about ignoring reality\], it requires understanding of consensus. You have to understand shared realities and break through that shared reality
+  - Entrepreneurship is arrogance of the highest order. It requires you knowing what everyone else believes, and then having the confidence to say you're going in a different direction
   - That's the status seeking, identity creating thing I think we call creativity
   
-- There's a lot of latent pricing power in some companies e.g. Spectrum, Fios that could have raised prices but didn't due to fear of backlash. 
-  - And when they do, that'll result in others coming to provide competing services
-  - **I'm bullish on areas that haven't raised pricing and likely will.** When the incumbents do it'll create whitespace for new companies to come in with disruptive situation
-  
-*LL - Unsure if I entirely understand Josh's last point here. It seems he advocates for investing in startups in areas where the incumbent can raise prices but hasn't, which would be opposite to how Buffett or perhaps a value investor would think. They'd prefer to invest in the incumbent that can take prices up but hasn't needed to yet, since that demonstrates latent customer value.*  
-  
-*LL - Similar to the principle of [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence "Fence"), that you shouldn't change something until you understand the reason behind the current state, it's usually worth understanding why your proposed business doesn't yet exist. Sometimes ideas that sound great at first (group coupons, meal kits, DTC) don't work because the market is too small, customer acquisition is too expensive, or the unit economics don't make sense.* 
-  
-- Being an authentic contrarian vs a consensus contrarian
-  - Peter Thiel \[3\] is an example of an authentic contrarian, compared to everyone who says they are contrarian but aren't really
-    - However, Thiel also has a measure of what everyone else believes
-  - **It's not just the ability to withstand being misunderstood, but also being disliked.** You need to still have comfort in discomfort
-  - The most painful feeling is to be socially ostracised, whether that's through technology or other means
-    - It's why people trying to leave any sect experience so much pain, spite, tribal exclusion
-  - Elements of truth in the [Asch conformity](https://en.wikipedia.org/wiki/Asch_conformity_experiments 
-"Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram"), [Zimbardo prison](https://www.simplypsychology.org/zimbardo.html "Zimbardo") experiments, though some results are being questioned
-    - These experiments show that due to social pressure, many people will feel it's not worth pursuing truth, and would rather have the comfort of being accepeted
-    - Having an ally helps. You need to not be the only lunatic
-    - If you can get just one person's support it'll lead to great things. 
-    - If you're an entrepreneur that hasn't had someone believe in them, and then you get someone that agrees with your vision, that sets a chain reaction off
+*LL - Similar to the principle of [Chesterton's fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence "Fence"), that you shouldn't change something until you understand the reason behind the current state, it's usually worth understanding why your proposed business doesn't yet exist. Sometimes ideas that sound great at first (group coupons, meal kits, DTC) don't work because the market is too small, customer acquisition is too expensive, or the unit economics don't make sense.*   
+
+- **Being an authentic contrarian vs a consensus contrarian is painful**
+  - Peter Thiel is an example of an authentic contrarian, compared to everyone who says they are contrarian but aren't really. To do so, he has a good understanding of what everyone else believes
+  - It's not just the ability to withstand being misunderstood, but also being disliked. You need to still have comfort in discomfort
+  - The most painful feeling is to be socially ostracised, whether that's through technology or other means. It's why people trying to leave any sect experience so much pain from the tribal exclusion
+  - There are elements of truth in the [Asch conformity](https://en.wikipedia.org/wiki/Asch_conformity_experiments 
+"Asch"), [Milgram Shock](https://www.simplypsychology.org/milgram.html "Milgram"), and [Zimbardo prison](https://www.simplypsychology.org/zimbardo.html "Zimbardo") experiments, though some results are being questioned
+  - These experiments show that due to social pressure, many people will feel it's not worth pursuing truth. They'd rather have the comfort of being accepeted
+  - They also show that having an ally helps. You need to not be the only lunatic
+  - Similarly, if you can get just one person's support as an entrepreneur it can lead to great things 
+  - If you're an entrepreneur that hasn't had someone believe in them, and then you get someone that agrees with your vision, that sets a chain reaction off
     
 *LL - I've written about the replicability issues with the Stanford prison experiment before [here.](https://www.leonlinsx.com/stanford-prison-replicability/ "stanford") I do agree that people will agree with options that are not optimal due to social pressure. There are also cases such as [the Abilene paradox](https://en.wikipedia.org/wiki/Abilene_paradox "paradox") where the group decides on an action that is counter to the preferences of most of the group. The nuance though is whether people do so for decisions of consequence or not.* 
 
+- **I'm bullish on investing in startups in areas that haven't raised pricing and likely will.**
+  - There's latent pricing power in some companies e.g. Spectrum, Fios that could have raised prices but didn't due to fear of backlash. 
+  - When they do, that'll result in others coming to provide competing services
+  - This will create whitespace for new companies to come in with disruptive solutions
+  
+*LL - Unsure if I entirely understand Josh's last point here. It seems he advocates for investing in the startup rather than the incumbent, which would be opposite to how Buffett or perhaps a value investor would think. They'd prefer to invest in the incumbent that can take prices up but hasn't needed to yet, since that demonstrates latent customer value.*  
+  
+**5. The worst terrorist attack would be revealing our hidden selves in other contexts**
+  
+- **There's something really powerful about exploring the meaning of meaning**
+  - Thinking about the objects around us, the meaning they might hold for others that is lost on us. 
+  - Stories can inject meaning into an object e.g. a brick on a street might have significance for someone, but we'll walk past it without knowing. 
+  - Situations like this happen all the time and yet we're unaware. There's something really powerful there to explore
+  - Objects also have many uses, and require context to be understood. In one case it can be dangerous, in another nobody cares. That meta labeling of this happens is complicated
+  
+- **We each have lots of hidden selves, depending on the context**
+  - The way I am with you vs an entrepreneur vs a board meeting is all different. There's different power dynamics and expectations
+  - Some of these groups don't even know about each other
+  - I don't think these selves are overtly hidden, they're just not relevant for different contexts
+  - I've always thought that the worst terrorist attack would be if we just released everyone's emails and texts for the past year, since that would reveal private thoughts about others
 
-
-**Search for meaning**
-
-- I like the thought experiment of imagining a world where a person existed but the technology didn't e.g. Mozart without the harpsicle, Gates without the PC, Hendrix without the electric guitar
-  - **Great artistic expression comes because somebody wants to communicate and finds their medium to do so**
-  - There's something broken in you, you don't feel understood
+- **Great artistic expression comes because somebody wants to communicate and finds their medium to do so**
+  - I like the thought experiment of imagining a world where a person existed but the technology didn't e.g. Mozart without the harpsicle, Gates without the PC, Hendrix without the electric guitar
+  - Creatives often feel that there's something broken inside, they don't feel understood
   - You want to find the instrument to express yourself
   
-*LL - If you want crazy outcomes you'll likely be dealing with crazy people. There is no line between genius and madness, the only thing that distinguishes them is whether consensus comes around to agree with you. We all admire Newton now, and conveniently forget he spent a good amount of time on alchemy. That made sense for this time, but is a crazy idea in hindsight. I feel that everyone has crazy ideas, and don't execute on most due to fear of social isolation.*
-  
-- There's something really powerful about exploring the meaning of meaning
-  - Thinking about the objects around us, the meaning they might hold for others that is lost on us
-   - e.g. a brick on a street might have significance for someone, but we'll walk past it without knowing. 
-  - Situations like this happen all the time and we're unaware. There's something really powerful there to explore
-   - Stories can inject meaning into an object
-  - There's also so many uses of an object. In one case it can be dangerous, in another nobody cares. It's complicated on how the meta labeling of these happens
+*LL - If you want crazy outcomes you'll likely be dealing with crazy people. There is no line between genius and madness, the only thing that distinguishes them is whether consensus comes around to agree with you. We all admire Newton now, and conveniently forget [he spent a good amount of time on alchemy.](https://www.discovermagazine.com/the-sciences/isaac-newton-worlds-most-famous-alchemist "Newton") That made sense for this time, but is a crazy idea in hindsight. What is brilliant now might have, and likely would have, failed in the past*
+
+- **Comedians reveal great truths about human nature**
+  - Cancel culture is resulting in virtually nil tolerance if someone makes one footfall
+  - People that have great contributions to society are being shut down. They are being advised to stay low, out of the limelight
+  - Comedians are an entire class of people we pay to reveal uncomfortable truths.
+    - The social scientists of human nature
+    - Given permission to say the things people might be thinking but are afraid to say
+    - Comedians reveal great truths. Probably so many of them depressed because they see truth and are burdened by the truths they see
+  - It's also an interesting phenomenon on figuring out what is the shared collective temperature and who gets to set that   
+
+*LL - Can you separate the idea from the person? Should you? Given the crazy genius hypothesis above, should we expect unpalatable statements from our idols every now and then? I try to evaluate ideas on their own merit, but it's impossible to do without bias.*
 
 - **Are we going too quick in some areas?**
   - Many ideas and concepts require context to be understood, and there's nuance in everything
@@ -298,49 +322,24 @@ Highlights include:
   
 *LL - This goes back to [the pace layer concept](https://avoidboringpeople.substack.com/p/wisely-and-slow-they-stumble-that "pace"), which proposes that some systems in civilisation have a certain pace they should move at, and that going faster causes problems.*  
   
-- We each have lots of hidden selves, depending on the context
-  - The way I am with you vs an entrepreneur vs a board meeting is all different
-  - Different power dynamic, expectations
-  - Some of these groups don't even know about each other
-  - Don't think it's overtly hidden, just not relevant for different context
-  - I've always thought **the worst terrorist attack would be if we just released everyone's emails and texts for the past year**
+
 
 **Other**
 
-
-- How should we think about welfare and Universal Basic Income (UBI) in the modern world?
-  - Media is doing a good job on bringing spotlight on some of worst hit people who do not have resources
-  - Disproportionate effect on less well off communities, action is needed to provide a safety net. This is the most urgent social program that needs to be put in place by cities
+- **How should we think about welfare and Universal Basic Income (UBI) in the modern world?**
+  - Media is doing a good job at bringing spotlight on some of the worst hit people who do not have resources
+  - Disproportionate effect on less well off communities; action is needed to provide a safety net. This is the most urgent social program that needs to be put in place by cities
   - **The big question is how are you going to pay for it?** Maybe some of it is repurposed from Medicare, Social Security
-  - Think there's a moral obligation to society to provide basic foundational support to some. Some 80% of people live paycheck to paycheck. 
-  - Beyond moral, there's also a logical, purely academic and draconian reason. If you don't provide support now there'll be costs later, whether that's chronic illness, jails, rehabilitation
+  - There's a moral obligation to society to provide basic foundational support. Some 80% of people live paycheck to paycheck. 
+  - Beyond moral, there's also a logical, purely academic and draconian reason. If you don't provide support now there'll be costs later, whether that's chronic illness, jails, or rehabilitation
   - If there was a time politically palatable to try it, it would be now
   - I think it's an experiment worth trying
 
-- Cancel culture is resulting in virtually nil tolerance if someone makes one footfall
-  - People that have great contributions to society are being shut down. They are being advised to stay low, out of limelight
-  - Comedians are an entire class of people we pay to reveal uncomfortable truths.
-    - The social scientists of human nature
-    - Given permission to say the things people might be thinking but are afraid to say
-    - Comedians reveal great truths. Probably so many of them depressed because they see truth and are burdened by the truths they see
-  - It's also an interesting phenomenon on figuring out what is the shared collective temperature and who gets to set that   
 
-*LL - Can you separate the idea from the person? Should you? Given the crazy genius hypothesis above, should we expect unpalatable statements from our idols every now and then? I try to evaluate ideas on their own merit, but it's impossible to do without bias.*
 
-- The most persuasive argument I've heard about consciousness comes from [Jeff Hawkins](https://loupventures.com/002-jeff-hawkins/ "Jeff") and it is about memory prediction
-  - If you see my shoes, you'll associate that with me. If you see my shoes and then see someone else, you'll get an emotional surprise. That adjusts the mental model you have, so you have an updating model of reality
-  - How this model of reality we hold interacts with the real world and is getting continuous feedback
-  - Where technology is trending is where the line between model and reality is thinning
 
-- I'm not in the [Nick Bostrom](https://samharris.org/ "Nick") or [Sam Harris](https://samharris.org/ "Sam") camp for artificial general intelligence. I'm more in [David Deutsch's](https://en.wikipedia.org/wiki/David_Deutsch "David") camp
-  - Bostrom, along with other very smart people, is concerned about us becoming paper clip factories and being harvested by sentient machines that have run amok
-    - We're approaching high accuracy in being able to construct text from machines that would fool most people, beat humans at games etc
-  - Deutsch makes the argument that the more dangerous thing is not AI run amok but the average teenager
-    - Inside a simulation, the simulation can have all the tools that you give it, but it won't have tools that are outside the simulation and it can't create tools outside of the system
-    - Even when AI can create something that would pass a Turing Test and be able to fool most people into thinking it was created by a human, it's still constrained by the system
-    - If you accept the premise that the AI is within a simulation, they can't come out of the simulation's constraints
-    
-*LL - This might be a reference to [Godel's incompleteness theorem,](https://www.scientificamerican.com/article/what-is-godels-theorem/ "Godel") which states that within a complete system, there are statements that are unprovable if you only use the logic of the system itself \[4\]. Josh is making the argument that AI will be limited in scope to whatever system it is running in. Because we control the systems a layer of reality above the AI, AI will not be able to have more power than we do.*
+
+
 
 Thanks to [Polina Marinova](https://theprofile.substack.com/) for reviewing a draft of this post
 
