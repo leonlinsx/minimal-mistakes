@@ -42,45 +42,57 @@ People interested in covid predictions, frontier technology, and the search for 
 
 Josh was recently interviewed [here](https://vimeo.com/414116322 "Michael") by Michael Milstein, founder of [Company,](https://www.company.co/about-us/ "Company") a curated community of NYC startups and entrepreneurs. I was going to do a summary of that talk, but realised Josh was also separately interviewed [here](https://podcasts.apple.com/us/podcast/33-josh-wolfe-the-mind-financing-the-future/id1469999563?i=1000473458522 "Eric") by [Eric Weinstein](https://twitter.com/EricRWeinstein?s=20 "Eric"), managing director at Thiel Capital, the investment firm founded by Peter Thiel \[2\]. 
 
-Instead, I'm going to first do highlights, followed by longer notes with my thoughts inline from the combined three hours of audio \[3\]. There’s also a section at the end with more links to learn about Josh and Lux.
+As such, I’ve synthesised the notes from the combined three hours of audio, and grouped them into the five categories below \[3\]. I’ve also added highlights at the start, and more links on Josh to check out at the end. The things I do for you all \[4\]. This is a 5,000 word post, so feel free to jump around to whichever section strikes you.
 
 The talks covered:
 
-- Description of the current covid situation
-- Predictions on covid related consequences
-- Predictions on general future state of the world
-- How he thinks of the VC space and what he looks for
-- The search for meaning
+1. Description of the current covid situation
+2. Predictions on covid related consequences
+3. Predictions on general future state of the world
+4. How he thinks of the VC space and what he looks for
+5. The search for meaning
 
 Highlights include:
 
-- Companies that could emerge 
+- Two types of companies might dominate post crisis: semi-state owned companies and those that are rolling up supply chains
+- Cities are likely to experience a pendulum effect in density increasing and decreasing
+- Technology will displace jobs now but create opportunities we can’t begin to imagine in the future
+- We should pay more attention to events happening now that are being hidden in the shadow of the covid crisis, such as China’s moves, Africa, and space
+- Machines do not know the difference between running a simulation and running in the real world
+- Increasing weight will be put on tools that can detect truthfulness
+- Being an authentic contrarian vs a consensus contrarian requires not only the ability to be misunderstood, but also disliked
+- Josh likes to believe before someone else understands
+- Great artistic expression comes from people finally finding a medium to express themselves after not feeling understood
+- The worst terrorist attack would involve revealing your texts
 
 **Full notes from the talks**
 
  **Current situation**
 
-- The hardest thing for most people to deal with now is the kids 
-  - It's easier for us as adults to adjust, but harder for them when missing out on the social aspect of school
-  - As most of us have come to realise, teaching is underappreciated 
-    - It's not just hard to do at an individual and classroom level
-    - But it's also a form of daycare
-  - If you recall that funny [BBC interview](https://www.youtube.com/watch?v=Mh4f9AYRCZY "bbc") of the kids walking in on a parent, we were all laughing because it was absurd
-    - Now, absurd has become the normal
+- **The social impact from the disruption to education is terrible**
+  - As most of us have come to realise, teaching is underappreciated. It's not just hard to do, from the individual to the classroom level, but also a form of daycare
+  - The hardest thing for most people to deal with now are their kids. It's easier for adults to adjust, but harder for kids who are missing out on the social structure of school
+  - The impact from students being out of school, missing graduations, and jobs lost is tragic
+  - The absurd has become the new normal. We all laughed at the funny [BBC interview](https://www.youtube.com/watch?v=Mh4f9AYRCZY "bbc") where a parent had their kids stroll in the room, but that's become the norm now
+
+*LL - For more thoughts on how education could change, see [my recent recap of Megan O'Connor's views.](https://avoidboringpeople.substack.com/p/how-online-credentialing-will-be "Megan")*
+
+- **One upside from this situation is that it's strengthened our community bonds**
+  - It's the one time in our lives where we can be with each other \[for an extended amount of time\]
+  - For example, we're isolating together with friends, and are using the time to do nightly dinners, classes, and debates with everyone \[5\]
+
+*LL - An interesting obvious consequence of the isolation is how companies and celebrities are becoming more inclusive and trying to reach their audience directly. Conferences and social clubs that used to limit in person attendance to paid members only are opening them up, often for free. Celebrities are doing interactive fan events, such as [KT Tunstall's youtube live stream](https://www.youtube.com/watch?v=T_FHtCvpTOI&t=1s "KT"), [the Doctor Who cast live tweeting while rewatching an episode](https://twitter.com/Emily_Rosina/status/1244230669863174146?s=20 "Ultimate Ginger"), to even [Obama doing a Class of 2020 commencement address](https://mobile.twitter.com/MichelleObama/status/1257693019819646977 "Obama") \[6\]*
+
+*Will this last? People would still pay to network in person, so I can see some hybrid approach of a conference charging for in person attendees and streaming it for free. Celebrities could potentially do that for concerts as well, and then get tips via live streamers. They're already trying to monetise direct relationships through [Cameo](https://www.cameo.com/ "Cameo"). In person events become even more prestigious, and you get additional reach via the virtualisation. We'll see if the industries feel it cannibalises in person attendance* 
+
+- **Another possible upside is that necessity is the mother of invention**    
+  - My experience is that a lot of entrepreneurs have to hack things together. They have limited resources and are trying to cobble something together \[despite the difficulty\]
+  - Scarcity is a virtue since it leads them to be resourceful and creative
+  - Contrast this to a large, well resourced company that can get what they need by just calling a department or assistant. 
     
-*LL - For more thoughts on how education could change because of this, see [my recent recap of Megan O'Connor's views](https://avoidboringpeople.substack.com/p/how-online-credentialing-will-be "Megan")*
-    
-- Positive side of this is that it's allowed us to be more together
-  - People are contributing to teach each other, communities are forming
-  - For example, we are isolating with a friend's household. Our households are doing debates with people taking the view that opposes theirs
+- **The current situation is complex, with many different layers reacting to each other**
   
 *LL - Tangentially, the surge in virtual events has also had a positive side effect of expanding access to events that used to be more exclusive. Where conferences and social clubs would have once limited their in person attendance to paid members only, many of them are now opening them up to the general public. Some even for free. I wonder if they'll continue streaming these events for free once we get back to normal. People would still pay to network in person, so it seems like a positive tactic for future user acquisition.* 
-  
-- A possible upside of the situation is that when you don't have resources, necessity is mother of invention
-  - In my experience I find that a lot of entrepreneurs have to hack things together
-  - You have limited resources and are trying to cobble something together
-  - When you are well resourced at a large company you just call a department to get what you need
-  - **Scarcity is a virtue**
   
 - The [Santa Fe institute](https://www.santafe.edu/ "Santa Fe") has put out great material on current situation
   - Transmission of virus, biologically, which is independent of what people believe
@@ -113,6 +125,8 @@ Highlights include:
     - These companies could do well with the implicit support, access to cheap capital, government backing 
   - If you continue to see fed support in public markets, you're more likely to see inefficiencies in private markets. There'll be less tourist capital in private markets. People might do **rollups of supply chain, logistics, rebuilding the economy types of businesses**
   - What's underappreciated is the restart of the economy, it's more asymmetric in crashing vs building up
+
+*LL - Josh is also likely drawing on how Fannie and Freddie, the two large mortgage securitisation companies, were [taken over by the government in the financial crisis.](https://en.wikipedia.org/wiki/Federal_takeover_of_Fannie_Mae_and_Freddie_Mac "Fannie")*
 
 - What do you think would be different had this crisis occurred 10 years in the future?
   - Distributed healthcare
@@ -147,9 +161,9 @@ Highlights include:
     - Also see some percentage of colleges disappearing in the next five years
     - There'll be a repurposing of assets that die out, particularly around college towns
     
-*LL - That pendulum effect is somewhat similar to what [Tyler Cowen believes](https://marginalrevolution.com/marginalrevolution/2020/04/where-we-stand.html "Tyler"), and how I'm currently thinking as well. Because of the myriad amount of competing concerns, I don't think locking down for extended periods of time will last. We'll get frustrated and loosen up, as is already happening in NYC. Things will get worse and we'll tighten up again. I hope to be proven wrong on this.*
+*LL - That pendulum effect is somewhat similar to what [Tyler Cowen believes](https://marginalrevolution.com/marginalrevolution/2020/04/where-we-stand.html "Tyler"), and how I'm currently thinking as well. Because of the myriad amount of competing concerns, I don't think locking down for extended periods of time will last. We'll get frustrated and loosen up, as is already happening in most of the US. Things will get worse and we'll tighten up again. I hope to be proven wrong on this.*
 
-**Predictions**
+**General predictions**
 
 - **Technological displacement is real in the short term. In the long term it creates all sorts of jobs people can't imagine**
   - No way you'd have imagined web designers, youtubers, vloggers 30 years ago
@@ -322,21 +336,27 @@ Highlights include:
     - Even when AI can create something that would pass a Turing Test and be able to fool most people into thinking it was created by a human, it's still constrained by the system
     - If you accept the premise that the AI is within a simulation, they can't come out of the simulation's constraints
     
-*LL - This might be a reference to [Godel's incompleteness theorem,](https://www.scientificamerican.com/article/what-is-godels-theorem/ "Godel") which states that within a complete system, there are statements that are unprovable using the inherent logic of the system itself \[4\]. Josh is making the argument that AI will be limited in scope to whatever system it is running in. Because we control the systems a layer of reality above the AI, AI will not be able to have more power than we do.*
+*LL - This might be a reference to [Godel's incompleteness theorem,](https://www.scientificamerican.com/article/what-is-godels-theorem/ "Godel") which states that within a complete system, there are statements that are unprovable if you only use the logic of the system itself \[4\]. Josh is making the argument that AI will be limited in scope to whatever system it is running in. Because we control the systems a layer of reality above the AI, AI will not be able to have more power than we do.*
+
+Thanks to [Polina Marinova](https://theprofile.substack.com/) for reviewing a draft of this post
 
 **For more on Josh Wolfe check out these links**
 
-1. [His Q&A with Polina Marinova](https://fortune.com/2018/09/20/josh-wolfe-lux-capital/ "Q&A")
+1. His interviews with [Polina Marinova](https://theprofile.substack.com/ "profile") in [2020](https://thehustle.co/polina-marinova-josh-wolfe "2020") and [2018](https://fortune.com/2018/09/20/josh-wolfe-lux-capital/ "Q&A")
 2. [Summary of ideas from Josh Wolfe by Thomas Hollands](https://www.xsrus.com/writing/posts/josh-wolfe/ "Summary")
 3. [Podcast notes from other podcasts with Josh](https://podcastnotes.org/?s=josh+wolfe "Josh") \[5\]
+4. [Futura](https://www.youtube.com/playlist?list=PL9blNW0RGhICZbiLZsI1i_1ebp9nYy58L "Futura"), the youtube series by Lux Capital showcasing portfolio companies.
 
 **Footnotes**
 
-1. Other investment areas include "3D printing; machine learning; artificial intelligence; flying robots; surgical robots; synthetic biology; genomics; satellites; space; drones; computational imaging and recognition; new materials; holograms; “fixers” for the future; the internet of things; connected hardware; the smart home and virtual reality." I've previously done a short response to Lux Capital's 2019 annual video [here](https://www.leonlinsx.com/lux-annual-talk/ "Lux") and Polina Marinova has done a profile on Josh [here](https://fortune.com/2018/09/20/josh-wolfe-lux-capital/ "josh")
-2. Eric's podcast included a good amount of him talking as well. For purposes of this post I'll be excluding them. He has a segment at the start where he talks about how idealism is a cover story for wealth or power transfers e.g. feminism for companies to get more labour, free access to information for companies to gather data moats, patriotism to dilute the power of labour. It's an interesting theory, and I think it's hard to separate people who are genuine believers of the cause vs people who are trying to exploit the cause. [Peter Thiel is a famous entrepreneur and VC known for his provocative statements.](https://foundersfund.com/team/peter-thiel/ "Thiel") He cofounded Paypal, Palantir, and is a partner at Founders Fund, a VC firm.
+1. Other investment areas include "3D printing; machine learning; artificial intelligence; flying robots; surgical robots; synthetic biology; genomics; satellites; space; drones; computational imaging and recognition; new materials; holograms; “fixers” for the future; the internet of things; connected hardware; the smart home and virtual reality." I've previously done a short response to Lux Capital's 2019 annual video [here](https://www.leonlinsx.com/lux-annual-talk/ "Lux")
+2. Eric's podcast included a good amount of him talking as well. Since I want this post to focus on Josh, I'll be excluding Eric’s points. Eric has a segment at the start where he talks about how idealism is a cover story for wealth or power transfers e.g. feminism for companies to get more labour, free access to information for companies to gather data moats, patriotism to dilute the power of labour. It's an interesting theory, and I think it's hard to separate people who are genuine believers of the cause vs people who are trying to exploit the cause. Separately, [Peter Thiel is a famous entrepreneur and VC known for his provocative statements.](https://foundersfund.com/team/peter-thiel/ "Thiel") He cofounded Paypal, Palantir, and is a partner at Founders Fund, a VC firm.
 3. As always, I’ll be paraphrasing for clarity sometimes
-4. I'm not a mathematician, and [apparently Godel's theorem is frequently misunderstood](https://math.stackexchange.com/questions/453503/can-someone-explain-g%C3%B6dels-incompleteness-theorems-in-layman-terms "math"), so feel free to correct me here if I'm wrong
-5. Credit [@anbuteau](https://twitter.com/anbuteau/status/1258348730626998275?s=20)
+4. Don’t get full of yourselves, I wrote this mostly for myself to consolidate notes. You can't increase playback speed on the vimeo video; the horror.
+5. Josh talks about how they make people take the opposite view of what they believe in the debates, which is good practice in my opinion.
+6. That speaker list is crazy, just saying. Could you have imagined such a line up for any one school's graduation?
+7. I'm not a mathematician, and [apparently Godel's theorem is frequently misunderstood](https://math.stackexchange.com/questions/453503/can-someone-explain-g%C3%B6dels-incompleteness-theorems-in-layman-terms "math"), so feel free to correct me here if I'm wrong
+8. Credit [@anbuteau](https://twitter.com/anbuteau/status/1258348730626998275?s=20)
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
