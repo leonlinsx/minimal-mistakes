@@ -8,6 +8,10 @@ published: true
 
 I was first introduced to Claude Shannon a few months before [this article](https://medium.com/the-mission/10-000-hours-with-claude-shannon-12-lessons-on-life-and-learning-from-a-genius-e8b9297bee8f "10,000hrs with Claude") was published. I don't recall exactly where I first saw the name, but the more I read about him the more interested I became. The authors of the article wrote a longer form biography of Claude, and summarised their process in the article. Here are some of my takeaways: 
 
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
+
 > He’s the most important genius you’ve never heard of, a man whose intellect was on par with Albert Einstein and Isaac Newton.
 
 From what I know now, well deserved praise. 
