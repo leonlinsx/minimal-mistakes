@@ -48,6 +48,13 @@ Their talk "Marketing and messaging in the time of Coronavirus" included panelis
 2. Having the right tone for marketing
 3. Planning for the future
 
+Highlights for me were:
+- The shift to social as a channel given that regular marketing channels have become inapplicable.
+- Repeated mention of having to track metrics more frequently, a common theme I'm hearing from talks by operators
+- Having to reset expectations on what types of marketing mix were working, and even within that mix, what in particular has changed e.g. search keyword value
+- Thinking of alternative, non-salesy ways of engaging with customers e.g. hold office hours
+- Thinking of ways to make virtual events more interactive e.g. item delivery for attendees
+
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Opco marketing.png)
 
 **Pullback from competitors could be an opportunity**
@@ -166,6 +173,8 @@ Meagen
 - It's good to have education content since we're seeing more people interested in reeducating reskilling themselves now
 - **As you grow as a company, people expect you to have some educational support**
 
+*LL - I've never understood why company FAQ pages and walkthroughs of how to use their product are usually bad. Ends up frustrating current and potential users, plus waste customer support time. This isn't even touching on the "have to call to cancel subscription" issue, but just basics like "how do I set up a form" in the product*
+
 **Concrete plans now would be a mistake**
 
 **How are you thinking about the next six months?**
@@ -214,7 +223,9 @@ Janine
 Meagen 
 - We're trying to figure out if we want to do our travel conference again, and the format for it
 - Are people willing to be there all day? Do people just want a half day conference now?
-- Can we have a food delivery company deliver them an espresso while watching, make it more interactive?
+- Can we have a food delivery company deliver them an espresso while watching, **make it more interactive?**
+
+*LL - I just [saw a tweet about an event host doing this.](https://twitter.com/beondeck/status/1260426112984928256?s=20 "Twitter") Seems like a good way to delight customers. Swag money has to go somewhere now*  
 
 **What one piece of advice do you have for everyone?**
 
