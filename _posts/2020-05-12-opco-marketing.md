@@ -6,7 +6,7 @@ published: false
 
 **Takeaway**
 
-Janine Pelosi and Meagen Eisenberg believe you need to engage more on social now, do educational content, and engage more with customers
+Janine Pelosi and Meagen Eisenberg believe you need to use social as a channel more now, do educational content, and engage more with customers
 
 **Relevant for**
 
@@ -44,7 +44,7 @@ I summarised a talk by [Operator Collective](https://operatorcollective.com/abou
 
 Their talk "Marketing and messaging in the time of Coronavirus" included panelists [Janine Pelosi, Zoom CMO](https://twitter.com/janine_pelosi?lang=en "janine") and [Meagen Eisenberg, TripActions CMO](https://twitter.com/meisenberg?s=20 "Meagen"] discussing the steps they've taken in their companies \[2\]. Notes below will sometimes be paraphrased for clarity, and cover the following topics:
 
-1. Changes they've made
+1. Changes they've made to their business
 2. Having the right tone for marketing
 3. Planning for the future
 
@@ -62,24 +62,28 @@ Meagen
 - Email channel for leads has been about the same
 
 Janine
-- The things you used to look at in terms of months or weekw, **you're now looking at on a daily basis**
+- The things you used to look at in terms of months or weeks, **you're now looking at on a daily basis**
 - We have a day 1 mentality all over again at Zoom
 - There's been too much change, and there's so many different variables. We need to get to a point where we can stabilise and think about what our new metrics mean for the business
 - We're also in a lucky situation that we don't have to make changes in the workforce.
-- We've pivoted from one type of marketing to another e.g. from doing events to social media, where we're helping people learn how to use the product
+- We've pivoted from one type of marketing to another **e.g. from doing events to social media,** where we're helping people learn how to use the product
 - In terms of helping our workforce pivot in their roles, it starts with who we hire. We hire self starters, and this has helped us with the pivot
+
+*LL - The repeat mention of social from both of them is interesting, and makes sense given the in person sales events are canceled. They'll discuss actionable ideas for social below. The move to tracking metrics more frequently was also mentioned by the COOs [here](https://avoidboringpeople.substack.com/p/how-to-get-back-to-better "coo")
 
 **What are some things you've put in place?**
 
 Janine 
 - We have a daily standup with the exec team, since it's important to ensure that we're getting feedback from the field as we make quick decisions 
-- We take a few actions out of that
+- We take a few actions out of that standup
 
 Meagen  
 - Everyone has a plan until they get punched in the face. You need to be flexible
 - We've had a lot more communications with our customers, employees
 - **Go on zoom mobile phone walks with our team**
 - We kicked off **office hours with customers too**
+
+*LL - The office hours with customers is new to me, so that's something actionable your company could do in order to maintain a relationship with customers while still being mindful of tone*
 
 **How has your team's relationship with sales changed?**
 
@@ -103,21 +107,25 @@ Meagen
 Janine
 - We're working top of funnel, and are back to a day 1 mentality
 - We've always run lean teams, and are getting stretched now
-- We're also putting content and energy in virtual conferences
+- We're also putting content and energy in **virtual conferences**
+
+*LL - If you're like most companies and employ [SEM](https://en.wikipedia.org/wiki/Search_engine_marketing "SEM") on google in order to acquire customers, now would be a cheaper time to do so. We know that [Google saw a significant pullback](https://techcrunch.com/2020/04/28/alphabet-grew-more-than-expected-in-q1-but-its-ad-business-saw-significant-slowdown-in-march/ "Google") in ad revenue from March onwards, implying that competition for the same ad spot has gone down, and prices have too. You might want to check which terms might be converting better as well. Of course, that depends on whether the leads you're getting are still qualifed leads and will convert to customers or not. As mentioned later, you should be tracking that*
 
 **Be authentic to be relevant**
 
 **How do you navigate building a business without being tone deaf?**
 
 Meagen
-- It's definitely a risk. We're not hardcore selling right now. 
+- It's definitely a risk. **We're not hardcore selling right now.** 
 - You can reduce the risk if you focus on educational material and the value you're providing. Don't stretch the value of what you provide
 - Instead, it's the time to build out new products and address things. 
 - e.g. we just launched a trains product in europe, and we had a discussion about whether we should talk about it. We still need to educate customers and program managers, and let them know the product will be ready when they get back to traveling
 
 Janine
 - It's also an art. What you can do today is different vs 6 weeks ago
-- We're focused on supporting users now, not on sales and marketing. All our celebrity shoutouts etc have been organic; we didn't pay for those
+- **We're focused on supporting users now, not on sales and marketing.** All our celebrity shoutouts etc have been organic; we didn't pay for those
+
+*LL - There's a high risk of coming across as tone deaf when marketing during this period, as angry Reddit posters might be quick to mention. It seems like both of them are focused on education and support, which has lower risk of appearing to be profiting from the pandemic.*
 
 **How do you get above the noise in marketing now?**
 
@@ -128,6 +136,8 @@ Meagen
 Janine
 - Smaller companies are going to be trying to do a lot. If they can attach to something that's bigger, that's always a good idea, if it's authentic
 - There are **authentic ways to be relevant**
+
+*LL - I personally don't get zoom challenges but you do you.*
 
 **What are you strategies for social media now?**
 
@@ -160,7 +170,7 @@ Meagen
 
 Janine 
 - We're playing the long game, hoping that a year from now people will remember us as being transparent and owning up when wrong \[4\]
-- We have to remain open minded, since we're unsure what even three weeks from now will look like
+- We have to **remain open minded,** since we're unsure what even three weeks from now will look like
 
 Meagen
 - Our original focus was on connecting both people and businesses
@@ -176,6 +186,8 @@ Janine
 
 Meagen 
 - I do daily plans, and every week there have been changes to that plan. We have gone from having something as a priority to new priorities often
+
+*LL - The general takeaway here is to be flexible, though I'd say that probably applies whether you're in crisis or not*
 
 **What's something you've learnt about crisis management?**
 
