@@ -48,6 +48,8 @@ Their talk "Marketing and messaging in the time of Coronavirus" included panelis
 2. Having the right tone for marketing
 3. Planning for the future
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Opco marketing.png)
+
 **Pullback from competitors could be an opportunity**
 
 **What has changed?**
