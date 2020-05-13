@@ -152,7 +152,7 @@ Janine
 
 Meagen 
 - The tone has changed
-- e.g. we put something out there for [pi day,](https://www.piday.org/ "pi"), and doing that wasn't good in retrospect
+- e.g. we put something out there for [pi day](https://www.piday.org/ "pi"), and doing that wasn't good in retrospect
 - If you're doing social media content, I'd test it on a few separate people first, and have a committee of diverse people that can respond quickly to that
 
 Janine
