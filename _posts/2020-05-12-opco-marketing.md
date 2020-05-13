@@ -1,5 +1,5 @@
 ---
-title:  "Marketing authentically for relevance"  
+title:  "The marketers aren't marketing right now"  
 tags: [tech, marketing, CMO, communications]
 published: false
 ---
@@ -10,7 +10,7 @@ Janine Pelosi and Meagen Eisenberg believe you need to use social as a channel m
 
 **Relevant for**
 
-People interested in marketing and the right messaging now
+People interested in how to do marketing with the right tone now
 
 <style>
       .iframe-container {
@@ -42,7 +42,7 @@ People interested in marketing and the right messaging now
 
 I summarised a talk by [Operator Collective](https://operatorcollective.com/about/ "Op Co") \[1\] on operations recently [here](https://avoidboringpeople.substack.com/p/how-to-get-back-to-better "coo"), and will be doing another summary today [for a talk they did on marketing.](https://operatorcollective.com/events/ "event") 
 
-Their talk "Marketing and messaging in the time of Coronavirus" included panelists [Janine Pelosi, Zoom CMO](https://twitter.com/janine_pelosi?lang=en "janine") and [Meagen Eisenberg, TripActions CMO](https://twitter.com/meisenberg?s=20 "Meagen"] discussing the steps they've taken in their companies \[2\]. Notes below will sometimes be paraphrased for clarity, and cover the following topics:
+Their talk "Marketing and messaging in the time of Coronavirus" included panelists [Janine Pelosi, Zoom CMO](https://twitter.com/janine_pelosi?lang=en "janine") and [Meagen Eisenberg, TripActions CMO](https://twitter.com/meisenberg?s=20 "Meagen") discussing the steps they've taken in their companies \[2\]. Notes below will sometimes be paraphrased for clarity, and cover the following topics:
 
 1. Changes they've made to their business
 2. Having the right tone for marketing
@@ -69,7 +69,7 @@ Janine
 - We've pivoted from one type of marketing to another **e.g. from doing events to social media,** where we're helping people learn how to use the product
 - In terms of helping our workforce pivot in their roles, it starts with who we hire. We hire self starters, and this has helped us with the pivot
 
-*LL - The repeat mention of social from both of them is interesting, and makes sense given the in person sales events are canceled. They'll discuss actionable ideas for social below. The move to tracking metrics more frequently was also mentioned by the COOs [here](https://avoidboringpeople.substack.com/p/how-to-get-back-to-better "coo")
+*LL - The repeat mention of social from both of them is interesting, and makes sense given the in person sales events are canceled. They'll discuss actionable ideas for social below. The move to tracking metrics more frequently was also mentioned by the COOs [here](https://avoidboringpeople.substack.com/p/how-to-get-back-to-better "coo")*
 
 **What are some things you've put in place?**
 
@@ -109,7 +109,7 @@ Janine
 - We've always run lean teams, and are getting stretched now
 - We're also putting content and energy in **virtual conferences**
 
-*LL - If you're like most companies and employ [SEM](https://en.wikipedia.org/wiki/Search_engine_marketing "SEM") on google in order to acquire customers, now would be a cheaper time to do so. We know that [Google saw a significant pullback](https://techcrunch.com/2020/04/28/alphabet-grew-more-than-expected-in-q1-but-its-ad-business-saw-significant-slowdown-in-march/ "Google") in ad revenue from March onwards, implying that competition for the same ad spot has gone down, and prices have too. You might want to check which terms might be converting better as well. Of course, that depends on whether the leads you're getting are still qualifed leads and will convert to customers or not. As mentioned later, you should be tracking that*
+*LL - If you're like most companies and employ [SEM](https://en.wikipedia.org/wiki/Search_engine_marketing "SEM") on google in order to acquire customers, now would be a cheaper time to do so. We know that [Google saw a significant pullback](https://techcrunch.com/2020/04/28/alphabet-grew-more-than-expected-in-q1-but-its-ad-business-saw-significant-slowdown-in-march/ "Google") in ad revenue from March onwards, implying that competition for the same ad spot has gone down, and prices have too. You might want to check which terms might be converting better as well. Of course, that depends on whether the leads you're getting are still qualified leads and will convert to customers or not. As mentioned later, you should be tracking that*
 
 **Be authentic to be relevant**
 
