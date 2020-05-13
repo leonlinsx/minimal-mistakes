@@ -1,7 +1,7 @@
 ---
 title:  "The marketers aren't marketing right now"  
-tags: [tech, marketing, CMO, communications]
-published: false
+tags: [tech, marketing, CMO, communications, events, SEM, sales]
+published: true
 ---
 
 **Takeaway**
