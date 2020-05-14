@@ -43,6 +43,9 @@ published: false
 
 They discussed how companies were rethinking food production and using new tech to increase resiliency of the food supply chain. Notes below, covering these main topics \[2\]:
 
+1.
+2. 
+3. 
 
 **What is Starbucks working on?** 
 
