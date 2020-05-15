@@ -60,11 +60,13 @@ Jacquelyn
   - It's not just about being carbon positive. We're also looking at ways for water conservation, plant based options for our menu, renewable agriculture, and more 
   - An advice I have for folks interested in food sustainability is that **they really need to understand the food space.** They should start from the farm level and understand how food moves through the supply chain. 
   - **Moving food is different from moving inanimate products.** The control and safety measures required are entirely differnt
-  - We want to see traceability and management of food becom more dynamic and automatic. We're already seeing people use tech in the form of drones to know where water’s needed for their crops
+  - We want to see traceability and management of food become more dynamic and automatic. We're already seeing people use tech in the form of drones to know where water’s needed for their crops
   - Less food waste would also be great, since **[over 40% of food goes to waste right now](https://www.usda.gov/foodwaste/faqs "waste")**
   - We're looking for the brain power of young people to come onto farms, helping farmers be more efficient and get better yields
   - Food is a people business. We want to make people smart and enable them with tools at their disposal  
-  
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/food supply chain.png)	
+
 **How has Wegmans evolved?**  
 
 Bill
