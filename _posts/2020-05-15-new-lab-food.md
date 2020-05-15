@@ -67,6 +67,8 @@ Jacquelyn
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/food supply chain.png)	
 
+*LL - I keep reading about stories of using blockchain in farming; unsure how that’s going and whether it was just hype*
+
 **How has Wegmans evolved?**  
 
 Bill
