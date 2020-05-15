@@ -1,10 +1,16 @@
 ---
-title:  ""  
-tags: []
+title:  "Food as a service"  
+tags: [food, tech]
 published: false
 ---
 
 **Takeaway**
+
+Food supply chains are still difficult, and the ability to produce artificial protein could be a gamechanger
+
+**Relevant for**
+
+People interested in an overview of the food supply chain
 
 <style>
       .iframe-container {
@@ -41,38 +47,40 @@ published: false
 - [Øisten Thorsen, Farms Director, FAI Farms](https://twitter.com/vinothorsen?lang=en "Thorsen")
 - [Catherine Tubb, Senior Analyst, RethinkX](https://twitter.com/catherinetubb "Tubb")
 
-They discussed how companies were rethinking food production and using new tech to increase resiliency of the food supply chain. Notes below, covering these main topics \[2\]:
+They discussed how companies were rethinking food production and using new tech to increase resiliency of the food supply chain. Notes below, and the highlights for me were \[2\]:
 
-1.
-2. 
-3. 
+1. Moving food is more difficult than moving inanimate products
+2. Wegman's starting its own research farm in order to educate farmers for more effective production that could be closer to its stores
+3. The ability to artificially produce protein for cheap will transform food supply chains
 
 **What is Starbucks working on?** 
 
 Jacquelyn
   - We're committed to sustainability and want to make it more visible. 
   - It's not just about being carbon positive. We're also looking at ways for water conservation, plant based options for our menu, renewable agriculture, and more 
-  - An advice I have for folks interested in food sustainability is that they really need to understand the food space. They should start from the farm level and understand how food moves through the supply chain. 
+  - An advice I have for folks interested in food sustainability is that **they really need to understand the food space.** They should start from the farm level and understand how food moves through the supply chain. 
   - **Moving food is different from moving inanimate products.** The control and safety measures required are entirely differnt
   - We want to see traceability and management of food becom more dynamic and automatic. We're already seeing people use tech in the form of drones to know where water’s needed for their crops
   - Less food waste would also be great, since **[over 40% of food goes to waste right now](https://www.usda.gov/foodwaste/faqs "waste")**
   - We're looking for the brain power of young people to come onto farms, helping farmers be more efficient and get better yields
-  - Food is a people business. We want to make people smart and enable them with tools at their disposal
+  - Food is a people business. We want to make people smart and enable them with tools at their disposal  
   
 **How has Wegmans evolved?**  
 
 Bill
   - For those that don't know us well, Wegman's is [a supermarket chain on the East Coast.](https://en.wikipedia.org/wiki/Wegmans "Wegmans") We're best known nationally for our produce departments, [being loved by our customers](https://www.pymnts.com/news/retail/2017/the-wonder-of-wegmans-2/ "customer"), and being one of the best places to work. 
   - Today every area needs to be focused on tech improvements. If you want to improve your business, tech is important
-  - When Amazon bought Whole Foods (another grocery chain) it really woke us up. We had to race to upgrade every part of our business
+  - **When Amazon bought Whole Foods (another grocery chain) it really woke us up.** We had to race to upgrade every part of our business
   - What we've done has been to set up a network of farms across the East Coast as well
     - 2% of our organic product used to come from the East Coast, with 98% coming from the West Coast. That had implications for how quickly we could get produce to our stores.
     - If we could get food local we could provide food faster, but it would have to be price competitive
-    - [We started initiatives to support more farms on the East Coast,](https://www.lancasterfarming.com/news/main_edition/wegmans-grows-ties-to-northeast-farms/article_7e2e11fc-d135-11e7-a3ff-339dd88357ad.html "Wegmans") [setting up one of our own](https://www.goodfruit.com/on-the-way-to-supplying-local-organic-demand/ "Wegmans") to try different things and products, and working with those farms to show them how they could produce more efficiently and effectively. 
+    - [**We started initiatives to support more farms on the East Coast,**](https://www.lancasterfarming.com/news/main_edition/wegmans-grows-ties-to-northeast-farms/article_7e2e11fc-d135-11e7-a3ff-339dd88357ad.html "Wegmans") [setting up one of our own](https://www.goodfruit.com/on-the-way-to-supplying-local-organic-demand/ "Wegmans") to try different things and products, and working with those farms to show them how they could produce more efficiently and effectively. 
     - Now 30% of our product comes from the East Coast
     - We also support [Grow NY,](https://www.grow-ny.com/about/#grow-ny-partners "Grow") an annual competition for tech companies related to food and agriculture
   - We also have had an initiative to scan products with phones and not need to go through checkout for a while.
     - We hadn’t seen it being used much, but it's now getting a lot of demand
+
+*LL - That shift from 2% to 30% seems impressive, given that the East Coast is less known for produce compared to the West Coast. Note that Wegman's is East Coast based though, and it still has to source the remainder of produce from the West Coast. I wonder how many grocery chains also partner with farms by having their own resarch center.*
 
 **What are the biggest problems in food distribution?**
 
@@ -93,6 +101,8 @@ Catherine
  - One big idea we're focused on is artificial protein production. When the cost of making animal protein artificially comes down, that will have a huge impact on the entire food system and supply chain
  - Such tech would allow us to **treat food as software.** Where and how we develop, design, and consume food will change. We won't be anchored geographically anymore if you can make protein anywhere
  - You could move the speed of production of protein from months or years to weeks
+ 
+*LL - This was the most interesting point of the talk for me. Given the safety, cost, logistics concerns mentioned above in the transportation of food, what happens if you can do away with that entirely? It would be transformational if you could make an appetising form of protein for cheap regardless of where you are. Some people would point to beyond meat or the impossible burger as examples showing we're nearly there. I've read conflicting studies on the nutrition of those foods, and regardless they both still seem pricey*
 
 **How can tech help to maintain the integrity and quality of food supply?**
 
@@ -113,7 +123,7 @@ Jacquelyn
 **How do we promote more agility and resilience in food system?**
 
 Øisten
-  - The food production system is breaking due to covid. Our centralised food supply system is struggling to cope
+  - **The food production system is breaking due to covid.** Our centralised food supply system is struggling to cope
   - Opportunity follows crisis, and this could be a once in lifetime opportunity for people to see the need for resilience in the system
   - We need both:
     - diversity of food, not overrelying on some food
@@ -124,6 +134,8 @@ Catherine
   - People are being inspired to look for solutions, likely through tech, and perhaps we'll get something out of the box
   - We need to think of it more as a systems disruption, with pressure building up on how we distribute food, particularly protein
   - We're getting incrementally better, but might see health and nutrition isssues
+  
+*LL - Recall the complex systems we [talked about previously](https://avoidboringpeople.substack.com/p/authentic-contrarians-vs-consensus "santa fe"). Wanting to support more local food sounds nice, and I'm unsure if there's enough food made locally to satisfy peoples' wants. \[3\]*
 
 **How do you increase transparency across the full supply chain?**
 
@@ -134,6 +146,8 @@ Jacquelyn
   - We're also doing scannable QR codes on coffee so that you can trace its origin
   - Also have a mobile app for customer to learn more about coffee on their own
 
+*LL - Do people really use those QR codes on their items to trace the origins?*
+
 **What’s going to be accelerated vs diverted post covid?**
 
 Bill
@@ -142,25 +156,25 @@ Bill
   - We took that very seriously, and still protect customer data seriously today
   - The unrestricted use of data by other companies and the government is scary to us
   - The number of data collection points today makes "1984" look like a free society
-  - We want find more good ways to improve customer experience through the use of data
+  - We want find more good ways to **improve customer experience through the use of data**
 
 Catherine
-  - We're seeing changes in cloud kitchens and automated delivery
+  - We're seeing changes in **cloud kitchens and automated delivery**
   - Can businesses pivot to do those nationally?
   - Will we see a speeding up of automated delivery systems through drones, robots?
   - There are second order effects on food distribution and feedback loops
 
 Øisten
-  - The thing that’s been really disrupted is people's livelihoods
-  - Bringing that into the equation is important
-  - How do we make sure when we talk about that we bring in other stakeholders and have an oppty for society at large to benefit
+  - The thing that’s been really disrupted is people's livelihoods. Bringing that into the equation is important
+  - How do we make sure when we talk about that we bring in other stakeholders and have an opportunity for society at large to benefit
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
+*LL - [Cloud kitchens are a delivery only restaurant concept](https://medium.com/@voicesinmyhead/opening-a-cloud-kitchen-all-the-pros-and-cons-you-should-know-244397edba32 "cloud") that have become popular recently. The idea is to group many popular food brands together in a low rent space, and further save on costs by not having any service staff. The food is prepared for delivery* 
 
 **Footnotes**
 
 1. Moderated by Newlab’s Vice President of Products and Programs, Shaina Horowitz. Shaina also directed questions to particular panelists, which explains why most questions only have one person answering them
 2. As always, I'll be paraphrasing for clarity
+3. For a look into how the hyperlocal farm to table trend has been affected by covid, see [this NYT article](https://www.nytimes.com/2020/04/09/dining/farm-to-table-coronavirus.html "NYT")
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
