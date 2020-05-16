@@ -184,6 +184,70 @@ Elena
 
 **Do you see budgets increasing for employee benefits or other retention areas?**
 
+Kelly
+- We've added a monthly stipend for employees to ease their transition that's flexible in terms of what they can spend on e.g. education, workout equipment, food delivery
+- We also have employee benefits such as counselling
+
+Elena
+- We don't have a monthly stiped, but did a stipend in Q1 that was well received
+
+**How are you managing employee wellness?**
+
+Kelly
+- We set our internal date for return to work in the fall since we didn't want our employees to have concerns about finding childcare
+- Also gave a one time bonus in Q1 to employees to help with any impact they might have experienced
+- Continue to monitor how employees are feeling via surveys
+- In order to get people comfortable with working from home, **we had an all hands where we invited them to bring others to the meeting** e.g. kids, pets, partners
+
+Elena
+- Hearing a lot of people working too long
+- Also have to manage home schooling of kids
+- We know there's some productivity loss, so we'll have to help them manage with tools and stipend
+
+**What is it going to look like when back in the office?**
+
+Kelly 
+- How to give space at work stations
+- How to change the path of travel
+- How to provide lunches
+- Probably less fixed desk, more flexible on that
+- Maybe shifts for when in the office vs at home
+- We have a workplace team that reports in to me
+
+**What departments are making the biggest changes in budget?**
+
+Kelly
+- Travel and in person events. Have shifted to virtual or been postponed
+
+Elena
+- We've refactored marketing, cut a bit but not dramatically. 
+- Professional services spend. Are our consultants needed or nice to have
+- Relooking at our vendor spend <$5k since it's unlikely to be strategically important
+
+**What should a CFO be focused on now?**
+
+Elena
+- Using whatever data is available to you to understan inflection points
+- Starts with customers and making sure you take care of them, can't overstate that
+- Making employees feel safe, productive
+- Being ruthless at prioritisation, what are the things that will withstand time 
+
+**What advice do you have for startups trying to sell to larger companies like you?**
+
+Kelly
+- Don't make what you're selling be about covid. Make it about the bigger problem you're trying to solve
+- It feels opportunistic and more short term if you do
+
+Elena
+- As you support your partners, you have to know the business you're selling to, and what metrics are driving the growth in their business
+
+**What has been most helpful to you from your board of directors?**
+
+Elena
+- I like when they push us a bit, ask us the questions no one wants to ask
+- Appreciate the tougher questions e.g. is this the right investment or customer segment?
+- They can see things we don't see in the day to day
+
 **Footnotes**
 
 1. Operator Collective is a newly founded group for operators from diverse backgrounds to support founders both operationally and financially. Members include C suite people from Stripe, Waymo, Zendesk.
