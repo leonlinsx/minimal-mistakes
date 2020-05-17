@@ -6,7 +6,7 @@ published: false
 
 **Takeaway**
 
-cFOs Elena Gomez and Kelly Steckelberg believe your sales pitch shouldn't be about covid, but about the bigger problem you're trying to solve for them
+CFOs Elena Gomez and Kelly Steckelberg believe your sales pitch shouldn't be about covid, but about the bigger problem you're trying to solve for them
 
 **Relevant for**
 
