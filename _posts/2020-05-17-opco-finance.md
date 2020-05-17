@@ -58,7 +58,7 @@ Highlights for me were:
 - Advice to make your sales pitch not about covid but about the bigger picture
 - Likely changes when returning to office
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/Opco marketing.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/opco CFO.png)
 
 **Make your standups casual and short**
 
