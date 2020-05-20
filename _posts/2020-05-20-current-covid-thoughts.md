@@ -84,7 +84,7 @@ It seems likely that growth in urbanisation % will slow, and I still think the %
 
 **Which groups will increase in status and which will decrease in status?** [ Tyler Cowen has some predictions here.](https://marginalrevolution.com/marginalrevolution/2020/03/who-and-what-will-rise-and-fall-in-status.html "tyler") The effects of status changes aren't immediate, but will be impactful over the long term. For example, on the margin, someone might be more inclined to study medicine now, which will have an effect on the system only years later.
 
-**What actions can someone take to set themselves up for the better?** Beyond the regular "learn to code", "network", "create things", is there any new opportunity or tool that people can take advantage of? 
+**What actions can someone take to set themselves up for the better?** Beyond the regular "learn to code", "network", "create things", [is there any new opportunity or tool that people can take advantage of?](https://marginalrevolution.com/marginalrevolution/2020/05/covid-career-advice-for-young-workers.html "Advice") The direct access to things mentioned above seems useful.
 
 **Footnotes**
 
