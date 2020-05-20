@@ -34,7 +34,7 @@ What's temporary and what's not? Nobody really knows and we'll have to predict a
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-**Main**
+**Summary of summaries**
 
 The past few weeks I've summarised talks by business experts on how they're coping with the current crisis. I've finally cleared my backlog of talks (and am slightly burnt out from writing so often) and we'll be going back to the regular weekly schedule of random interesting topics \[1\]. 
 
