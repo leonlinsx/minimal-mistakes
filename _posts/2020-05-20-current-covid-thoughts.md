@@ -58,7 +58,7 @@ Before that, let's do a recap of what we covered, which included opinions from:
 
 **Companies want to focus on customers and employees even more.** Whether this is PR or reality remains to be seen. I do agree C level execs should listen to sales and customer service calls to learn. I'm more cynical on companies caring about employees \[2\].
 
-**And one key way of doing so is by increasing communications.** There's a legitimate concern that customers and employees will start to switch off if they don't hear from you enough. The tone of communications matters to most people though, as seen by how [Gal Gadot is ridiculed](https://www.youtube.com/watch?v=4sFLqGfSnVQ "Gal") but [John krasinski and the Hamilton cast]https://youtu.be/oilZ1hNZPRM?t=682 "Gal") are applauded \[3\]. 
+**And one key way of doing so is by increasing communications.** There's a legitimate concern that customers and employees will start to switch off if they don't hear from you enough. The tone of communications matters to most people though, as seen by how [Gal Gadot is ridiculed](https://www.youtube.com/watch?v=4sFLqGfSnVQ "Gal") but [John krasinski and the Hamilton cast](https://youtu.be/oilZ1hNZPRM?t=682 "Gal") are applauded \[3\]. 
 
 **Going virtual has reduced barriers and increased accessibility.** People are able to attend online events and interact directly with famous people they'd have less chance of doing so before \[4\].
 
@@ -82,7 +82,7 @@ Education seems likely to change for some institutions, depending on what value 
 
 It seems likely that growth in urbanisation % will slow, and I still think the % growth will be positive. Young people will still want to go to hubs of similarly aged peers that have activities to do. Such as dingy clubs in Brooklyn.
 
-**Which groups will increase in status and which will decrease in status?** [Tyler Cowen has some predictions here.](https://marginalrevolution.com/marginalrevolution/2020/03/who-and-what-will-rise-and-fall-in-status.html "tyler") The effects of status changes aren't immediate, but will be impactful over the long term. For example, on the margin, someone might be more inclined to study medicine now, which will have an effect on the system only years later.
+**Which groups will increase in status and which will decrease in status?** [ Tyler Cowen has some predictions here.](https://marginalrevolution.com/marginalrevolution/2020/03/who-and-what-will-rise-and-fall-in-status.html "tyler") The effects of status changes aren't immediate, but will be impactful over the long term. For example, on the margin, someone might be more inclined to study medicine now, which will have an effect on the system only years later.
 
 **What actions can someone take to set themselves up for the better?** Beyond the regular "learn to code", "network", "create things", is there any new opportunity or tool that people can take advantage of? 
 
