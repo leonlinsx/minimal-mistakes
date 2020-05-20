@@ -68,7 +68,19 @@ Before that, let's do a recap of what we covered, which included opinions from:
 
 **Public opinion is like a pendulum.** It's hard to sustain a mood for long, whether that's clapping for your healthcare workers or feeling solidarity in lockdowns. 
 
-2. 
+**Additional thoughts from me**
+
+**The big question now that everyone wants to know is what sticks and what doesn't.** I'm doubtful that this is the end of in person social experiences. We're all tolerating this with the shared assumption that everything is temporary, and we'll soon be back to grinding on someone's sweaty body in a dingy club in Brooklyn. Activities that have a social component at their core will remain intact. I think we're going to be back to large scale crowded experiences by 2021 summer at 60% probability.
+
+Some other areas that people think are likely to change are healthcare, education, and real estate. 
+
+I've no expertise in healthcare so will reserve comment, though it does seem some legislation is being relaxed. 
+
+Education seems likely to change for some institutions, depending on what value they were providing before. Were they just a certificate factory? A skills center? A social status building daycare club?
+
+It seems likely that growth in urbanisation % will slow, and I still think the % growth will be positive. Young people will still want to go to hubs of similarly aged peers that have activities to do. Such as dingy clubs in Brooklyn.
+
+**
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
