@@ -52,13 +52,21 @@ Before that, let's do a recap of what we covered, which included opinions from:
 
 **People are tracking actual outcomes more closely.** Since the situation is changing so quickly, there's a higher need to shorten feedback loops in order to go back to predicting and deciding.
 
-**Companies want to focus on customers and employees even more.** Whether this is PR or reality remains to be seen. I'm more cynical on companies caring about employees \[2\].
+**Tactics that worked before might have temporarily stopped working.** The pullback in spend in most categories implies that your sales and marketing spend should go further now, as competition has fallen. But typical channels you make sales in may also be closed.
+
+**Companies want to focus on customers and employees even more.** Whether this is PR or reality remains to be seen. I do agree C level execs should listen to sales and customer service calls to learn. I'm more cynical on companies caring about employees \[2\].
 
 **And one key way of doing so is by increasing communications.** There's a legitimate concern that customers and employees will start to switch off if they don't hear from you enough. The tone of communications matters to most people though, as seen by how [Gal Gadot is ridiculed](https://www.youtube.com/watch?v=4sFLqGfSnVQ "Gal") but [John krasinski and the Hamilton cast]https://youtu.be/oilZ1hNZPRM?t=682 "Gal") are applauded \[3\]. 
 
 **Going virtual has reduced barriers and increased accessibility.** People are able to attend online events and interact directly with famous people they'd have less chance of doing so before \[4\].
 
-**
+**Going virtual has also increased the scale at which you can provide an experience.** Marginal cost of serving an attendee is low. The problem now is how special of an experience it is.
+
+**Companies are slowly rethinking usage of office and school space.** The longer this drags on, the more people are planning for a drastically different in person experience.
+
+**People are also claiming to be rethinking efficiency vs resiliency.** More people are saying that we've over optimised for efficiency and hence have no redundancy, leading to a brittle economy. They now claim to want to move back.
+
+**Public opinion is like a pendulum.** It's hard to sustain a mood for long, whether that's clapping for your healthcare workers or feeling solidarity in lockdowns. 
 
 2. 
 
