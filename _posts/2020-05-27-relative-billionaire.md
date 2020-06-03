@@ -1,5 +1,5 @@
 ---
-title:  ""  
+title:  "Relatively speaking, the billionaire isn't rich"  
 tags: [tech, finance, status, relative, absolute, luck, skill]
 published: false
 ---
