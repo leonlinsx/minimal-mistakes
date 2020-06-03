@@ -4,7 +4,7 @@ tags: []
 published: false
 ---
 
-**Takeaway**
+###Takeaway
 
 <style>
       .iframe-container {
@@ -32,7 +32,7 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-**Main**
+###Main
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
