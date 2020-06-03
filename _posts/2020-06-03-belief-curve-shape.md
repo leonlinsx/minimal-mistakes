@@ -1,5 +1,5 @@
 ---
-title:  ""  
+title:  "What's the shape of your belief curve?"  
 tags: [beliefs]
 published: false
 ---
