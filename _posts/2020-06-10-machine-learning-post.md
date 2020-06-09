@@ -68,9 +68,17 @@ Sounds exciting right? I cherry-picked some of the language, but it isn't too fa
 
 "Anyline, a leading startup in Optical Character Recognition (OCR) using AI for text recognition, has raised €10.7 million in Series A funding. The Austrian startup, which is already working with big names like Toyota, IBM, Canon, the UN and PepsiCo, will use the funds to open its first US office in Boston"
 
-But back to company M. The OCR part refers to them looking at an image and recognising what it says via ML. It looks like they do that efficiently, accurately, and at scale. Their partnerships also seem respectable.
+But back to company M. The OCR part refers to them looking at an image and recognising what it says via ML. It looks like they do that efficiently, accurately, and at scale. Their partnerships also seem respectable. You probably think they're a promising startup led by Stanford grads who started coding in diapers.
 
-Would you invest in them?
+Would you invest?
+
+If you said yes, you just invested in the [United States Postal Service](https://www.enterpriseai.news/solution_content/hpe/governmentacademia/machine-learning-applications-for-the-modern-enterprise/ "USPS"). 
+
+No, really, the post office has been using ML for a long time. [They started trialing it in 1997, and by 2014 were already mostly recognising addresses via ML algorithms.](https://www.buffalo.edu/content/dam/www/research/pdf/Postal-Automation-Highlights_20160516.pdf "ML") Not quite the startup stereotype you were imagining.
+
+My point here isn't to crap on Anyline, or startups similar to it. I'm sure they're solving difficult problems and are not pure hype \[2\]. Rather, I want to make you realise that ML is being used in mundane sounding scenarios, and has been for some time now. The next time someone pitches you on ML, keep that in mind.
+
+### Machine learning intuition
 
 
 
@@ -79,6 +87,7 @@ Would you invest in them?
 ### Footnotes
 
 1. I'll use machine learning (ML), deep learning(DL), or artifical intelligence (AI) interchangeably throughout the post, but technically they're different things, [some being a subset of the other.](https://towardsdatascience.com/clearing-the-confusion-ai-vs-machine-learning-vs-deep-learning-differences-fce69b21d5eb "ML") For the sake of the post it doesn't really matter though.
+2. Well, some are probably complete cons
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
