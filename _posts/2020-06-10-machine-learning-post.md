@@ -36,7 +36,7 @@ Machine learning is less scary than you think, and more common than you think.
 
 ### Machine learning magic
 
-We hear about machine learning (ML), deep learning, or artifical intelligence all the time now \[1\]. 
+We hear about machine learning (ML), deep learning, or artificial intelligence all the time now \[1\]. 
 
 From search interest: 
 
@@ -68,7 +68,7 @@ Sounds exciting right? I cherry-picked some of the language, but it isn't too fa
 
 "Anyline, a leading startup in Optical Character Recognition (OCR) using AI for text recognition, has raised €10.7 million in Series A funding. The Austrian startup, which is already working with big names like Toyota, IBM, Canon, the UN and PepsiCo, will use the funds to open its first US office in Boston"
 
-But back to company M. The OCR part refers to them looking at an image and recognising what it says via ML. It looks like they do that efficiently, accurately, and at scale. Their partnerships also seem respectable. You probably think they're a promising startup led by Stanford grads who started coding in diapers.
+But back to company M. The OCR part refers to them looking at an image and recognising what it says via ML. It looks like they do that efficiently, accurately, and at scale. Their partnerships also seem respectable. You probably think they're a promising startup led by Stanford grads who started coding while in diapers.
 
 Would you invest?
 
@@ -76,7 +76,7 @@ If you said yes, you just invested in the [United States Postal Service](https:/
 
 No, really, the post office has been using ML for a long time. [They started trialing it in 1997, and by 2014 were already mostly recognising addresses via ML algorithms.](https://www.buffalo.edu/content/dam/www/research/pdf/Postal-Automation-Highlights_20160516.pdf "ML") Not quite the startup stereotype you were imagining.
 
-My point here isn't to crap on Anyline, or startups similar to it. I'm sure they're solving difficult problems and are not pure hype \[2\]. Rather, I want to make you realise that ML is being used in mundane sounding scenarios, and has been for some time now. The next time someone pitches you on ML, keep that in mind.
+My point here isn't to crap on Anyline, or startups similar to it. I'm sure they're solving difficult problems and are not pure hype \[2\]. Rather, I want to make you realise that **ML is being used in mundane sounding scenarios, and has been for some time now.** The next time someone pitches you on ML, keep that in mind.
 
 ### Machine learning intuition
 
@@ -86,7 +86,7 @@ Neural networks are modelled after the brain's neurons, so it'll be helpful to g
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Neuron design.jpg)
 
-While we still [aren't quite sure how the brain works, a leading theory is that the neurons can take inputs, do some computation, and then send outputs.](https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/ "neural") \[3\] A simplified way of representing two neurons interacting could be like this:
+While we still [aren't quite sure how the brain works, a leading theory is that the neurons can take inputs, do some computation, and then send outputs.](https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/ "neural") \[3\] A simplified way of representing two neurons interacting could be like this. Imagine the circle is the main body, and that line is the axon connecting to other neurons:
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Neuron 1.png)
 
@@ -116,13 +116,13 @@ This image now looks the same as the neuron interaction diagram above.
 
 Let's take it one step further. Imagine you had values in A, B, and C, just like before. This time, the values represent [pixel values.](https://homepages.inf.ed.ac.uk/rbf/HIPR2/value.htm#:~:text=For%20a%20grayscale%20images%2C%20the,is%20taken%20to%20be%20white. "pixel") In this case, we're looking at 3 pixels.  
 
-You can similarly do some sort of math function on those data points, and get outputs in X, Y, Z. We'll ignore exactly what math function we're using for now \[5\], but it returns only 0 or 1 from the data points. Not only that, but it also will only give us a single "1", with the rest being "0". The outputs here represent the alphabet predicted, if a "1" is returned.
+You can similarly do some sort of math function on those data points, and get outputs in X, Y, Z. We'll ignore exactly what math function we're using for now \[5\], but it returns only 0 or 1 from the data points. Not only that, but it also will only give us a single "1", with the rest being "0". The outputs here represent the alphabet predicted, if a "1" is returned in that circle.
 
 This looks like: 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Neuron 7.png)
 
-In this example, we can see that a "1" was returned for the output originally denoted as X. "0" was returned for the other outputs. This tells us that X is the predicted value, based on the inputs from the 3 pixels we gave it. 
+In this example, we can see that a "1" was returned for the output originally denoted as X. "0" was returned for the other outputs. This tells us that X is the predicted value, based on the inputs from the 3 pixels (0, 100, 255) we gave it. 
 
 You can imagine extending such a framework for all letters of the alphabet, and for as many input pixels as you need. The intuition is similar, just that more steps are involved. For example, if you wanted to predict any of the 26 letters based on an image of 1000 pixels, you'd need 1000 inputs on the left, and 26 outputs on the right. Of the outputs, only 1 would have "1" in them, and the rest would be "0".
 
@@ -136,11 +136,11 @@ And that's it. You now know how neural networks function to give predictions bas
 
 ### Footnotes
 
-1. I'll use machine learning (ML), deep learning(DL), or artifical intelligence (AI) interchangeably throughout the post, but technically they're different things, [some being a subset of the other.](https://towardsdatascience.com/clearing-the-confusion-ai-vs-machine-learning-vs-deep-learning-differences-fce69b21d5eb "ML") For the sake of the post it doesn't really matter though.
+1. I'll use machine learning (ML), deep learning(DL), or artificial intelligence (AI) interchangeably throughout the post, but technically they're different things, [some being a subset of the other.](https://towardsdatascience.com/clearing-the-confusion-ai-vs-machine-learning-vs-deep-learning-differences-fce69b21d5eb "ML") For the sake of the post it doesn't really matter though.
 2. Well, some are probably complete cons
 3. I'm not a scientist, correct me if I'm wrong here.
 4. I've shown all the inputs into one neuron as one colour and size for ease of understanding, especially when translating it to the neural network math. You could think of the groupings in other ways though, such as all the outputs from one neuron as one colour.
-5. What's happening here is that there's a first function performed of the pararmeters multiplied by the inputs, and then a [logistics function](https://en.wikipedia.org/wiki/Logistic_function "log") applied to range bound the output from 0 to 1. Not all neural networks work this way, just fyi.
+5. What's happening here is that there's a first function performed of the parameters multiplied by the inputs, and then a [logistics function](https://en.wikipedia.org/wiki/Logistic_function "log") applied to range bound the output from 0 to 1. Not all neural networks work this way, just fyi.
 6. For example, how do you know what function to use? How do you even set this up in a program? How do you check that the predictions are accurate? I've simplified most of the technicalities, but if you're interested in learning more, [Andrew Ng's coursera is a good place to start](https://www.coursera.org/learn/machine-learning "coursera"). Warning that it is much more involved and difficult.
 
 <div class="iframe-container-4x3">
