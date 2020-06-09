@@ -80,6 +80,24 @@ My point here isn't to crap on Anyline, or startups similar to it. I'm sure they
 
 ### Machine learning intuition
 
+Now that we know where ML is used, let's walk through how ML can work. I'll use a [neural network](http://news.mit.edu/2017/explained-neural-networks-deep-learning-0414 "NN") for this, though there are many other ways ML can be run. 
+
+Neural networks are modelled after the brain's connection of neurons. Here's what a neuron looks like:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Neuron design.jpg)
+
+While we still [aren't quite sure how the brain works, a leading theory is that the neurons can take inputs, do some computation, and then send outputs.](https://www.quantamagazine.org/neural-dendrites-reveal-their-computational-power-20200114/ "neural") \[3\] A simplified way of representing two neurons interacting could be like this:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Neuron 1.png)
+
+And if you had three pairs of neurons, it could look like this:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Neuron 2.png)
+
+And if the neurons could interact with each other, it could look like this \[4\]: 
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Neuron 3.png)
+
 
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
@@ -88,6 +106,8 @@ My point here isn't to crap on Anyline, or startups similar to it. I'm sure they
 
 1. I'll use machine learning (ML), deep learning(DL), or artifical intelligence (AI) interchangeably throughout the post, but technically they're different things, [some being a subset of the other.](https://towardsdatascience.com/clearing-the-confusion-ai-vs-machine-learning-vs-deep-learning-differences-fce69b21d5eb "ML") For the sake of the post it doesn't really matter though.
 2. Well, some are probably complete cons
+3. I'm not a scientist, correct me if I'm wrong here.
+4. I've shown all the inputs into one neuron as one colour and size for ease of understanding, especially when translating it to the neural network math. You could think of the groupings in other ways though, such as all the outputs from one neuron as one colour. 
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
