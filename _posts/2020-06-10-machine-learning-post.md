@@ -60,6 +60,18 @@ Today I want to help you get a better intuition of ML, by first looking at a com
 
 ### Machine learning case study
 
+Imagine I came to you looking for investment in a company using ML. Here's the pitch:
+
+"Company M uses ML and [optical character recognition (OCR)](https://en.wikipedia.org/wiki/Optical_character_recognition "OCR") to match input data against hundreds of millions of records within fractions of a second. It already has partnerships with Amazon, the US government, and Fedex. Company M has already scaled up to allow >100bn transactions yearly, and has expanded coverage to all of the US."
+
+Sounds exciting right? I cherry-picked some of the language, but it isn't too far off from [actual press releases by other companies:](https://www.eu-startups.com/2020/01/anyline_raises_over_10_million_and_zooms_to_us/ "eu")
+
+"Anyline, a leading startup in Optical Character Recognition (OCR) using AI for text recognition, has raised €10.7 million in Series A funding. The Austrian startup, which is already working with big names like Toyota, IBM, Canon, the UN and PepsiCo, will use the funds to open its first US office in Boston"
+
+But back to company M. The OCR part refers to them looking at an image and recognising what it says via ML. It looks like they do that efficiently, accurately, and at scale. Their partnerships also seem respectable.
+
+Would you invest in them?
+
 
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
