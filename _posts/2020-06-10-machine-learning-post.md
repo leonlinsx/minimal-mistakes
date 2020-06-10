@@ -68,7 +68,7 @@ Sounds exciting right? I cherry-picked some of the language, but it isn't too fa
 
 "Anyline, a leading startup in Optical Character Recognition (OCR) using AI for text recognition, has raised €10.7 million in Series A funding. The Austrian startup, which is already working with big names like Toyota, IBM, Canon, the UN and PepsiCo, will use the funds to open its first US office in Boston"
 
-But back to company M. The OCR part refers to them looking at an image and recognising what it says via ML. It looks like they do that efficiently, accurately, and at scale. Their partnerships also seem respectable. You probably think they're a promising startup led by Stanford grads who started coding while in diapers.
+But back to company M. The OCR part refers to them looking at an image and recognising what it says via ML. It looks like they do that efficiently, accurately, and at scale. Their partnerships also seem respectable. You probably think they're a promising unicorn led by Stanford grads who started coding while in diapers.
 
 Would you invest?
 
@@ -112,7 +112,7 @@ And once again we can combine multiple functions interacting on multiple inputs,
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Neuron 6.png)
 
-This image now looks the same as the neuron interaction diagram above. 
+You can see how this looks the same as the neuron interaction diagram above, hence the name “neural network”. 
 
 Let's take it one step further. Imagine you had values in A, B, and C, just like before. This time, the values represent [pixel values.](https://homepages.inf.ed.ac.uk/rbf/HIPR2/value.htm#:~:text=For%20a%20grayscale%20images%2C%20the,is%20taken%20to%20be%20white. "pixel") In this case, we're looking at 3 pixels.  
 
@@ -130,7 +130,9 @@ You're not limited to just two layers of input and output either. You can also i
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Neuron 8.png)
 
-And that's it. You now know how neural networks function to give predictions based on inputs. Neural networks are a core feature of many ML implementations, which means many of the ML startups are essentially doing something like the above. Of course, the actual setup is more complicated and requires way more time and expertise \[6\]. However, hopefully the intuition that you now have will make you less intimidated whenever someone uses "ML" as a buzzword in the future.
+And that's it! You’ve seen how a process can convert data inputs (such as pixel values of images) into outputs (alphabets and addresses). You now understand how most neural networks function. Many ML implementations use neural networks, which means you now also know the underlying concept driving these ML companies.
+
+Of course, the actual setup is more complicated and requires way more time and expertise \[6\]. I’ve skipped over all of the math, stats, and programming that makes ML actually harder to implement in real life. However, hopefully the intuition that you now have will make you less intimidated whenever someone uses "ML" as a buzzword in the future.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
@@ -140,7 +142,7 @@ And that's it. You now know how neural networks function to give predictions bas
 2. Well, some are probably complete cons
 3. I'm not a scientist, correct me if I'm wrong here.
 4. I've shown all the inputs into one neuron as one colour and size for ease of understanding, especially when translating it to the neural network math. You could think of the groupings in other ways though, such as all the outputs from one neuron as one colour.
-5. What's happening here is that there's a first function performed of the parameters multiplied by the inputs, and then a [logistics function](https://en.wikipedia.org/wiki/Logistic_function "log") applied to range bound the output from 0 to 1. Not all neural networks work this way, just fyi.
+5. What's happening here is that there's a first function performed of the parameters multiplied by the inputs, and then a [logistics function](https://en.wikipedia.org/wiki/Logistic_function "log") applied to range bound the output from 0 to 1. The idea is to train the data repeatedly on the training data set such that the first function of parameters gives you a low prediction error when measured against a validation data set.
 6. For example, how do you know what function to use? How do you even set this up in a program? How do you check that the predictions are accurate? I've simplified most of the technicalities, but if you're interested in learning more, [Andrew Ng's coursera is a good place to start](https://www.coursera.org/learn/machine-learning "coursera"). Warning that it is much more involved and difficult.
 
 <div class="iframe-container-4x3">
