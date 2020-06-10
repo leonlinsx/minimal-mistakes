@@ -1,6 +1,6 @@
 ---
-title:  ""  
-tags: []
+title:  "The next machine learning startup is in your front yard"  
+tags: [tech, machine learning, startups, algo]
 published: false
 ---
 
