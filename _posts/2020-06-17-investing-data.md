@@ -1,5 +1,5 @@
 ---
-title:  ""  
+title:  "Not everything is insider trading"  
 tags: [investing, finance, edge, competition, sellside, bank, research, app]
 published: false
 ---
@@ -78,7 +78,7 @@ You'd then have to look for each filing you wanted, download all of them, and co
 
 That was a lot of work for very little payoff, which is why companies like Bloomberg, FactSet, Thomson exist. They gather financial data, and have it easily accessible within the platform. 
 
-All that work you did in finding one company's reveues? FactSet has it available, for all public companies:
+All that work you did in finding one company's revenues? FactSet has it available, for all public companies:
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/FactSet screenshot.png)
 
@@ -90,6 +90,8 @@ There are also companies like BamSEC and Last10K, which make finding the filings
 
 #### Access to sellside research data 
 
+We’ve talked about the user experience, now let’s discuss the points about getting more data and paying for it.
+
 Besides providing aggregated financial data on companies, the Bloomberg etc platforms also provide sellside research estimates. 
 
 As a reminder, these researchers are people at investment banks that publish reports on the company. These are usually the people being referenced when the news says "an analyst downgraded a company to a sell" or "banks raise the price target of a company." Sellside research comes up with their own financial models with estimates for future company financials, supposedly using the model to come on a price target \[7\]. 
@@ -98,13 +100,13 @@ Many investors like to see these sellside numbers, in order to get an idea of wh
 
 If you're a professional investor, you can always just email the banks to get their research \[8\]. If you really wanted to, you could compile all those pdfs and excels together, and do the benchmarking yourself. 
 
-Obviously noone really wants to do that \[9\], so the researchers provide this data to the platforms, who then show it to the investor community. If you want a quick summary of where sellside consensus is, that's also available in a few keystrokes.
+Obviously no one really wants to do that \[9\], so the researchers provide this data to the platforms, who then show it to the investor community. If you want a quick summary of where sellside consensus is, that's also available in a few keystrokes.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Invst data 3.png)
 
 #### Access to company management
 
-Many investors evaluate companies based on the quality of their management teams. To faciliate this, both companies and sellside research will host regular investor conferences. The intent for these is for management to meet investors, explain the company strategy to the new investors replacing all the ones who got fired, and to take questions.
+Many investors evaluate companies based on the quality of their management teams. To facilitate this, both companies and sellside research will host regular investor conferences. The intent for these is for management to meet investors, explain the company strategy to the new investors replacing all the ones who got fired, and to take questions.
 
 Investors can update their financial models or view on the company based on these meetings with management. For example, if a management team had a poor response to your question, you might be interested in shorting the stock.
 
@@ -158,7 +160,7 @@ My point here is not to say that it's impossible, but that you should be aware o
 
 For example, if you found a small company that has a helpful dataset, but isn't selling to investors yet, that might be a source of edge.
 
-If you hired people to do manual grunt work by [counting store traffic and taking pictures of receipts](https://www.qsrmagazine.com/fast-food/luckin-coffee-faces-fraud-allegations-anonymous-report "luckin") instead of relying on credit card data, that mmight be a source of edge.
+If you hired people to do manual grunt work by [counting store traffic and taking pictures of receipts](https://www.qsrmagazine.com/fast-food/luckin-coffee-faces-fraud-allegations-anonymous-report "luckin") instead of relying on credit card data, that might be a source of edge.
 
 If you did anonymous visits to company factories to see how busy they were, that might be a source of edge.
 
