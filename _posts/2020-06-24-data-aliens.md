@@ -72,12 +72,23 @@ Putting it all together, what we've done is come up with the [Drake equation](ht
 
 That's a lot of variables though, so let's just focus on one part of that equation for today, that of the fraction of "intelligent" species. 
 
-How would we 
+We need to find a way to distinguish "intelligent" signals from "non-intelligent" ones. For example, I'd want to differentiate between singing on a microphone vs [audio feedback](https://en.wikipedia.org/wiki/Audio_feedback "audio"). 
+
+It'd be helpful if we had examples of alien communication, or knew what we were looking for. We obviously don't have the former \[3\], but there are ways for us to further narrow down what characteristics an intelligent signal might have, vs random noise.
+
+One way of doing so is by looking at non-human intelligent life all around us. [We use Antarctica as a proxy for Mars,](https://www.cnn.com/2015/12/09/health/white-mars-antarctica-concordia/index.html "Mars") and can similarly use animals as a proxy for alien language. 
+
+If we had rules that we believe intelligent communications have to follow, we can test those rules against animal communications, and see how well they work. This will let us know if we need to broaden or narrow our search criteria.
+
+It turns out there are 2 major rules in language theory - Zipf's Law, and Shannon's information theory entropy. Let's look at each in turn.
+
+What Zipf's law proposes is that 
 
 ### Footnotes
 
 1. Defining what is habitable vs not [is difficult of course,](https://en.wikipedia.org/wiki/Circumstellar_habitable_zone "zone") since what works for us may not work for alien life. Some people might believe in silicon-based life rather than carbon-based (what we are), though [there are difficulties with that assumption](https://astronomy.stackexchange.com/questions/20858/why-do-aliens-have-to-be-carbon-based-lifeforms "carbon")
 2. Note that "the usefulness of the Drake equation is not in the solving, but rather in the contemplation of all the various concepts which scientists must incorporate when considering the question of life elsewhere, and gives the question of life elsewhere a basis for scientific analysis"
+3. Unless you know something that I don't, in which case I'm interested to know more...
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
