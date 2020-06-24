@@ -1,12 +1,12 @@
 ---
-title:  ""  
+title:  "War of the words"  
 tags: [aliens, language, shannon, information theory, zipf]
 published: false
 ---
 
 ### Takeaway
 
-Data analysis can also help us in finding alien life
+Zipf's law and Shannon's information entropy can help us find alien life
 
 <style>
       .iframe-container {
