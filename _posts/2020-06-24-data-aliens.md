@@ -1,6 +1,6 @@
 ---
 title:  ""  
-tags: []
+tags: [aliens, language, shannon, information theory, zipf]
 published: false
 ---
 
@@ -74,7 +74,7 @@ That's a lot of variables though, so let's just focus on one part of that equati
 
 We need to find a way to distinguish "intelligent" signals from "non-intelligent" ones. For example, I'd want to differentiate between singing on a microphone vs [audio feedback](https://en.wikipedia.org/wiki/Audio_feedback "audio"). 
 
-It'd be helpful if we had examples of alien communication, or knew what we were looking for. We obviously don't have the former \[3\], but there are ways for us to further narrow down what characteristics an intelligent signal might have, vs random noise.
+It'd be helpful if we had examples of alien communication, or knew what we were looking for. We obviously don't have the former \[3\], but there are ways for us to further narrow down the latter. What we want to find are characteristics that an intelligent signal might have in contrast to random noise.
 
 One way of doing so is by looking at non-human intelligent life all around us. [We use Antarctica as a proxy for Mars,](https://www.cnn.com/2015/12/09/health/white-mars-antarctica-concordia/index.html "Mars") and can similarly use animals as a proxy for alien language. 
 
@@ -82,13 +82,50 @@ If we had rules that we believe intelligent communications have to follow, we ca
 
 It turns out there are 2 major rules in language theory - Zipf's Law, and Shannon's information theory entropy. Let's look at each in turn.
 
-What Zipf's law proposes is that 
+#### Zipf's law about the frequency of words
+
+What Zipf's law proposes is that for every language, the frequency of a word's occurence is inversely proportional to the word's ranking, if you ranked all the words by frequency of occurence. For example, if "the" is the most common word, it has rank #1. If "I" is the second most common word, it has rank #2. The rank #1 word, "the", will occur twice as many times in the language as the rank #2 word, "I". It will occur thrice as many times in the language as the ran #3 word, and so on.
+
+With such a law, we can test it on sample texts from that language. For example, someone plotted the frequency of words in Romeo and Juliet:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/zipf law example.png)
+
+Not content to rely on some rando from the internet, I went ahead to analyse my own newsletter posts. With some simple python code \[4\], I extracted the text from all my substack posts, pulled the top 50 words I used, and graphed them against their frequency. The relationship isn't perfect, but it's pretty close to what Zipf's law predicts:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/zipf law abp example.png)
+
+Great, so now we have one law. We can test that against animals such as dolphins and whales, and see if it still holds. [Researchers did that,](https://www.seti.org/animal-communications-information-theory-and-search-extraterrestrial-intelligence-seti#:~:text=We%20also%20found%20that%20bottlenose,Zipf's%20Law%20distribution%20of%20signals.&text=In%20other%20words%2C%20baby%20bottlenose,start%20to%20whistle%20like%20adults. "dolphin") and found that they do! \[5\] In other words, it's likely that Zipf's law will apply to alien languages as well. By applying it to signals from outer space, we can filter out some of the noise.
+
+#### Shannon's information theory on predicting the next word
+
+Shannon's information theory \[6\] proposes that knowing the words before another word will give you some clue as to what that word is. Put another way, words in a sentence will depend on each. For example, you probably understand the previous sentence just fine, even though I omitted the last word "other."
+
+Knowing that there's some relation between words, [we can also derive a way to score the language based on those relationships.](https://langev.com/pdf/plotkin00languageEvolution.pdf "shannon") I'm hand waving on the math here becauase I don't understand it myself, but the main takeaway that we can understand is that languages have a score. 
+
+By plotting those scores, we can see what range most languages fall in. We can do the same process as before, scoring dolphins and whales, and seeing how their languages perform as well:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Long Now zipf law.png)
+
+As you can see, there's a range in which most languages fall under. If we apply the same scoring system to signals, we can also filter out the ones that are unlikely to be languages.
+
+#### Finding aliens is not so different from machine learning
+
+We started out with a broad goal - wanting to find aliens. 
+
+We then framed the problem, and came up with the various components that might be helpful to look at.
+
+We narrowed down to just one part of the problem, and looked for ways to increase the precision of our search. We came up with two main criteria from human languages, and then cross validated it against other non-human languages. Moving forward, we can use a similar approach to narrow down the signals that we want to study further.
+
+As you can see, the process itself can be similar to other data analysis problems. First, you start with a goal. Then, you frame what you might need. Next, you come up with an algorithm. Lastly, you test it to see if it holds up. Problem solving in one field isn't that different to problem solving in another. 
 
 ### Footnotes
 
 1. Defining what is habitable vs not [is difficult of course,](https://en.wikipedia.org/wiki/Circumstellar_habitable_zone "zone") since what works for us may not work for alien life. Some people might believe in silicon-based life rather than carbon-based (what we are), though [there are difficulties with that assumption](https://astronomy.stackexchange.com/questions/20858/why-do-aliens-have-to-be-carbon-based-lifeforms "carbon")
 2. Note that "the usefulness of the Drake equation is not in the solving, but rather in the contemplation of all the various concepts which scientists must incorporate when considering the question of life elsewhere, and gives the question of life elsewhere a basis for scientific analysis"
 3. Unless you know something that I don't, in which case I'm interested to know more...
+4. By simple, I mean it took <30 min to write, and then 3 hours for me to troubleshoot. The code is [here](https://github.com/leonlinsx/ABP-code/blob/master/Python-projects/File%20extractor.py "git") if you're interested in adapting it for your own purposes. 
+5. They also tested it against baby babbling, both human and dolphin babies. They find that neither of these follow Zipf's law.
+6. Yes, this is *the* [Claude Shannon, the guy who essentially taught us how to create electronic communications](https://www.itsoc.org/about/shannon "Shannon")
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
