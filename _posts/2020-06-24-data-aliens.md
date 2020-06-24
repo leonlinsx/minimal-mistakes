@@ -86,13 +86,13 @@ It turns out there are 2 major rules in language theory - Zipf's Law, and Shanno
 
 #### Zipf's law about the frequency of words
 
-What Zipf's law proposes is that for every language, the frequency of a word's occurence is inversely proportional to the word's ranking, if you ranked all the words by frequency of occurence. For example, if "the" is the most common word, it has rank #1. If "I" is the second most common word, it has rank #2. The rank #1 word, "the", will occur twice as many times in the language as the rank #2 word, "I". It will occur thrice as many times in the language as the ran #3 word, and so on.
+What Zipf's law proposes is that for every language, the frequency of a word's occurence is inversely proportional to the word's ranking, if you ranked all the words by frequency of occurrence. For example, if "the" is the most common word, it has rank #1. If "I" is the second most common word, it has rank #2. The rank #1 word, "the", will occur twice as many times in the language as the rank #2 word, "I". It will occur thrice as many times in the language as the ran #3 word, and so on.
 
 With such a law, we can test it on sample texts from that language. For example, someone plotted the frequency of words in Romeo and Juliet:
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/zipf law example.png)
 
-Not content to rely on some rando from the internet, I went ahead to analyse my own newsletter posts. With some simple python code \[4\], I extracted the text from all my substack posts, pulled the top 50 words I used, and graphed them against their frequency. The relationship isn't perfect, but it's pretty close to what Zipf's law predicts:
+Not content to rely on some rando from the internet, I went ahead to analyse my own newsletter posts. With some simple python code \[4\], I extracted the text from all my substack posts, pulled the top 50 words I used, and graphed them against their frequency. The relationship isn't perfect, but it's pretty close to what Zipf's law predicts. As you can imagine, “the”, “to”, “a”, “and”, “of” all occur frequently.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/zipf law abp example.png)
 
@@ -117,6 +117,8 @@ We started out with a broad goal - wanting to find aliens.
 We then framed the problem, and came up with the various components that might be helpful to look at.
 
 We narrowed down to just one part of the problem, and looked for ways to increase the precision of our search. We came up with two main criteria from human languages, and then cross validated it against other non-human languages. Moving forward, we can use a similar approach to narrow down the signals that we want to study further.
+
+In case you thought this was all hypothetical, the above approach is [exactly what one team at SETI is using to analyse signals.](https://www.seti.org/animal-communications-information-theory-and-search-extraterrestrial-intelligence-seti#:~:text=We%20also%20found%20that%20bottlenose,Zipf's%20Law%20distribution%20of%20signals.&text=In%20other%20words%2C%20baby%20bottlenose,start%20to%20whistle%20like%20adults. "SETI")
 
 As you can see, the process itself can be similar to other data analysis problems. First, you start with a goal. Then, you frame what you might need. Next, you come up with an algorithm. Lastly, you test it to see if it holds up. Problem solving in one field isn't that different to problem solving in another. 
 
