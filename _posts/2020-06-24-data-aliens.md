@@ -34,7 +34,7 @@ Data analysis can also help us in finding alien life
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-### Main
+### How can we find alien life?
 
 We've talked about [how machine learning companies use data to recognise text](https://avoidboringpeople.substack.com/p/the-next-machine-learning-startup "ML") and how [investors use data to pick companies.](https://avoidboringpeople.substack.com/p/not-everything-is-insider-trading "invest")
 
