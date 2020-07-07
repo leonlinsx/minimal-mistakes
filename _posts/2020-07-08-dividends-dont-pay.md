@@ -66,7 +66,82 @@ We'll focus on that last action, the dividend payment. I'll skip over discussing
 
 On first glance, a dividend sounds good to you as an investor. Getting some cash back on your stock seems nice. Let's look at how we might evaluate it.
 
-If I told you that a company dividend was $5, would that be good or bad? It sounds like a lot of 
+If I told you that a company dividend was $5, would that be good or bad? It sounds like a lot of money, but we really don't know unless we compare it against the price. 
+
+If you'd bought the stock for $5 and it was giving you back $5, that would be high. You've effectively gotten paid back on your investment right there.
+
+If you'd bought the stock for $10k and it was giving you back $5, that's probably insignificant.
+
+So we know that the price matters, as with all things investment related. What we can do is calculate a dividend yield, which is simply the dividend amount divided by the price. By comparing dividend yields against each other, we can figure out what stocks have "high" dividends and what stocks have "low" dividends. 
+
+As a sidenote, by convention we'd take a 12 mth sum of dividend. Most companies pay dividends out quarterly, so if a company paid out $1 per quarter, their annual dividend is $4. We'll also ignore taxes \[6\].
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd 1.png)
+
+Beyond allowing us to evaluate dividend yields among dividend paying stocks, that yield also allows us to compare across other securities. Yield is like the expected return, after all. So we could compare a dividend yield of 4% vs a bond that pays 1%, and say that all else equal the dividend stock is giving us a higher return.
+
+Which is what we see in this [Vanguard report](https://personal.vanguard.com/pdf/ISGADOS.pdf "Van"), with the graph below showing that dividend yields have been higher than bond yields in the past 10+ years. 
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd 2.png)
+
+On second glance, this looks even better now. An extended period in which you get more cash back than bonds? Should we all just find the highest dividend yield stocks and buy them all? What's the catch?
+
+#### Total return, not just dividend return
+
+The first is a simple one, and something we've already partially touched on, the issue of price. A high dividend yield could come from the company paying out a lot in cash, resulting in a relatively large dividend amount over a relatively small price. Or it could also come from the stock price going down a lot, resulting in that same relatively large dividend amount over a relatively small price.
+
+In the example below, you'd have been much happier with the 1% div yield vs the 50%, because of the circumstances that led there. You can't even be sure that the high yield will last either, since [a company can cut its dividend when things are really bad](https://www.cnbc.com/2018/12/07/ge-makes-it-official-lowers-dividend-to-a-penny.html "GE")
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd 3.png)
+
+What this means is that we have to consider an additional factor beyond dividend yield, that of the price change. By combining this capital return with the dividend yield, we'll get a total return figure that is closer to the performance measure we want. This sounds obvious now that we've mentioned it, but you'll frequently see many investment brochures promoting high dividend stocks, without considering the capital return component.
+
+What happens when we do consider capital return? Let's look at the components of total return, but first make a guess at how that might look. We might think that for the high dividend yield stocks, most of the return is made of the dividend. For the low (or no) yield stocks, most of the return is made of price change.
+
+Surprisingly, this is not what we find. In that same [Vanguard report](https://personal.vanguard.com/pdf/ISGADOS.pdf "Van"), the authors sorted stocks into 4 buckets from high to low dividend yield. They then compared the return from dividends vs price. We see that **capital return has contributed more to total return,** even when including the high dividend stocks. 
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd 4.png)
+
+Even more interestingly, a [Miller Howard report](https://mhinvest.com/download.html?docId=2246 "Miller") shows that when you split dividend stocks into 10 buckets, most of them actually **underperform** the S&P index over the past 10 years. What's worse, is that the top bucket with highest dividend yields are the ones that underperform the most. This implies a completely opposite investment strategy as what we'd thought of before.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd 5.png)
+
+#### Correlated factors
+
+The second catch is less obvious, and it's that of other factors correlated with high dividend yields. 
+
+Let's imagine that we had selected the top 100 stocks based on their high dividend yield. If we found that all those stocks had something else in common, say [Emma Watson being on the board of directors](https://www.mugglenet.com/2020/06/emma-watson-joins-kerings-board-of-directors-to-advocate-for-sustainable-fashion/ "Emma"), perhaps it's not the dividend yield that actually matters, but Emma's star power mysteriously affecting total returns.
+
+There actually are indeed some common factors that people use to classify stocks. These include some measure of value for money, company size, and price momentum. For example, you might want to group all small companies together and see how much that can explain stock returns.
+
+I'll skip over the explanation of how these factors were created, the important thing to note is that we have other features that describe a stock. You can read more about this in [Fama and French's five factor model here.](https://www.sciencedirect.com/science/article/abs/pii/S0304405X14002323 "model")
+
+The [Vanguard report](https://personal.vanguard.com/pdf/ISGADOS.pdf "Van") distinguished between two types of dividend stocks, 1) high dividend yield, and 2) high dividend growth. They then compared how correlated those stocks were against some of those common factors we mentioned above \[7\]. 
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd 6.png)
+
+Turns out that many of the features are correlated, whether it's group 1 or group 2. Put another way, if you ignored the dividend factor, and just considered these other factors, you would go a long way towards capturing the return from dividend stocks.
+
+[Meb Faber went ahead to do just that,](https://www.cambriainvestments.com/wp-content/uploads/2017/10/DTAX-10.23.17.pdf "Meb") by creating composite portfolios that could replicate the profiles of dividend stocks, without actually being dividend stocks. His findings show that the returns for such portfolios beat the dividend portfolio. Compare the black box column against the rest to the right:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd 7.png)
+
+And those results held up when he compared after tax returns as well:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd 8.png)
+
+#### Conclusion and complications
+
+In summary,
+
+1. The price and total return on a stock clearly matter, more so than just dividend yield
+2. We are able to duplicate the positive factors of dividend stocks by creating an alternative portfolio without including dividend stocks. This performs even better than the dividend portfolio
+
+As with all investing, there are some complications. Some other researchers have found evidence supporting the high dividend yield equals high return theory. See the links below for more detail. However, the ones I've seen haven't refuted Meb's alternative portfolio research yet, which is why I'm still less enthusiastic about dividend investing overall.
+
+1. [Is dividend investing dangerous?](https://blog.thinknewfound.com/2016/12/dividend-investing-dangerous/ "Divd")
+2. [Surprise! Higher Dividends = Higher Earnings Growth](https://www.researchaffiliates.com/documents/FAJ_Jan_Feb_2003_Surprise_Higher_Dividends_Higher_Earnings_Growth.pdf "Divd")
+3. [Dividends and the three dwarfs](https://www.researchaffiliates.com/content/dam/ra/documents/FAJ_Mar_Apr_2003_Dividends_and_the_Three_Dwarfs.pdf "Divd")
 
 ### Footnotes
 
@@ -75,6 +150,8 @@ If I told you that a company dividend was $5, would that be good or bad? It soun
 3. It's not quite as simple as this in reality, and companies have treasury departments that manage how much liquid cash they have on hand vs other money instruments that return some yield. Nobody really has billions in paper bills lying around, or even in checking accounts for that matter.
 4. Synergies are usually thought of as either revenue or cost synergies. Revenue synergies coming from being able to sell more stuff and cost synergies from firing people.
 5. Under certain assumptions, how a company is financed doesn't matter. If that's the case, then capital allocation policies are essentially the same.
+6. Tax treatment for dividends can be different depending on your circumstance.
+7. For a different split, look at [this other source doing a similar analysis](https://www.indexologyblog.com/2020/05/15/why-did-dividend-indices-underperform-during-the-coronavirus-sell-off/ "div")
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
