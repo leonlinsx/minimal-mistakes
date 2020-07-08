@@ -1,6 +1,6 @@
 ---
 title:  "When it doesn't pay dividends"  
-tags: []
+tags: [finance, investing, dividend, capital return, total return, factors, capital structure]
 published: false
 ---
 
@@ -54,7 +54,7 @@ Two, you could reinvest in the business. That machine you wanted for your manufa
 
 Three, you could buy other businesses. Perhaps there's a smaller competitor that you can acquire on the cheap and get all those "synergies" that your banking buddies tell you about in order to grow market share \[4\].
 
-Four, you could buy back some of your shares. This increases the ownership you have of your company, which implies that you get more upside if the company does well. Buybacks are out of scope for this article, you can read an inital (biased) take on them by Cliff Asness [here.](https://images.aqr.com/-/media/AQR/Documents/Journal-Articles/Buyback-Derangement-Syndrome.pdf "Cliff")
+Four, you could buy back some of your shares. This increases the ownership you have of your company, which implies that you get more upside if the company does well. Buybacks are out of scope for this article, you can read an initial (biased) take on them by Cliff Asness [here.](https://images.aqr.com/-/media/AQR/Documents/Journal-Articles/Buyback-Derangement-Syndrome.pdf "Cliff")
 
 Five, you could pay a dividend to investors. For each share that investors have, you hand them some cash every quarter. 
 
@@ -78,13 +78,13 @@ So we know that **the price matters, as with all things investment related.** To
 
 As a sidenote, by convention we'd take a 12 mth sum of dividend. Most companies pay dividends out quarterly, so if a company paid out $1 per quarter, their annual dividend is $4. We'll also ignore taxes \[6\].
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd 1.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd/Divd 1.png)
 
 Beyond allowing us to evaluate dividend yields among dividend paying stocks, that yield also allows us to compare across other securities. Yield is like the expected return, after all. So we could compare a dividend yield of 4% vs a bond that pays 1%, and say that all else equal the dividend stock is giving us a higher income.
 
 Which is what we see in this [Vanguard report](https://personal.vanguard.com/pdf/ISGADOS.pdf "Van"), with the graph below showing that **dividend yields have been higher than bond yields in the past 10+ years.** 
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd 2.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd/Divd 2.png)
 
 On second glance, this looks even better now. An extended period in which you get more cash back than bonds? Should we all just find the highest dividend yield stocks and buy them all? What's the catch?
 
@@ -94,7 +94,7 @@ The first is a simple one, and something we've already partially touched on, the
 
 In the example below, you'd have been much happier with the 1% div yield vs the 50%, because of the circumstances that led there. Due to the price drop in the second case, you've actually lost much more money than you've gained from the "increase" in dividend yield.
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd 3.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd/Divd 3.png)
 
 You can't even be sure that the high yield will last either, since that dividend amount isn't guaranteed for the future. It's true that companies don't like to cut their dividend, because they fear shareholders dumping their stock. [However, that also menas that a company can cut its dividend when things are so bad they have no choice.](https://www.cnbc.com/2018/12/07/ge-makes-it-official-lowers-dividend-to-a-penny.html "GE")
 
@@ -104,11 +104,11 @@ What happens when we do consider capital return? Let's look at the components of
 
 Surprisingly, this is not what we find. In that same [Vanguard report](https://personal.vanguard.com/pdf/ISGADOS.pdf "Van"), the authors sorted stocks into 4 buckets from high to low dividend yield. They then compared the return from dividends vs price. We see that **capital return has contributed more to total return,** even when including the high dividend stocks. 
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd 4.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd/Divd 4.png)
 
 Even more interestingly, a [Miller Howard report](https://mhinvest.com/download.html?docId=2246 "Miller") shows that when you split dividend stocks into 10 buckets, most of them actually **underperform** the S&P index over the past 10 years. What's worse, is that the top bucket with highest dividend yields are the ones that underperform the most. This implies a completely opposite investment strategy vs what we'd thought of before.
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd 5.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd/Divd 5.png)
 
 #### Correlated factors
 
@@ -122,17 +122,17 @@ I'll skip over the explanation of how these factors were created; you can read m
 
 The [Vanguard report](https://personal.vanguard.com/pdf/ISGADOS.pdf "Van") distinguished between two types of dividend stocks, 1) high dividend yield, and 2) high dividend growth. They then compared how correlated those groups were against some of those common factors we mentioned above \[7\]. 
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd 6.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd/Divd 6.png)
 
 Turns out that many of the features are correlated, whether it's group 1 or group 2. Put another way, if you ignored the dividend factor, and just considered these other factors, you would go a long way towards capturing the return from dividend stocks. 
 
 [Meb Faber went ahead to do just that,](https://www.cambriainvestments.com/wp-content/uploads/2017/10/DTAX-10.23.17.pdf "Meb") by creating composite portfolios that could replicate the profiles of dividend stocks, without actually being dividend stocks. What that means is that he found stocks that gave you the same return as dividend stocks, but did not actually pay a dividend. His findings show that **the returns for such portfolios beat the dividend portfolio.** Compare the black box column against the rest to the right:
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd 7.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd/Divd 7.png)
 
 And those results held up when he compared after tax returns as well:
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd 8.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Divd/Divd 8.png)
 
 #### Conclusion and complications
 
