@@ -90,7 +90,7 @@ Innovation is not easy, and it's made even harder since most places judge outcom
 
 ### Footnotes
 
-1. Also known as the \#Me \[Tu\](https://www.echineselearning.com/blog/chinese-character-tu-rabbit-beginner "tu") movement.
+1. Also known as the #Me [Tu](https://www.echineselearning.com/blog/chinese-character-tu-rabbit-beginner "tu") movement.
 2. Ok so it was 1 - -1 and I got the sign wrong in my head, so wasn't quite that bad. No I'm not getting defensive about it.
 3. I've chosen the numbers here specifically to keep the example simple. I was looking for something where the hare would lose most of the time and only have a few intervals.
 4. I’ve done the probability calc a few ways, with the factorial formula shown and with google sheet’s binomdist function, just to show they’re equivalent
