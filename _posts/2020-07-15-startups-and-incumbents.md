@@ -1,6 +1,6 @@
 ---
 title:  "It's turtles all the way down"  
-tags: [tech, incentives]
+tags: [tech, incentives, innovation, projects, probability]
 published: false
 ---
 
@@ -42,13 +42,13 @@ I'll take it for granted that everyone's familiar with the [tortoise vs hare fab
 
 Let's have a race track of 1 km. We'll assume the tortoise takes 100 min to run 1 km, and the hare takes 20 min to run 1km. However, the hare's sleep schedule has been messed up due to covid and there's a 95% chance it will sleep during every separate 20 min block. Put another way, there's a 5% chance it's awake during minutes 0-20, and then another 5% chance it's awake during minutes 20-40, and another 5% chance it's awake during minutes 40-60 etc.
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/Tortoise vs hare 1.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Tortoise/Tortoise vs hare 1.png)
 
 What's the chance that the hare beats the tortoise? 
 
 For those of you that recall secondary school probability, we can calculate this with a [binomial distribution formula.](https://online.stat.psu.edu/stat414/lesson/10/10.3 "binom") The formula looks like this: 
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/Tortoise vs hare 2.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Tortoise/Tortoise vs hare 2.png)
 
 But that looks scary with summation signs and exclamation points, and I did promise to keep the math simple. One way to shortcut the calculation is to observe that there are 5 "20 min blocks" for the hare to fall asleep or be awake, since the hare is 5x faster than the tortoise. As long as the hare is awake once, it'll win. So, the only time the hare loses is when it sleeps all of those times. That's a much easier calculation, since that's just 95% times itself 5 times, or 0.95 to the power of 5 \[3\]. 
 
@@ -60,9 +60,13 @@ There's only one case where no hares win, which is when all of the races are won
 
 In other words, it's nearly guaranteed that at least once, a hare will win.
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/Tortoise vs hare 3.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Tortoise/Tortoise vs hare 3.png)
 
-I've put the math into a google sheet [here](https://docs.google.com/spreadsheets/d/1-_LV1ewb0D4DsERENaM_xp0oy8pHH7xWmAvNX8H9bdE/edit?usp=sharing "sheet") that you can play with \[4\]. The math is less important than the takeaway though. **What we've inferred is that even when the odds of something happening on its own are low, a repeated game will likely ensure the event happens once.** Just like how it's unlikely for you to win the lottery, but it's likely there will be at least one lottery winner.
+I've put the math into a google sheet [here](https://docs.google.com/spreadsheets/d/1-_LV1ewb0D4DsERENaM_xp0oy8pHH7xWmAvNX8H9bdE/edit?usp=sharing "sheet") that you can play with \[4\]. You can also see from the graph below that it doesn’t even take that many races before the chances of at least one hare winning approach 100%. Remember, this is one hare winning, not the majority of hares winning.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Tortoise/Tortoise vs hare 4.png)
+
+The math is less important than the takeaway though. **What we've inferred is that even when the odds of something happening on its own are low, a repeated game will likely ensure the event happens once.** Just like how it's unlikely for you to win the lottery, but it's likely there will be at least one lottery winner.
 
 ### Tortoise vs tech
 
