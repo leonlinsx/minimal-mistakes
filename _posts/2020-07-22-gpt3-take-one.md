@@ -38,13 +38,23 @@ published: false
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
+
+
 ### Other interesting commentary
 
 1. [Gwern showcases creative writing by OpenAI’s GPT-3 model, demonstrating poetry, dialogue, puns, literary parodies, and storytelling](https://www.gwern.net/GPT-3 "Gwern")
 2. [Max Woolf on Tempering Expectations for GPT-3 and OpenAI’s API](https://minimaxir.com/2020/07/gpt3-expectations/ "Max")
 3. [Kevin Lacker on Giving GPT-3 a Turing Test](http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html "Lacker")
 4. [Michael Nielsen twitter thread](https://twitter.com/michael_nielsen/status/1284937254666768384?s=20 "Nielsen")
-5. [Yannic's youtube video explaining the GPT 3 paper "Language Models are Few-Shot Learners"](https://www.youtube.com/watch?v=SY5PvZrJhLE&feature=youtu.be "Yannic")
+5. [Manuel Araoz on how OpenAI's GPT-3 may be the biggest thing since bitcoin](https://maraoz.com/2020/07/18/openai-gpt3/ "Maraoz")
+
+### More detailed explanations
+
+1. [Yannic's youtube video explaining the GPT 3 paper](https://www.youtube.com/watch?v=SY5PvZrJhLE&feature=youtu.be "Yannic") and [the GPT 3 paper itself "Language Models are Few-Shot Learners"](https://arxiv.org/pdf/2005.14165.pdf "GPT3")
+2. [Yannic's youtube video explaining the GPT 2 paper, which GPT 3 bases itself on.](https://www.youtube.com/watch?v=u1_qMdb0kYU "Yannic") Plus [the GPT 2 paper itself "Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf "GPT2")
+3. [Andrew Ng on attention models](https://www.youtube.com/watch?v=SysgYptB198 "Ng")
+4. [How do Transformers Work in NLP? A Guide to the Latest State-of-the-Art Models](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/ "Vidhya")
+5. [Jay Alammar on the illustrated transformer](http://jalammar.github.io/illustrated-transformer/ "transformer")
 
 ### Footnotes
 
