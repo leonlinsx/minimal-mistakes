@@ -50,8 +50,8 @@ published: false
 
 ### More detailed explanations
 
-1. [Yannic's youtube video explaining the GPT 3 paper](https://www.youtube.com/watch?v=SY5PvZrJhLE&feature=youtu.be "Yannic") and [the GPT 3 paper itself "Language Models are Few-Shot Learners"](https://arxiv.org/pdf/2005.14165.pdf "GPT3")
-2. [Yannic's youtube video explaining the GPT 2 paper, which GPT 3 bases itself on.](https://www.youtube.com/watch?v=u1_qMdb0kYU "Yannic") Plus [the GPT 2 paper itself "Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf "GPT2")
+1. [Yannic's youtube video explaining the GPT 3 paper](https://www.youtube.com/watch?v=SY5PvZrJhLE&feature=youtu.be "Yannic") and the GPT 3 paper itself ["Language Models are Few-Shot Learners"](https://arxiv.org/pdf/2005.14165.pdf "GPT3")
+2. [Yannic's youtube video explaining the GPT 2 paper, which GPT 3 bases itself on.](https://www.youtube.com/watch?v=u1_qMdb0kYU "Yannic") Plus the GPT 2 paper itself ["Language Models are Unsupervised Multitask Learners"](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf "GPT2")
 3. [Andrew Ng on attention models](https://www.youtube.com/watch?v=SysgYptB198 "Ng")
 4. [How do Transformers Work in NLP? A Guide to the Latest State-of-the-Art Models](https://www.analyticsvidhya.com/blog/2019/06/understanding-transformers-nlp-state-of-the-art-models/ "Vidhya")
 5. [Jay Alammar on the illustrated transformer](http://jalammar.github.io/illustrated-transformer/ "transformer")
