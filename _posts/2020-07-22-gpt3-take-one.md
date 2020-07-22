@@ -171,13 +171,13 @@ We know GPT-3 is good, and that some samples of the output are difficult to dist
 
 Turns out there's some surprisingly simple ways to do so. 
 
-Firstly, [because of the hyperparameters used in GPT-3,](https://medium.com/analytics-vidhya/understanding-the-gpt-2-source-code-part-1-4481328ee10b "temp") the frequency of words generated will not follow distributions expected from normal humans. In the screenshot below, Gwern is explaining that this results in common words turning up even more than expected, and uncommon words not turning up at all. 
+Firstly, [because of the hyperparameters used in GPT-3,](https://medium.com/analytics-vidhya/understanding-the-gpt-2-source-code-part-1-4481328ee10b "temp") the frequency of words generated will not follow distributions expected from normal humans. In the screenshot below, Gwern is explaining that this results in common words turning up even more than expected, and uncommon words not turning up at all. Temperature controls the randomness, and the top-k parameter controls where the frequency cutoff point is for the top words chosen.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 22.png)
 
-For those unfamiliar with Zipf's law, I've previously covered it [here](https://avoidboringpeople.substack.com/p/war-of-the-words "Zipf") when talking about searching for aliens (free subs email me and I'll forward). Essentially, it states that in a large sample of text, the frequency of any word is inversely proportional to its rank, when ranked by frequency of occurrence. e.g. the most common word is ~2x more frequent than the 2nd most common word.
+For those unfamiliar with Zipf's law, I've previously covered it [here](https://avoidboringpeople.substack.com/p/war-of-the-words "Zipf") when talking about searching for aliens (yes, aliens. Free subs email me and I'll forward). Essentially, it states that in a large sample of text, the frequency of any word is inversely proportional to its rank, when ranked by frequency of occurrence. e.g. the most common word is ~2x more frequent than the 2nd most common word.
 
-I've plotted Zipf's law for my articles before, and it looks like the top graph. If GPT-3 were to write my articles, you'd expect something like the bottom instead (with more words of course, the example just for illustrative purposes).
+I've plotted Zipf's law for my newsletter before, and it looks like the top graph. If GPT-3 were to write my articles, you'd expect something like the bottom instead (with more words of course, the example just for illustrative purposes).
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 23.png)
 
@@ -187,7 +187,7 @@ Here's a demo. I went to the first sample in the appendix of the [GPT 3 paper (p
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 24.png)
 
-Of course, neither of these methods are foolproof. If you don't have a large enough sample size of text, it's hard to do frequency analysis. Grover also gets false positives, such as wrongly claiming that Allen Ginsberg's poem [Howl](https://www.poetryfoundation.org/poems/49303/howl "Howl") was written by a machine \[50\]. 
+Of course, neither of these methods are foolproof. If you don't have a large enough sample size of text, it's hard to do frequency analysis or verify it via the checking models. Grover also gets false positives, such as wrongly claiming that Allen Ginsberg's poem [Howl](https://www.poetryfoundation.org/poems/49303/howl "Howl") was written by a machine \[50\]. 
 
 That said, having such methods still available make me less fearful of the dangers of fake machine generated text. In the worst case scenario, everyone will have to install some browser extension that scans the page and warns you if it thinks the text was fake. Perhaps something like the ad blockers of today?
 
