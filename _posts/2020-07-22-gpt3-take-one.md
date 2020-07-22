@@ -39,7 +39,7 @@ published: false
 
 but is preserved [here](https://antinegationism.tumblr.com/post/182901133106/an-eternal-howl "Moloch")
 
-### Overview of the seq2seq model before GPT-3
+### 2. Overview of the seq2seq model before GPT-3
 
 *Disclaimer: The next two sections get slightly technical as I explain the models used, feel free to skip over to the "Detecting GPT-3" section after if not feeling up to the challenge.*
 
@@ -95,7 +95,7 @@ Now here's a critical question that both tests our understanding and shows the i
 
 Enter the transformer model.
 
-### Overview of GPT-3 model
+### 3. Overview of GPT-3 model
 
 GPT-3 stands for Generative Pretrained Transformer 3. The transformer in the name stands for the [transformer model, with attention.](http://jalammar.github.io/illustrated-transformer/ "transformer") Both GPT-2 and GPT-3 use the same type of model, so any explanations you find of the former will generalise as well \[40\]. Let's walk through a simplified version of the new model.
 
@@ -159,15 +159,26 @@ Firstly, remember way back when we split the word into 3 different features, a, 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 20.png)
 
-Secondly, every time I mentioned function in this section, you can think of it as a weight or parameter on some number. When you add up all the weights, the new model has 175bn of them. When people are referring to the number of parameters that GPT-3 uses, and how it's so much larger than previous models, this is what they are referring to. e.g. if each word was represented as a table of 768 by 2304 numbers, then you'd need that many parameters just to go through one function in the entire process outlined above. You can easily see how having a process with 96 layers and 128 alternatives within each layer gets you to a gargantuan number of parameters required. 
+Secondly, every time I mentioned function in this section, you can think of it as a weight or parameter on some number. When you add up all the weights, the new model has 175bn of them. No, that's not a typo. When people are referring to the number of parameters that GPT-3 uses, and how it's so much larger than previous models, this is what they are referring to. e.g. if each word was represented as a table of 768 by 2304 numbers, then you'd need that many parameters just to go through one function in the entire process outlined above. You can easily see how having a process with 96 layers and 128 alternatives within each layer gets you to a gargantuan number of parameters required. 
 
 This was a long sidetrack, but you now have more intuition about what GPT-3 is doing. It's taking inputs, performing multiple iterations of transformations on the words, and using that to predict or translate words after that. The transformer architecture from the original paper is below for reference, and you can see how parts of it map to the simplified diagram we just worked through.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 21.png)
 
-### Detecting GPT-3
+### 4. Detecting GPT-3
 
-Zipf
+We know GPT-3 is good, and that some samples of the output are difficult to distinguish from a human's writing. The natural question then, is to ask if there is any way we can detect if text was written by a machine?
+
+Turns out there's a couple of surprisingly simple ways to do so. 
+
+Firstly, [because of the hyperparameters used in GPT-3,](https://medium.com/analytics-vidhya/understanding-the-gpt-2-source-code-part-1-4481328ee10b "temp") the frequency of words generated will not follow distributions expected from normal humans. In the screenshot below, Gwern is explaining that this results in common words turning up even more than expected, and uncommon words not turning up at all. 
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 22.png)
+
+For those unfamiliar with Zipf's law, I've previously covered it [here](https://avoidboringpeople.substack.com/p/war-of-the-words "Zipf") when talking about searching for aliens (free subs email me and I'll forward). Essentially, it states that in a large sample of text, the frequency of any word is inversely proportional to its rank, when ranked by frequency of occurrence. 
+
+
+zipf
 
 Analytics Vidhya did a post a while back on [how to detect computer generated articles.](https://www.analyticsvidhya.com/blog/2019/12/detect-fight-neural-fake-news-nlp/ "Vidhya") They provide a few tools and links, such as [Grover,](https://grover.allenai.org/detect "Grover") that can take the text and tell you if they believe it was machine generated.
 
