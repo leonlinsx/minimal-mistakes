@@ -135,7 +135,7 @@ We now have this new output, z, that has information from that particular word, 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 15.png)
 
-The output z\* has the same number of elements in it as when we first transformed the word into numbers. GPT-3 takes this result, and feeds it through the entire encoding process again. If I'm understanding it right, they repeat this process 96 times \[44\]. 
+The output z\* has the same number of elements in it as when we first transformed the word into numbers. GPT-3 takes this result, and feeds it through the entire encoding process again. If I'm understanding it right, they repeat this process 96 times to get 96 layers \[44\]. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 16.png)
 
@@ -155,11 +155,11 @@ And once you repeat that process for all the words, you get the final phrase. Fi
 
 If you're still with me, there's two more important features of the algorithm worth mentioning. 
 
-Firstly, remember way back when we split the word into 3 different features, a, b, and c? The new model actually does that 128 times, each time using a different function, such that 128 different triplets are generated. Since these are independent, it runs all of these through the encoding layers simulateneously as well, for all the input words at the same time. The results of these are merged together in getting that output from the encoding function, z. This is known as "multiple attention-heads"
+Firstly, remember way back when we split the word into 3 different features, a, b, and c? The new model actually does that 96 times \[46\]. Each time it uses a different function, such that 96 different triplets are generated. Since these are independent, it runs all of these through the encoding layers at the same time, for all the input words. The results of these are merged together in getting that output from the encoding function, z. This is known as having "multiple attention-heads."
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 20.png)
 
-Secondly, every time I mentioned function in this section, you can think of it as a weight or parameter on some number. When you add up all the weights, the new model has 175bn of them. No, that's not a typo. When people are referring to the number of parameters that GPT-3 uses, and how it's so much larger than previous models, this is what they are referring to. e.g. if each word was represented as a table of 768 by 2304 numbers, then you'd need that many parameters just to go through one function in the entire process outlined above. You can easily see how having a process with 96 layers and 128 alternatives within each layer gets you to a gargantuan number of parameters required. 
+Secondly, every time I mentioned function in this section, you can think of it as a weight or parameter on some number. When you add up all the weights, the new model has 175bn of them. No, that's not a typo. When people are referring to the number of parameters that GPT-3 uses, and how it's so much larger than previous models, this is what they are referring to. e.g. if each word was represented as a list of 1000 numbers, then you'd need that many parameters just to go through one function in the entire process outlined above. You can easily see how having a process with 96 layers and 128 alternatives within each layer gets you to a gargantuan number of parameters required. 
 
 This was a long sidetrack, but you now have more intuition about what GPT-3 is doing. It's taking inputs, performing multiple iterations of transformations on the words, and using that to predict or translate words after that. The transformer architecture from the original paper is below for reference, and you can see how parts of it map to the simplified diagram we just worked through.
 
@@ -167,29 +167,31 @@ This was a long sidetrack, but you now have more intuition about what GPT-3 is d
 
 ### 4. Detecting GPT-3
 
-We know GPT-3 is good, and that some samples of the output are difficult to distinguish from a human's writing. The natural question then, is to ask if there is any way we can detect if text was written by a machine?
+We know GPT-3 is good, and that some samples of the output are difficult to distinguish from a human's writing. The natural question then, is to ask if there are other ways we can detect if text was written by a machine?
 
 Turns out there's some surprisingly simple ways to do so. 
 
-Firstly, [because of the hyperparameters used in GPT-3,](https://medium.com/analytics-vidhya/understanding-the-gpt-2-source-code-part-1-4481328ee10b "temp") the frequency of words generated will not follow distributions expected from normal humans. In the screenshot below, Gwern is explaining that this results in common words turning up even more than expected, and uncommon words not turning up at all. Temperature controls the randomness, and the top-k parameter controls where the frequency cutoff point is for the top words chosen.
+Firstly, [because of the hyperparameters used in GPT-3,](https://medium.com/analytics-vidhya/understanding-the-gpt-2-source-code-part-1-4481328ee10b "temp") the frequency of words generated will not follow distributions expected from normal humans. In the screenshot below, Gwern is explaining that this results in common words turning up even more than expected, and uncommon words not turning up at all. Temperature controls the randomness, and the top-k hyperparameter controls where the frequency cutoff point is for the top words chosen.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 22.png)
 
 For those unfamiliar with Zipf's law, I've previously covered it [here](https://avoidboringpeople.substack.com/p/war-of-the-words "Zipf") when talking about searching for aliens (yes, aliens. Free subs email me and I'll forward). Essentially, it states that in a large sample of text, the frequency of any word is inversely proportional to its rank, when ranked by frequency of occurrence. e.g. the most common word is ~2x more frequent than the 2nd most common word.
 
-I've plotted Zipf's law for my newsletter before, and it looks like the top graph. If GPT-3 were to write my articles, you'd expect something like the bottom instead (with more words of course, the example just for illustrative purposes).
+I've plotted Zipf's law for my newsletter before, and it looks like the top graph. If GPT-3 were to write my articles, you'd expect something like the bottom instead (with more words of course, the example is just for illustrative purposes).
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 23.png)
 
-Secondly, you can use another model to check the text. Analytics Vidhya did a post a while back on [how to detect computer generated articles.](https://www.analyticsvidhya.com/blog/2019/12/detect-fight-neural-fake-news-nlp/ "Vidhya") They provide a few tools and links, such as a GPT-2 detector model or [Grover,](https://grover.allenai.org/detect "Grover") that can take the text and tell you if they believe it was machine generated. These tools have not been calibrated for GPT-3 yet, but still perform well. They work because the models are familiar with the quirks that other models use to generate text.
+Secondly, you can use another model to check the text. Analytics Vidhya did a post a while back on [how to detect computer generated articles.](https://www.analyticsvidhya.com/blog/2019/12/detect-fight-neural-fake-news-nlp/ "Vidhya") They provide a few tools such as a GPT-2 detector model or [Grover,](https://grover.allenai.org/detect "Grover") that can take sample text and tell you if they believe it was machine generated \[47\]. These tools were released before GPT-3 and have not been calibrated for it yet, but still perform well. They work because the models are familiar with the quirks that other models use to generate text.
 
-Here's a demo. I went to the first sample in the appendix of the [GPT 3 paper (page 49)](https://arxiv.org/pdf/2005.14165.pdf "GPT"), and copied the machine generated poem there. Plugging that in to Grover's site, shows me that Grover thinks it was machine generated. 
+Here's a demo. I went to the first sample in the appendix of the [GPT 3 paper (page 49)](https://arxiv.org/pdf/2005.14165.pdf "GPT"), and copied the machine generated poem there. Plugging that in to Grover's site, shows that Grover thinks it was machine generated. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 24.png)
 
-Of course, neither of these methods are foolproof. If you don't have a large enough sample size of text, it's hard to do frequency analysis or verify it via the checking models. Grover also gets false positives, such as wrongly claiming that Allen Ginsberg's poem [Howl](https://www.poetryfoundation.org/poems/49303/howl "Howl") was written by a machine \[50\]. 
+Of course, neither of these methods are foolproof. If you don't have a large enough sample size of text, it's hard to do frequency analysis or verify it via the checking models. Grover also gets false positives, such as wrongly claiming that Allen Ginsberg's poem [Howl](https://www.poetryfoundation.org/poems/49303/howl "Howl") was written by a machine \[48\]. And it also gets false negatives, thinking that text generated by GPT-3 was created by a human. You can try playing around with it and see.
 
-That said, having such methods still available make me less fearful of the dangers of fake machine generated text. In the worst case scenario, everyone will have to install some browser extension that scans the page and warns you if it thinks the text was fake. Perhaps something like the ad blockers of today?
+That said, having such methods still available make me less fearful of the dangers of fake machine generated text. Since both of the tools above rely on structural features of the models, it seems likely that as long as the models have hyperparameters to adjust, the text generated would be identifiable. 
+
+In the worst case scenario, everyone will have to install some browser extension that scans the page and warns you if it thinks the text was fake. Perhaps something like the ad blockers of today?
 
 ### Other interesting commentary
 
@@ -218,7 +220,9 @@ That said, having such methods still available make me less fearful of the dange
 43. They use sine and cosine functions, see [page 6 of the original paper](https://arxiv.org/pdf/1706.03762.pdf "sin"). They needed something periodic so that the model could extend to different interval lengths.
 44. See [page 8 of the paper, n layers](https://arxiv.org/pdf/2005.14165.pdf "gpt"). I'm unsure if this is encoder plus decoder layers, in which case it'd be half of 96, or just the encoder layers.
 45. Technically there's another linear layer neural network and softmax layer [after the decoding layers](http://jalammar.github.io/illustrated-transformer/ "linear"), but have left out for simplicity. 
-46. To be fair, it definitely looks the part.
+46. Coincidentally the same as the number of repeat layers above, but doesn't have to be. Page 8 of the paper as well.
+47. The post also links to a statistical analysis tool, GLTR, that would be doing something similar to the Zipf's law analysis mentioned earlier.
+48. To be fair, it definitely looks the part.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
