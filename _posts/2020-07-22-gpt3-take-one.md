@@ -61,7 +61,7 @@ Let's declutter the diagram, and just look at the first word. We pass that word 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 3.png)
 
-The function used is a [neural network.](https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7 "neural") I'll gloss over exactly how those work as I've gone over the intuition before [here](https://avoidboringpeople.substack.com/p/the-next-machine-learning-startup "ML") (Free subs, email me and I'll forward). 
+The function used is a [neural network, so it's more complicated than just one step arithmetic.](https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7 "neural") I'll gloss over exactly how those work as I've gone over the intuition before [here](https://avoidboringpeople.substack.com/p/the-next-machine-learning-startup "ML"), and it'll overly complicate this walk through. Free subs, email me and I'll forward. 
 
 What we need to understand here is that the word is transformed into something else. The model can control both how the word is initially turned into numbers, and what function we perform. e.g. instead of (1, 2, 3) times 2, we could have "Had" turned into (2, 3, 4), and then times 3 to equal (6, 9, 12)
 
@@ -91,13 +91,21 @@ And we're done with the old model! That was a lot, and obviously overly simplifi
 
 Now here's a critical question that both tests our understanding and shows the improvements in the new model. In the old model, could we solve any part of the process before we had solved the previous parts?
 
-No, since we had to run everything in sequence. We need the result from the previous step, in order to predict the next step. We can't skip any parts, as every step is dependent on the previous one, in a recurring fashion. This is also why the old model is known as a [recurrent neural network](http://karpathy.github.io/2015/05/21/rnn-effectiveness/ "RNN"). Because of this, the computation of the prediction also becomes slow once our input text becomes large.
+**No, since we had to run everything in sequence.** We need the result from the previous step, in order to predict the next step. We can't skip any parts, as every step is dependent on the previous one, in a recurring fashion. This is also why the old model is known as a [recurrent neural network](http://karpathy.github.io/2015/05/21/rnn-effectiveness/ "RNN"). Because of this, the computation of the prediction also becomes slow once our input text becomes large.
 
 Enter the transformer model.
 
 ### Overview of GPT-3 model
 
+GPT-3 stands for Generative Pretrained Transformer 3. The transformer in the name stands for the [transformer model, with attention.](http://jalammar.github.io/illustrated-transformer/ "transformer") Both GPT-2 and GPT-3 use the same type of model, so any explanations you find of the former will generalise as well \[40\]. Let's walk through a simplified version of the new model.
 
+We'll go back to the start, with our input words and trying to get the output from them.  
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 2.png)
+
+Now though, we want to evaluate all the input words at the same time, in parallel rather than in sequence. This will save us a lot of time computing the result. 
+
+We convert our input words to numbers again, like we always do. This time though, we pass those numbers through 3 different functions, getting 3 temporary outputs for each word. Note that it's just for simplicity that our word and outputs have 3 numbers; in practice they're hundreds of numbers long \[41\]. 
 
 ### Detecting GPT-3
 
@@ -131,7 +139,9 @@ Here's a demo. I went to the first sample in the appendix of the [GPT 3 paper (p
 
 1. 
 30. We're not exactly converting the words to binary representation, if that's what you were thinking. Instead, we're [using a word embedding such as word2vec](https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7 "word2") to generate varying numerical representations
-31. Ok, so I'm pretty sure the first function actually has a [bias unit](https://ayearofai.com/rohan-5-what-are-bias-units-828d942b4f52 "bias"), so it also takes another input. But that overly complicates the main text explanation, so I'm leaving it out.   
+31. Ok, so I'm pretty sure the first function actually has a [bias unit](https://ayearofai.com/rohan-5-what-are-bias-units-828d942b4f52 "bias"), so it also takes another input. But that overly complicates the main text explanation, so I'm leaving it out.
+40. You can verify this in the [GPT-3 paper page 8,](https://arxiv.org/pdf/2005.14165.pdf "paper") where they say "We use the same model and architecture as GPT-2, including the modified initialization, pre-normalization, and reversible tokenization described therein, with the exception that we use alternating dense and locally banded sparse attention patterns in the layers of the transformer, similar to the Sparse Transformer"
+41. This is the part of the transformer model where [they embed the word, and then calculate smaller query, key, and value vectors by mapping the embedded word vector on to a pre-trained weighted matrix](https://youtu.be/S0KakHcj_rs?t=1083 "youtube")
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
