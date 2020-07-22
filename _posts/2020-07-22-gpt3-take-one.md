@@ -169,24 +169,27 @@ This was a long sidetrack, but you now have more intuition about what GPT-3 is d
 
 We know GPT-3 is good, and that some samples of the output are difficult to distinguish from a human's writing. The natural question then, is to ask if there is any way we can detect if text was written by a machine?
 
-Turns out there's a couple of surprisingly simple ways to do so. 
+Turns out there's some surprisingly simple ways to do so. 
 
 Firstly, [because of the hyperparameters used in GPT-3,](https://medium.com/analytics-vidhya/understanding-the-gpt-2-source-code-part-1-4481328ee10b "temp") the frequency of words generated will not follow distributions expected from normal humans. In the screenshot below, Gwern is explaining that this results in common words turning up even more than expected, and uncommon words not turning up at all. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 22.png)
 
-For those unfamiliar with Zipf's law, I've previously covered it [here](https://avoidboringpeople.substack.com/p/war-of-the-words "Zipf") when talking about searching for aliens (free subs email me and I'll forward). Essentially, it states that in a large sample of text, the frequency of any word is inversely proportional to its rank, when ranked by frequency of occurrence. 
+For those unfamiliar with Zipf's law, I've previously covered it [here](https://avoidboringpeople.substack.com/p/war-of-the-words "Zipf") when talking about searching for aliens (free subs email me and I'll forward). Essentially, it states that in a large sample of text, the frequency of any word is inversely proportional to its rank, when ranked by frequency of occurrence. e.g. the most common word is ~2x more frequent than the 2nd most common word.
 
+I've plotted Zipf's law for my articles before, and it looks like the top graph. If GPT-3 were to write my articles, you'd expect something like the bottom instead (with more words of course, the example just for illustrative purposes).
 
-zipf
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 23.png)
 
-Analytics Vidhya did a post a while back on [how to detect computer generated articles.](https://www.analyticsvidhya.com/blog/2019/12/detect-fight-neural-fake-news-nlp/ "Vidhya") They provide a few tools and links, such as [Grover,](https://grover.allenai.org/detect "Grover") that can take the text and tell you if they believe it was machine generated.
+Secondly, you can use another model to check the text. Analytics Vidhya did a post a while back on [how to detect computer generated articles.](https://www.analyticsvidhya.com/blog/2019/12/detect-fight-neural-fake-news-nlp/ "Vidhya") They provide a few tools and links, such as a GPT-2 detector model or [Grover,](https://grover.allenai.org/detect "Grover") that can take the text and tell you if they believe it was machine generated. These tools have not been calibrated for GPT-3 yet, but still perform well. They work because the models are familiar with the quirks that other models use to generate text.
 
 Here's a demo. I went to the first sample in the appendix of the [GPT 3 paper (page 49)](https://arxiv.org/pdf/2005.14165.pdf "GPT"), and copied the machine generated poem there. Plugging that in to Grover's site, shows me that Grover thinks it was machine generated. 
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 24.png)
 
+Of course, neither of these methods are foolproof. If you don't have a large enough sample size of text, it's hard to do frequency analysis. Grover also gets false positives, such as wrongly claiming that Allen Ginsberg's poem [Howl](https://www.poetryfoundation.org/poems/49303/howl "Howl") was written by a machine \[50\]. 
 
+That said, having such methods still available make me less fearful of the dangers of fake machine generated text. In the worst case scenario, everyone will have to install some browser extension that scans the page and warns you if it thinks the text was fake. Perhaps something like the ad blockers of today?
 
 ### Other interesting commentary
 
@@ -215,6 +218,7 @@ Here's a demo. I went to the first sample in the appendix of the [GPT 3 paper (p
 43. They use sine and cosine functions, see [page 6 of the original paper](https://arxiv.org/pdf/1706.03762.pdf "sin"). They needed something periodic so that the model could extend to different interval lengths.
 44. See [page 8 of the paper, n layers](https://arxiv.org/pdf/2005.14165.pdf "gpt"). I'm unsure if this is encoder plus decoder layers, in which case it'd be half of 96, or just the encoder layers.
 45. Technically there's another linear layer neural network and softmax layer [after the decoding layers](http://jalammar.github.io/illustrated-transformer/ "linear"), but have left out for simplicity. 
+46. To be fair, it definitely looks the part.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
