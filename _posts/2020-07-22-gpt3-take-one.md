@@ -40,9 +40,9 @@ About a week ago, Sharif Shameem shared this video on twitter demonstrating the 
 
 And. Twitter. Freaked. Out.
 
-Perhaps realising that their cushy jobs of [copying stack overflow answers](https://www.zdnet.com/article/the-most-copied-stackoverflow-java-code-snippet-contains-a-bug/ "SO") or [following the herd on oversubscribed rounds](https://twitter.com/nbashaw/status/1261328301953445890?s=20 "startup") were at risk \[1\], programmers and VCs alike on twitter started flooding the feed with GPT-3 demos and hot takes on this newest artificial intelligence. It's still continuing, if [you want to take a look](https://twitter.com/hashtag/gpt3?lang=en "gpt3")
+Perhaps realising that their cushy jobs of [copying stack overflow answers](https://www.zdnet.com/article/the-most-copied-stackoverflow-java-code-snippet-contains-a-bug/ "SO") or [following the herd on oversubscribed rounds](https://twitter.com/nbashaw/status/1261328301953445890?s=20 "startup") were at risk \[1\], programmers and VCs alike on twitter started flooding the feed with GPT-3 demos and hot takes on this newest artificial intelligence. They're still going, if [you want to take a look](https://twitter.com/hashtag/gpt3?lang=en "gpt3")
 
-So, here I am, with my own hot take, to cash in on all that captivated audience.
+So, here I am, with my own hot take, to cash in on all that captivated audience for AI.
 
 Hey man, I'm only human.
 
@@ -55,6 +55,8 @@ The article is split into 5 sections:
 5. Implications of GPT-3
 
 Let's get started.
+
+### 1. GPT-3 is impressive because it can create intelligble outputs for a wide variety of use cases
 
 
 
@@ -118,7 +120,7 @@ Now here's a critical question that both tests our understanding and hints at th
 
 Enter the transformer model.
 
-### 3. Overview of GPT-3 model
+### 3. GPT-3 uses a transformer decoder model, a variation on the transformer model
 
 GPT-3 stands for Generative Pretrained Transformer 3. The transformer in the name stands for the [transformer model, using an "attention" mechanism.](http://jalammar.github.io/illustrated-transformer/ "transformer") Both GPT-2 and GPT-3 use the same type of model, so any explanations you find of the former will generalise as well \[40\]. 
 
@@ -186,11 +188,11 @@ Kidding, don't freak out \[46\].
 
 GPT-3 combines the encoding and decoding process, to get a [Transformer Decoder](https://arxiv.org/pdf/1801.10198.pdf "TD"). They combine the input and expected output sequence into a single "sentence" and then run that through the decoding layers. GPT-3 has 96 of these decoding layers \[47\]. The model is used to predict the next input and also the next output. 
 
-If this sounds a bit hand-wavy, that's because it is. I can't find any explanation of how they combine the steps online, besides the original paper and this random [github comment as confused as I am](https://github.com/openai/gpt-2/issues/157 "github"). If anyone knows, please email me.
-
-Most of the people posting online all say that GPT-3 uses the traditional transformer encoder-decoder model. **Yep, all those people are wrong,** just like I was until before I was corrected just before posting this.
-
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 19b.png)
+
+If this sounds a bit hand-wavy, that's because it is. I can't find any explanation of how they combine the steps online, besides the original paper and this random [github comment as confused as I am](https://github.com/openai/gpt-2/issues/157 "github"). It seems like the way they're predicting one word at a time would also imply we're back to the recursive issue, of processing the text sequentially. Maybe just throwing enough compute power at the problem was the solution. If anyone knows more, please email me.
+
+Many people posting online all say that GPT-3 uses the traditional transformer, or transformer encoder-decoder model. They then explain the traditional transformer model in order to describe what's happening in GPT-3. **Yep, all those people are wrong,** just like I was until before I was corrected just before posting this.
 
 If you're still with me, there's two more important features of the algorithm worth mentioning. 
 
