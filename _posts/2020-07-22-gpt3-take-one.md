@@ -278,9 +278,6 @@ I'd controversially propose that GPT-3 tells us more about ourselves as humans, 
 50. The post also links to a statistical analysis tool, [GLTR,](https://gltr.io/ "GLTR") that would be doing something similar to the Zipf's law analysis mentioned earlier.
 51. To be fair, it definitely looks the part.
 
-
-See 
-
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
 <div class="iframe-container-4x3">
