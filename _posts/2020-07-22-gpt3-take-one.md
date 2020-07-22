@@ -41,7 +41,7 @@ but is preserved [here](https://antinegationism.tumblr.com/post/182901133106/an-
 
 ### 2. Overview of the seq2seq model before GPT-3
 
-*Disclaimer: The next two sections get slightly technical as I explain the models used. Feel free to skip over to the "Detecting GPT-3" section after if not feeling up to the challenge.*
+*Disclaimer: The next two sections get slightly technical as I explain the models used. Feel free to skip over to the "How can we detect GPT-3?" section after if not feeling up to the challenge.*
 
 *Further disclaimer: I'm not an ML expert, and the models involved are complicated. I'll be leaning on [this talk](https://www.youtube.com/watch?v=S0KakHcj_rs "talk") plus the other explanations linked at the bottom of this article. Feel free to reply with any corrections.*
 
@@ -131,7 +131,7 @@ Let's return back to the first word. We're done with the a and b outputs, but st
 
 Ok, that was a lot of work. I swear, this makes sense to the people who came up with it. What we've just done is gone through [the steps of calculating "attention" for our words](http://jalammar.github.io/illustrated-gpt2/ "attention") \[42\]. The amount of "attention" word A has for another word, is how much word A should focus on it and hence how much context it should get. By associating components of the words with all other words, we solve for the context issue earlier. I'll skip the solving of the position issue for simplicity, just think of it as them adding more numbers to the original word based on word position \[43\].
 
-We now have this new output, z, that has information from that particular word, as well as the context for other words in the input. We run this through another function (a neural network) to get yet another output, let's call them z\*. Nearly there.
+We now have this new output, z, that has information from that particular word, as well as the context for other words in the input. We run this through another function (a feed forward neural network) to get yet another output, let's call them z\*. Nearly there.
 
 We'll summarise all of the steps we just did and call them an "encoding" step. During "encoding", we transform our initial numbers for the word into new numbers that include more context from the other words around it. e.g. (1, 2, 3) becomes (5, 7, 0). Reminder that each word is actually hundreds of numbers, not just three.
 
@@ -163,11 +163,11 @@ Firstly, remember way back when we split the word into 3 different features, a, 
 
 Secondly, every time I mentioned function in this section, you can think of it as a weight or parameter on some number. When you add up all the weights, the new model has 175bn of them. No, that's not a typo. When people are referring to the number of parameters that GPT-3 uses, and how it's so much larger than previous models, this is what they are referring to. e.g. if each word was represented as a list of 1000 numbers, then you'd need that many parameters just to go through one function in the entire process outlined above. You can easily see how having a process with 96 layers and 128 alternatives within each layer gets you to a gargantuan number of parameters required. 
 
-This was a long sidetrack, but you now have more intuition about what GPT-3 is doing. It's taking inputs, performing multiple iterations of transformations on the words via matrix math, and using that to predict or translate words. The transformer architecture from the original paper is below for reference, and you can see how parts of it map to the simplified diagram we just worked through. 
+This was a long sidetrack, but you now have more intuition about what GPT-3 is doing. It's taking inputs, performing multiple iterations of transformations on the words via matrix math, and using that to predict or translate words. The transformer architecture from the original paper is below for reference, and you can see how parts of it map to the simplified diagram we just worked through \[48\]. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 21.png)
 
-### 4. Detecting GPT-3
+### 4. How can we detect GPT-3?
 
 We know GPT-3 is good, and that some samples of the output are difficult to distinguish from a human's writing. The natural question then, is to ask if there are other ways we can detect if text was written by a machine?
 
@@ -183,17 +183,21 @@ I've plotted Zipf's law for my newsletter before, and it looks like the top grap
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 23.png)
 
-Secondly, you can use another model to check the text. Analytics Vidhya did a post a while back on [how to detect computer generated articles.](https://www.analyticsvidhya.com/blog/2019/12/detect-fight-neural-fake-news-nlp/ "Vidhya") They provide a few tools such as a GPT-2 detector model or [Grover,](https://grover.allenai.org/detect "Grover") that can take sample text and tell you if they believe it was machine generated \[48\]. These tools were released before GPT-3 and have not been calibrated for it yet, but still perform well. They work because the models are familiar with the quirks that other models use to generate text.
+Secondly, you can use another model to check the text. Analytics Vidhya did a post a while back on [how to detect computer generated articles.](https://www.analyticsvidhya.com/blog/2019/12/detect-fight-neural-fake-news-nlp/ "Vidhya") They provide a few tools such as a GPT-2 detector model or [Grover,](https://grover.allenai.org/detect "Grover") that can take sample text and tell you if they believe it was machine generated \[49\]. These tools were released before GPT-3 and have not been calibrated for it yet, but still perform well. They work because the models are familiar with the quirks that other models use to generate text.
 
 Here's a demo. I went to the first sample in the appendix of the [GPT 3 paper (page 49)](https://arxiv.org/pdf/2005.14165.pdf "GPT"), and copied the machine generated poem there. Plugging that in to Grover's site, shows that Grover thinks it was machine generated. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 24.png)
 
-Of course, neither of these methods are foolproof. If you don't have a large enough sample size of text, it's hard to do frequency analysis or verify it via the checking models. Grover also gets false positives, such as wrongly claiming that Allen Ginsberg's poem [Howl](https://www.poetryfoundation.org/poems/49303/howl "Howl") was written by a machine \[49\]. And it also gets false negatives, thinking that text generated by GPT-3 was created by a human. You can try playing around with it and see.
+Of course, neither of these methods are foolproof. If you don't have a large enough sample size of text, it's hard to do frequency analysis or verify it via the checking models. Grover also gets false positives, such as wrongly claiming that Allen Ginsberg's poem [Howl](https://www.poetryfoundation.org/poems/49303/howl "Howl") was written by a machine \[50\]. And it also gets false negatives, thinking that text generated by GPT-3 was created by a human. You can try playing around with it and see.
 
 That said, having such methods still available make me less fearful of the dangers of fake machine generated text. Since both of the tools above rely on structural features of the models, it seems likely that as long as the models have hyperparameters to adjust, the text generated would be identifiable. 
 
 In the worst case scenario, everyone will have to install some browser extension that scans the page and warns you if it thinks the text was fake. Perhaps something like the ad blockers of today?
+
+### 5. Concluding thoughts
+
+
 
 ### Other interesting commentary
 
@@ -214,18 +218,19 @@ In the worst case scenario, everyone will have to install some browser extension
 ### Footnotes
 
 1. 
-30. We're not exactly converting the words to binary representation, if that's what you were thinking. Instead, we're [using a word embedding such as word2vec](https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7 "word2") to generate varying numerical representations
+30. We're not exactly converting the words to binary representation here, if that's what you were thinking. Instead, we're [using a word embedding such as word2vec](https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7 "word2") to generate varying numerical representations of the words that can be used in the algorithms moving forward. True, at the end of the day everything's converted to binary, but that's not at this point of the process.
 31. Ok, so I'm pretty sure the first function actually has a [bias unit](https://ayearofai.com/rohan-5-what-are-bias-units-828d942b4f52 "bias"), so it also takes another input. But that overly complicates the main text explanation, so I'm leaving it out.
 40. You can verify this in the [GPT-3 paper page 8,](https://arxiv.org/pdf/2005.14165.pdf "paper") where they say "We use the same model and architecture as GPT-2, including the modified initialization, pre-normalization, and reversible tokenization described therein, with the exception that we use alternating dense and locally banded sparse attention patterns in the layers of the transformer, similar to the Sparse Transformer"
-41. This is the part of the transformer model where [they embed the word, and then calculate smaller query, key, and value vectors by mapping the embedded word vector on to a pre-trained weighted matrix.](https://youtu.be/S0KakHcj_rs?t=1083 "youtube") I'm not fully clear on what the query, key, and values represent, would suggest checking out the extra reading for more detail
-42. The first step was getting the query, key, value vectors. Then we take the dot product of the query vector with the key vectors of other words to see how much focus to place on other words. Then we divide by the dimension of the key vectors. Then we do a [softmax function](https://towardsdatascience.com/softmax-function-simplified-714068bf8156 "soft"). Then we take multiply the results by the value vectors. And finally we take the sum of all that, to get one final vector to use in the next part of the process. 
+41. This is the part of the transformer model where [they embed the word, and then calculate smaller query, key, and value vectors by mapping the embedded word vector on to a pre-trained weighted matrix.](https://youtu.be/S0KakHcj_rs?t=1083 "youtube") I'm still not fully clear on what the query, key, and values represent after watching all this reading and video watching. I'd suggest checking out the extra resources for more detail to see for yourself. My current intuition is that it's a decomposition of the word into something that can carry the weight of the word, the weight when it's compared to another, and a lookup match. 
+42. The first step was getting the query, key, value vectors. Then we take the dot product of the query vector with the key vectors of other words to see how much focus to place on other words. Then we divide by the square root of the dimension of the key vectors. Then we do a [softmax function](https://towardsdatascience.com/softmax-function-simplified-714068bf8156 "soft"). Then we take multiply the results by the value vectors. And finally we take the sum of all that, to get one final vector to use in the next part of the process. 
 43. They use sine and cosine functions, see [page 6 of the original paper](https://arxiv.org/pdf/1706.03762.pdf "sin"). They needed something periodic so that the model could extend to different interval lengths.
-44. See [page 8 of the paper, n layers](https://arxiv.org/pdf/2005.14165.pdf "gpt"). I'm unsure if this is encoder plus decoder layers, in which case it'd be half of 96, or just the encoder layers.
+44. See [page 8 of the paper, n layers](https://arxiv.org/pdf/2005.14165.pdf "gpt"). I'm unsure if this is encoder plus decoder layers, in which case it'd be half of 96, or the number of encoder and decoder layer pairs, meaning there are 96 of each.
 45. Technically there's another linear layer neural network and softmax layer [after the decoding layers](http://jalammar.github.io/illustrated-transformer/ "linear"), but have left out for simplicity. 
 46. In the decoder, the outputs can only pay attention to output words that come before it, rather than the entire output sequence. This is known as "masking"
 47. Coincidentally the same as the number of repeat layers above, but doesn't have to be. Page 8 of the paper as well.
-48. The post also links to a statistical analysis tool, GLTR, that would be doing something similar to the Zipf's law analysis mentioned earlier.
-49. To be fair, it definitely looks the part.
+48. Ok, this looks scary, and I spent a long time reading and watching the vids before understanding what was going on. To map this to the model we walked through, let's start from the left. We've got inputs, they get embedded. So far that's the same as how our words got converted to numbers at the start. Then we have "positional encoding", which is the addition of the position numbers that I skipped over. Then we enter this box that starts with "multi-head attention" - we know this, we went through that entire process. There's this "add & norm" box that refers to [layer normalisation](https://mlexplained.com/2018/11/30/an-overview-of-normalization-methods-in-deep-learning/ "norm") that you can think of as scaling the numbers. Then this goes to the "feed forward" box, which is the neural network mentioned to get to z\*. Then we normalise again. This larger box has Nx on the outside, indicating we repeat this N times as desired. On the right, we see the outputs, do the embedding and encoding, and then enter the big box. The steps in there are similar to the left, except we do "masked" multi-head attention, and also take the output from the left box. Repeeat N times as desired. This then goes through a linear layer and a softmax function to get output probabilities for what words to output. Phew.
+49. The post also links to a statistical analysis tool, GLTR, that would be doing something similar to the Zipf's law analysis mentioned earlier.
+50. To be fair, it definitely looks the part.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
