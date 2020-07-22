@@ -32,17 +32,33 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-### Main
+### Only human after all
 
 About a week ago, Sharif Shameem shared this video on twitter demonstrating the abilities of a new AI, GPT-3:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is mind blowing.<br><br>With GPT-3, I built a layout generator where you just describe any layout you want, and it generates the JSX code for you.<br><br>W H A T <a href="https://t.co/w8JkrZO4lk">pic.twitter.com/w8JkrZO4lk</a></p>&mdash; Sharif Shameem (@sharifshameem) <a href="https://twitter.com/sharifshameem/status/1282676454690451457?ref_src=twsrc%5Etfw">July 13, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-And twitter. Freaked. Out.
+And. Twitter. Freaked. Out.
 
-Perhaps realising that their cushy jobs of [copying stack overflow answers](https://www.zdnet.com/article/the-most-copied-stackoverflow-java-code-snippet-contains-a-bug/ "SO") or following the herd on hot 
+Perhaps realising that their cushy jobs of [copying stack overflow answers](https://www.zdnet.com/article/the-most-copied-stackoverflow-java-code-snippet-contains-a-bug/ "SO") or [following the herd on oversubscribed rounds](https://twitter.com/nbashaw/status/1261328301953445890?s=20 "startup") were at risk \[1\], programmers and VCs alike on twitter started flooding the feed with GPT-3 demos and hot takes on this newest artificial intelligence. It's still continuing, if [you want to take a look](https://twitter.com/hashtag/gpt3?lang=en "gpt3")
+
+So, here I am, with my own hot take, to cash in on all that captivated audience.
 
 Hey man, I'm only human.
+
+The article is split into 5 sections:
+
+1. Explanation of what GPT-3 can do, why it's impressive, and why people are concerned
+2. Slightly more technical overview of how language models worked before GPT-3
+3. Slightly more technical overview of how GPT-3 works
+4. How to detect text written by GPT-3
+5. Implications of GPT-3
+
+Let's get started.
+
+
+
+better marketing department
 
 but is preserved [here](https://antinegationism.tumblr.com/post/182901133106/an-eternal-howl "Moloch")
 
@@ -246,7 +262,7 @@ I'd controversially propose that GPT-3 tells us more about ourselves as humans, 
 
 ### Footnotes
 
-1. 
+1. I kid, I kid. Occasionally they play ping pong.
 30. We're not exactly converting the words to binary representation here, if that's what you were thinking. Instead, we're [using a word embedding such as word2vec](https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7 "word2") to generate varying numerical representations of the words that can be used in the algorithms moving forward. True, at the end of the day everything's converted to binary, but that's not at this point of the process.
 31. Ok, so I'm pretty sure the first function actually has a [bias unit](https://ayearofai.com/rohan-5-what-are-bias-units-828d942b4f52 "bias"), so it also takes another input. But that overly complicates the main text explanation, so I'm leaving it out.
 40. You can verify this in the [GPT-3 paper page 8,](https://arxiv.org/pdf/2005.14165.pdf "paper") where they say "We use the same model and architecture as GPT-2, including the modified initialization, pre-normalization, and reversible tokenization described therein, with the exception that we use alternating dense and locally banded sparse attention patterns in the layers of the transformer, similar to the Sparse Transformer"
@@ -259,7 +275,7 @@ I'd controversially propose that GPT-3 tells us more about ourselves as humans, 
 47. Per [page 8 of the paper (n layers)](https://arxiv.org/pdf/2005.14165.pdf "gpt")
 48. Coincidentally the same as the number of repeat layers above, but doesn't have to be. Page 8 of the paper as well.
 49. Ok, this looks scary, and I spent a long time reading and watching the vids before understanding what was going on. To map this to the model we walked through, let's start from the left. We've got inputs, they get embedded. So far that's the same as how our words got converted to numbers at the start. Then we have "positional encoding", which is the addition of the position numbers that I skipped over. Then we enter this box that starts with "multi-head attention" - we know this, we went through that entire process. There's this "add & norm" box that refers to [layer normalisation](https://mlexplained.com/2018/11/30/an-overview-of-normalization-methods-in-deep-learning/ "norm") that you can think of as scaling the numbers. Then this goes to the "feed forward" box, which is the neural network mentioned to get to z\*. Then we normalise again. This larger box has Nx on the outside, indicating we repeat this N times as desired. On the right, we see the outputs, do the embedding and encoding, and then enter the big box. The steps in there are similar to the left, except we do "masked" multi-head attention, and also take the output from the left box. Repeeat N times as desired. This then goes through a linear layer and a softmax function to get output probabilities for what words to output. Phew. Again, this is for the regular transfomer model. GPT-3 just uses the right hand side.
-50. The post also links to a statistical analysis tool, GLTR, that would be doing something similar to the Zipf's law analysis mentioned earlier.
+50. The post also links to a statistical analysis tool, [GLTR,](https://gltr.io/ "GLTR") that would be doing something similar to the Zipf's law analysis mentioned earlier.
 51. To be fair, it definitely looks the part.
 
 
