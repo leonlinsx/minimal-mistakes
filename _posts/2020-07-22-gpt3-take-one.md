@@ -39,7 +39,67 @@ published: false
 
 but is preserved [here](https://antinegationism.tumblr.com/post/182901133106/an-eternal-howl "Moloch")
 
-### Detection
+### Overview of the seq2seq model before GPT-3
+
+*Disclaimer: The next two sections get slightly technical as I explain the models used, feel free to skip over to the "Detecting GPT-3" section after if not feeling up to the challenge.*
+
+*Further disclaimer: I'm not an ML expert, and the models involved are complicated. I'll be leaning on [this talk](https://www.youtube.com/watch?v=S0KakHcj_rs "talk") plus the other explanations linked at the bottom of this article. Feel free to reply with any corrections.*
+
+GPT-3 uses a different model compared to traditional prediction models. However, it's still helpful to get the intuition behind the older models before looking at GPT-3. I'll first walk through an old model, and then walk through GPT-3. 
+
+We'll start with the popular older [sequence to sequence model.](https://google.github.io/seq2seq/ "seq") This is commonly abbreviated as "seq2seq", but to make things even easier to understand, I'll just refer to it as "old model", and GPT-3 as "new model."
+
+Suppose we had a phrase, and wanted to predict the next phrase. We'd put our phrase through a series of functions, and then get the predicted output.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 1.png)
+
+Every word matters, so we have to split up the input phrase and look at it one word at a time. e.g. "Had we but world enough and time" has different connotations vs "Had we but world enough and limes"
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 2.png)
+
+Let's declutter the diagram, and just look at the first word. We pass that word through a function, and then get some temporary output. We know that we can represent words as numbers, since that's how computers process words \[30\]. So think of it as the word being transformed to some amount of numbers, having math done on it, and then getting another set of numbers after that. e.g. (1, 2, 3) times 2 equals (2, 4, 6)
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 3.png)
+
+The function used is a [neural network.](https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7 "neural") I'll gloss over exactly how those work as I've gone over the intuition before [here](https://avoidboringpeople.substack.com/p/the-next-machine-learning-startup "ML") (Free subs, email me and I'll forward). 
+
+What we need to understand here is that the word is transformed into something else. The model can control both how the word is initially turned into numbers, and what function we perform. e.g. instead of (1, 2, 3) times 2, we could have "Had" turned into (2, 3, 4), and then times 3 to equal (6, 9, 12)
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 4.png)
+
+We're done with the first word, so let's move on to the second. What's different here is that we have that temporary output 1 from the first word \[31\]. We'll combine that, together with the second word, apply our function again, and get a new temporary output 2. 
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 5.png)
+
+At this point, you can infer where we're going for the rest of the sequence. Indeed, we just keep doing this until we end up at the last word of our input, in a recurring pattern.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 6.png)
+
+Using that temporary output, we apply a different function, and that gets us two things. We get the first word of our output (translated back from numbers), and then another temporary output (still in numbers). In our example, we get the word "this". Awesome, finally some tangible progress!
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 7.png)
+
+Now we have a temporary output, one actual output, and our new function. As you might have guessed, we can repeat this same step to get the next predicted word, and another temporary output. It's a recurring pattern again.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 8.png)
+
+And just as in the earlier input scenario, repeat all the way until the end of the phrase.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 9.png)
+
+And we're done with the old model! That was a lot, and obviously overly simplified, but we've gotten a high level understanding of the process. For more detail, you can check out the original paper [here](https://arxiv.org/abs/1409.3215 "paper")
+
+Now here's a critical question that both tests our understanding and shows the improvements in the new model. In the old model, could we solve any part of the process before we had solved the previous parts?
+
+No, since we had to run everything in sequence. We need the result from the previous step, in order to predict the next step. We can't skip any parts, as every step is dependent on the previous one, in a recurring fashion. This is also why the old model is known as a [recurrent neural network](http://karpathy.github.io/2015/05/21/rnn-effectiveness/ "RNN"). Because of this, the computation of the prediction also becomes slow once our input text becomes large.
+
+Enter the transformer model.
+
+### Overview of GPT-3 model
+
+
+
+### Detecting GPT-3
 
 Zipf
 
@@ -70,6 +130,8 @@ Here's a demo. I went to the first sample in the appendix of the [GPT 3 paper (p
 ### Footnotes
 
 1. 
+30. We're not exactly converting the words to binary representation, if that's what you were thinking. Instead, we're [using a word embedding such as word2vec](https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7 "word2") to generate varying numerical representations
+31. Ok, so I'm pretty sure the first function actually has a [bias unit](https://ayearofai.com/rohan-5-what-are-bias-units-828d942b4f52 "bias"), so it also takes another input. But that overly complicates the main text explanation, so I'm leaving it out.   
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
