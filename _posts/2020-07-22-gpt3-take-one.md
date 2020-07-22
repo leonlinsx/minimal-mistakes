@@ -91,7 +91,7 @@ And we're done with the old model! That was a lot, and obviously overly simplifi
 
 Now here's a critical question that both tests our understanding and shows the improvements in the new model. In the old model, could we solve any part of the process before we had solved the previous parts?
 
-**No, since we had to run everything in sequence.** We need the result from the previous step, in order to predict the next step. We can't skip any parts, as every step is dependent on the previous one, in a recurring fashion. This is also why the old model is known as a [recurrent neural network](http://karpathy.github.io/2015/05/21/rnn-effectiveness/ "RNN"). Because of this, the computation of the prediction also becomes slow once our input text becomes large.
+**No, since we had to run everything in sequence.** Both the position and the context of the words matter, so we want to process all of it one word at a time. We can't skip any parts, as every step is dependent on the previous one, in a recurring fashion. This is also why the old model is known as a [recurrent neural network](http://karpathy.github.io/2015/05/21/rnn-effectiveness/ "RNN"). Because of this, the computation of the prediction also becomes slow once our input text becomes large.
 
 Enter the transformer model.
 
@@ -105,7 +105,65 @@ We'll go back to the start, with our input words and trying to get the output fr
 
 Now though, we want to evaluate all the input words at the same time, in parallel rather than in sequence. This will save us a lot of time computing the result. 
 
-We convert our input words to numbers again, like we always do. This time though, we pass those numbers through 3 different functions, getting 3 temporary outputs for each word. Note that it's just for simplicity that our word and outputs have 3 numbers; in practice they're hundreds of numbers long \[41\]. 
+We convert our input words to numbers again, like we always do. This time though, we pass those numbers through 3 different functions, getting 3 temporary outputs for each word, a, b, and c. Note that it's just for simplicity that our word and outputs have 3 numbers; in practice they're hundreds of numbers long. We'll see how these 3 outputs are used shortly \[41\]. 
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 10.png)
+
+Let's declutter the diagram, and do those calculations for all the input words.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 11.png)
+
+Now here's the problem we run into when we don't consider the input sequentially; researchers were stuck on this for a long time before the new model. As mentioned earlier, both the position as well as the context for words matter. How can we get that when we don't evaluate sequentially?
+
+For example, take the sentence "The author drank even more coffee to finish his newsletter, because it wasn't done yet". Swapping the position of "coffee" with "newsletter" wouldn't make sense, so the computer needs to know that somehow. Additionally, the "it" here refers to the newsletter, and the computer also needs to know that context. In the old model, all that information is retained since we move one word at a time. In the new model, we need another method to obtain that information.
+
+Notice from the diagram that we've calculated all those temporary outputs simultaneously, and none depend on the other. What we'll do next is take the first temporary output of the first word, and apply a function on that output with all the second temporary outputs of all the words. In the diagram, I've represented the results of these as the first temporary output "dot" the second temporary output e.g. 1a.2b
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 12.png)
+
+We've taken something that was related to the first word, and linked it with something that was related to all the other words. Importantly, we don't have to do these caclulations sequentially, since the result of one doesn't flow into the other. We can repeat this for the rest of the words. Here I show the same step for word 2, just for clarity.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 13.png)
+
+Let's return back to the first word. We're done with the a and b outputs, but still have c left. To nobody's surprise, we apply yet another function on all of these temporary dot outputs and all the c outputs. After that, we use yet another function, to turn all of those separate outputs into one single output. e.g. in this case we went from 7 outputs, to 1 single output 1z.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 14.png)
+
+Ok, that was a lot of work. I swear, this makes sense to the people who came up with it. What we've just done is gone through [the steps of calculating "attention" for our words](http://jalammar.github.io/illustrated-gpt2/ "attention") \[42\]. By associating components of the words with all other words, we solve for the context issue earlier. I'll skip the solving of the position issue for simplicity, just think of it as them adding more numbers to the original word \[43\].
+
+We now have this new output, z, that has information from that particular word, as well as the context for other words in the input. We run this through another function (a neural network) to get yet another output, let's call them z\*. We'll summarise all of the steps we just did and call them an "encoding" step. During "encoding", we transform our initial numbers for the word, into new numbers that include more context from the other words around it. e.g. (1, 2, 3) becomes (5, 7, 0)
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 15.png)
+
+The output z\* has the same number of elements in it as when we first transformed the word into numbers. GPT-3 takes this result, and feeds it through the entire encoding process again. If I'm understanding it right, they repeat this process 96 times \[44\]. 
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 16.png)
+
+After all this training, we have a final output from the encoding. Let's call them vf. Note that the calculation of one word's vf is still independent of the calculation of another word's vf. This parallelisation has saved us a lot of time. e.g. I can calculate 7_vf without knowing 1_vf first.
+
+Now, we can use these final outputs, to start predicting out words. We pass all of these final outputs through another "decoding function", to get our first word \[45\]. There are differences between how the decoding function works vs the encoding function, but the steps are similar enough that we'll not walk through them again. I've put just one big block for "decoding functions" here, but GPT-3 repeats this process the same number of times as the encoding process, i.e. 96 times.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 17.png)
+
+Now that we've got our first predicted word, we'll use that word together with the final outputs, and pass them through the decoding function again. If you squint, this looks really like the process in the previous old model section.  
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 18.png)
+
+And once you repeat that process for all the words, you get the final phrase. Finally.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 19.png)
+
+If you're still with me, there's two more important features of the algorithm worth mentioning. 
+
+Firstly, remember way back when we split the word into 3 different features, a, b, and c? The new model actually does that 128 times, each time using a different function, such that 128 different triplets are generated. Since these are independent, it runs all of these through the encoding layers simulateneously as well, for all the input words at the same time. The results of these are merged together in getting that output from the encoding function, z. This is known as "multiple attention-heads"
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 20.png)
+
+Secondly, every time I mentioned function in this section, you can think of it as a weight or parameter on some number. When you add up all the weights, the new model has 175bn of them. When people are referring to the number of parameters that GPT-3 uses, and how it's so much larger than previous models, this is what they are referring to. e.g. if each word was represented as a table of 768 by 2304 numbers, then you'd need that many parameters just to go through one function in the entire process outlined above. You can easily see how having a process with 96 layers and 128 alternatives within each layer gets you to a gargantuan number of parameters required. 
+
+This was a long sidetrack, but hopefully you now have more intuition about what GPT-3 is doing. It's taking inputs, performing multiple iterations of transformations on the words, and using that to predict or translate words after that. The transformer architecture from the original paper is below for reference.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 21.png)
 
 ### Detecting GPT-3
 
@@ -142,6 +200,10 @@ Here's a demo. I went to the first sample in the appendix of the [GPT 3 paper (p
 31. Ok, so I'm pretty sure the first function actually has a [bias unit](https://ayearofai.com/rohan-5-what-are-bias-units-828d942b4f52 "bias"), so it also takes another input. But that overly complicates the main text explanation, so I'm leaving it out.
 40. You can verify this in the [GPT-3 paper page 8,](https://arxiv.org/pdf/2005.14165.pdf "paper") where they say "We use the same model and architecture as GPT-2, including the modified initialization, pre-normalization, and reversible tokenization described therein, with the exception that we use alternating dense and locally banded sparse attention patterns in the layers of the transformer, similar to the Sparse Transformer"
 41. This is the part of the transformer model where [they embed the word, and then calculate smaller query, key, and value vectors by mapping the embedded word vector on to a pre-trained weighted matrix](https://youtu.be/S0KakHcj_rs?t=1083 "youtube")
+42. The first step was getting the query, key, value vectors. Then we take the dot product of the query vector with the key vectors of other words to see how much focus to place on other words. Then we divide by the dimension of the key vectors. Then we do a [softmax function](https://towardsdatascience.com/softmax-function-simplified-714068bf8156 "soft"). Then we take multiply the results by the value vectors. And finally we take the sum of all that, to get one final vector to use in the next part of the process. 
+43. They use sine and cosine functions, see [page 6 of the original paper](https://arxiv.org/pdf/1706.03762.pdf "sin"). They needed something periodic so that the model could extend to different interval lengths.
+44. See [page 8 of the paper, n layers](https://arxiv.org/pdf/2005.14165.pdf "gpt"). I'm unsure if this is encoder plus decoder layers, in which case it'd be half of 96, or just the encoder layers.
+45. Technically there's another linear layer neural network and softmax layer [after the decoding layers](http://jalammar.github.io/illustrated-transformer/ "linear"), but have left out for simplicity. 
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
