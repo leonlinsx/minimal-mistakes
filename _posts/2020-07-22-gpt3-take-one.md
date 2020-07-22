@@ -238,9 +238,19 @@ Grover also gets false positives, such as wrongly claiming that Allen Ginsberg's
 
 That said, having such methods still available make me less fearful of the dangers of fake machine generated text. Since both of the tools above rely on structural features of the models, it seems likely that as long as the models have hyperparameters to adjust, the text generated would be identifiable. 
 
-In the worst case scenario, everyone will have to install some browser extension that scans the page and warns you if it thinks the text was fake. Perhaps something like the ad blockers of today?
+In the worst case scenario, everyone will have to install some browser extension that scans the page and warns you if it thinks the text was fake. Perhaps something like the ad blockers of today? At that point though, should we even care?
 
 ### 5. Concluding thoughts
+
+Access to the GPT-3 API is currently [subject to a waitlist,](https://openai.com/blog/openai-api/ "waitlist") as OpenAI wants to be careful about people misusing the model. If you're interested in the concept though, there are some workarounds.
+
+- OpenAI released the code for GPT-2 (the older version of GPT-3) [here](https://openai.com/blog/better-language-models/ "2"), so you can run that yourself if you know how to set it up.
+
+- The team at Hugging Face have built a more user friendly interface for GPT-2, as well as some other transformer based models. You can check that out [here](https://transformer.huggingface.co/ "transformer")
+
+- [Aaron Tay](https://musingsaboutlibrarianship.blogspot.com "Aaron") also posted that using the premium "Dragon" version of [AI Dungeon](https://play.aidungeon.io/ "AI"), a text generator game using GPT, [supposedly gets you access to GPT-3](https://musingsaboutlibrarianship.blogspot.com/2020/07/playing-with-gpt-3-via-ai-dungeon.html "AI")
+
+
 
 I'd controversially propose that GPT-3 tells us more about ourselves as humans, rather than about computers. It shows that we have a surprisingly wide range of tolerance for variation in the inputs we receive, whether that's prose, poetry, or pieces of music. Text that a computer would flag as machine generated would pass our instinctual tests, implying we are the more accomodating of the two. Perhaps it's that appreciation for ambiguity, that welcoming of the weird, that separates our synapse signals from bits and bytes. 
 
