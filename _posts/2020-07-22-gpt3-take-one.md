@@ -100,11 +100,15 @@ Partially, yeah. GPT-3 was released at [the end of May](https://minimaxir.com/20
 
 That said though, there are actually impressive improvements this time round as well. GPT-3 gives better results than GPT-2, and can generalise to more scenarios. This is largely due to the increased data used in training and increased model parameters.
 
-I'll elaborate more below, and the way these models work are that they take in data, train on them, and change their model weights according to the training set. It's been known for a while that more training data usually helps \[5\], and the results from GPT-3 continue to show that it's true. GPT-3 ingested [~50x the amount of data](https://lambdalabs.com/blog/demystifying-gpt-3 "lambda") that the older version did, giving some intuition on how it can come up with so many relevant references for its outputs \[6\].
+I'll elaborate more below, and the way these models work are that they take in data, train on them, and change their model weights according to the training set. 
+
+It's been known for a while that more training data usually helps \[5\], and the results from GPT-3 continue to show that it's true. GPT-3 ingested [~50x the amount of data](https://lambdalabs.com/blog/demystifying-gpt-3 "lambda") that the older version did, giving some intuition on how it can come up with so many relevant references for its outputs \[6\].
 
 GPT-3 also has [~100x the amount of parameters](https://minimaxir.com/2020/07/gpt3-expectations/ "params") in its model compared to the older version. Having 175bn parameters [isn't unheard of](https://twitter.com/iamtrask/status/1285301017878441988?s=20 "params"), but it does help GPT-3 get even more differentiation in its replies \[7\].
 
-Max Woolf points out two other things that are improved in GPT-3: [It allows for text generation twice as long, and prompts to the model are even more helpful in steering the direction of text generated](https://minimaxir.com/2020/07/gpt3-expectations/ "Max"). GPT-3 can take zero, one, or a few "prompts" of sample answers when you're giving it input. The prompts help guide its understanding of what answers to give. Overall, Max estimates that GPT-3 gave him usable results about 5x more often than the older GPT-2.
+Max Woolf points out two other things that are improved in GPT-3: [1) It allows for text generation twice as long, and 2) prompts to the model are even more helpful in steering the direction of text generated](https://minimaxir.com/2020/07/gpt3-expectations/ "Max"). GPT-3 can take zero, one, or a few "prompts" of sample answers when you're giving it input. The prompts help guide its understanding of what answers to give, and the more prompts the better. 
+
+Overall, Max estimates that GPT-3 gave him usable results about 5x more often than the older GPT-2.
 
 This allows for results such as [this, a plugin to pull GPT results to autofill google sheets](https://twitter.com/pavtalk/status/1285410751092416513?s=20 "twitter") (real demo this time, I promise):
 
@@ -145,7 +149,9 @@ Every word matters, so we have to split up the input phrase and look at it one w
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 2.png)
 
-Let's declutter the diagram, and just look at the first word. We pass that word through a function, and then get some temporary output. We know that we can represent words as numbers, since that's how computers process words \[30\]. So think of it as the word being transformed to some amount of numbers, having math done on it, and then getting another set of numbers after that. e.g. (1, 2, 3) times 2 equals (2, 4, 6). If you remember high school math, this is matrix multiplication or linear algebra. **Nearly all of the math below can be represented in some matrix multiplication form as well, for both this section and the next.**
+Let's declutter the diagram, and just look at the first word. We pass that word through a function, and then get some temporary output. We know that we can represent words as numbers, since that's how computers process words \[8\]. So think of it as the word being transformed to some amount of numbers, having math done on it, and then getting another set of numbers after that. e.g. (1, 2, 3) times 2 equals (2, 4, 6). 
+
+If you remember high school math, this is matrix multiplication or linear algebra. **Nearly all of the math below can be represented in some matrix multiplication form as well, for both this section and the next.**
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 3.png)
 
@@ -155,7 +161,7 @@ What's more important to understand here is that the word is transformed into so
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 4.png)
 
-We're done with the first word, so let's move on to the second. What's different here is that we have that temporary output 1 from the first word \[31\]. We'll combine that, together with the second word, apply our function again, and get a new temporary output 2. 
+We're done with the first word, so let's move on to the second. What's different here is that we have that temporary output 1 from the first word \[9\]. We'll combine that, together with the second word, apply our function again, and get a new temporary output 2. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 5.png)
 
@@ -185,7 +191,7 @@ Enter the transformer model.
 
 ### 3. GPT-3 uses a transformer decoder model, a variation on the transformer model
 
-GPT-3 stands for Generative Pretrained Transformer 3. The transformer in the name stands for the [transformer model, using an "attention" mechanism.](http://jalammar.github.io/illustrated-transformer/ "transformer") Both GPT-2 and GPT-3 use the same type of model, so any explanations you find of the former will generalise as well \[40\]. 
+GPT-3 stands for Generative Pretrained Transformer 3. The transformer in the name stands for the [transformer model, using an "attention" mechanism.](http://jalammar.github.io/illustrated-transformer/ "transformer") Both GPT-2 and GPT-3 use the same type of model, so any explanations you find of the former will generalise as well \[10\]. 
 
 However, what I learnt just before I published this post was that **they actually use [a variation of the transformer model.](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf "variation")** Hence, let's first walk through a simplified version of the new model, what "attention" means, and then see how GPT-3's version is different. I'll indicate when we're leaving the regular transformer and using GPT-3's tweaks. 
 
@@ -195,7 +201,7 @@ For the new model, we'll go back to the start, with our input words and trying t
 
 Now though, we want to evaluate all the input words at the same time, in parallel rather than in sequence. This will save us a lot of time computing the result, since we can use matrix math to calculate that in one shot. 
 
-We convert our input words to numbers again, like we always do. This time though, we pass those numbers through 3 different functions, getting 3 temporary outputs for each word, a, b, and c. Note that it's just for simplicity that our word and outputs have 3 numbers; in practice they're hundreds of numbers long. We'll see how these 3 outputs are used shortly \[41\]. 
+We convert our input words to numbers again, like we always do. This time though, we pass those numbers through 3 different functions, getting 3 temporary outputs for each word, a, b, and c. Note that it's just for simplicity that our word and outputs have 3 numbers; in practice they're hundreds of numbers long. We'll see how these 3 outputs are used shortly \[11\]. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 10.png)
 
@@ -219,7 +225,7 @@ Let's return back to the first word. We're done with the a and b outputs, but st
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 14.png)
 
-Ok, that was a lot of work. I swear, this makes sense to the people who came up with it. What we've just done is gone through [the steps of calculating "attention" for our words](http://jalammar.github.io/illustrated-gpt2/ "attention") \[42\]. The amount of "attention" word A has for another word, is how much word A should focus on it and hence how much context it should get. By associating components of the words with all other words, we solve for the context issue earlier. I'll skip the solving of the position issue for simplicity, just think of it as them adding more numbers to the original word based on word position \[43\].
+Ok, that was a lot of work. I swear, this makes sense to the people who came up with it. What we've just done is gone through [the steps of calculating "attention" for our words](http://jalammar.github.io/illustrated-gpt2/ "attention") \[12\]. The amount of "attention" word A has for another word, is how much word A should focus on it and hence how much context it should get. By associating components of the words with all other words, we solve for the context issue earlier. I'll skip the solving of the position issue for simplicity, just think of it as them adding more numbers to the original word based on word position \[13\].
 
 We now have this new output, z, that has information from that particular word, as well as the context for other words in the input. We run this through another function (a feed forward neural network) to get yet another output, let's call them z\*. Nearly there.
 
@@ -233,7 +239,9 @@ The output z\* has the same number of elements in it as when we first transforme
 
 After all this training, we have a final output from the encoding. Let's call them vf. Note that the calculation of one word's vf is still independent of the calculation of another word's vf. This parallelisation has saved us a lot of time. e.g. I can calculate 7_vf without knowing 1_vf first.
 
-Now, we can use these final outputs, to start predicting our words. We pass all of these final outputs through another "decoding function", to get our first word \[44\]. There are differences between how the decoding function works vs the encoding function, but the steps are similar enough that we'll not walk through them again. You can think of the decoding function as doing all of those encoding steps, but also taking the output from the "encoding function" process \[45\]. I've put just one big block for "decoding functions" here, but the new model repeats this process the same number of times as the encoding process. e.g. if it had 96 encoding layers, it will have 96 decoding layers.
+Now, we can use these final outputs, to start predicting our words. We pass all of these final outputs through another "decoding function", to get our first word \[14\]. There are differences between how the decoding function works vs the encoding function, but the steps are similar enough that we'll not walk through them again. You can think of the decoding function as doing all of those encoding steps, but also taking the output from the "encoding function" process \[15\]. 
+
+I've put just one big block for "decoding functions" here, but the new model repeats this process the same number of times as the encoding process. e.g. if it had 96 encoding layers, it will have 96 decoding layers.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 17.png)
 
@@ -247,9 +255,9 @@ And once you repeat that process for all the words, you get the final phrase. Fi
 
 Alright, so that was the *general* transfomer model. Now let's throw all of that aside and start from scratch for GPT-3's version.
 
-Kidding, don't freak out \[46\]. 
+Kidding, don't freak out \[16\]. 
 
-GPT-3 combines the encoding and decoding process, to get a [Transformer Decoder](https://arxiv.org/pdf/1801.10198.pdf "TD"). They combine the input and expected output sequence into a single "sentence" and then run that through the decoding layers. GPT-3 has 96 of these decoding layers \[47\]. The model is used to predict the next input and also the next output. 
+GPT-3 combines the encoding and decoding process, to get a [Transformer Decoder](https://arxiv.org/pdf/1801.10198.pdf "TD"). They combine the input and expected output sequence into a single "sentence" and then run that through the decoding layers. GPT-3 has 96 of these decoding layers \[17\]. The model is used to predict the next input and also the next output. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 19b.png)
 
@@ -259,17 +267,19 @@ Many people posting online all say that GPT-3 uses the traditional transformer, 
 
 If you're still with me, there's two more important features of the algorithm worth mentioning. 
 
-Firstly, remember way back when we split the word into 3 different features, a, b, and c? The new model actually does that 96 times right from the start \[48\]. Each time it uses a different function, such that 96 different triplets are generated. Since these are independent, it runs all of these through the encoding/decoding layers at the same time, for all the input words. The results of these are merged together when getting that output from the encoding/decoding function, z. This is known as having "multiple attention-heads." 
+Firstly, remember way back when we split the word into 3 different features, a, b, and c? The new model actually does that 96 times right from the start \[18\]. Each time it uses a different function, such that 96 different triplets are generated. Since these are independent, it runs all of these through the encoding/decoding layers at the same time, for all the input words. The results of these are merged together when getting that output from the encoding/decoding function, z. This is known as having "multiple attention-heads." 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 20.png)
 
-Secondly, every time I mentioned function in this section, you can think of it as a weight or parameter on some number. **When you add up all the weights, the new model has 175bn of them.** No, that's not a typo. When people are referring to the number of parameters that GPT-3 uses, and how it's so much larger than previous models, this is what they are referring to. e.g. if each word was represented as a list of 1000 numbers, then you'd need that many parameters just to go through one function in the entire process outlined above. You can easily see how having a process with 96 layers and 96 alternatives within each layer gets you to a gargantuan number of parameters required. 
+Secondly, every time I mentioned function in this section, you can think of it as a weight or parameter on some number. **When you add up all the weights, the new model has 175bn of them.** No, that's not a typo. When people are referring to the number of parameters that GPT-3 uses, and how it's so much larger than previous models, this is what they are referring to. 
+
+e.g. if each word was represented as a list of 1000 numbers, then you'd need that many parameters just to go through one function in the entire process outlined above. You can easily see how having a process with 96 layers and 96 alternatives within each layer gets you to a gargantuan number of parameters required. 
 
 This was a long sidetrack, but you now have more intuition about what GPT-3 is doing. It's taking word inputs, performing multiple iterations of transformations via matrix math, and using that to predict or translate words. 
 
 If that was a bit too convoluted, think of this simpler example. Imagine a [choose your own adventure game](https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure "choose your own"), where your choices decide how the story ends. **GPT-3 is like that, except it has billions of available options, layered on top of each other.** The slightest difference in wording your choice will send you down a different direction. And the possible paths are virtually endless.
 
-Having worked through all that, the transformer architecture from the original paper is below for reference. You can see how parts of it map to the simplified diagram we just thought through, with a few boxes that I've left out for simplicity \[49\]. GPT-3 uses the right side of this diagram only. If you're interested in learning more, there are additional references at the bottom of this article. 
+Having worked through all that, the transformer architecture from the original paper is below for reference. You can see how parts of it map to the simplified diagram we just thought through, with a few boxes that I've left out for simplicity \[19\]. GPT-3 uses the right side of this diagram only. If you're interested in learning more, there are additional references at the bottom of this article. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 21.png)
 
@@ -289,7 +299,7 @@ I've plotted Zipf's law for my newsletter before, and it looks like the top grap
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 23.png)
 
-Secondly, you can use another model to check the text. Analytics Vidhya did a post a while back on [how to detect computer generated articles.](https://www.analyticsvidhya.com/blog/2019/12/detect-fight-neural-fake-news-nlp/ "Vidhya") They provide a few tools such as a GPT-2 detector model or [Grover,](https://grover.allenai.org/detect "Grover") that can take sample text and tell you if they believe it was machine generated \[50\]. These tools were released before GPT-3 and have not been calibrated for it yet, but still perform well. They work because **the models are familiar with the quirks that other models use to generate text.**
+Secondly, you can use another model to check the text. Analytics Vidhya did a post a while back on [how to detect computer generated articles.](https://www.analyticsvidhya.com/blog/2019/12/detect-fight-neural-fake-news-nlp/ "Vidhya") They provide a few tools such as a GPT-2 detector model or [Grover,](https://grover.allenai.org/detect "Grover") that can take sample text and tell you if they believe it was machine generated \[20\]. These tools were released before GPT-3 and have not been calibrated for it yet, but still perform well. They work because **the models are familiar with the quirks that other models use to generate text.**
 
 Here's a demo. I went to the first sample in the appendix of the [GPT 3 paper (page 49)](https://arxiv.org/pdf/2005.14165.pdf "GPT"), and copied the machine generated poem there. Plugging that in to Grover's site, shows that Grover thinks it was machine generated. I'd probably not have guessed that correctly.
 
@@ -297,7 +307,7 @@ Here's a demo. I went to the first sample in the appendix of the [GPT 3 paper (p
 
 Of course, neither of these methods are foolproof. If you don't have a large enough sample size of text, it's hard to do frequency analysis or verify it via the checking models. If someone sends you a boilerplate legal wall of text just once, there might not be enough data to know for sure. I'm wondering how insulting it might be to reply asking if they were a bot...
 
-Grover also gets false positives, such as wrongly claiming that Allen Ginsberg's poem [Howl](https://www.poetryfoundation.org/poems/49303/howl "Howl") was written by a machine \[51\]. And it also gets false negatives, thinking that text generated by GPT-3 was created by a human. [You can try playing around with it and see what works for you](https://grover.allenai.org/detect "Grover")
+Grover also gets false positives, such as wrongly claiming that Allen Ginsberg's poem [Howl](https://www.poetryfoundation.org/poems/49303/howl "Howl") was written by a machine \[21\]. And it also gets false negatives, thinking that text generated by GPT-3 was created by a human. [You can try playing around with it and see what works for you](https://grover.allenai.org/detect "Grover")
 
 That said, having such methods still available make me less fearful of the dangers of fake machine generated text. Since both of the tools above rely on structural features of the models, it seems likely that as long as the models have hyperparameters to adjust, the text generated would be identifiable. 
 
@@ -319,9 +329,9 @@ The eventual use cases for GPT are likely going to be even more creative than we
 
 At the same time, there's been tweets from programmers about how this is going to take away banking and consulting jobs, from VCs on how this is going to take away programming jobs, and from whatever other group you can imagine trying to dump on another industry. I currently don't find these arguments persuasive, but remain open to being convinced. If getting more efficient tools was a major job-killer, excel would have wiped out half of all office jobs years ago.
 
-What might happen instead is that there's an even higher reward to specialisation in your career. GPT can give you the template to check, before you fill in and edit where needed. The tedious boilerplate documents and slides can be generated without much effort on your part, and then you can apply your expertise to customise it for the project. Junior bankers and consultants might finally be able to do something productive with their time rather than recreate the same deck for a different company with the logos swapped out \[52\].
+What might happen instead is that there's an even higher reward to specialisation in your career. GPT can give you the template to check, before you fill in and edit where needed. The tedious boilerplate documents and slides can be generated without much effort on your part, and then you can apply your expertise to customise it for the project. Junior bankers and consultants might finally be able to do something productive with their time rather than recreate the same deck for a different company with the logos swapped out \[22\].
 
-Additionally, people seem to be under the impression that all our input and output data is going to be clean and readily usable. As [Vicki Boykis](https://vicki.substack.com/p/were-still-in-the-steam-powered-days "Vicki") has repeatedly pointed out, that's usually the naive point of view of someone who's never worked with larger datasets before. If you had a custom GPT model for yourself, you'd likely spend most of your time cleaning the data. If you didn't, you'd likely spend most of your time cleaning the output. 
+Additionally, people seem to be under the impression that all our input and output data is going to be clean and readily usable. As [Vicki Boykis](https://vicki.substack.com/p/were-still-in-the-steam-powered-days "Vicki") has repeatedly pointed out, that's usually the point of view of someone who's never worked with larger datasets before. If you had a custom GPT model for yourself, you'd likely spend most of your time cleaning the data. If you didn't, you'd likely spend most of your time cleaning the output. 
 
 Either way, there's still jobs to be done. We're safe for now.
 
@@ -348,27 +358,27 @@ Or perhaps we'll have to rethink what it means; of [being alive](https://www.you
 ### Footnotes
 
 1. I kid, I kid. Occasionally they play ping pong.
-2. Apparently there are issues with directly comparing results. I'm not familiar with the details but it seems trying to standardise the primed data used. The paper says "However, our one / few-shot settings aren’t strictly comparable to prior unsupervised work since they make use of a small amount of paired examples (1 or 64). This corresponds to up to a page or two of in-context training data."
+2. Apparently there are issues with directly comparing results. I'm not familiar with the details but it seems related to standardising the primed data used. The paper says "However, our one / few-shot settings aren’t strictly comparable to prior unsupervised work since they make use of a small amount of paired examples (1 or 64). This corresponds to up to a page or two of in-context training data."
 3. Context - "The LAMBADA dataset tests the modeling of long-range dependencies in text – the model is asked to predict the last word of sentences which require reading a paragraph of context"; Trivia - "On TriviaQA, we achieve 64.3% in the zero-shot setting, 68.0% in the one-shot setting, and 71.2% in the few-shot setting"; Pronous - "The Winograd Schemas Challenge is a classical task in NLP that involves determining which word a pronoun refers to, when the pronoun is grammatically ambiguous but semantically unambiguous to a human"
-4. One of the linke is broken since slate star codex deleted his blog; but you can find some of the poetry samples by GPT-2 preserved [here](https://antinegationism.tumblr.com/post/182901133106/an-eternal-howl "Moloch"), and [Gwen's site](https://www.gwern.net/GPT-2 "Gwern") has many more.
+4. One of the links is broken since slate star codex deleted his blog; but you can find some of the poetry samples by GPT-2 preserved [here](https://antinegationism.tumblr.com/post/182901133106/an-eternal-howl "Moloch"), and [Gwen's site](https://www.gwern.net/GPT-2 "Gwern") has many more.
 5. [Banko and Brill showed way back in 2001 that more data can make a bad algorithm perform better than a good one.](https://dl.acm.org/doi/10.3115/1073012.1073017 "Banko")
 6. Pages 8 and 9 of the [GPT-3 paper](https://arxiv.org/pdf/2005.14165.pdf "paper") discuss how they used the CommonCrawl, WebText, Books, and Wikipedia datasets for training.
 7. I believe he's referring to this 160bn parameter model [here](https://dl.acm.org/doi/abs/10.5555/3045118.3045359 "model")
-30. We're not exactly converting the words to binary representation here, if that's what you were thinking. Instead, we're [using a word embedding such as word2vec](https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7 "word2") to generate varying numerical representations of the words that can be used in the algorithms moving forward. True, at the end of the day everything's converted to binary, but that's not at this point of the process.
-31. Ok, so I'm pretty sure the first function actually has a [bias unit](https://ayearofai.com/rohan-5-what-are-bias-units-828d942b4f52 "bias"), so it also takes another input. But that overly complicates the main text explanation, so I'm leaving it out.
-40. You can verify this in the [GPT-3 paper page 8,](https://arxiv.org/pdf/2005.14165.pdf "paper") where they say "We use the same model and architecture as GPT-2, including the modified initialization, pre-normalization, and reversible tokenization described therein, with the exception that we use alternating dense and locally banded sparse attention patterns in the layers of the transformer, similar to the Sparse Transformer"
-41. This is the part of the transformer model where [they embed the word, and then calculate smaller query, key, and value vectors by mapping the embedded word vector on to a pre-trained weighted matrix.](https://youtu.be/S0KakHcj_rs?t=1083 "youtube") I'm still not fully clear on what the query, key, and values represent after watching all this reading and video watching. I'd suggest checking out the extra resources for more detail to see for yourself. My current intuition is that it's a decomposition of the word into something that can carry the weight of the word, the weight when it's compared to another, and a lookup match. 
-42. The first step was getting the query, key, value vectors. Then we take the dot product of the query vector with the key vectors of other words to see how much focus to place on other words. Then we divide by the square root of the dimension of the key vectors. Then we do a [softmax function](https://towardsdatascience.com/softmax-function-simplified-714068bf8156 "soft"). Then we take multiply the results by the value vectors. And finally we take the sum of all that, to get one final vector to use in the next part of the process. 
-43. They use sine and cosine functions, see [page 6 of the original paper](https://arxiv.org/pdf/1706.03762.pdf "sin"). They needed something periodic so that the model could extend to different interval lengths.
-44. Technically there's another linear layer neural network and softmax layer [after the decoding layers](http://jalammar.github.io/illustrated-transformer/ "linear"), but have left out for simplicity. 
-45. In the decoder, the outputs can only pay attention to output words that come before it, rather than the entire output sequence. This is known as "masking"
-46. Though that's the feeling I had when I realised GPT doesn't use a standard transformer model. I really did think I was going to have to re-create all those diagrams. 
-47. Per [page 8 of the paper (n layers)](https://arxiv.org/pdf/2005.14165.pdf "gpt")
-48. Coincidentally the same as the number of repeat layers above, but doesn't have to be. Page 8 of the paper as well.
-49. Ok, this looks scary, and I spent a long time reading and watching the vids before understanding what was going on. To map this to the model we walked through, let's start from the left. We've got inputs, they get embedded. So far that's the same as how our words got converted to numbers at the start. Then we have "positional encoding", which is the addition of the position numbers that I skipped over. Then we enter this box that starts with "multi-head attention" - we know this, we went through that entire process. There's this "add & norm" box that refers to [layer normalisation](https://mlexplained.com/2018/11/30/an-overview-of-normalization-methods-in-deep-learning/ "norm") that you can think of as scaling the numbers. Then this goes to the "feed forward" box, which is the neural network mentioned to get to z\*. Then we normalise again. This larger box has Nx on the outside, indicating we repeat this N times as desired. On the right, we see the outputs, do the embedding and encoding, and then enter the big box. The steps in there are similar to the left, except we do "masked" multi-head attention, and also take the output from the left box. Repeeat N times as desired. This then goes through a linear layer and a softmax function to get output probabilities for what words to output. Phew. Again, this is for the regular transfomer model. GPT-3 just uses the right hand side.
-50. The post also links to a statistical analysis tool, [GLTR,](https://gltr.io/ "GLTR") that would be doing something similar to the Zipf's law analysis mentioned earlier.
-51. To be fair, it definitely looks the part.
-52. Just joking, I know you swap the graph colours too.
+8. We're not exactly converting the words to binary representation here, if that's what you were thinking. Instead, we're [using a word embedding such as word2vec](https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7 "word2") to generate varying numerical representations of the words that can be used in the algorithms moving forward. True, at the end of the day everything's converted to binary, but that's not at this point of the process.
+9. Ok, so I'm pretty sure the first function actually has a [bias unit](https://ayearofai.com/rohan-5-what-are-bias-units-828d942b4f52 "bias"), so it also takes another input. But that overly complicates the main text explanation, so I'm leaving it out.
+10. You can verify this in the [GPT-3 paper page 8,](https://arxiv.org/pdf/2005.14165.pdf "paper") where they say "We use the same model and architecture as GPT-2, including the modified initialization, pre-normalization, and reversible tokenization described therein, with the exception that we use alternating dense and locally banded sparse attention patterns in the layers of the transformer, similar to the Sparse Transformer"
+11. This is the part of the transformer model where [they embed the word, and then calculate smaller query, key, and value vectors by mapping the embedded word vector on to a pre-trained weighted matrix.](https://youtu.be/S0KakHcj_rs?t=1083 "youtube") I'm still not fully clear on what the query, key, and values represent after watching all this reading and video watching. I'd suggest checking out the extra resources for more detail to see for yourself. My current intuition is that it's a decomposition of the word into something that can carry the weight of the word, the weight when it's compared to another, and a lookup match. 
+12. The first step was getting the query, key, value vectors. Then we take the dot product of the query vector with the key vectors of other words to see how much focus to place on other words. Then we divide by the square root of the dimension of the key vectors. Then we do a [softmax function](https://towardsdatascience.com/softmax-function-simplified-714068bf8156 "soft"). Then we take multiply the results by the value vectors. And finally we take the sum of all that, to get one final vector to use in the next part of the process. 
+13. They use sine and cosine functions, see [page 6 of the original paper](https://arxiv.org/pdf/1706.03762.pdf "sin"). They needed something periodic so that the model could extend to different interval lengths.
+14. Technically there's another linear layer neural network and softmax layer [after the decoding layers](http://jalammar.github.io/illustrated-transformer/ "linear"), but have left out for simplicity. 
+15. In the decoder, the outputs can only pay attention to output words that come before it, rather than the entire output sequence. This is known as "masking"
+16. Though that's the feeling I had when I realised GPT doesn't use a standard transformer model. I really did think I was going to have to re-create all those diagrams. 
+17. Per [page 8 of the paper (n layers)](https://arxiv.org/pdf/2005.14165.pdf "gpt")
+18. Coincidentally the same as the number of repeat layers above, but doesn't have to be. Page 8 of the paper as well.
+19. Ok, this looks scary, and I spent a long time reading and watching the vids before understanding what was going on. To map this to the model we walked through, let's start from the left. We've got inputs, they get embedded. So far that's the same as how our words got converted to numbers at the start. Then we have "positional encoding", which is the addition of the position numbers that I skipped over. Then we enter this box that starts with "multi-head attention" - we know this, we went through that entire process. There's this "add & norm" box that refers to [layer normalisation](https://mlexplained.com/2018/11/30/an-overview-of-normalization-methods-in-deep-learning/ "norm") that you can think of as scaling the numbers. Then this goes to the "feed forward" box, which is the neural network mentioned to get to z\*. Then we normalise again. This larger box has Nx on the outside, indicating we repeat this N times as desired. On the right, we see the outputs, do the embedding and encoding, and then enter the big box. The steps in there are similar to the left, except we do "masked" multi-head attention, and also take the output from the left box. Repeeat N times as desired. This then goes through a linear layer and a softmax function to get output probabilities for what words to output. Phew. Again, this is for the regular transfomer model. GPT-3 just uses the right hand side.
+20. The post also links to a statistical analysis tool, [GLTR,](https://gltr.io/ "GLTR") that would be doing something similar to the Zipf's law analysis mentioned earlier.
+21. To be fair, it definitely looks the part.
+22. Just joking, I know you swap the graph colours too.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
