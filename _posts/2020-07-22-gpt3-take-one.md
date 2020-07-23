@@ -40,7 +40,7 @@ About a week ago, Sharif Shameem shared this video on twitter demonstrating the 
 
 And. Twitter. Freaked. Out.
 
-Perhaps realising that their cushy jobs of [copying stack overflow answers](https://www.zdnet.com/article/the-most-copied-stackoverflow-java-code-snippet-contains-a-bug/ "SO") or [following the herd on oversubscribed rounds](https://twitter.com/nbashaw/status/1261328301953445890?s=20 "startup") were at risk \[1\], programmers and VCs alike on twitter started flooding the feed with GPT-3 demos and hot takes on this newest artificial intelligence. They're still going, if [you want to take a look](https://twitter.com/hashtag/gpt3?lang=en "gpt3")
+Perhaps realising that their cushy jobs of [copying stack overflow answers](https://www.zdnet.com/article/the-most-copied-stackoverflow-java-code-snippet-contains-a-bug/ "SO") or [following the herd on oversubscribed rounds](https://twitter.com/nbashaw/status/1261328301953445890?s=20 "startup") were at risk \[1\], programmers and VCs alike on twitter started flooding the feed with GPT-3 demos and hot takes on this newest artificial intelligence. They're still going on, if you want to [take a look](https://twitter.com/hashtag/gpt3?lang=en "gpt3")
 
 So, here I am, with my own hot take, to cash in on all that captivated audience for AI.
 
