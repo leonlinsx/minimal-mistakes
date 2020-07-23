@@ -1,10 +1,12 @@
 ---
 title:  ""  
-tags: []
+tags: [AI, GPT-3, tech]
 published: false
 ---
 
 ### Takeaway
+
+GPT-3 is an impressive model of text prediction that generalises to many use cases. I walk through concerns, how it works at a high level, and what it might imply for the future.
 
 <style>
       .iframe-container {
