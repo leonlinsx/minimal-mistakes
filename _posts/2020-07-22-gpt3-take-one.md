@@ -6,7 +6,7 @@ published: false
 
 ### Takeaway
 
-GPT-3 is an impressive model of text prediction that generalises to many use cases. I walk through concerns, how it works at a high level, and what it might imply for the future.
+GPT-3 is an impressive model of text prediction that generalises to many use cases. I walk through how it works at a high level, whether the hype is deserved, and whether it’s going to steal all our jobs.
 
 <style>
       .iframe-container {
@@ -42,7 +42,7 @@ About a week ago, Sharif Shameem shared this video on twitter demonstrating the 
 
 And. Twitter. Freaked. Out.
 
-Perhaps realising that their cushy jobs of [copying stack overflow answers](https://www.zdnet.com/article/the-most-copied-stackoverflow-java-code-snippet-contains-a-bug/ "SO") or [following the herd on oversubscribed rounds](https://twitter.com/nbashaw/status/1261328301953445890?s=20 "startup") were at risk \[1\], programmers and VCs alike on twitter started flooding the feed with GPT-3 demos and hot takes on this newest artificial intelligence. They're still going on, if you want to [take a look](https://twitter.com/hashtag/gpt3?lang=en "gpt3")
+Perhaps realising that their cushy jobs of [copying stack overflow answers](https://www.zdnet.com/article/the-most-copied-stackoverflow-java-code-snippet-contains-a-bug/ "SO") or [gossiping about startups](https://twitter.com/magdalenakala/status/1285597906892988417?s=20 "startup") were at risk \[1\], programmers and VCs alike on twitter started flooding the feed with GPT-3 demos and hot takes on this newest artificial intelligence. They're still going on, if you want to [take a look](https://twitter.com/hashtag/gpt3?lang=en "gpt3")
 
 So, here I am, with my own hot take, to cash in on all that captivated audience for AI.
 
@@ -51,8 +51,8 @@ Hey man, I'm only human.
 The article is split into 5 sections:
 
 1. Explanation of what GPT-3 can do, why it's impressive, and why people are concerned
-2. Slightly more technical overview of how language models worked before GPT-3
-3. Slightly more technical overview of how GPT-3 works
+2. Slightly technical overview of how language models worked before GPT-3
+3. Slightly technical overview of how GPT-3 works
 4. How to detect text written by GPT-3
 5. Implications of GPT-3
 
@@ -62,13 +62,13 @@ Let's get started.
 
 [GPT-3](https://arxiv.org/pdf/2005.14165.pdf "GPT") was created by [OpenAI](https://openai.com/about/ "Open"), a company trying to "make sure artificial general intelligence benefits all of humanity," i.e. the robots don't kill us all. 
 
-GPT-3 is a general language model, meaning it takes some words as input, and produces more words as output. Think of it as an amazing [autocomplete function](https://en.wikipedia.org/wiki/Autocomplete#:~:text=Autocomplete%2C%20or%20word%20completion%2C%20is,to%20accept%20one%20of%20several. "auto"). Because it's a general model, it can solve many different types of tasks. You could ask it to write a paragraph about unicorns, translate a sentence, generate programming code, or more. 
+GPT-3 is a general language model, meaning it takes some words as input, and produces more words as output. **Think of it as an amazing [autocomplete function](https://en.wikipedia.org/wiki/Autocomplete#:~:text=Autocomplete%2C%20or%20word%20completion%2C%20is,to%20accept%20one%20of%20several. "auto").** Because it's a general model, it can solve many different types of tasks. You could ask it to write a paragraph about unicorns, translate a sentence, generate programming code, or more. 
 
-This is nifty since you'd normally expect an algorithm to only do what it was trained for. You don't type numbers into excel and look for it to tell you a story. For a long time now, we've expected programs to do as they've been told, with "low creativity."
+This is nifty since you'd normally expect an algorithm to only do what it was trained for. You don't type into excel and look for it to tell you a poem. For a long time now, we've expected programs to do as they've been told, with poor ability to do tasks they were not designed for.
 
 Since it's a general model, you'd also think GPT-3 would be worse at a task than models specialised for that task e.g. when comparing GPT's translation results vs an algorithm only focused on doing translation, GPT won't be as good. 
 
-Surprisingly and impressively, that's not always the case. Below is the table from the [GPT paper](https://arxiv.org/pdf/2005.14165.pdf "GPT") with the results of a translation test. For simplicity, we can just compare the first line representing a "State Of The Art" model against the last line representing the best performing GPT model \[2\]. A higher number is better here. We can see that for some of the translation tasks (particularly for translation *to* english), GPT is as good, if not better than State Of The Art models.
+Surprisingly and impressively, that's not always the case. Below is the table from the [GPT paper](https://arxiv.org/pdf/2005.14165.pdf "GPT") with the results of a translation test. For simplicity, we can just compare the first line representing a "State Of The Art" model against the last line representing the best performing GPT model \[2\]. A higher number is better here. We can see that for some of the translation tasks (particularly for translation *to* english), **GPT is as good, if not better than State Of The Art models.**
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT preamble 1.png)
 
@@ -96,7 +96,7 @@ They're actually from GPT-2, the older model released in February of 2019. In fa
 
 So, what's different this time? Did the robots just get a better marketing department? 
 
-Partially, yeah. GPT-3 was released at [the end of May](https://minimaxir.com/2020/07/gpt3-expectations/ "GPT"). If you scroll back to that Google search trend and squint really hard, you'll notice that itsy-bitsy bump in the graph, two weeks before it really starts spiking. That was the interest in GPT-3 before the viral tweet. Goes to show that presentation formats can really make a difference and I should quit writing to make Tik Tok videos.
+Partially, yeah. GPT-3 was released at [the end of May](https://minimaxir.com/2020/07/gpt3-expectations/ "GPT"). If you scroll back to that Google search trend and squint really hard, you'll notice that itsy-bitsy bump in the graph, two weeks before it really starts spiking. That was the public interest in GPT-3 before the viral tweet. Goes to show that presentation formats can really make a difference and I should quit writing to make Tik Tok videos.
 
 That said though, there are actually impressive improvements this time round as well. GPT-3 gives better results than GPT-2, and can generalise to more scenarios. This is largely due to the increased data used in training and increased model parameters.
 
@@ -108,11 +108,13 @@ GPT-3 also has [~100x the amount of parameters](https://minimaxir.com/2020/07/gp
 
 Max Woolf points out two other things that are improved in GPT-3: [1) It allows for text generation twice as long, and 2) prompts to the model are even more helpful in steering the direction of text generated](https://minimaxir.com/2020/07/gpt3-expectations/ "Max"). GPT-3 can take zero, one, or a few "prompts" of sample answers when you're giving it input. The prompts help guide its understanding of what answers to give, and the more prompts the better. 
 
-Overall, Max estimates that GPT-3 gave him usable results about 5x more often than the older GPT-2.
+Overall, Max estimates that GPT-3 gave him usable results about 5x more often than the older GPT-2. In terms of hype, the general public has gone from 0 to 100, whereas people watching the space have gone from 50 to 70.
 
 This allows for results such as [this, a plugin to pull GPT results to autofill google sheets](https://twitter.com/pavtalk/status/1285410751092416513?s=20 "twitter") (real demo this time, I promise):
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT preamble 5.png)
+
+Since GPT generalises well, there’s a lot of excitement around it being used in any “knowledge work” field. From programming to banking to medicine, there’s thoughts that GPT can eventually give answers of the same quality a professional would. The next time you visit a doctor, maybe your diagnosis will come from Dr. GPT.
 
 That all sounds great, what are the concerns?
 
@@ -123,11 +125,13 @@ Max goes into more detail [here](https://minimaxir.com/2020/07/gpt3-expectations
   - Everyone's working with the same trained model and we can't finetune it
   - There's an ongoing issue with systematic bias in the training e.g. recall [how Microsoft had to pull its chatbot after it turned racist](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist "Tay")
 
-Another concern is the cost of training such a model. Amusingly enough, [Yannic on youtube](https://www.youtube.com/watch?v=SY5PvZrJhLE&feature=youtu.be "Yannic") pointed out that the researchers made a mistake in some of the data collection, and didn't realise it until they had already trained the model. Rather than start over, they had to adjust for that problem in other ways, since **it was too expensive to retrain the model.** That's wild.
+Another concern is the cost of training such a model. Amusingly enough, [Yannic on youtube](https://www.youtube.com/watch?v=SY5PvZrJhLE&feature=youtu.be "Yannic") pointed out that the researchers made a mistake in some of the data collection, and didn't realise it until they had already trained the model. Rather than start over, they had to adjust for that problem in other ways, since **it was too expensive to retrain the model.** 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT preamble 6.png)
 
-Lastly, there's also the unending unease about how this will wipe out all our jobs. I'll touch on this light subject in my concluding remarks.
+That's wild. People are hoping that model training costs come down, as hardware catches up to the algorithm requirements. If they don’t, it’ll mean that only large companies will be able to customise models for their own purposes.
+
+Lastly, there's also the unending unease about how this will wipe out all our jobs and bring about the end of humanity. I'll touch on this light subject in my concluding remarks.
 
 Now, let's take a closer look at how the models work.
 
@@ -229,7 +233,7 @@ Ok, that was a lot of work. I swear, this makes sense to the people who came up 
 
 We now have this new output, z, that has information from that particular word, as well as the context for other words in the input. We run this through another function (a feed forward neural network) to get yet another output, let's call them z\*. Nearly there.
 
-We'll summarise all of the steps we just did and call them an "encoding" step. During "encoding", we transform our initial numbers for the word into new numbers that include more context from the other words around it. e.g. (1, 2, 3) becomes (5, 7, 0). Reminder that each word is actually hundreds of numbers, not just three.
+**We'll summarise all of the steps we just did and call them an "encoding" step.** During "encoding", we transform our initial numbers for the word into new numbers that include more context from the other words around it. e.g. (1, 2, 3) becomes (5, 7, 0). Reminder that each word is actually hundreds of numbers, not just three.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 15.png)
 
@@ -239,7 +243,7 @@ The output z\* has the same number of elements in it as when we first transforme
 
 After all this training, we have a final output from the encoding. Let's call them vf. Note that the calculation of one word's vf is still independent of the calculation of another word's vf. This parallelisation has saved us a lot of time. e.g. I can calculate 7_vf without knowing 1_vf first.
 
-Now, we can use these final outputs, to start predicting our words. We pass all of these final outputs through another "decoding function", to get our first word \[14\]. There are differences between how the decoding function works vs the encoding function, but the steps are similar enough that we'll not walk through them again. You can think of the decoding function as doing all of those encoding steps, but also taking the output from the "encoding function" process \[15\]. 
+Now, we can use these final outputs, to start predicting our words. We pass all of these final outputs through another "decoding function", to get our first word \[14\]. There are differences between how the decoding function works vs the encoding function, but the steps are similar enough that we'll not walk through them again. **You can think of the decoding function as doing all of those encoding steps, but also taking the output from the "encoding function" process \[15\].** 
 
 I've put just one big block for "decoding functions" here, but the new model repeats this process the same number of times as the encoding process. e.g. if it had 96 encoding layers, it will have 96 decoding layers.
 
@@ -261,7 +265,7 @@ GPT-3 combines the encoding and decoding process, to get a [Transformer Decoder]
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 19b.png)
 
-If this sounds a bit hand-wavy, that's because it is. I can't find any explanation of how they combine the steps online, besides the original paper and this random [github comment as confused as I am](https://github.com/openai/gpt-2/issues/157 "github"). It seems like the way they're predicting one word at a time would also imply we're back to the recursive issue, of processing the text sequentially. Maybe just throwing enough compute power at the problem was the solution. If anyone knows more, please email me.
+If this sounds a bit hand-wavy, that's because it is. I can't find any explanation of how they combine the steps online, besides the [original paper,](https://arxiv.org/pdf/1801.10198.pdf "paper") [this post](http://jalammar.github.io/illustrated-gpt2/ "Jay"), and this random [github comment as confused as I am](https://github.com/openai/gpt-2/issues/157 "github"). It seems like the way they're predicting one word at a time would also imply we're back to the recursive issue, of processing the text sequentially. Maybe just throwing enough compute power at the problem was the solution. If anyone knows more, please email me.
 
 Many people posting online all say that GPT-3 uses the traditional transformer, or transformer encoder-decoder model. They then explain the traditional transformer model in order to describe what's happening in GPT-3. **Yep, all those people are wrong,** just like I was until before I was corrected just before posting this.
 
@@ -329,7 +333,9 @@ The eventual use cases for GPT are likely going to be even more creative than we
 
 At the same time, there's been tweets from programmers about how this is going to take away banking and consulting jobs, from VCs on how this is going to take away programming jobs, and from whatever other group you can imagine trying to dump on another industry. I currently don't find these arguments persuasive, but remain open to being convinced. If getting more efficient tools was a major job-killer, excel would have wiped out half of all office jobs years ago.
 
-What might happen instead is that there's an even higher reward to specialisation in your career. GPT can give you the template to check, before you fill in and edit where needed. The tedious boilerplate documents and slides can be generated without much effort on your part, and then you can apply your expertise to customise it for the project. Junior bankers and consultants might finally be able to do something productive with their time rather than recreate the same deck for a different company with the logos swapped out \[22\].
+What might happen instead is that **there's an even higher reward to specialisation in your career.** GPT can give you the template to check, before you fill in and edit where needed. The tedious boilerplate documents and slides can be generated without much effort on your part, and then you can apply your expertise to customise it for the project. Junior bankers and consultants might finally be able to do something productive with their time rather than recreate the same deck for a different company with the logos swapped out \[22\].
+
+Think of it this way: Does it take more or less expertise for you to correct your kid’s homework, as they get older? You start off editing spelling mistakes, you end off needing to know calculus. 
 
 Additionally, people seem to be under the impression that all our input and output data is going to be clean and readily usable. As [Vicki Boykis](https://vicki.substack.com/p/were-still-in-the-steam-powered-days "Vicki") has repeatedly pointed out, that's usually the point of view of someone who's never worked with larger datasets before. If you had a custom GPT model for yourself, you'd likely spend most of your time cleaning the data. If you didn't, you'd likely spend most of your time cleaning the output. 
 
@@ -340,6 +346,8 @@ I'd controversially propose that **GPT-3 tells us more about ourselves as humans
 Perhaps it's that appreciation for ambiguity, that welcoming of the weird, that separates our synapse signals from bits and bytes. 
 
 Or perhaps we'll have to rethink what it means; of [being alive](https://www.youtube.com/watch?v=eBBPKedba5o "alive").
+
+*This article not written by GPT-3. Thanks to [Gwern](https://twitter.com/gwern?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor "Gwern") and [Jay Alammar](https://twitter.com/JayAlammar?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor "Jay") for answering questions on twitter about GPT, and [Nathan](https://mobile.twitter.com/nbashaw "Nathan") for edits.*
 
 ### Other interesting commentary
 
