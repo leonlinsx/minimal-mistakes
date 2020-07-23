@@ -70,13 +70,59 @@ Surprisingly and impressively, that's not always the case. Below is the table fr
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT preamble 1.png)
 
-OpenAI tested GPT on a large variety of other tasks, such as text prediction, trivia questions without letting it search a seprate dataset, or determining what word a pronoun is referring to \[3\]. While GPT doesn't win on all cases, it gets great results in most of them. **If you could only pick one model, you'd probably want to use GPT.** It's the [Simone Biles](https://www.nytimes.com/2019/10/13/sports/simone-biles-worlds.html "Simone") of the AI community, being top at many events and great at the rest.
+OpenAI tested GPT on a large variety of other tasks, such as text prediction, trivia questions without letting it search a separate dataset, or determining what word a pronoun is referring to \[3\]. While GPT doesn't win on all cases, it gets great results in most of them. **If you could only pick one model, you'd probably want to use GPT.** It's the [Simone Biles](https://www.nytimes.com/2019/10/13/sports/simone-biles-worlds.html "Simone") of the AI community, being top at many events and great at the rest.
 
+Let's take a look at some examples.
 
+In this first image below, the model is fed a prompt at the top, and then comes up with the remainder of the text below. The text goes on for longer; I just cut it off for display purposes. Pretty awesome what it came up with right?
 
-better marketing department
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT preamble 2.png)
 
-but is preserved [here](https://antinegationism.tumblr.com/post/182901133106/an-eternal-howl "Moloch")
+In this second image, we see another sample text generated from the model, this time showing that it can produce poetry as well. It's probably better than what I'd write myself.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT preamble 3.png)
+
+Amazing, so all the hype's justified then? Was this some watershed moment, when the ability of AI crossed some artificial boundary? Twitter and Google trends certainly seem to think so.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT preamble 4.png)
+
+Well... yes and no.
+
+Those two images I just showed? I lied, those aren't from GPT-3. 
+
+They're actually from GPT-2, the older model released in February of 2019. In fact, long time readers of this newsletter might recall [this article](https://avoidboringpeople.substack.com/p/moloch-the-judger-of-social-credit "Moloch") I wrote back then, highlighting the already admirable results from the model \[4\]. The text generated from the older model was already awesome.
+
+So, what's different this time? Did the robots just get a better marketing department? 
+
+Partially, yeah. GPT-3 was released at [the end of May](https://minimaxir.com/2020/07/gpt3-expectations/ "GPT"). If you scroll back to that Google search trend and squint really hard, you'll notice that itsy-bitsy bump in the graph, two weeks before it really starts spiking. That was the interest in GPT-3 before the viral tweet. Goes to show that presentation formats can really make a difference and I should quit writing to make Tik Tok videos.
+
+That said though, there are actually impressive improvements this time round as well. GPT-3 gives better results than GPT-2, and can generalise to more scenarios. This is largely due to the increased data used in training and increased model parameters.
+
+I'll elaborate more below, and the way these models work are that they take in data, train on them, and change their model weights according to the training set. It's been known for a while that more training data usually helps \[5\], and the results from GPT-3 continue to show that it's true. GPT-3 ingested [~50x the amount of data](https://lambdalabs.com/blog/demystifying-gpt-3 "lambda") that the older version did, giving some intuition on how it can come up with so many relevant references for its outputs \[6\].
+
+GPT-3 also has [~100x the amount of parameters](https://minimaxir.com/2020/07/gpt3-expectations/ "params") in its model compared to the older version. Having 175bn parameters [isn't unheard of](https://twitter.com/iamtrask/status/1285301017878441988?s=20 "params"), but it does help GPT-3 get even more differentiation in its replies \[7\].
+
+Max Woolf points out two other things that are improved in GPT-3: [It allows for text generation twice as long, and prompts to the model are even more helpful in steering the direction of text generated](https://minimaxir.com/2020/07/gpt3-expectations/ "Max"). GPT-3 can take zero, one, or a few "prompts" of sample answers when you're giving it input. The prompts help guide its understanding of what answers to give. Overall, Max estimates that GPT-3 gave him usable results about 5x more often than the older GPT-2.
+
+This allows for results such as [this, a plugin to pull GPT results to autofill google sheets](https://twitter.com/pavtalk/status/1285410751092416513?s=20 "twitter") (real demo this time, I promise):
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT preamble 5.png)
+
+That all sounds great, what are the concerns?
+
+Max goes into more detail [here](https://minimaxir.com/2020/07/gpt3-expectations/ "expectations"), pointing out that:
+
+  - The model is slow on producing output
+  - There's been a lot of cherry-picking in the examples shown publicly
+  - Everyone's working with the same trained model and we can't finetune it
+  - There's an ongoing issue with systematic bias in the training e.g. recall [how Microsoft had to pull its chatbot after it turned racist](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist "Tay")
+
+Another concern is the cost of training such a model. Amusingly enough, [Yannic on youtube](https://www.youtube.com/watch?v=SY5PvZrJhLE&feature=youtu.be "Yannic") pointed out that the researchers made a mistake in some of the data collection, and didn't realise it until they had already trained the model. Rather than start over, they 
+
+There's also the unending unease about how this will wipe out all our jobs. I'll touch on this light subject in my concluding remarks.
+
+Now, let's take a closer look at how the models work.
+
 
 ### 2. Overview of the seq2seq model used before GPT-3
 
@@ -254,7 +300,7 @@ That said, having such methods still available make me less fearful of the dange
 
 In the worst case scenario, everyone will have to install some browser extension that scans the page and warns you if it thinks the text was fake. Perhaps something like the ad blockers of today? At that point though, should we even care?
 
-### 5. Concluding thoughts
+### 5. Being alive
 
 Access to the GPT-3 API is currently [subject to a waitlist,](https://openai.com/blog/openai-api/ "waitlist") as OpenAI wants to be careful about people misusing the model. If you're interested in the concept though, there are some workarounds.
 
@@ -268,7 +314,7 @@ We should expect more people to get access to GPT-3-like capabilities, and for g
 
 I'd controversially propose that GPT-3 tells us more about ourselves as humans, rather than about computers. It shows that we have a surprisingly wide range of tolerance for variation in the inputs we receive, whether that's prose, poetry, or pieces of music. Text that a computer would flag as machine generated would pass our instinctual tests, implying we are the more accomodating of the two. Perhaps it's that appreciation for ambiguity, that welcoming of the weird, that separates our synapse signals from bits and bytes. 
 
-
+Or perhaps we'll have to rethink what it means; of [being alive](https://www.youtube.com/watch?v=eBBPKedba5o "alive").
 
 ### Other interesting commentary
 
@@ -291,6 +337,10 @@ I'd controversially propose that GPT-3 tells us more about ourselves as humans, 
 1. I kid, I kid. Occasionally they play ping pong.
 2. Apparently there are issues with directly comparing results. I'm not familiar with the details but it seems trying to standardise the primed data used. The paper says "However, our one / few-shot settings aren’t strictly comparable to prior unsupervised work since they make use of a small amount of paired examples (1 or 64). This corresponds to up to a page or two of in-context training data."
 3. Context - "The LAMBADA dataset tests the modeling of long-range dependencies in text – the model is asked to predict the last word of sentences which require reading a paragraph of context"; Trivia - "On TriviaQA, we achieve 64.3% in the zero-shot setting, 68.0% in the one-shot setting, and 71.2% in the few-shot setting"; Pronous - "The Winograd Schemas Challenge is a classical task in NLP that involves determining which word a pronoun refers to, when the pronoun is grammatically ambiguous but semantically unambiguous to a human"
+4. One of the linke is broken since slate star codex deleted his blog; but you can find some of the poetry samples by GPT-2 preserved [here](https://antinegationism.tumblr.com/post/182901133106/an-eternal-howl "Moloch"), and [Gwen's site](https://www.gwern.net/GPT-2 "Gwern") has many more.
+5. [Banko and Brill showed way back in 2001 that more data can make a bad algorithm perform better than a good one.](https://dl.acm.org/doi/10.3115/1073012.1073017 "Banko")
+6. Pages 8 and 9 of the [GPT-3 paper](https://arxiv.org/pdf/2005.14165.pdf "paper") discuss how they used the CommonCrawl, WebText, Books, and Wikipedia datasets for training.
+7. I believe he's referring to this 160bn parameter model [here](https://dl.acm.org/doi/abs/10.5555/3045118.3045359 "model")
 30. We're not exactly converting the words to binary representation here, if that's what you were thinking. Instead, we're [using a word embedding such as word2vec](https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7 "word2") to generate varying numerical representations of the words that can be used in the algorithms moving forward. True, at the end of the day everything's converted to binary, but that's not at this point of the process.
 31. Ok, so I'm pretty sure the first function actually has a [bias unit](https://ayearofai.com/rohan-5-what-are-bias-units-828d942b4f52 "bias"), so it also takes another input. But that overly complicates the main text explanation, so I'm leaving it out.
 40. You can verify this in the [GPT-3 paper page 8,](https://arxiv.org/pdf/2005.14165.pdf "paper") where they say "We use the same model and architecture as GPT-2, including the modified initialization, pre-normalization, and reversible tokenization described therein, with the exception that we use alternating dense and locally banded sparse attention patterns in the layers of the transformer, similar to the Sparse Transformer"
