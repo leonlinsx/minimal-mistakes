@@ -335,7 +335,9 @@ Additionally, people seem to be under the impression that all our input and outp
 
 Either way, there's still jobs to be done. We're safe for now.
 
-I'd controversially propose that **GPT-3 tells us more about ourselves as humans, rather than about computers.** It shows that we have a surprisingly wide range of tolerance for variation in the inputs we receive, whether that's prose, poetry, or pieces of music. Text that a computer would flag as machine generated would pass our instinctual tests, implying we are the more accomodating of the two. Perhaps it's that appreciation for ambiguity, that welcoming of the weird, that separates our synapse signals from bits and bytes. 
+I'd controversially propose that **GPT-3 tells us more about ourselves as humans, rather than about computers.** It shows that we have a surprisingly wide range of tolerance for variation in the inputs we receive, whether that's prose, poetry, or pieces of music. Text that a computer would flag as machine generated would pass our instinctual tests, implying we are the more accomodating of the two. 
+
+Perhaps it's that appreciation for ambiguity, that welcoming of the weird, that separates our synapse signals from bits and bytes. 
 
 Or perhaps we'll have to rethink what it means; of [being alive](https://www.youtube.com/watch?v=eBBPKedba5o "alive").
 
