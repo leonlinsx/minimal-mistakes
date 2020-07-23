@@ -1,12 +1,12 @@
 ---
-title:  ""  
+title:  "Doctor GPT-3 or: How I Learned to Stop Worrying and Love the Artificial Intelligence"  
 tags: [AI, GPT-3, tech]
 published: false
 ---
 
 ### Takeaway
 
-GPT-3 is an impressive model of text prediction that generalises to many use cases. I walk through how it works at a high level, whether the hype is deserved, and whether it’s going to steal all our jobs.
+GPT-3 is an impressive model of text prediction that generalises to many use cases. I walk through how it works at a high level, whether the hype is deserved, how to detect GPT, and whether it’s going to plunder our jobs.
 
 <style>
       .iframe-container {
