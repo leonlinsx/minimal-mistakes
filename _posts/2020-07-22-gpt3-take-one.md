@@ -117,12 +117,13 @@ Max goes into more detail [here](https://minimaxir.com/2020/07/gpt3-expectations
   - Everyone's working with the same trained model and we can't finetune it
   - There's an ongoing issue with systematic bias in the training e.g. recall [how Microsoft had to pull its chatbot after it turned racist](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist "Tay")
 
-Another concern is the cost of training such a model. Amusingly enough, [Yannic on youtube](https://www.youtube.com/watch?v=SY5PvZrJhLE&feature=youtu.be "Yannic") pointed out that the researchers made a mistake in some of the data collection, and didn't realise it until they had already trained the model. Rather than start over, they 
+Another concern is the cost of training such a model. Amusingly enough, [Yannic on youtube](https://www.youtube.com/watch?v=SY5PvZrJhLE&feature=youtu.be "Yannic") pointed out that the researchers made a mistake in some of the data collection, and didn't realise it until they had already trained the model. Rather than start over, they had to adjust for that problem in other ways, since **it was too expensive to retrain the model.** That's wild.
 
-There's also the unending unease about how this will wipe out all our jobs. I'll touch on this light subject in my concluding remarks.
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT preamble 6.png)
+
+Lastly, there's also the unending unease about how this will wipe out all our jobs. I'll touch on this light subject in my concluding remarks.
 
 Now, let's take a closer look at how the models work.
-
 
 ### 2. Overview of the seq2seq model used before GPT-3
 
@@ -305,12 +306,16 @@ In the worst case scenario, everyone will have to install some browser extension
 Access to the GPT-3 API is currently [subject to a waitlist,](https://openai.com/blog/openai-api/ "waitlist") as OpenAI wants to be careful about people misusing the model. If you're interested in the concept though, there are some workarounds.
 
   - OpenAI released the code for GPT-2 (the older version of GPT-3) [here](https://openai.com/blog/better-language-models/ "2"), so you can run that yourself if you know how to set it up.
-
   - The team at Hugging Face have built a more user friendly interface for GPT-2, as well as some other transformer based models. You can check that out [here](https://transformer.huggingface.co/ "transformer")
-
   - [Aaron Tay](https://musingsaboutlibrarianship.blogspot.com "Aaron") also posted that using the premium "Dragon" version of [AI Dungeon](https://play.aidungeon.io/ "AI"), a text generator game using GPT, [supposedly gets you access to GPT-3 within the game](https://musingsaboutlibrarianship.blogspot.com/2020/07/playing-with-gpt-3-via-ai-dungeon.html "AI")
 
-We should expect more people to get access to GPT-3-like capabilities, and for general language models to continue improving. 
+We should expect more people to get access to GPT-3-like capabilities, and for general language models to continue improving. The models might not pass a [Turing Test](https://plato.stanford.edu/entries/turing-test/ "Turing") yet, as [Kevn Lacker shows.](http://lacker.io/ai/2020/07/06/giving-gpt-3-a-turing-test.html "Lacker") However, it seems that we come closer every day. It will become increasingly harder for humans alone to tell if something was machine made.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT 25.png)
+
+The eventual use cases for GPT are likely going to be even more creative than we think. [Tyler Cowen gives some thoughts here](https://marginalrevolution.com/marginalrevolution/2020/07/the-case-for-gpt-3.html "Cowen") on medical diagnoses and therapies, and we're likely still only beginning to understand what might be possible to do at scale with GPT or similar models.
+
+
 
 I'd controversially propose that GPT-3 tells us more about ourselves as humans, rather than about computers. It shows that we have a surprisingly wide range of tolerance for variation in the inputs we receive, whether that's prose, poetry, or pieces of music. Text that a computer would flag as machine generated would pass our instinctual tests, implying we are the more accomodating of the two. Perhaps it's that appreciation for ambiguity, that welcoming of the weird, that separates our synapse signals from bits and bytes. 
 
