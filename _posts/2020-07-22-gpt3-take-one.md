@@ -60,15 +60,17 @@ Let's get started.
 
 [GPT-3](https://arxiv.org/pdf/2005.14165.pdf "GPT") was created by [OpenAI](https://openai.com/about/ "Open"), a company trying to "make sure artificial general intelligence benefits all of humanity," i.e. the robots don't kill us all. 
 
-GPT-3 is a general language model, meaning it takes some words as input, and produces more words as output. Because it's a general model, it can solve many different types of tasks. You could ask it to write a paragraph about unicorns, translate a sentence, generate programming code, or more. 
+GPT-3 is a general language model, meaning it takes some words as input, and produces more words as output. Think of it as an amazing [autocomplete function](https://en.wikipedia.org/wiki/Autocomplete#:~:text=Autocomplete%2C%20or%20word%20completion%2C%20is,to%20accept%20one%20of%20several. "auto"). Because it's a general model, it can solve many different types of tasks. You could ask it to write a paragraph about unicorns, translate a sentence, generate programming code, or more. 
 
-Since it's a general model, you'd expect GPT-3 to be worse at a task than models specialised for that task e.g. when comparing GPT's translation results vs an algorithm only focused on doing translation, GPT won't be as good. 
+This is nifty since you'd normally expect an algorithm to only do what it was trained for. You don't type numbers into excel and look for it to tell you a story. For a long time now, we've expected programs to do as they've been told, with "low creativity."
 
-Surprisingly and impressively, that's not always the case. Below is the table from the [GPT paper](https://arxiv.org/pdf/2005.14165.pdf "GPT") with the results of a translation test. For simplicity, we can just compare the first line representing a "State Of The Art" model against the last line representing the best performing GPT model \[2\]. A higher number is better here. We can see that for some of the translation tasks (particularly for translation to english), GPT is as good, if not better than State Of The Art models.
+Since it's a general model, you'd also think GPT-3 would be worse at a task than models specialised for that task e.g. when comparing GPT's translation results vs an algorithm only focused on doing translation, GPT won't be as good. 
+
+Surprisingly and impressively, that's not always the case. Below is the table from the [GPT paper](https://arxiv.org/pdf/2005.14165.pdf "GPT") with the results of a translation test. For simplicity, we can just compare the first line representing a "State Of The Art" model against the last line representing the best performing GPT model \[2\]. A higher number is better here. We can see that for some of the translation tasks (particularly for translation *to* english), GPT is as good, if not better than State Of The Art models.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT preamble 1.png)
 
-OpenAI tested GPT on a large variety of other tasks, such as text prediction, trivia questions without letting it search a seprate dataset, or determining what word a pronoun is referring to \[3\]. While GPT doesn't win on all cases, it gets great results in most of them. If you could only pick one model, you'd probably want to use GPT. It's like the [Simone Biles](https://www.nytimes.com/2019/10/13/sports/simone-biles-worlds.html "Simone") of the AI community, being top at many events and great at the rest.
+OpenAI tested GPT on a large variety of other tasks, such as text prediction, trivia questions without letting it search a seprate dataset, or determining what word a pronoun is referring to \[3\]. While GPT doesn't win on all cases, it gets great results in most of them. **If you could only pick one model, you'd probably want to use GPT.** It's the [Simone Biles](https://www.nytimes.com/2019/10/13/sports/simone-biles-worlds.html "Simone") of the AI community, being top at many events and great at the rest.
 
 
 
@@ -256,13 +258,13 @@ In the worst case scenario, everyone will have to install some browser extension
 
 Access to the GPT-3 API is currently [subject to a waitlist,](https://openai.com/blog/openai-api/ "waitlist") as OpenAI wants to be careful about people misusing the model. If you're interested in the concept though, there are some workarounds.
 
-- OpenAI released the code for GPT-2 (the older version of GPT-3) [here](https://openai.com/blog/better-language-models/ "2"), so you can run that yourself if you know how to set it up.
+  - OpenAI released the code for GPT-2 (the older version of GPT-3) [here](https://openai.com/blog/better-language-models/ "2"), so you can run that yourself if you know how to set it up.
 
-- The team at Hugging Face have built a more user friendly interface for GPT-2, as well as some other transformer based models. You can check that out [here](https://transformer.huggingface.co/ "transformer")
+  - The team at Hugging Face have built a more user friendly interface for GPT-2, as well as some other transformer based models. You can check that out [here](https://transformer.huggingface.co/ "transformer")
 
-- [Aaron Tay](https://musingsaboutlibrarianship.blogspot.com "Aaron") also posted that using the premium "Dragon" version of [AI Dungeon](https://play.aidungeon.io/ "AI"), a text generator game using GPT, [supposedly gets you access to GPT-3](https://musingsaboutlibrarianship.blogspot.com/2020/07/playing-with-gpt-3-via-ai-dungeon.html "AI")
+  - [Aaron Tay](https://musingsaboutlibrarianship.blogspot.com "Aaron") also posted that using the premium "Dragon" version of [AI Dungeon](https://play.aidungeon.io/ "AI"), a text generator game using GPT, [supposedly gets you access to GPT-3 within the game](https://musingsaboutlibrarianship.blogspot.com/2020/07/playing-with-gpt-3-via-ai-dungeon.html "AI")
 
-
+We should expect more people to get access to GPT-3-like capabilities, and for general language models to continue improving. 
 
 I'd controversially propose that GPT-3 tells us more about ourselves as humans, rather than about computers. It shows that we have a surprisingly wide range of tolerance for variation in the inputs we receive, whether that's prose, poetry, or pieces of music. Text that a computer would flag as machine generated would pass our instinctual tests, implying we are the more accomodating of the two. Perhaps it's that appreciation for ambiguity, that welcoming of the weird, that separates our synapse signals from bits and bytes. 
 
