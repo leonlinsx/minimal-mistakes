@@ -56,7 +56,19 @@ The article is split into 5 sections:
 
 Let's get started.
 
-### 1. GPT-3 is impressive because it can create intelligble outputs for a wide variety of use cases
+### 1. GPT-3 is impressive because it can create intelligible outputs for a wide variety of use cases
+
+[GPT-3](https://arxiv.org/pdf/2005.14165.pdf "GPT") was created by [OpenAI](https://openai.com/about/ "Open"), a company trying to "make sure artificial general intelligence benefits all of humanity," i.e. the robots don't kill us all. 
+
+GPT-3 is a general language model, meaning it takes some words as input, and produces more words as output. Because it's a general model, it can solve many different types of tasks. You could ask it to write a paragraph about unicorns, translate a sentence, generate programming code, or more. 
+
+Since it's a general model, you'd expect GPT-3 to be worse at a task than models specialised for that task e.g. when comparing GPT's translation results vs an algorithm only focused on doing translation, GPT won't be as good. 
+
+Surprisingly and impressively, that's not always the case. Below is the table from the [GPT paper](https://arxiv.org/pdf/2005.14165.pdf "GPT") with the results of a translation test. For simplicity, we can just compare the first line representing a "State Of The Art" model against the last line representing the best performing GPT model \[2\]. A higher number is better here. We can see that for some of the translation tasks (particularly for translation to english), GPT is as good, if not better than State Of The Art models.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/GPT/GPT preamble 1.png)
+
+OpenAI tested GPT on a large variety of other tasks, such as text prediction, trivia questions without letting it search a seprate dataset, or determining what word a pronoun is referring to \[3\]. While GPT doesn't win on all cases, it gets great results in most of them. If you could only pick one model, you'd probably want to use GPT. It's like the [Simone Biles](https://www.nytimes.com/2019/10/13/sports/simone-biles-worlds.html "Simone") of the AI community, being top at many events and great at the rest.
 
 
 
@@ -275,6 +287,8 @@ I'd controversially propose that GPT-3 tells us more about ourselves as humans, 
 ### Footnotes
 
 1. I kid, I kid. Occasionally they play ping pong.
+2. Apparently there are issues with directly comparing results. I'm not familiar with the details but it seems trying to standardise the primed data used. The paper says "However, our one / few-shot settings aren’t strictly comparable to prior unsupervised work since they make use of a small amount of paired examples (1 or 64). This corresponds to up to a page or two of in-context training data."
+3. Context - "The LAMBADA dataset tests the modeling of long-range dependencies in text – the model is asked to predict the last word of sentences which require reading a paragraph of context"; Trivia - "On TriviaQA, we achieve 64.3% in the zero-shot setting, 68.0% in the one-shot setting, and 71.2% in the few-shot setting"; Pronous - "The Winograd Schemas Challenge is a classical task in NLP that involves determining which word a pronoun refers to, when the pronoun is grammatically ambiguous but semantically unambiguous to a human"
 30. We're not exactly converting the words to binary representation here, if that's what you were thinking. Instead, we're [using a word embedding such as word2vec](https://towardsdatascience.com/learn-how-recurrent-neural-networks-work-84e975feaaf7 "word2") to generate varying numerical representations of the words that can be used in the algorithms moving forward. True, at the end of the day everything's converted to binary, but that's not at this point of the process.
 31. Ok, so I'm pretty sure the first function actually has a [bias unit](https://ayearofai.com/rohan-5-what-are-bias-units-828d942b4f52 "bias"), so it also takes another input. But that overly complicates the main text explanation, so I'm leaving it out.
 40. You can verify this in the [GPT-3 paper page 8,](https://arxiv.org/pdf/2005.14165.pdf "paper") where they say "We use the same model and architecture as GPT-2, including the modified initialization, pre-normalization, and reversible tokenization described therein, with the exception that we use alternating dense and locally banded sparse attention patterns in the layers of the transformer, similar to the Sparse Transformer"
