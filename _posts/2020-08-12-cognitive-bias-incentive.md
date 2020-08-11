@@ -34,12 +34,29 @@ published: false
 
 ### Main
 
+"Do people tend to make better decisions when the stakes are high?"
+
+Research into this topic will help us know:
+
+1. Whether our decision making is the same under small vs high stakes
+2. If different, whether that difference is due to low effort or something else
+
+They chose to test using 4 types of commonly researched biases below \[1\]. I have a section explaining the bias and how it's commonly tested for later.
+
+1. Base rate neglect (underweighting prior probability)
+2. Anchoring (overly relying on early info)
+3. Failure of contingent thinking (deductive reasoning)
+4. Intuitive reasoning
+
+#### Biases
+
 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
 ### Footnotes
-1. 
+
+1. Reasoning for these 4 was "(i) the tasks that underlie these biases have an objectively correct answer; (ii) the biases are cognitive in nature, rather than preference-based; (iii) standard experimental instructions to measure these biases are short and simple, which helps rule out confusion resulting from complex instructions; and (iv) these biases all have received much attention and ample experimental scrutiny in the literature
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
