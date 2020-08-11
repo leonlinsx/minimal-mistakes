@@ -34,12 +34,15 @@ published: false
 
 ### Main
 
-"Do people tend to make better decisions when the stakes are high?"
+Imagine 
+
+In this paper on "Cognitive Biases: Mistakes or Missing Stakes?", the researchers look into how performance is affected by the stakes. The question they wanted to answer was: Do people tend to make better decisions when the stakes are high?
 
 Research into this topic will help us know:
 
 1. Whether our decision making is the same under small vs high stakes
 2. If different, whether that difference is due to low effort or something else
+
 
 
 #### Experiment details
@@ -55,7 +58,7 @@ The experiment wanted to see behaviour under high monetary stakes. To run the ex
 
 Researchers first gave the N = 1,236 participants the test without any bonus reward. Then, the researchers told the participants there would be bonus rewards available for doing better on the next test. 
 
-They measured performance and response times as dependent variables against the. Performance is measured by percentage of responses on the test correct for that bias category, and response time was the average response time to questions of that bias category.
+They measured performance and response times as dependent variables against the incentive structure. Performance is measured by percentage of responses on the test correct for that bias category, and response time was the average response time to questions of that bias category. e.g. you could get 80% correct and an average 20s response time to base rate neglect types of questions.
 
 #### Biases
 
