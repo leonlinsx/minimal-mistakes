@@ -53,9 +53,9 @@ They chose to test using 4 types of commonly researched biases below \[1\]. I ha
 
 The experiment wanted to see behaviour under high monetary stakes. To run the experiment cost effectively, they conducted it in the Busara Center for Behavioral Economics in Nairobi, Kenya. This way, they could offer participants a large amount in local purchasing power, while still keeping costs down e.g. offer a month's salary as a reward \[2\]
 
-Researchers first gave the participants the test without any bonus reward. Then, the researchers told the participants there would be bonus rewards available for doing better on the test after that. 
+Researchers first gave the N = 1,236 participants the test without any bonus reward. Then, the researchers told the participants there would be bonus rewards available for doing better on the next test. 
 
-
+They measured performance and response times as dependent variables against the. Performance is measured by percentage of responses on the test correct for that bias category, and response time was the average response time to questions of that bias category.
 
 #### Biases
 
