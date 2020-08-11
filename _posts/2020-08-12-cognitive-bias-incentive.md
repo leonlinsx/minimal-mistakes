@@ -36,15 +36,15 @@ published: false
 
 Imagine you had to solve a math problem. Do you think your performance would be better if you got a $10 reward for solving it? What about a $1,000 reward? 
 
-One theory of high executive pay is that they're being paid for their better decision making \[1\]. Does getting a higher monetary reward help them make better decisions?
+We like to think that getting more money better incentives us, leading us to put in more effort and get better results. For example, one theory of high executive pay is that they're being paid for their better decision making \[1\]. Does getting a higher monetary reward actually help them make better decisions?
 
 If it involves avoiding cognitive biases, probably not. Researchers found that people have the same incorrect biases, whether offered a low reward or a high one. This might mean that monetary rewards do not have as large an influence on decision quality as we think. 
 
 In their paper ["Cognitive Biases: Mistakes or Missing Stakes?",](https://www.ifo.de/DocDL/cesifo1_wp8168.pdf "pdf") the researchers \[1\] look into how performance on tests is affected by the stakes. The question they wanted to answer was: Do people tend to make better decisions when the stakes are high?
 
-What they ended up finding was that people make the same types of cognitive bias errors whether they were offered low or high rewards. 
+What they ended up finding was that **people make the same types of cognitive bias errors whether they were offered low or high rewards.** 
 
-Additionally, although their amount of effort increased, the actual scores were similar in both cases. This implies that it's not lack of effort, but the "right way of looking at a problem," causing people to fail at cognitive bias questions.
+Although their amount of effort increased, the actual scores were similar in both cases. This implies that it's not lack of effort, but the "right way of looking at a problem," causing people to fail at cognitive bias questions.
 
 Applied to decision making, this could mean that having higher stakes doesn't improve performance. You could pay your executives well, but don't expect that to induce better decision making.
 
