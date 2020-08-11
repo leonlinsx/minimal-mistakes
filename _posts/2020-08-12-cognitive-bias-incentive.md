@@ -48,6 +48,10 @@ They chose to test using 4 types of commonly researched biases below \[1\]. I ha
 3. Failure of contingent thinking (deductive reasoning)
 4. Intuitive reasoning
 
+The experiment wanted to see behaviour under high monetary stakes. To run the experiment cost effectively, they conducted it in the Busara Center for Behavioral Economics in Nairobi, Kenya. This way, they could offer participants a large amount in local purchasing power, while still keeping costs down e.g. offer a month's salary as a reward \[2\]
+
+
+
 #### Biases
 
 
@@ -57,6 +61,8 @@ They chose to test using 4 types of commonly researched biases below \[1\]. I ha
 ### Footnotes
 
 1. Reasoning for these 4 was "(i) the tasks that underlie these biases have an objectively correct answer; (ii) the biases are cognitive in nature, rather than preference-based; (iii) standard experimental instructions to measure these biases are short and simple, which helps rule out confusion resulting from complex instructions; and (iv) these biases all have received much attention and ample experimental scrutiny in the literature
+2. The maximum bonus could be 130 KSh ($1.30) and 13,000 KSh ($130), vs Median monthly income of 10,000–12,000 KSh ($100)
+
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
