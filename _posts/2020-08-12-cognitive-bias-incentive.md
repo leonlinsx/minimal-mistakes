@@ -34,16 +34,17 @@ published: false
 
 ### Main
 
-Imagine 
+Imagine you had to solve a math problem. Do you think your performance would be better if you got a $10 reward for solving it? What about a $1,000 reward? 
 
-In this paper on "Cognitive Biases: Mistakes or Missing Stakes?", the researchers look into how performance is affected by the stakes. The question they wanted to answer was: Do people tend to make better decisions when the stakes are high?
+One theory of high executive pay is that they're being paid for their better decision making \[1\]. Does getting a higher monetary reward help them make better decisions?
 
-Research into this topic will help us know:
+If it involves avoiding cognitive biases, probably not. Researchers found that people have the same incorrect biases, whether offered a low reward or a high one. This might mean that monetary rewards do not have as large an influence on decision quality as we think. 
 
-1. Whether our decision making is the same under small vs high stakes
-2. If different, whether that difference is due to low effort or something else
+In their paper ["Cognitive Biases: Mistakes or Missing Stakes?",](https://www.ifo.de/DocDL/cesifo1_wp8168.pdf "pdf") the researchers \[1\] look into how performance on tests is affected by the stakes. The question they wanted to answer was: Do people tend to make better decisions when the stakes are high?
 
+What they ended up finding was that people make the same types of cognitive bias errors whether they were offered low or high rewards. Although their amount of effort increased, the actual scores were similar in both cases. This implies that it's not lack of effort, but the "right way of looking at a problem," causing people to fail at cognitive bias questions.
 
+Applied to decision making, this could mean that having higher stakes doesn't improve performance. You could pay your executives well, but don't expect that to induce better decision making.
 
 #### Experiment details
 
@@ -66,8 +67,15 @@ They measured performance and response times as dependent variables against the 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
+#### Follow up questions
+
+1. Can we relate performance on cognitive bias tests to general decision making? Does getting better at the former imply getting better at the latter?
+2. How do you measure performance for general decision making? What is the best decision?
+
 ### Footnotes
 
+1. Or the cost to replace them
+1. Benjamin Enke, Uri Gneezy, Brian Hall, David Martin, Vadim Nelidov, Theo Offerman, Jeroen van de Ven 
 1. Reasoning for these 4 was "(i) the tasks that underlie these biases have an objectively correct answer; (ii) the biases are cognitive in nature, rather than preference-based; (iii) standard experimental instructions to measure these biases are short and simple, which helps rule out confusion resulting from complex instructions; and (iv) these biases all have received much attention and ample experimental scrutiny in the literature
 2. The maximum bonus could be 130 KSh ($1.30) and 13,000 KSh ($130), vs Median monthly income of 10,000–12,000 KSh ($100)
 3. 
