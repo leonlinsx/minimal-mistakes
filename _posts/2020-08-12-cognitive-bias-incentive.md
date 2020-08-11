@@ -71,6 +71,12 @@ They measured performance and response times as dependent variables against the 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
+#### Results
+
+What they found was that for many tests, the higher incentive amount doesn't reduce cognitive biases. In the image below, each graph is one type of cognitive bias test. Within each graph is the three incentive types given - no, standard, and high. The performance on each is shown. In many of the experiments, there's no increase in performance, moving from the "standard incentive" tick mark to the "high incentive" tick mark.
+
+
+
 #### Follow up questions
 
 1. Can we relate performance on cognitive bias tests to general decision making? Does getting better at the former imply getting better at the latter?
