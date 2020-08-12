@@ -123,9 +123,17 @@ The researchers used similar tests, framed both ways, in evaluating participants
 
 Like the previous bias, this one also has a more abstract and concrete way of thinking about it. Base rate neglect is when people [fail to consider the underlying probability when making guesses](https://thedecisionlab.com/biases/base-rate-fallacy/ "base")
 
-Abstract
+Abstract version: 1% of women have breast cancer. If a woman has breast cancer, the chance of her getting a positive test is 80%. If a woman does not have breast cancer, the chance of her getting a positive test is 9.6% (since tests aren't always accurate). 
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/Stake 1.png)
+A woman gets a positive test. What's the probability she actually has cancer?
+
+Most people answer some high number. To show why that's wrong, let's look at the more concrete, intuitive version:
+
+10 out of every 1000 women have breast cancer. 8 out of every 10 women with breast cancer get a positive test. 95 out of every 990 women without breast cancer get a positive test.
+
+In a new representative sample of 100 women who all got positive tests, how many do you expect to actually have breast cancer?
+
+You can see that the right math to do here is 8 out of (8 + 95), which is about 7.8 people (7.8%). The proportions in the intuitive version are the same as the abstract example, so the answer is the same as well. I'll skip the math for the first example but you can look at an explanation [here](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/ "expl")
 
 Researchers tested both versions of those wordings above as well.
 
@@ -147,6 +155,9 @@ And when looking at response times, a proxy for effort, they found that people d
 
 1. Can we relate performance on cognitive bias tests to general decision making? Does getting better at the former imply getting better at the latter?
 2. How do you measure performance for general decision making? What is the best decision?
+3. Why is there an increase in intuitive contingency reasoning performance at higher stakes?
+4. Does the limited time to respond nature of the experiment affect carry-over of results into the real world?
+5. Should we recommend to give people higher incentives even though there's low effectiveness on performance?
 
 ### Footnotes
 
@@ -155,7 +166,6 @@ And when looking at response times, a proxy for effort, they found that people d
 3. Reasoning for these 4 was "(i) the tasks that underlie these biases have an objectively correct answer; (ii) the biases are cognitive in nature, rather than preference-based; (iii) standard experimental instructions to measure these biases are short and simple, which helps rule out confusion resulting from complex instructions; and (iv) these biases all have received much attention and ample experimental scrutiny in the literature
 4. The maximum bonus could be 130 KSh ($1.30) and 13,000 KSh ($130), vs Median monthly income of 10,000–12,000 KSh ($100)
 5. They randomised the anchors to be either low or high, and the questions had answers that were rangebound from 0 to 100. This made measuring the effect of the anchor easier
-
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
