@@ -121,11 +121,17 @@ The researchers used similar tests, framed both ways, in evaluating participants
 
 ##### 4. Base rate neglect
 
+Like the previous bias, this one also has a more abstract and concrete way of thinking about it. Base rate neglect is when people [fail to consider the underlying probability when making guesses](https://thedecisionlab.com/biases/base-rate-fallacy/ "base")
 
+Abstract
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Stake 1.png)
 
+Researchers tested both versions of those wordings above as well.
+
 #### Results
+
+The researchers looked at participant performance on all those tests above, and whether offering a higher reward helped.
 
 What they found was that for many tests, the higher incentive amount doesn't reduce cognitive biases. In the image below, each graph is one type of cognitive bias test. The top left is the test for 1 - Intuitive reasoning, top right for 4 - Base rate, bottom left for 3 - Contingent reasoning, bottom right for 2 - Anchoring.
 
