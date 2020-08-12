@@ -1,6 +1,6 @@
 ---
-title:  ""  
-tags: []
+title:  "When paying for performance doesn't work"  
+tags: [pay, incentives, bias, research]
 published: false
 ---
 
@@ -34,7 +34,7 @@ Getting paid more increases effort but not necessarily performance
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-### Main
+### Does performance change with incentives?
 
 Imagine you had to solve a math problem. Do you think your performance would be better if you got a $10 reward for solving it? What about a $1,000 reward? 
 
