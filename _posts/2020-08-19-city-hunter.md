@@ -38,7 +38,7 @@ The predictions of the death of large cities are overblown and I expect most to 
 
 An article recently proclaimed that [NYC is dead forever.](https://www.linkedin.com/pulse/nyc-dead-forever-heres-why-james-altucher/ "NYC") Because of the internet, the loss of business, culture, dining, commercial real estate, and colleges in the city has turned from a temporary situation to a permanent outcome. As a result, the article concludes that people are leaving NYC and never coming back.
 
-Similar articles have been written about other large cities, [such as SF.](https://www.sfgate.com/sf-locals/slideshow/I-m-finally-leaving-Stories-of-Bay-Area-203670.php "SF") A couple of people I've talked to have also reflected the same sentiment of wanting to leave the city they're in. I'm not an expert in urban mobility, and this will be more speculative. let's take a look at some points that matter regarding the death of large cities. 
+Similar articles have been written about other large cities, [such as SF.](https://www.sfgate.com/sf-locals/slideshow/I-m-finally-leaving-Stories-of-Bay-Area-203670.php "SF") A couple of people I've talked to have also reflected the same sentiment of wanting to leave the city they're in. I'm not an expert in urban mobility, and this will be more speculative. Let's take a look at some points that matter regarding the death of large cities. 
 
 I'm more optimistic that large cities will survive this. As a way of quantifying that statement - I have 80% confidence that NYC will have a higher population in 5 years than it does today \[1\]. For context, up until recently NYC has been growing at 0.30% yearly.
 
@@ -52,7 +52,7 @@ People have their own unique priorities when evaluating cities. The person's pri
 
 Usually, the pace at which the person's priority changes has been faster than the pace at which a city's ability changes. You move to a city for your first job after graduating college, and then stay there for a while until you need more space for a family. The city stayed the same, you changed.
 
-Recently though, cities have lost nearly everything that attracted people to them. You may have stayed the same and want the same things, but the city changed. If you recall our [pace layer] discussion, in this case the "governance", "infrastructure", and "commerce" layers all moved more quickly than expected. 
+Recently though, cities have lost nearly everything that attracted people to them. You may have stayed the same and want the same things, but the city changed. If you recall our [pace layer](https://avoidboringpeople.substack.com/p/wisely-and-slow-they-stumble-that "pace") discussion, in this case the "governance", "infrastructure", and "commerce" layers all moved more quickly than expected. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Pace layer civilisation.jpg)
 
