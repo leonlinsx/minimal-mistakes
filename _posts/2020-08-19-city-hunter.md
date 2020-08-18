@@ -78,6 +78,8 @@ A few of the top factors:
 
 Many people move for the sake of a job; I did too. If that job can now be done anywhere, there's less reason to move. Why would companies want to move back to offices?
 
+# What type of remote work is likely?
+
 Cynically, having an office allows a company to extract more time from their employees. And while some people are more productive at work now that they're working from home, I feel that the productivity of an average worker has gone down since leaving an office. Getting people back eventually is one way to grow faster.
 
 There's also a sense that those random conversations in between meetings are actually important as well. This has led to more companies finding ways to have their teams interact outside of work, such as a socially-distanced team outing. If people were satisfied with just zoom happy hours, we wouldn't see such activities suggested. People want to see others in person.
