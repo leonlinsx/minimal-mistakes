@@ -40,7 +40,7 @@ An article recently proclaimed that [NYC is dead forever.](https://www.linkedin.
 
 Similar articles have been written about other large cities, [such as SF.](https://www.sfgate.com/sf-locals/slideshow/I-m-finally-leaving-Stories-of-Bay-Area-203670.php "SF") A couple of people I've talked to have also reflected the same sentiment of wanting to leave the city they're in. I'm not an expert in urban mobility, and this will be more speculative. let's take a look at some points for and against the death of large cities. 
 
-I'm more optimistic that large cities will survive this. As a way of quantifying that statement - I have 80% confidence that NYC will have a higher population in 5 years than it does today \[1\]. 
+I'm more optimistic that large cities will survive this. As a way of quantifying that statement - I have 80% confidence that NYC will have a higher population in 5 years than it does today \[1\]. For context, up until recently NYC has been growing at 0.30% yearly.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/New York City-population-2020-08-17-macrotrends.png)
 
@@ -78,17 +78,17 @@ A few of the top factors:
 
 Many people move for the sake of a job; I did too. If that job can now be done anywhere, there's less reason to move. Why would companies want to move back to offices?
 
-# What type of remote work is likely?
-
 Cynically, having an office allows a company to extract more time from their employees. And while some people are more productive at work now that they're working from home, I feel that the productivity of an average worker has gone down since leaving an office. Getting people back eventually is one way to grow faster.
 
 There's also a sense that those random conversations in between meetings are actually important as well. This has led to more companies finding ways to have their teams interact outside of work, such as a socially-distanced team outing. If people were satisfied with just zoom happy hours, we wouldn't see such activities suggested. People want to see others in person.
+
+Remote work also doesn't have to be an all or nothing proposition. If companies ended up letting people do some days in the office and some days out of it, then large cities still matter. Remote work might even directly result in more people moving to cities, should offices do a rotational schedule. e.g. one month group A in the office, one month group B in the office. That implies the city can take twice as many workers as it used to.
 
 The type of work also matters. More physical work can't be done remotely, so those jobs stay in the city where you get economies of scale. We'll get back to this under services, but shouldn't this imply more stickiness to cities?
 
 And one important factor, sometimes missed, is how most of these companies allowing fully remote options have clearly stated they intend to adjust salaries according to the cost of living of the city you relocate to. This is without considering the decreased perks you have working remotely - snacks, meals, other services. Some people will be ok with this, and others will balk.
 
-I do think we'll see many more remote-first or remote-only companies. [Zapier, for example,](https://zapier.com/about/ "Zapier") has been remote-only for a while now. They still hold in person company events though. For now, I still think remote work is temporary for most.
+I do think we'll see many more remote-first or remote-only companies. [Zapier, for example,](https://zapier.com/about/ "Zapier") has been remote-only for a while now. They still hold in person company events though. For now, I still think remote work is temporary for most. And the styles of remote work that will stick are still beneficial for cities.
 
 **Education**
 
@@ -122,7 +122,7 @@ As long as we remain attached to physical experiences, needing to get items deli
 
 It's hard to classify cities based on their vibe, or culture. If you've visited other cities before though, you know that some cities just "feel" differently than others do. 
 
-Culture is build via many things, including history, people, stories. It's built from the many small interactions you have with others in the city. In a work from home situation, it doesn't seem obvious to me that all of that will change for a city.
+Culture is build via many things, including history, people, stories. It's built from the many small interactions you have with others in the city. In a work from home situation, it doesn't seem obvious to me that all of that will change for a city. Of course, that changes if all the people that make up the culture move away. As mentioned in the other sections, this both doesn't seem to be the case.
 
 **Cities have lasted a long time**
 
