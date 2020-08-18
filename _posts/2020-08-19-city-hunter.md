@@ -128,14 +128,14 @@ Culture is build via many things, including history, people, stories. It's built
 
 As I summarised in the [Josh Wolfe article](https://avoidboringpeople.substack.com/p/authentic-contrarians-vs-consensus "Josh"), there'll be continued tension from city folks seeing suburban folks enjoy a more normal life, seemingly without consequences. Many will even make the choice to move, finally deciding the tradeoff is worth it.
 
-And that's the crux of the issue - living in a city is always going to be a tradeoff, made conciously or subsconciously by everyone. There's no right or wrong answer, just the one more appropriate for that particular person's situation.
+And that's the crux of the issue - living in a city is always going to be a tradeoff, made consciously or subconsciously by everyone. There's no right or wrong answer, just the one more appropriate for that particular person's situation.
 
 The trend of urbanisation is not a decade long one, nor even a century long one. It's something that has continued happening [for 5,000 years](http://metrocosm.com/history-of-cities/ "5k"). And while the largest city in the world [has changed over time](https://en.wikipedia.org/wiki/List_of_largest_cities_throughout_history "city"), what's also interesting is how so many cities have remained large throughout the years.
 
 ### Footnotes
 
 1. I'd compare Aug 2025 vs Aug 2020 if possible, but more likely we'd have to compare Dec 2019 vs Dec 2024 or Dec 2020 vs Dec 2025.
-2. I skimmed the paper and didn't fully read it. It's cited by many, and provides a farmework for why people move. There's a discussion of what leads people to move, and then how they find and evaluate a new home.
+2. I skimmed the paper and didn't fully read it. It's cited by many, and provides a framework for why people move. There's a discussion of what leads people to move, and then how they find and evaluate a new home.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
