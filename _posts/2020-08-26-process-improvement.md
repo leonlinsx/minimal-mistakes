@@ -6,7 +6,7 @@ published: false
 
 ### Takeaway
 
-Michael Filler and Matthew Realff propose that all processes come from 8 different types of steps. By understanding what steps are available, you can re-arrange them to get process improvement. Process improvement is underrated because of its intangible nature. 
+Michael Filler and Matthew Realff propose that all processes come from 8 different types of steps. By understanding what steps are available, you can rearrange them to get process improvement. Process improvement is underrated because of its intangible nature. 
 
 <style>
       .iframe-container {
@@ -74,7 +74,7 @@ Parallelization (type 1) refers to multiple instances of the same step being sim
 
 If you have parallelization, that implies you can split steps (type 2) and merge steps (type 3)
 
-If you split a step and send the parts to diffferent downstream steps, that's known as separation (type 4)
+If you split a step and send the parts to different downstream steps, that's known as separation (type 4)
 
 You can combine multiple steps (type 5) or factor a step into multiple ones (type 6) \[2\]
 
