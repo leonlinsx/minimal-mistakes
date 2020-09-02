@@ -1,13 +1,13 @@
 ---
-title:  ""  
-tags: []
+title:  "There's more to communities than Facebook goat groups"  
+tags: [newsletter, events, groups, community, individuals, investing, angel, vc, model]
 published: false
 ---
 
 
 ### Takeaways
 
-1. Virtual events and groups should aim to build community by increasing interaction and engagement. If you aren't in a community or building one, you're probably missing out.
+1. Virtual events and groups should aim to build community by increasing interaction opportunities. If you aren't in a community or building one, you're probably missing out.
 2. Newsletters have trended due to cost, convenience, and control. I share a financial model which you can play with to frame the economics of the business
 3. Individuals are becoming more important for private market investing, both as solo capitalists and as small checks in syndicates
 
@@ -89,7 +89,7 @@ Many event organisers seem to believe that all you have to do is just convert al
 
 One simple and high value-add to events is to **allow for audience Q&A.** It's a convenient way to increase interaction during your event and make it more effective. It also means there's a real difference between attending the event live vs watching a replay. Most organisers have understood this by now, though time allocated for Q&A can still be on the shorter side. I'd advocate for about half the time of your speaking event to be dedicated to Q&A, especially if the purpose of your event is to build a relationship with the audience \[4\].
 
-Another value-add is to **include the materials presented.** You can do this before or after the session, depending on whether you want to have the element of surprise. So many events I've attended just send me replay links of the video. That's good, and we can do better. If I want to cite your expertise later on, it's more convenient to link to static rather than dynamic material, since it takes more time to parse through video content. Since it's essentially free and easy to do so, you should aim to save your audience's time.
+Another value-add is to **include the materials presented.** You can do this before or after the session, depending on whether you want to have the element of surprise. So many events I've attended just send me replay links of the video. That's good, and we can do better. If I want to cite your expertise later on, it's more convenient to link to static rather than dynamic material, since it takes more time to parse through video content. Since it's essentially free and easy to do so, save your audience's time by also sending the slides.
 
 The other ideas I've seen are more situational.
 
@@ -191,7 +191,7 @@ Using newsletters as an example, it's easier to get readers now than 20 years ag
 
 In addition to a decrease in cost, an **increase in convenience** has also facilitated the newsletter trend. I could be mistaken, but I feel the newsletter boom started picking up after [substack announced their funding round.](https://techcrunch.com/2019/07/16/substack-series-a/ "substack") What substack did was make it way easier to get started, as I outlined in an [older post](https://www.leonlinsx.com/substack/ "substack"). By worrying less about whatever a [cname record](https://support.dnsimple.com/articles/differences-a-cname-records/ "cname") is and instead being able to start writing immediately, substack enticed many people to try it out.
 
-Another important thing newsletters enable is **increased control of your audience**; [a direct relationship with readers.](https://www.protocol.com/substack-ceo-newsletter-obsession "substack") For now, email is still in this sweet spot where people will open and check the stuff they get. Compare this to snail mail, where half the time I'm getting an ad to sell the apartment I'm renting, or to any feed-based content platform, where half the time I'm seeing something supposedly popular but I don't care about. Owning an audience is like having your own community to care for.
+Another important thing newsletters enable is **increased control of your audience**; [a direct relationship with readers.](https://www.protocol.com/substack-ceo-newsletter-obsession "substack") For now, email is still in this sweet spot where people will open and check the stuff they get. Compare this to snail mail, where half the time I'm getting an ad to sell the apartment I'm renting, or to any feed-based content platform, where half the time I'm seeing something supposedly popular but I don't care about. Owning an audience gives you your own community to care for.
 
 One point of nuance to the above. I said that the cost of acquiring an audience was low, and that the convenience of sending a newsletter is high. However, it is not convenient to acquire an audience. Building a readership base takes work, [unless you're Bella Thorne and trying to scam sex workers.](https://reddit.com/r/ChoosingBeggars/comments/ikotvd/can_celebs_be_choosing_beggars_edited_for_sub/ "Bella") Some creators spend more than half their time marketing their work vs actually creating content. That increased friction - of you having to get a reader, and a reader having to give you their email - is what actually deepens the sense of relationship. I signed up for this, therefore it must be good and I should read it. Since you've frontloaded your customer acquisition cost (and effort), selling to that group becomes much easier down the line.
 
@@ -207,7 +207,7 @@ If you're a newsletter writer, you're aiming for your own unique mix of the thre
 
 If the newsletter can educate me to be better at my job and earn more \[10\], you can jack up pricing. If it's more for personal entertainment or emotion, it's harder to do so. I could try, but it's a near impossibility for me to make you feel the same way after reading my writing vs [after watching Arrival.](https://www.reddit.com/r/movies/comments/8z720w/movies_that_destroy_you_emotionally/ "Arrival")
 
-What is a reasonable ceiling for how much a newsletter can make? [This post by Andreas Stegmann](https://medium.com/hyperlinked/ben-thompsons-stratechery-should-be-crossing-3-million-in-profits-this-year-c146433f0458 "andreas") guesstimates that Ben Thompson of [Stratechery](https://stratechery.com/ "Strat") makes about $3mm yearly. For lack of better info, I'll use that as the upper bound of what best in class newsletters \[11\]. 
+What is a reasonable ceiling for how much a newsletter can make? [This post by Andreas Stegmann](https://medium.com/hyperlinked/ben-thompsons-stratechery-should-be-crossing-3-million-in-profits-this-year-c146433f0458 "andreas") guesstimates that Ben Thompson of [Stratechery](https://stratechery.com/ "Strat") makes about $3mm yearly. For lack of better info, I'll use that as the upper bound of what best in class newsletters do \[11\]. 
 
 That sounds like a lot, but think about that again. Being among the best in the world only puts you in the million dollar range. [Compare this to being the best in the world at a sport](https://www.forbes.com/athletes/#2c6842d155ae "Forbes"), where the top athletes earn ~$100mm yearly. Or being the best in the world at running a business, where your earnings are measured in the billions. If you want highest possible upside, writing a newsletter is not the way to go.
 
@@ -221,7 +221,7 @@ Of course, there'll be exceptional creators that earn >$100k yearly, but that re
 
 ##### Newsletters might not have many exit options
 
-A recent reddit thread talked about [how huge a star Michael Jackson was, and how we don't see celebrities like that anymore](https://www.reddit.com/r/todayilearned/comments/ikuuhu/til_michael_jacksons_super_bowl_half_time_show/ "MJ"). The internet's cost deflation has fragmented the world of content, enabling an unimaginable number of new creators. What's next?
+A recent reddit thread talked about [how huge a star Michael Jackson was, and how we don't see celebrities like that anymore](https://www.reddit.com/r/todayilearned/comments/ikuuhu/til_michael_jacksons_super_bowl_half_time_show/ "MJ"). The internet's cost deflation has fragmented the world of content, enabling an unimaginable number of new creators. There’s less concentration and more diversification. What's next?
 
 One easy prediction is that of the supporting industry for all this content. For newsletters, look to [paid courses](https://www.journalism.cuny.edu/centers/tow-knight-center-entrepreneurial-journalism/entrepreneurial-journalism-creators-program/ "paid"), [support groups](https://www.indiehackers.com/group/newsletter-crew "support"), and more people advising on how to get started.
 
