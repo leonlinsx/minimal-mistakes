@@ -1,6 +1,6 @@
 ---
-title:  "Tim, Vermeer, and Controversy"  
-tags: [art, tech]
+title:  "The controversy around Tim's Vermeer is missing the point"  
+tags: [art, tech, vermeer]
 published: true
 ---
 
@@ -14,13 +14,13 @@ If you're like me and don't know much about art, here's some background context:
     <figcaption>Girl with a pearl earring and the the music lesson</figcaption>
 </figure>
 
-A while back, David Hockney and Philip Steadman suggested that Vermeer and other artists could have [used lenses and mirrors to achieve the realism in their paintings.](https://www.vanityfair.com/culture/2013/11/vermeer-secret-tool-mirrors-lenses"Vanity Fair link") The controversy generated had people doubting both the people hypothesising and the process hypothesised:
+A while back, David Hockney and Philip Steadman suggested that **Vermeer and other artists could have [used lenses and mirrors to achieve the realism in their paintings.]**(https://www.vanityfair.com/culture/2013/11/vermeer-secret-tool-mirrors-lenses"Vanity Fair link") The controversy generated had people doubting both the people hypothesising and the process hypothesised:
 
 > Leading art historians were unpersuaded. Hockney, people said, was just jealous because he lacks the old masters’ skills.
 
 > As the nay-saying historian James Elkins (of the School of the Art Institute of Chicago) observed in 2001, “the optical procedures posited in Hockney’s book are all radically undertested,” and “no one, including myself, knows what it is really like to get inside a camera obscura”—a lens projecting a perfect image of one side of a room onto a surface equidistant on the other side—“and make a painting.” 
 
-This is where Tim Jenison comes in. He believed in Steadman and Hockney's ideas, and decided to re-create the process to test the ideas. The documentary Tim's Vermeer follows him through his trial and error of reproducing the music lesson painting above, which included a real life reproduction of the room shown in the original painting. As a NYT review puts it:
+This is where Tim Jenison comes in. He believed in Steadman and Hockney's ideas, and decided to **re-create the process to test the ideas.** The documentary Tim's Vermeer follows him through his trial and error of reproducing the music lesson painting above, which included a real life reproduction of the room shown in the original painting. As a NYT review puts it:
 
 > During the 130 days he spent painting (following the 213 days needed to build the tableau), Mr. Jenison encountered several unexpected obstacles, whether the discovery that his camera obscura did not produce images that were bright or clear enough for him to paint (this was solved by adding a curved mirror to the setup), or the tediousness of his painstaking task.
 
@@ -46,9 +46,17 @@ You can judge for yourself whether he succeeded or not \[3\]. The reactions from
 
 [And someone even thought the moview was an intentional hoax:](https://digitopoly.org/2014/06/15/10-reasons-to-doubt-tims-vermeer/ "10 reasons to doubt")
 
-It seems there are two separate objections here, one to the idea and one to the process. Critics of the idea think the notion that artistic genius could be 'reduced' to technological innovation and hard work is reductive and blasphemous. Critics of the process think that the facts imply other ways the paintings were created \[4\].  
+It seems there are two separate objections here, one to **the idea** and one to **the process.** 
 
-Critics of the idea seem to be outraged at a claim that nobody is actually making, that Vermeer *must* have used this technique, and that by implication Vermeer was *less* of a genius. That's not the point of the movie. The point is that Vermeer *could* have used this technique, and even if he did, it doesn't change how you should view his art. It's strange that the potential use of 'technology' so horrified critics. If we withheld the use of technology from art, then shouldn't any artwork using modern paintbrushes, paints, techniques etc be considered diminished as a result? Despite what Picasso is rumoured to have said about cave paintings \[5\], I am sure that people appreciate art having evolved and techniques getting better since then.
+Critics of the idea think the notion that artistic genius could be 'reduced' to technological innovation and hard work is reductive and blasphemous. 
+
+Critics of the process think that the facts imply other ways the paintings were created \[4\].  
+
+Critics of the idea seem to be outraged at a claim that nobody is actually making, that Vermeer *must* have used this technique, and that by implication Vermeer was *less* of a genius. 
+
+That's not the point of the movie. The point is that Vermeer *could* have used this technique, and even if he did, it doesn't change how you should view his art. 
+
+It's strange that the potential use of 'technology' so horrified critics. If we withheld the use of technology from art, then shouldn't any artwork using modern paintbrushes, paints, techniques etc be considered diminished as a result? Despite what Picasso is rumoured to have said about cave paintings \[5\], I am sure that people appreciate art having evolved and techniques getting better since then.
 
 [Neither Penn and Teller nor Tim himself are claiming anything else:](https://www.nytimes.com/2013/12/01/movies/tim-jenison-an-inventor-paints-the-music-lesson.html "NYT article")
 
@@ -56,7 +64,7 @@ Critics of the idea seem to be outraged at a claim that nobody is actually makin
 
 > Mr. Jenison did not insist that the painting he created in the film had to be regarded as a work of art. “Vermeer created the art,” he said. “The best I could do was come up with something that looked the same. Why do you need another ‘Music Lesson’? It was just to see how close I could get.”
 
-This completely rebuts the Guardian and 2014 NYT review's arguments about the movie intending to 'claim the painting is as good' or them 'not seeing the difference'. The fact that the main points for both reviews are 'this was a pale imitation without soul and not true art' rather than 'hey this seems like a plausible, interesting way to have done it' shows the reviewers to be more close-minded than what they're accusing the movie of.
+**This completely rebuts the Guardian and 2014 NYT review's arguments about the movie** intending to 'claim the painting is as good' or them 'not seeing the difference'. The fact that the main points for both reviews are 'this was a pale imitation without soul and not true art' rather than 'hey this seems like a plausible, interesting way to have done it' shows the reviewers to be more close-minded than what they're accusing the movie of.
 
 I also agree with [Teller's thoughts](https://www.npr.org/2013/12/02/248190117/teller-breaks-his-silence-to-talk-tims-vermeer "teller") that *supposing* Vermeer used this method, it makes him a better artist:
 
@@ -68,13 +76,14 @@ I also agree with [Teller's thoughts](https://www.npr.org/2013/12/02/248190117/t
 
 I have more appreciation for critics of the process. Not knowing art well, I can't judge whether the criticisms are valid, but if they are, they seem to debunk the Hockney and Steadman theories above \[4\]. This is a fairer take on the movie, focusing on 'in light of these other facts, it's more likely Vermeer did this' rather than 'tech isn't art'. 
 
-Whether Vermeer really used Tim's process is not the point; it is the possibility that Vermeer *could* have used Tim's process. Critics that do not consider this and instead attack the 'artfulness' of Tim's work seem to have an irrational fear of the explainable. Not all good art may be analysed, but trying to do so is something we should encourage, not discourage. \[6\]
+**Whether Vermeer really used Tim's process is not the point;** it is the possibility that Vermeer *could* have used Tim's process. Critics that do not consider this and instead attack the 'artfulness' of Tim's work seem to have an irrational fear of the explainable. Not all good art may be analysed, but trying to do so is something we should encourage, not discourage. \[6\]
 
 For another in-depth article on this, check out [this link](http://www.davidbordwell.net/blog/2014/02/03/i-am-a-camera-sometimes-tims-vermeer/ "david bordwell")
 
-*If you like this, you might like my [monthly newsletter](https://avoidboringpeople.substack.com/ "ABP")*
+*If you like this, you might like my [article on understanding Picasso](https://www.leonlinsx.com/picasso/ "ABP")*
 
-**Footnotes** 
+### Footnotes
+
 1. See also ["What makes Vermeer a great artist? Some would say that Vermeer’s use of color sets him apart, that his unabashed use of expensive and natural pigments resulted in rich expressions of everyday life, more beautiful and perfect than the thing itself. Some say that it was his innate capacity to achieve uncanny realism without any formal training, whatsoever. Others will argue that his poetic use of light and shadow to highlight certain compositional elements makes him unique."](https://www.santafe.edu/events/painting-and-optics-17th-century-discussion-and-sc "santa fe vermeer")
 2. Attribution for the photos: [By Johannes Vermeer - Copied from Mauritshuis website, resampled and uploaded by Crisco 1492 (talk · contribs), October 2014, Public Domain, ](https://commons.wikimedia.org/w/index.php?curid=36351343) and [By Johannes Vermeer - CwFxCw3kUr-Lrw at Google Cultural Institute maximum zoom level, Public Domain, ](https://commons.wikimedia.org/w/index.php?curid=22127311)
 3. [This link](http://www.howtotalkaboutarthistory.com/wp-content/uploads/2016/11/vermeer-big.png "comps") has Tim's version on the left and Vermeer's version on the right, taken from [this site](http://www.howtotalkaboutarthistory.com/reader-questions/tims-vermeer-artistic-genius/ "vermeer review")
