@@ -6,6 +6,15 @@ published: true
 
 Over the holidays I read [Thanks for the Feedback](https://www.npr.org/books/titles/441536239/thanks-for-the-feedback-the-science-and-art-of-receiving-feedback-well-even-when "Thanks") by Douglas Stone and Sheila Heen, and thought it was one of the better books I've read in the past year. It talks about **how to make feedback conversations more productive, by explaining the types of feedback and common problems during feedback sessions.**
 
+The main takeaways are:
+
+- We can often get triggered by feedback, to our disadvantage
+- Knowing the main kinds of feedback will make conversations more productive
+- Misunderstandings always occur during conversations and we need to be aware of them occuring in the moment
+- Being prepared for feedback requires you putting in effort to prepare
+- We need to be kinder on ourselves
+- Taking action after feedback is key
+
 <style>
       .iframe-container {
         overflow: hidden;        
@@ -94,7 +103,7 @@ I've summarised the book below and added some of my own thoughts. Note: Many of 
 
 *LL: You and your nemesis may both be competent, but have a bad working relationship because of how incentives were structured in your organisation.*
 
-### Being prepared for feedback requires you putting in effort
+### Being prepared for feedback requires you putting in effort to prepare
 
 - How you react to feedback depends on three things:
   - Your baseline state of happiness and satisfaction e.g. ppl with higher happiness baselines respond more positively to positive feedback than ppl with lower baselines
@@ -139,7 +148,7 @@ I've summarised the book below and added some of my own thoughts. Note: Many of 
   
 *LL: This is new to me but important. It can be overwhelming to get feedback from someone or during some time. If the person truly has your best interests at heart, they'll understand that you need space. It's usually telling when someone forces you to accept their point of view, that they have their own agenda in mind.*
 
-### Next steps after feedback
+### Taking action after feedback is key
 
 - Feedback conversations are made of three parts:
   - Open: what is the purpose of the conversation, what kind of feedback it is, is it final?
