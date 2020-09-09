@@ -133,6 +133,7 @@ I've summarised the book below and added some of my own thoughts. Note: Many of 
   - We have complex intentions
   - We have contributed to the problem
 
+
 - Take responsibility for your part, but don't go to an extreme in denying all responsibility or taking all the blame
 
 *LL: I've been in either extreme before, either dodging blame or excessively self-flagellating. Neither are productive and also make you look even worse.*
@@ -158,6 +159,7 @@ I've summarised the book below and added some of my own thoughts. Note: Many of 
     - Managing: Observe the discussion, diagnose where it's going wrong, and intervene explicitly to correct it
     - Problem solving: Now what should we do about this feedback?
   - Close: Clarify where things stand explicitly and what to do next
+
 
 - Couple of ways to take action:
   - Ask 'what's one thing you see me doing that gets in my own way?'
