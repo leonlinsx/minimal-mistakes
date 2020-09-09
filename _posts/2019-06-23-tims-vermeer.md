@@ -4,7 +4,33 @@ tags: [art, tech, vermeer]
 published: true
 ---
 
-I just learnt about [Tim's Vermeer](https://sonyclassics.com/timsvermeer/ "website"), a documentary by Penn and Teller about [inventor Tim Jenison's attempt to reproduce a Vermeer using technology advanced for Vermeer's time](https://en.wikipedia.org/wiki/Tim%27s_Vermeer "wiki link"). The premise sounded interesting, so I looked up the film online, and became even more interested when I learnt about the controversy the film had generated. I still haven't watched the film, as I've found digging into the controversy and what it implies to be fascinating. 
+I just learnt about [Tim's Vermeer](https://sonyclassics.com/timsvermeer/ "website"), a documentary by Penn and Teller about [inventor Tim Jenison's attempt to reproduce a Vermeer using technology advanced for Vermeer's time](https://en.wikipedia.org/wiki/Tim%27s_Vermeer "wiki link"). The premise sounded interesting, so I looked up the film online, and became even more interested when I learnt about the controversy the film had generated. I still haven't watched the film, as I've found digging into the controversy and what it implies to be fascinating.
+
+<style>
+      .iframe-container {
+        overflow: hidden;        
+        padding-top: 50%; <!-- Calculated from the aspect ration of the content (in case of 16:9 it is 9/16= 0.5625) -->
+        position: relative;
+      }
+      .iframe-container iframe { 
+         border: 0;
+         height: 100%; <!-- Finally, width and height are set to 100% so the iframe takes up 100% of the containers space. -->
+         left: 0;
+         position: absolute;
+         top: 0;
+         width: 100%;
+         display: block;
+         margin: 0 auto; <!-- center image -->
+      }
+      <!-- 4x3 Aspect Ratio -->
+      .iframe-container-4x3 {
+        padding-top: 75%;
+      }
+</style> 
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
 
 If you're like me and don't know much about art, here's some background context: [Johannes Vermeer](https://en.wikipedia.org/wiki/Johannes_Vermeer "wiki") was a Dutch painter who lived from 1632-1675. He's now acknowledged to be one of the greatest painters of his time, particularly for his [realistic paintings and usage of light.](https://www.artble.com/artists/johannes_vermeer/more_information/style_and_technique "vermeer style") \[1\] Some famous paintings include \[2\]:
 
@@ -81,6 +107,10 @@ I have more appreciation for critics of the process. Not knowing art well, I can
 For another in-depth article on this, check out [this link](http://www.davidbordwell.net/blog/2014/02/03/i-am-a-camera-sometimes-tims-vermeer/ "david bordwell")
 
 *If you like this, you might like my [article on understanding Picasso](https://www.leonlinsx.com/picasso/ "ABP")*
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
 
 ### Footnotes
 
