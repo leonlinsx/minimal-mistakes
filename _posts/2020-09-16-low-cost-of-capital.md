@@ -40,9 +40,9 @@ I want to take a look at **cost of capital** today. I've been wondering what the
 
 For those who don't know what cost of capital is, not to worry. I'll provide a brief explanation of the concept, before making the following points:
 
-- Cost of capital is lower now than historically
-- As a result, there is a wealth transfer from savers to borrowers
-- This also implies that more risk taking should occur
+1. Cost of capital is lower now than historically
+2. As a result, there is a wealth transfer from savers to borrowers
+3. This also implies that more risk taking should occur
 
 #### Cost of capital is the blended cost of financing your idea
 
@@ -68,7 +68,7 @@ That was a simplified explanation, but it should give enough intuition for the r
 
 Put another way: We want to make money. We need money. That money comes at a cost, which is the cost of capital.
 
-#### Cost of capital is lower now
+#### 1. Cost of capital is lower now
 
 First, let's establish the case that it's less costly to get money now than before. To do so, we'll look at a few graphs over time of rates.
 
@@ -96,7 +96,7 @@ There's a slight increase in recent months, but overall equity risk premiums hav
 
 From the above, we've shown that the cost of capital has declined. This implies that raising money now, either via debt or equity, is cheaper than before.
 
-#### Lowered cost of capital implies wealth transfers from savers to borrowers
+#### 2. Lowered cost of capital implies wealth transfers from savers to borrowers
 
 Let's introduce a complication. Above we said that a business should aim to grow more than their costs. People have extended this concept to countries, claiming that debt is sustainable when the growth rate of GDP (return) is more than the interest rate (cost of capital). To do so, they often cite famous economist Thomas Piketty's work, [Capital in the Twenty-First Century](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century "Capital").
 
@@ -112,7 +112,7 @@ If you had money and were lending it out, you're lending it out at the market co
 
 This has differing implications on future growth as well as wealth inequality. The wealthy save more, so lowered costs result in a wealth transfer from the rich to the poor. This is offset by increased speculation on assets, which shifts wealth the other way. The net effect of this depends on relative size of each. Pettis doesn't make this point, but **I believe that the speculation piece has more than offset the former effect, and that's a cause of rising wealth inequality.**
 
-#### Lowered cost of capital implies more risk taking should occur
+#### 3. Lowered cost of capital implies more risk taking should occur
 
 This is where I get more speculative. A lowered cost of capital vs growth also implies that **everyone's risk tolerance should increase.** If the opportunity cost of doing things is lower, the optimal amount of risk to take is higher. For example, if it used to cost you 5% a year to borrow money for your business, and now it costs you 1%, you should borrow more and start more businesses.
 
@@ -126,9 +126,9 @@ Since all assets are linked, this trend isn't limited to public equity either. A
 
 This sounds great, after all everyone likes things to go up. I can think of at least two caveats, and am still trying to come up with more. 
 
-The first is that increased risk tolerance comes with the tradeoff of more fraud. If everyone can raise money, the chance of cons should rise. When people see that there's low downside to something and high upside, the optimal choice is to do more of it. There will be more people trying to take advantage of this situation and deceive others. I believe that's why we see more fraudy businesses like Luckin Coffee, Nikola, or whatever the hell Kodak's doing this month.
+The first is that increased risk tolerance comes with the tradeoff of **more fraud.** If everyone can raise money, the chance of cons should rise. When people see that there's low downside to something and high upside, the optimal choice is to do more of it. There will be more people trying to take advantage of this situation and deceive others. I believe that's why we see more fraudy businesses like Luckin Coffee, Nikola, or whatever the hell Kodak's doing this month.
 
-The second is that I've heard the lowered cost of capital is unevenly spread across sectors. Supposedly, small business loans are still expensive. I'm no expert here, and the initial data I looked at [here](https://cdcloans.com/lender/504-rate-history/ "rate") seems to show otherwise, but I can see this as a plausible phenomenon. For example, I've always been annoyed that personal loan rates are still positive, compared to overall negative rates on average \[8\]. 
+The second is that I've heard the lowered cost of capital is **unevenly spread across sectors.** Supposedly, small business loans are still expensive. I'm no expert here, and the initial data I looked at [here](https://cdcloans.com/lender/504-rate-history/ "rate") seems to show otherwise, but I can see this as a plausible phenomenon. For example, I've always been annoyed that personal loan rates are still positive, compared to overall negative rates on average \[8\]. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/cost capital/cost capital 10.png)
 
