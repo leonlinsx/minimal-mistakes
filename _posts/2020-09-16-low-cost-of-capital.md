@@ -110,6 +110,8 @@ If you had money and were lending it out, you're lending it out at the market co
 
 This has differing implications on future growth as well as wealth inequality. The wealthy save more, so lowered costs result in a wealth transfer from the rich to the poor. This is offset by increased speculation on assets, which shifts wealth the other way. The net effect of this depends on relative size of each. Pettis doesn't make this point, but **I believe that the speculation piece has more than offset the former effect, and that's a cause of rising wealth inequality.**
 
+#### Lowered cost of capital implies more risk taking should occur
+
 
 
 ### Footnotes
