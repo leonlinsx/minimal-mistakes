@@ -1,10 +1,12 @@
 ---
-title:  ""  
-tags: []
+title:  "Cost of capital in the 21st century"  
+tags: [investment, finance, cost of capital, debt, equity, wacc, valuation, private equity, venture, vc, public equity, stocks]
 published: false
 ---
 
 ### Takeaway
+
+The reduced cost of capital now implies a wealth transfer from savers to borrowers, and that it's optimal for a person to be taking more risk today than before.
 
 <style>
       .iframe-container {
@@ -32,7 +34,7 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-### Main
+### Implications of low cost of capital
 
 I want to take a look at **cost of capital** today. I've been wondering what the implications are of our current low cost environment, plus [Michael Pettis](https://carnegieendowment.org/chinafinancialmarkets/82610 "Pettis") recently wrote a good article on interest rates vs growth, so let's look closer at this topic. I won't have all the answers either, so comments are definitely welcome, either reply directly or on the post's comment box.
 
@@ -112,7 +114,25 @@ This has differing implications on future growth as well as wealth inequality. T
 
 #### Lowered cost of capital implies more risk taking should occur
 
+This is where I get more speculative. A lowered cost of capital vs growth also implies that **everyone's risk tolerance should increase.** If the opportunity cost of doing things is lower, the optimal amount of risk to take is higher. For example, if it used to cost you 5% a year to borrow money for your business, and now it costs you 1%, you should borrow more and start more businesses.
 
+The actual data is more noisy. The [Fed data on business applications](https://fred.stlouisfed.org/series/BUSAPPSAUS "Biz") seems to validate my assumption \[7\], but I've also read [that the quality of businesses has declined](https://www.census.gov/newsroom/blogs/research-matters/2018/02/bfs.html "decline"). Based on the [inflation of valuations for private companies trying to raise money](https://news.crunchbase.com/news/its-not-just-you-seed-rounds-are-actually-getting-bigger/ "inflatoin"), I still believe that more people are taking risk at lower cost, but let me know if you disagree.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/cost capital/cost capital 9.png)
+
+Increased risk tolerance also implies **more speculation on investable assets.** I believe that's a reason why we've continued to see the price of public equities rise, as people search for return and push the stock market further up.
+
+Since all assets are linked, this trend isn't limited to public equity either. All asset classes should see prices rise, and returns fall, as costs come down. We should see more angel funds, venture investment, or private equity buyouts. Current news seems to confirm this.
+
+This sounds great, after all everyone likes things to go up. I can think of at least two caveats, and am still trying to come up with more. 
+
+The first is that increased risk tolerance comes with the tradeoff of more fraud. If everyone can raise money, the chance of cons should rise. When people see that there's low downside to something and high upside, the optimal choice is to do more of it. There will be more people trying to take advantage of this situation and deceive others. I believe that's why we see more fraudy businesses like Luckin Coffee, Nikola, or whatever the hell Kodak's doing this month.
+
+The second is that I've heard the lowered cost of capital is unevenly spread across sectors. Supposedly, small business loans are still expensive. I'm no expert here, and the initial data I looked at [here](https://cdcloans.com/lender/504-rate-history/ "rate") seems to show otherwise, but I can see this as a plausible phenomenon. For example, I've always been annoyed that personal loan rates are still positive, compared to overall negative rates on average \[8\]. 
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/cost capital/cost capital 10.png)
+
+The overall takeaway then, is that every individual now should **increase their risk tolerance and take part in more risky activities**, as their base cost has gone down. Whether that means more investment into public equities, alternative asset classes, or your friend's new business, is up to you to decide. As always, this is not investment advice, and I'm interested in seeing counterarguments to the above. 
 
 ### Footnotes
 
@@ -122,6 +142,8 @@ This has differing implications on future growth as well as wealth inequality. T
 4. Board of Governors of the Federal Reserve System (US), 10-Year Treasury Inflation-Indexed Security, Constant Maturity \[DFII10\], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/DFII10, September 14, 2020.
 5. Freddie Mac, 30-Year Fixed Rate Mortgage Average in the United States \[MORTGAGE30US\], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/MORTGAGE30US, September 14, 2020.
 6. More precisely, [the risk free rate plus beta times the equity risk premium](http://pages.stern.nyu.edu/~igiddy/articles/wacc_tutorial.pdf "ERP")
+7. U.S. Census Bureau, Business Applications for the United States \[BUSAPPSAUS\], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/BUSAPPSAUS, September 14, 2020.
+8. I get why this is the case, you have to adjust for risk of the individual blah blah. I'm still annoyed as I want free money.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
