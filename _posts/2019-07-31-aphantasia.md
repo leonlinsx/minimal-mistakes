@@ -157,6 +157,16 @@ In the meantime, I'm treating all of this as an experiment to see how much I lik
 4. ["Growing number of car-sharing users don’t rent cars for driving"](http://www.asahi.com/ajw/articles/AJ201907040011.html "japan car-share"), via [the Movements newsletter for all things micromobility](https://movements.substack.com/p/movements-july-10th-2019 "movements")
 5. ["The coaching interventions make some students realize that more effort is needed to attain good grades but, rather than working harder, they settle by adjusting grade expectations downwards."](https://www.nber.org/papers/w26059 "NBER") I wonder if this generalises to most of work and life outside of school. Once we learn how hard getting good at something is, we lower our internal expectations? Makes me think about [this article on ambition](https://www.perell.com/blog/the-paradox-of-ambition "Perell"), which I want to explore in a future newsletter.
 
+*If you liked this, you might like my other articles on:*
+
+1. [IPOs vs direct listings, response to Damodaran](https://www.leonlinsx.com/cosign-AI-chess/ "IPO")
+2. [2019 review of substack](https://www.leonlinsx.com/substack/ "Substack")
+3. [Newsletter financial modeling](https://avoidboringpeople.substack.com/p/theres-more-to-communities-than-facebook "Newsletter")
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
+
 ### Newsletter admin
 
 Addressing some feedback I've gotten below. Yes I do listen! Feedback is good! Send more! 
