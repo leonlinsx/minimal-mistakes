@@ -4,7 +4,7 @@ tags: [visualisation, aphantasia, IPO, finance, investing, tech, newsletter, adv
 published: true
 ---
 
-### Takeaways
+## Takeaways
 
 1. The way you imagine things could be drastically different compared to most. There's a simple test to find out how 
 2. IPO pricing is difficult and success is hard to measure
@@ -38,7 +38,7 @@ published: true
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-### How well can you visualise something?
+## How well can you visualise something?
 
 I just learnt that people visualise differently. Take this 10 second test:
 
@@ -58,7 +58,7 @@ What's even stranger is that despite this literally life-changing knowledge, I d
 
 It also doesn't seem like there have been many negative side effects thus far \[3\]. Knowing about this *has* made me less confused whenever I read or hear people talking about using my imagination though! Do let me know how you end up scoring!
 
-### What goes on behind the scenes of an IPO?
+## What goes on behind the scenes of an IPO?
 
 People hear about IPOs frequently, but usually are less aware of what happens behind the scenes. a16z recently [wrote a post](https://a16z.com/2019/07/09/ipo-process-prices-behind-scenes-companies/ "a16z") about the process, and I'm following up with some of my experience. As a reminder, none of this is investment advice. Ever.
 
@@ -90,7 +90,7 @@ Some people would argue that if there was demand at $46, perhaps BYND should jus
 
 I agree there's money left on the table, but think about the alternative. Suppose BYND priced at $100 right from the start. That leaves nothing on the table, but now there's a much higher chance the price declines after the IPO. And if it does decline, perhaps the price momentum keeps sinking it lower. We don't know how much of the current trading price of BYND is due to momentum, and it seems to me it could have gone the other way as well. The general public still thinks of FB, GOOG, and Uber's IPOs as failures due to the lack of a "pop". You might argue who cares about the general public, but employee morale within the company is affected as well. My point here is there's currently less incentive for companies to get pricing exactly right, and who knows what the right price is anyway \[5\]?
 
-### Why are newsletters becoming popular and where is this trend going?
+## Why are newsletters becoming popular and where is this trend going?
 
 After I published last month's newsletter, [a16z led a $15mm funding round in Substack](https://on.substack.com/p/the-future-of-substack "substack site"), the platform I'm currently using to send this \[6\]. I'm going to talk about why a16z was interested in Substack and where I think this trend is headed.
 
@@ -126,7 +126,7 @@ People want to read good analysis on issues they care about, and a small subset 
 
 In the meantime, I'm treating all of this as an experiment to see how much I like writing. Given the potentially [high upside and relatively low downside, I agree with others](https://www.perell.com/blog/why-you-should-write "write") that it's worth trying to write and publish your thoughts. Writing has helped me better understand concepts, connected me with interesting people, and given me something to procrastinate on instead of doing work. I hope to continue doing so for quite some time. As always, feedback welcome!
 
-### Footnotes
+## Footnotes
 
 1. I haven't yet ruled out that this is a highly elaborate prank of hers... I also realise this is far less interesting for people who have normal visualisation ability, compared to people who have low visualisation ability and have wondered what's been wrong their entire lives
 2. The 2 graphs on pg 9 have an obvious break around the 32 VVIQ mark, and the highest possible score is 80
@@ -142,14 +142,12 @@ In the meantime, I'm treating all of this as an experiment to see how much I lik
 12. Some newsletters I'm subscribed to are [Movements for micromobility](https://movements.substack.com/ "movements"), [The Profile](https://theprofile.substack.com/ "profile") for long-form people stories, and [The Diff](https://medium.com/@byrnehobart/about-best-of-faq-25df97a74467 "Diff") for interesting non-consensus takes
 13. Full disclosure, I'm an investor in the startup
 
-### Shoutouts
+## Shoutouts
 
 1. Friend of a friend started [a tennis service in NYC](https://www.breakthelove.com/ "break the love") \[13\]
 2. Some of you may know I like making drinks on the side. I asked a friend to take some photos recently and love how they turned out. Check out [his photography site if you happen to need an NYC based photographer!](http://www.kevinhwong.com/ "Kevin")
 
-    ![cocktail]({{ site.url }}{{ site.baseurl }}/assets/images/cocktail-pro-pic.jpg =250x)
-
-### Other
+## Other
 
 1. [Others](https://www.bloomberg.com/opinion/articles/2019-07-01/they-don-t-pay-traders-like-they-used-to "Levine") [write](https://arstechnica.com/tech-policy/2019/07/facebook-is-backpedaling-from-its-ambitious-vision-for-libra/ "arstechnica") [about](https://marginalrevolution.com/marginalrevolution/2019/06/libra-and-remittances.html "TC") [Libra](https://interestingengineering.com/7-things-you-should-know-about-facebooks-new-cryptocurrency-libra "IE")
 2. [“We’re told that science self-corrects, but what the candidate-gene literature demonstrates is that it often self-corrects very slowly, and very wastefully, even when the writing has been on the wall for a very long time,”](https://www.theatlantic.com/science/archive/2019/05/waste-1000-studies/589684/ "waste") I've written about the replicability crisis before [here](https://www.leonlinsx.com/replicability-crisis/ "link")
@@ -167,7 +165,7 @@ In the meantime, I'm treating all of this as an experiment to see how much I lik
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-### Newsletter admin
+## Newsletter admin
 
 Addressing some feedback I've gotten below. Yes I do listen! Feedback is good! Send more! 
 
