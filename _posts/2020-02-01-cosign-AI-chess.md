@@ -4,7 +4,7 @@ tags: [tech, finance, IPO, direct listing, AI, decision making]
 published: true
 ---
 
-**Takeaways**
+### Takeaways
 
 1. Cosign is a new company trying to make social capital more tangible
 2. Whether you should do a direct listing depends on the type of company you are
@@ -36,11 +36,11 @@ published: true
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-**Question of the month**
+### Question of the month
 
 What's an asymmetric risk you're trying to take this year? Mine is to organise more events. 
 
-**Cosign**
+### Cosign company analysis
 
 I've been seeing more of [Cosign](https://cosign.co/login "Cosign") recently. Cosign, still in private beta, is "an invite-only community of operators and investors dedicated to championing others in tech." 
 
@@ -60,11 +60,11 @@ If you'd like to move up the waitlist, Cosign also asks for the same info for a 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Cosign move up waitlist.png)
 
-My first thought is this seems like a more exclusive Linkedin. The incentive for joining is to [status signal](https://fs.blog/2019/11/signaling-countersignaling/ "signal") that you're connected to fantastic people and you're also a grateful person. 
+My first thought is **this seems like a more exclusive Linkedin.** The incentive for joining is to [status signal](https://fs.blog/2019/11/signaling-countersignaling/ "signal") that you're connected to fantastic people and you're also a grateful person. 
 
 Theoretically your reputation should move in tandem with the person you're endorsing; if they do well you look good and if they do bad you look bad. In practice you likely share more in the upside potential than the downside. If they succeed you can claim you cosigned them early on. If they fail you can claim you didn't know them that well and were just testing out a new tech service.  
 
-Cosign continues the trend of tech making networks more transparent. From friends (facebook) to colleagues (linkedin) to hobby groups (reddit), what used to be intangible connections between people are now visible. Whereas in the past you needed a letter of introduction or seal of approval, and in the present you need an email or text, perhaps in the future all you'll need is to check the person's cosign page and see if anyone you trust has endorsed that person.
+Cosign continues the trend of **tech making networks more transparent.** From friends (facebook) to colleagues (linkedin) to hobby groups (reddit), what used to be intangible connections between people are now visible. Whereas in the past you needed a letter of introduction or seal of approval, and in the present you need an email or text, perhaps in the future all you'll need is to check the person's cosign page and see if anyone you trust has endorsed that person.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Tech replacing relationships.png)
 
@@ -77,7 +77,7 @@ I wonder how they check that the endorser knows the endorsee. As honoured as he 
 
 I'm also interested in the business plan. Perhaps they might run ads next to each person's profile, though that probably makes for a bad user experience. Maybe they could do a freemium option like Tinder or Lunchclub. A paid subscription could surface your profile to others and offer an opportunity to connect, you could get more endorsements compared to the free version, or you could get forwarded interesting opportunities. 
 
-I'm most curious about how they will overcome the problem of scale. As with most social networks, [Cosign should be more useful the more people are on it.](https://en.wikipedia.org/wiki/Metcalfe%27s_law "Metcalfe") The more people on it, the higher the chance there will be an endorser you know, which is better signal. All things equal, I'd rather have 100 endorsements of how awesome I am compared to 5. 
+**I'm most curious about how they will overcome the problem of scale.** As with most social networks, [Cosign should be more useful the more people are on it.](https://en.wikipedia.org/wiki/Metcalfe%27s_law "Metcalfe") The more people on it, the higher the chance there will be an endorser you know, which is better signal. All things equal, I'd rather have 100 endorsements of how awesome I am compared to 5. 
 
 Of course, things are never equal in real life. All of us have [Facebook](https://www.theatlantic.com/family/archive/2019/02/15-years-facebook-friendships-wont-die/581824/ "FB") or Linkedin connections that we don't need. It'll be a struggle to keep endorsements meaningful and scarce as they grow the community.
 
@@ -85,7 +85,7 @@ Of course, things are never equal in real life. All of us have [Facebook](https:
 
 Overall, I'm interested in tracking their progress over time. Maybe they end up limiting the group size, and doing what [Column](https://s3.amazonaws.com/files.technologyreview.com/p/pub/docs/COLUMN.pdf "Column") is trying to do with exclusive networks \[3\]. Maybe they pivot into recruiting. It's too early to tell, though I'd Cosign Cosign.  
 
-**IPOs vs direct listings**
+### IPOs vs direct listings
 
 [Aswath Damodaran](https://twitter.com/AswathDamodaran?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor "Aswath"), one of the best finance profs out there \[4\], [wrote about IPOs vs direct listings a while ago]( http://aswathdamodaran.blogspot.com/2019/10/disrupting-ipo-process-challenging.html? "Aswath"). I'll review highlights below; banking ex-colleagues feel free to disagree. If you aren't familiar with direct listings, [a16z has a primer.](https://a16z.com/2019/07/02/direct-listings/ "a16z")
 
@@ -105,7 +105,7 @@ I lean more towards Damodaran's side here. In the bank's defense, in their role 
 
 > Damodaran argues that most prospectuses look similar, particularly the risk and business sections.
 
-I agree with Damodaran, though as he implied most of this is due to legal reasons. Risk sections in prospectuses are more for legal protection and less for telling you what's important \[6\]. I know ex-colleagues that spent a lot of time drafting sections for the company, but it's hard to add significant value here (sorry guys), especially if the company going public is full of ex-bankers as well.
+I agree with Damodaran, though as he implied most of this is due to legal reasons. Risk sections in prospectuses are more for legal protection and less for telling you what's important \[6\]. I know ex-colleagues that spent a lot of time drafting sections for the company, but **it's hard to add significant value here** (sorry guys), especially if the company going public is full of ex-bankers as well.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/IPO risk factors.png)
 
@@ -117,7 +117,7 @@ I agree with Damodaran, though as he implied most of this is due to legal reason
 
 Choosing the wrong comparable company set or multiple is less of a factor. The comp set is socialised among investors beforehand so there's usually broad agreement there \[7\]. There's only a handful of common multiples (EV/Rev, EV/EBITDA, P/E) so the type of multiple is also broadly understood. 
 
-I agree that banks are biased in the pricing process though, and they are incentivised to be. As [Matt Levine has written before](https://www.bloomberg.com/opinion/articles/2019-09-09/we-might-not-be-working "Matt"), the bank is pitching to get hired by the company, hence the higher the price range pitched the better. It's easier to get hired when you tell the CEO he's worth $1bn instead of $100mm. When they do get hired and need to meet that price is when they start managing expectations.
+I agree that banks are biased in the pricing process though, and they are incentivised to be. As [Matt Levine has written before](https://www.bloomberg.com/opinion/articles/2019-09-09/we-might-not-be-working "Matt"), the bank is pitching to get hired by the company, hence the higher the price range pitched the better. **It's easier to get hired when you tell the CEO he's worth $1bn instead of $100mm.** When they do get hired and need to meet that price is when they start managing expectations.
 
 The right price for the company is a difficult question, and we'll come back to that later.
 
@@ -127,7 +127,7 @@ The right price for the company is a difficult question, and we'll come back to 
 
 The first is subjective; Slack and Spotify can market themselves, [SiTime likely can't](https://www.globenewswire.com/news-release/2019/11/21/1950494/0/en/SiTime-Corporation-Announces-Pricing-of-Initial-Public-Offering.html "SiTime"). If you're less well-known, having a bank to market you is probably a good idea. The banks will have connections with investors, you won't.
 
-Keeping in mind that [the median IPO offering size is ~$100mm](https://www.statista.com/statistics/251149/median-deal-size-of-ipos-in-the-united-states/ "Statista"), and that [IPOs sell ~20% of the company](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/ "Harvard"), we can infer that most IPOs are not the large household names you're already aware of. You can browse [the list of recent IPOs](https://www.nyse.com/ipo-center/recent-ipo "NYSE") and see how many you recognise. Most companies probably benefit from having a bank market them and reach out to investors. 
+Keeping in mind that [the median IPO offering size is ~$100mm](https://www.statista.com/statistics/251149/median-deal-size-of-ipos-in-the-united-states/ "Statista"), and that [IPOs sell ~20% of the company](https://corpgov.law.harvard.edu/2017/05/25/2017-ipo-report/ "Harvard"), we can infer that most IPOs are not the large household names you're already aware of. You can browse [the list of recent IPOs](https://www.nyse.com/ipo-center/recent-ipo "NYSE") and see how many you recognise. **Most companies probably benefit from having a bank market them and reach out to investors.** 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Median IPO deal size statista.jpg)
 
@@ -143,19 +143,19 @@ Underwriting guarantees were more relevant historically and are less relevant no
 
 > Damodaran argues this is difficult to impossible for larger company IPOs
 
-Agree that price stabilisation is hard in large IPOs. Given the context above of the median IPO offering size though, I think this still has value for many companies. The way that banks price stabilise is by selling more stock than allocated and entering into a short position against the company. The bank either gets shares from the company or the open market to cover the short position, hence supporting the price before the open \[8\].
+Agree that **price stabilisation is hard in large IPOs.** Given the context above of the median IPO offering size though, I think this still has value for many companies. The way that banks price stabilise is by selling more stock than allocated and entering into a short position against the company. The bank either gets shares from the company or the open market to cover the short position, hence supporting the price before the open \[8\].
 
 What is the right price? This is a complicated question. A common feature of IPOs is that stock will be pre-sold to professional investors at one price, say $10, and then start trading on the open market post IPO at a premium, say $20. This [IPO pop](https://pitchbook.com/news/articles/understanding-the-ipo-markets-pop-culture "IPO") has been criticised by [VCs such as Bill Gurley,](https://markets.businessinsider.com/news/stocks/slacks-direct-listing-bill-gurley-says-startups-call-morgan-stanley-2019-6-1028298641 "Bill") who say this inefficiency is a money transfer from private investors (VCs like Bill) to public investors who got shares during the IPO process \[25\].  
 
-I agree there is inefficiency in pricing, but most companies prefer underpricing resulting in the stock trading up, rather than overpricing and the stock trading down. If we blame bankers for underpricing, we should applaud them for overpricing and getting the most amount of money for the company. I don't see anyone doing that, understandably. 
+I agree there is inefficiency in pricing, but most companies prefer underpricing resulting in the stock trading up, rather than overpricing and the stock trading down. **If we blame bankers for underpricing, we should applaud them for overpricing** and getting the most amount of money for the company. I don't see anyone doing that, understandably. 
 
-Companies seem willing to trade off the inefficiency for better morale. Sure you could have gotten $20 at the open and then have the stock trade flat, but the pop from $10 to $20 does (irrationally) make people happier. Also, what if you open at $20 and trade down to $10 three months later? What was the right price then?  
+Companies seem willing to trade off the inefficiency for better morale. Sure, you could have gotten $20 at the open and then have the stock trade flat, but the pop from $10 to $20 does (irrationally) make people happier. Also, what if you open at $20 and trade down to $10 three months later? What was the right price then?  
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/IPO v direct listing blame.png)
 
-Damodaran concludes by giving reasons why the IPO status quo has held, citing inertia, fear of harming the banking relationship, and companies needing someone to blame. I agree with these. In the end it depends on your company; a direct listing does have more price efficiency by definition. If you're large and well known, you likely can direct list and shouldn't be taking advice from an email newsletter anyway. If you're small and not, you probably need bankers to help market and connect you with investors. I'm 80% confident IPOs will still be majority of listings in three years time. 
+Damodaran concludes by giving reasons why the IPO status quo has held, citing **inertia, fear of harming the banking relationship, and companies needing someone to blame.** I agree with these. In the end it depends on your company; a direct listing does have more price efficiency by definition. If you're large and well known, you likely can direct list and shouldn't be taking advice from an email newsletter anyway. If you're small and not, you probably need bankers to help market and connect you with investors. I'm 80% confident IPOs will still be majority of listings in three years time. 
 
-**What is rough consensus and how can it improve decision making efficiency**
+### What is rough consensus and how can it improve decision making efficiency
 
 Decision making becomes more difficult as your organisation grows. You want to involve everyone and make them feel included, but that could spiral into multiple meetings where people give input but nothing gets done. [This summary of IETF decision making principles by Devon Zuegel](https://devonzuegel.com/post/no-kings-how-do-you-make-good-decisions-efficiently-in-a-flat-organization "Devon") \[30\] has advice I haven't seen before:
 
@@ -177,7 +177,7 @@ The key insight here is that objections that are "not enough of a problem" can b
 
 During a discussion, clarify which type of objection you're getting, since people communicate with various degrees of subtlety \[31\]. My "unsure about this" is usually a "pretty sure this is wrong" . Once clarified, spend the majority of your time discussing fundamental flaws rather than "not the best choice" feedback.
 
-How you define a fundamental flaw depends on your team, and should be decided beforehand, another difficult task in itself. Devon cites substantial technical debt, inability to scale, or too much work as some suitable reasons. You probably can't have too many reasons, as that would lead to nothing getting done. Once you've settled on your reasons, there should be a high bar to accepting new ones during the discussion itself.
+**How you define a fundamental flaw depends on your team,** and should be decided beforehand, another difficult task in itself. Devon cites substantial technical debt, inability to scale, or too much work as some suitable reasons. You probably can't have too many reasons, as that would lead to nothing getting done. Once you've settled on your reasons, there should be a high bar to accepting new ones during the discussion itself.
 
 People are incentivised to participate during meetings; I'd also assume that most people talk during meetings for the sake of talking \[32\]. This implies that most objections should fall under the "not the best choice" category, and you should feel alright moving forward in the majority of cases.
 
@@ -205,16 +205,16 @@ All these are related to people giving up on caring about the issue. This is pro
 
 > We may use the "hell yeah" principle for hiring and some other decisions, but we use the quick iteration principle when we ship things. We don’t aim for perfection the first time — we build fast, we ship, we learn, we iterate, and we ship again
 
-I agree. As can be inferred from my writing, I'm biased towards experimenting. You don't know what you don't know, and you can't find out until you try. There's too many slide decks and too much theorising compared to people actually executing, since the former is easier to do and still feels productive, whereas the latter is harder and uncomfortable. Unless the flaw is going to ruin your business - and few do - err on the side of getting things done \[34\].
+I agree. As can be inferred from my writing, **I'm biased towards experimenting.** You don't know what you don't know, and you can't find out until you try. There's too many slide decks and too much theorising compared to people actually executing, since the former is easier to do and still feels productive, whereas the latter is harder and uncomfortable. Unless the flaw is going to ruin your business - and few do - err on the side of getting things done \[34\].
 
 I like the idea of rough consensus because I ~~care about very little~~ prefer efficient meetings. Since most organisations incentivise people to speak up, you usually end up with more opinions and objections than needed. While adopting a rough consensus approach seems against the principle of inclusivity, it likely increases effectiveness in decision making. 
 
-**Shoutouts**
+### Shoutouts
 
 1. Thomas Guthrie at [onejob](https://onejob.substack.com/ "onejob") is helping people find their next roles at top startups.
 2. A friend in equity research is looking for a junior person that wants to cover healthcare tech, lmk if you're interested.
 
-**Other**
+### Other
 
 1. [Could a text prediction algorithm (like gmail or your phone keyboard) be used to play chess?](https://slatestarcodex.com/2020/01/06/a-very-unlikely-chess-game/ "Slate")
 2. [Self-disclosing weakness at work could help or hinder, depending on your status](https://faculty.wharton.upenn.edu/wp-content/uploads/2019/10/when_sharing_hurts.pdf "Wharton"). See [here](https://twitter.com/Leonlinsx/status/1221891694964113409?s=20 "twitter") for a tweet summary
@@ -222,7 +222,7 @@ I like the idea of rough consensus because I ~~care about very little~~ prefer e
 4. [How some restaurants PR their way to success and best-of lists](https://ny.eater.com/2020/1/13/21009796/restaurant-publicists-pr-agencies-nyc "Eater") 
 5. [How to design complex and aesthetically pleasing mazes](http://www.cgl.uwaterloo.ca/csk/projects/mazes/ "Mazes")
 
-**Footnotes**
+### Footnotes
 
 1. I have a strong irrational dislike of twitter but begrudgingly acknowledge it can be high value add
 2. If you're actually Neil Gaiman and want my endorsement, we should chat. In person. I might bring one or two books to get signed.
@@ -239,7 +239,7 @@ I like the idea of rough consensus because I ~~care about very little~~ prefer e
 13. "So, in a large working group with over 100 active participants and broad agreement to go forward with a particular protocol, if a few participants say, "This protocol is going to cause congestion on the network, and it has no mechanism to back off when congestion occurs; we object to going forward without such a mechanism in place", and the objection is met with silence on the mailing list, there is no consensus.  Even if the working group chair makes a working group "last call" on the document, and 100 people actively reply and say, "This document is ready to go forward", if the open issue hasn't been addressed, there's still no consensus, not even rough consensus. It's the existence of the unaddressed open issue, not the number of people, which is determinative in judging consensus.""
 14. Eitan points out this leads to a similar effect of "disagree and commit" that Amazon supposedly has 
 
-*If you liked this, you'll like* ***[my monthly newsletter.](https://avoidboringpeople.substack.com/ "ABP")*** *Sign up here:*
+*If you liked this, you'll like [my monthly newsletter.](https://avoidboringpeople.substack.com/ "ABP") Sign up here:*
 
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
