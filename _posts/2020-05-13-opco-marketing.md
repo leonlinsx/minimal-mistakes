@@ -4,11 +4,11 @@ tags: [tech, marketing, CMO, communications, events, SEM, sales]
 published: true
 ---
 
-**Takeaway**
+## Takeaway
 
 Janine Pelosi and Meagen Eisenberg believe you need to use social as a channel more now, do educational content, and engage more with customers
 
-**Relevant for**
+## Relevant for
 
 People interested in how to do marketing with the right tone now
 
@@ -38,7 +38,7 @@ People interested in how to do marketing with the right tone now
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-**Main**
+## Marketing and Messaging
 
 I summarised a talk by [Operator Collective](https://operatorcollective.com/about/ "Op Co") \[1\] on operations recently [here](https://avoidboringpeople.substack.com/p/how-to-get-back-to-better "coo"), and will be doing another summary today [for a talk they did on marketing.](https://operatorcollective.com/events/ "event") 
 
@@ -57,7 +57,7 @@ Highlights for me were:
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Opco marketing.png)
 
-**Pullback from competitors could be an opportunity**
+## Pullback from competitors could be an opportunity
 
 **What has changed?**
 
@@ -120,7 +120,7 @@ Janine
 
 *LL - If you're like most companies and employ [SEM](https://en.wikipedia.org/wiki/Search_engine_marketing "SEM") on google in order to acquire customers, now would be a cheaper time to do so. We know that [Google saw a significant pullback](https://techcrunch.com/2020/04/28/alphabet-grew-more-than-expected-in-q1-but-its-ad-business-saw-significant-slowdown-in-march/ "Google") in ad revenue from March onwards, implying that competition for the same ad spot has gone down, and prices have too. You might want to check which terms might be converting better as well. Of course, that depends on whether the leads you're getting are still qualified leads and will convert to customers or not. As mentioned later, you should be tracking that*
 
-**Be authentic to be relevant**
+## Be authentic to be relevant
 
 **How do you navigate building a business without being tone deaf?**
 
@@ -175,7 +175,7 @@ Meagen
 
 *LL - I've never understood why company FAQ pages and walkthroughs of how to use their product are usually bad. Ends up frustrating current and potential users, plus waste customer support time. This isn't even touching on the "have to call to cancel subscription" issue, but just basics like "how do I set up a form" in the product*
 
-**Concrete plans now would be a mistake**
+## Concrete plans now would be a mistake
 
 **How are you thinking about the next six months?**
 
@@ -237,7 +237,7 @@ Meagen
 - Focus on the customer and product market fit. 
 - Companies that survive are going to have something customers need. Avoid churn by providing value and watching usage stats
 
-**Footnotes**
+## Footnotes
 
 1. Operator Collective is a newly founded group for operators from diverse backgrounds to support founders both operationally and financially. Members include C suite people from Stripe, Waymo, Zendesk. 
 2. Panel was moderated by [Leyla Seka, Operator Collective Partner](https://operatorcollective.com/people/ "Leyla")
