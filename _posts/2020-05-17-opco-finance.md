@@ -1,14 +1,14 @@
 ---
 title:  "The salespeople are still selling right now"  
-tags: [tech, CFO, finance]
-published: false
+tags: [tech, CFO, finance, covid, sales]
+published: true
 ---
 
-**Takeaway**
+## Takeaway
 
 CFOs Elena Gomez and Kelly Steckelberg believe your sales pitch shouldn't be about covid, but about the bigger problem you're trying to solve for them
 
-**Relevant for**
+## Relevant for
 
 People interested in how large companies are managing their budgets and sales plans
 
@@ -38,7 +38,7 @@ People interested in how large companies are managing their budgets and sales pl
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-**Spending and sales situations**
+## Spending and sales situations
 
 I've summarised talks by [Operator Collective](https://operatorcollective.com/about/ "Op Co") \[1\] from [COOs](https://avoidboringpeople.substack.com/p/how-to-get-back-to-better "coo") and CMOs recently, and will be doing another summary today [for a talk they did with CFOs on enterprise spending.](https://vimeo.com/417796182 "event") 
 
@@ -60,7 +60,7 @@ Highlights for me were:
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/opco CFO.png)
 
-**1. Make your standups casual and short**
+## 1. Make your standups casual and short
 
 **What challenges are your companies facing?**
 
@@ -100,7 +100,7 @@ Elena
 
 *LL - As [Josh Wolfe](https://avoidboringpeople.substack.com/p/authentic-contrarians-vs-consensus "Josh") pointed out, the absurd has become normal, and we're now comfortable with interruptions to our zoom meetings. Doing something like Kelly mentioned will help further normalise a culture of acceptance*
 
-**2. Don't sell by talking about covid, make it about solving a larger problem**
+## 2. Don't sell by talking about covid, make it about solving a larger problem
 
 **How are you changing your spending?**
 
@@ -191,7 +191,7 @@ Elena
 
 *LL - My friend Barak and I were discussing how it's still difficult to do deals without meeting the target in person. Wondering if Zoom/Keybase was the exception here.*
 
-**3. Don't throw out your core metrics even if they look weird**
+## 3. Don't throw out your core metrics even if they look weird
 
 **What metrics do you look at?**
 
@@ -229,7 +229,7 @@ Kelly
 Elena
 - How can I make sure I support customers and employees in a way they'd feel proud of how we're navigating this time
 
-**4. Returning to office is top of mind for many CFOs**
+## 4. Returning to office is top of mind for many CFOs
 
 **What shape of recession do you think we're in?**
 
@@ -266,7 +266,7 @@ Kelly
 
 *LL - We've seen twitter let some staff [work from home permanently](https://techcrunch.com/2020/05/12/twitter-says-staff-can-continue-working-from-home-permanently/ "twitter"), and I'm starting to see more posts by people thinking of ways to save on office rent. The longer the situation continues, the more people seem inclined to plan for lower office usage. At the moment I think most of us will still go back to offices, have teams physically together, but we'll be more relaxed on work from home days*
 
-**5. Other**
+## 5. Other
 
 **What should a CFO be focused on now?**
 
@@ -283,7 +283,7 @@ Elena
 - Appreciate the tougher questions e.g. is this the right investment or customer segment?
 - They can see things we don't see in the day to day
 
-**Footnotes**
+## Footnotes
 
 1. Operator Collective is a newly founded group for operators from diverse backgrounds to support founders both operationally and financially. Members include C suite people from Stripe, Waymo, Zendesk.
 2. Panel was moderated by [Mallun Yen](https://twitter.com/mallun?s=20 "Mallun"), founder of Operator Collective
