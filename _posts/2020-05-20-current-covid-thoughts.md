@@ -1,10 +1,10 @@
 ---
 title:  "Nobody really knows and we'll have to predict anyway"  
 tags: [covid, predictions, business, social]
-published: false
+published: true
 ---
 
-##Takeaway
+## Takeaway
 
 What's temporary and what's not? Nobody really knows and we'll have to predict anyway
 
@@ -34,7 +34,7 @@ What's temporary and what's not? Nobody really knows and we'll have to predict a
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-##Summary of summaries
+## Summary of summaries
 
 The past few weeks I've summarised talks by business experts on how they're coping with the current crisis. I've finally cleared my backlog of talks (and am slightly burnt out from writing so often) and we'll be going back to the regular weekly schedule of random interesting topics \[1\]. 
 
@@ -46,7 +46,7 @@ Before that, let's do a recap of what we covered, which included opinions from:
 4. Venture capitalists [Josh Wolfe](https://avoidboringpeople.substack.com/p/authentic-contrarians-vs-consensus "Josh") (warning, 5k words) and [Fred Wilson](https://avoidboringpeople.substack.com/p/what-will-stick-and-what-will-not "Fred")
 5. [Education expert Megan O'Connor](https://avoidboringpeople.substack.com/p/how-online-credentialing-will-be "Megan") and [food industry experts Jacquelyn Howard, Bill Strassburg, Øisten Thorsen, Catherine Tubb](https://avoidboringpeople.substack.com/p/food-as-a-service "food")
 
-##Common themes from the experts
+## Common themes from the experts
 
 **Nobody really knows what's going to happen.** Given the intersection of so many different layers such as biology, economics, sociology, we're having a hard enough time figuring out first order impacts. Let alone the delayed second order or more impacts.
 
@@ -70,7 +70,7 @@ Before that, let's do a recap of what we covered, which included opinions from:
 
 **Public opinion is like a pendulum.** It's hard to sustain a mood for long, whether that's clapping for your healthcare workers or feeling solidarity in lockdowns. 
 
-##Three additional questions from me
+## Three additional questions from me
 
 **The big question now that everyone wants to know is what sticks and what doesn't?** I'm doubtful that this is the end of in person social experiences. We're all tolerating this with the shared assumption that everything is temporary, and we'll soon be back to grinding on someone's sweaty body in a dingy club in Brooklyn. Activities that have a social component at their core will remain intact. I think we're going to be back to large scale crowded experiences by 2021 summer at 60% probability.
 
@@ -86,7 +86,7 @@ It seems likely that growth in urbanisation % will slow, and I still think the %
 
 **What actions can someone take to set themselves up for the better?** Beyond the regular "learn to code", "network", "create things", [is there any new opportunity or tool that people can take advantage of?](https://marginalrevolution.com/marginalrevolution/2020/05/covid-career-advice-for-young-workers.html "Advice") The direct access to things mentioned above seems useful.
 
-**Footnotes**
+## Footnotes
 
 1. I'm thinking of doing a summary of a talk about the search for alien life and whales, just to give some indication of how random
 2. I'm not saying don't be an employee, but that you should keep in mind the tradeoffs, [per Nassim Taleb](https://avoidboringpeople.substack.com/p/why-were-freelance-monks-banned-by "Taleb")
