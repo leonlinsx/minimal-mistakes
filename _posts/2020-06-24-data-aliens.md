@@ -1,10 +1,10 @@
 ---
 title:  "War of the words"  
 tags: [aliens, language, shannon, information theory, zipf]
-published: false
+published: true
 ---
 
-### Takeaway
+## Takeaway
 
 Zipf's law and Shannon's information entropy can help us find alien life
 
@@ -34,13 +34,13 @@ Zipf's law and Shannon's information entropy can help us find alien life
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-### How can we find alien life?
+## How can we find alien life?
 
 We've talked about [how machine learning companies use data to recognise text](https://avoidboringpeople.substack.com/p/the-next-machine-learning-startup "ML") and how [investors use data to pick companies.](https://avoidboringpeople.substack.com/p/not-everything-is-insider-trading "invest")
 
 This week, let's talk about how scientists are using data to look for aliens. Some of the content below will draw from [Laurance Doyle's talk with the Long Now group.](http://longnow.org/seminars/02020/apr/29/interspecies-communication-and-search-extraterrestrial-intelligence/ "Long")
 
-#### Framing the problem
+### Framing the problem
 
 The search for extraterrestrial intelligence institute (SETI) is the most famous of the research institutes that are looking for alien life. Its mission is to ["to explore, understand and explain the origin and nature of life in the universe and the evolution of intelligence."](https://www.seti.org/about-us/mission "mission")
 
@@ -70,7 +70,7 @@ Putting it all together, what we've done is come up with the [Drake equation](ht
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Long Now drake equation.jpg)
 
-#### Narrowing the scope 
+### Narrowing the scope 
 
 That's a lot of variables though, so let's just focus on one part of that equation for today, that of the fraction of "intelligent" species. 
 
@@ -84,7 +84,7 @@ If we had rules that we believe intelligent communications have to follow, we ca
 
 It turns out there are 2 major rules in language theory - Zipf's Law, and Shannon's information theory entropy. Let's look at each in turn.
 
-#### Zipf's law about the frequency of words
+### Zipf's law about the frequency of words
 
 What Zipf's law proposes is that for every language, the frequency of a word's occurence is inversely proportional to the word's ranking, if you ranked all the words by frequency of occurrence. For example, if "the" is the most common word, it has rank #1. If "I" is the second most common word, it has rank #2. The rank #1 word, "the", will occur twice as many times in the language as the rank #2 word, "I". It will occur thrice as many times in the language as the ran #3 word, and so on.
 
@@ -98,7 +98,7 @@ Not content to rely on some rando from the internet, I went ahead to analyse my 
 
 Great, so now we have one law. We can test that against animals such as dolphins and whales, and see if it still holds. [Researchers did that,](https://www.seti.org/animal-communications-information-theory-and-search-extraterrestrial-intelligence-seti#:~:text=We%20also%20found%20that%20bottlenose,Zipf's%20Law%20distribution%20of%20signals.&text=In%20other%20words%2C%20baby%20bottlenose,start%20to%20whistle%20like%20adults. "dolphin") and found that they do! \[5\] In other words, it's likely that Zipf's law will apply to alien languages as well. By applying it to signals from outer space, we can filter out some of the noise.
 
-#### Shannon's information theory on predicting the next word
+### Shannon's information theory on predicting the next word
 
 Shannon's information theory \[6\] proposes that knowing the words before another word will give you some clue as to what that word is. Put another way, words in a sentence will depend on each. For example, you probably understand the previous sentence just fine, even though I omitted the last word "other."
 
@@ -110,7 +110,7 @@ By plotting those scores, we can see what range most languages fall in. We can d
 
 As you can see, there's a range in which most languages fall under. If we apply the same scoring system to signals, we can also filter out the ones that are unlikely to be languages.
 
-#### Finding aliens is not so different from machine learning
+### Finding aliens is not so different from machine learning
 
 We started out with a broad goal - wanting to find aliens. 
 
@@ -122,7 +122,7 @@ In case you thought this was all hypothetical, the above approach is [exactly wh
 
 As you can see, the process itself can be similar to other data analysis problems. First, you start with a goal. Then, you frame what you might need. Next, you come up with an algorithm. Lastly, you test it to see if it holds up. Problem solving in one field isn't that different to problem solving in another. 
 
-### Footnotes
+## Footnotes
 
 1. Defining what is habitable vs not [is difficult of course,](https://en.wikipedia.org/wiki/Circumstellar_habitable_zone "zone") since what works for us may not work for alien life. Some people might believe in silicon-based life rather than carbon-based (what we are), though [there are difficulties with that assumption](https://astronomy.stackexchange.com/questions/20858/why-do-aliens-have-to-be-carbon-based-lifeforms "carbon")
 2. Note that "the usefulness of the Drake equation is not in the solving, but rather in the contemplation of all the various concepts which scientists must incorporate when considering the question of life elsewhere, and gives the question of life elsewhere a basis for scientific analysis"
