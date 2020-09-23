@@ -1,10 +1,10 @@
 ---
 title:  "What's the shape of your belief curve?"  
-tags: [beliefs]
-published: false
+tags: [beliefs, change]
+published: true
 ---
 
-### Takeaway
+## Takeaway
 
 We draw our beliefs from others but are ultimately responsible for them ourselves.
 
@@ -34,7 +34,7 @@ We draw our beliefs from others but are ultimately responsible for them ourselve
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-### Paid reader survey discussion
+## Paid reader survey discussion
 
 I did a survey on a small group of you paying subscribers; thank you to everyone who filled it out. The feedback was helpful in seeing what people have actually liked recently (the [Josh Wolfe](https://avoidboringpeople.substack.com/p/authentic-contrarians-vs-consensus "Josh") and the [Picasso](https://avoidboringpeople.substack.com/p/picassos-new-painting-perspectives "Picasso") profiles came up often) and also for knowing what people want more of (more finance, more tech, more random interesting things). 
 
@@ -44,7 +44,7 @@ Sometimes I don't add much to something because I don't have a strong opinion, o
 
 If there's one thing I want to be known for, it's that I listen to feedback seriously. I might not make all the changes that people want, but I will adjust to the extent possible so that this newsletter continues getting better. Many features of the current version were due to suggestions by readers like you, such as the takeaways up top or separate sections in the monthly. Keep the feedback coming, it's much appreciated. 
 
-### Belief curves
+## Belief curves
 
 **We aren't born with our beliefs.**
 
@@ -110,7 +110,7 @@ And while that does mean that some people will be reluctant to update their harm
 
 I want to believe.
 
-### Footnotes
+## Footnotes
 
 1. For those unaware, I have a personal site as well in case substack goes away. There's also other things I can post there like a list of websites I follow.
 2. The phrasing for polls like this [can be bad](https://slatestarcodex.com/2020/05/28/bush-did-north-dakota/ "poll"), but even if you haircut the numbers by 99% there is still > 1 person who seriously believes in a lizard king.
