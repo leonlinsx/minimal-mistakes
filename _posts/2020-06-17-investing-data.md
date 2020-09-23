@@ -1,10 +1,10 @@
 ---
 title:  "Not everything is insider trading"  
 tags: [investing, finance, edge, competition, sellside, bank, research, app]
-published: false
+published: true
 ---
 
-### Takeaway
+## Takeaway
 
 Your investment edge as a retail investor should be different from a professional investor.
 
@@ -34,7 +34,7 @@ Your investment edge as a retail investor should be different from a professiona
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-### Using data in investing
+## Using data in investing
 
 Last week, we looked at [how companies use machine learning to take data, process it, and come to a conclusion.](https://avoidboringpeople.substack.com/p/the-next-machine-learning-startup "ML") 
 
@@ -44,7 +44,7 @@ I'll be doing this from a typical [long/short fundamental hedge fund](https://en
 
 My goal is for you as a retail investor to have a better understanding of the edge that professionals have, and what that implies on the edge that you can have \[2\].
 
-#### Public data
+### Public data
 
 Publicly listed companies [have to file financial statements regularly with the SEC.](https://www.sec.gov/edgar.shtml "SEC") These are publicly available on both the company investor relations pages and [SEC Edgar](https://www.sec.gov/edgar/searchedgar/companysearch.html "Edgar") for you to search through. 
 
@@ -58,7 +58,7 @@ This is one part of the investment research process, the discovery and usage of 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Invst data 1.png)
 
-#### Access to public data
+### Access to public data
 
 So if that's all that's needed, why do so many other companies exist to provide information to investors? How does Bloomberg make [$20k a year from a single subscription?](https://www.vox.com/2020-presidential-election/2019/12/11/21005008/michael-bloomberg-terminal-net-worth-2020 "Bloomberg")
 
@@ -88,7 +88,7 @@ There are also companies like BamSEC and Last10K, which make finding the filings
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Invst data 2.png)
 
-#### Access to sellside research data 
+### Access to sellside research data 
 
 We’ve talked about the user experience, now let’s discuss the points about getting more data and paying for it.
 
@@ -104,7 +104,7 @@ Obviously no one really wants to do that \[9\], so the researchers provide this 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Invst data 3.png)
 
-#### Access to company management
+### Access to company management
 
 Many investors evaluate companies based on the quality of their management teams. To facilitate this, both companies and sellside research will host regular investor conferences. The intent for these is for management to meet investors, explain the company strategy to the new investors replacing all the ones who got fired, and to take questions.
 
@@ -116,7 +116,7 @@ Nope, it's not. Would you think that Buffett's annual shareholder conference, [a
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Invst data 4.png)
 
-#### Industry experts
+### Industry experts
 
 Investors are also interested in talking to employees in the sectors they're researching. For example, if I'm trying to understand how Facebook advertising revenue might be, I'd want to talk to large buyers of Facebook ads. If they're more optimistic about the product, that could be a positive signal.
 
@@ -128,7 +128,7 @@ Nope, it's not. If you were interested in investing in a healthcare company, wou
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Invst data 5.png)
 
-#### Industry data
+### Industry data
 
 Lastly, investors are also using "alternative data" to better predict company results. For example, if you were interested in how well a mobile app was doing, you might be interested in the app download stats for that company. If you were interested in e-commerce sales, you might be interested in credit card data for an industry. If you wanted to monitor truck weights in order to estimate whether a company was doing more sales (heavier trucks), there's a company for that \[11\].
 
@@ -140,7 +140,7 @@ Would going out and counting customers at a store be illegal?
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Invst data 6.png)
 
-#### What this means for the retail investor
+### What this means for the retail investor
 
 We've gone through both the public and private data that a typical fundamental investor might use. What does that mean for you as a retail investor? 
 
@@ -168,7 +168,7 @@ What you have to do is find the things that a normal pro would be reluctant to d
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Invst data 7.png)
 
-### Footnotes
+## Footnotes
 
 1. I don't have experience in a quant firm, so can't speak to that personally. I do know quants [pay for order flow though,](https://www.institutionalinvestor.com/article/b1m2p1cv68bx56/Twitter-Freaked-Out-Over-Robinhood-Selling-Its-Trade-Flow-But-the-App-and-Others-Have-Been-Doing-It-for-Years "order") and that's likely included in the $30bn figure. Separately, note that an investment firm like a hedge fund is different from an investment bank; most investment analysts do compeletely different jobs than investment bankers. [Sellside equity research is the role most similar to a hedge fund analyst, but researchers don't actually invest money.](https://avoidboringpeople.substack.com/p/you-dont-want-quality-time-you-want "Sellside") 
 2. Edge here refers to the relative advantage you have against your competition. We discussed [why this was important in investing last month.](https://avoidboringpeople.substack.com/p/relatively-speaking-the-billionaire "edge") Shoutout to Barak Paz for nudging me to write on this based on a convo we had.
