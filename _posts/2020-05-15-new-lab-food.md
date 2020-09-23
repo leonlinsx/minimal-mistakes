@@ -1,14 +1,14 @@
 ---
 title:  "Food as a service"  
-tags: [food, tech]
+tags: [food, tech, logistics, supply chain, meat]
 published: false
 ---
 
-**Takeaway**
+## Takeaway
 
 Food supply chains are still difficult, and the ability to produce artificial protein could be a gamechanger
 
-**Relevant for**
+## Relevant for
 
 People interested in an overview of the food supply chain
 
@@ -38,7 +38,7 @@ People interested in an overview of the food supply chain
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-**Main**
+## Innovating the Food System and Supply Chain
 
 [Newlab,](https://newlab.com/overview/ "New") a hardware focused research center based in Brooklyn, recently held a panel on ["Innovating the Food System & Supply Chain."](https://www.eventbrite.com/e/newlab-virtual-innovating-the-food-system-supply-chain-tickets-104153002434# "event") The panel consisted of \[1\]:
 
@@ -174,7 +174,7 @@ Catherine
 
 *LL - [Cloud kitchens are a delivery only restaurant concept](https://medium.com/@voicesinmyhead/opening-a-cloud-kitchen-all-the-pros-and-cons-you-should-know-244397edba32 "cloud") that have become popular recently. The idea is to group many popular food brands together in a low rent space, and further save on costs by not having any service staff. The food is prepared for delivery* 
 
-**Footnotes**
+## Footnotes
 
 1. Moderated by Newlab’s Vice President of Products and Programs, Shaina Horowitz. Shaina also directed questions to particular panelists, which explains why most questions only have one person answering them
 2. As always, I'll be paraphrasing for clarity
