@@ -1,11 +1,11 @@
 ---
 title:  "Relatively speaking, the billionaire isn't rich"  
 tags: [tech, finance, status, relative, absolute, luck, skill]
-published: false
+published: true
 ---
 
 
-### Takeaways
+## Takeaways
 
 1. Investing is about relative, not absolute performance
 2. Technology competition is about relative, not absolute strength
@@ -37,7 +37,7 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-### 1. Don't bet on the most likely winner
+## 1. Don't bet on the most likely winner
 
 Imagine you're an investment analyst \[1\].
 
@@ -83,7 +83,7 @@ In investing, it's all relative.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Hedge fund alpha.png)
 
-### 2. Your tech relative is an eight year old
+## 2. Your tech relative is an eight year old
 
 Imagine you're at a tech company selling online widgets.
 
@@ -115,7 +115,7 @@ It's the [Red Queen hypothesis](https://en.wikipedia.org/wiki/Red_Queen_hypothes
 
 In tech, it's all relative.
 
-### 3. Relatively speaking, the billionaire isn't rich
+## 3. Relatively speaking, the billionaire isn't rich
 
 Imagine you're just trying to live your life.
 
@@ -151,7 +151,7 @@ And you should still seek to measure yourself by your own scorecard, and get bet
 
 In life, it's all relative.
 
-### Other 
+## Other 
 
 1. [Jukebox is an AI that makes music. Check out a re-rendition of Ella Fitzgerald](https://openai.com/blog/jukebox/ "Juke")
 2. [Higher reputation sellers are less likely to take advantange of shortages in supply by price gouging](http://leixu.org/xu_price_gouging.pdf "price")
@@ -159,16 +159,16 @@ In life, it's all relative.
 4. ["Lying somewhere between a club and a loosely defined set of friends, the Small Group is a repeated theme in the lives of the successful"](https://jmulholland.com/small-group/ "small")
 5. ["Turns out, even patients who appear \[to be\] in a coma can have more cognitive function than can be observed with standard clinical methods"](https://aeon.co/essays/to-say-what-consciousness-is-science-explores-where-it-isnt? "coma")
 
-### Shoutouts 
+## Shoutouts 
 
 1. Shoutout to reader Ben for [correcting my bad math on the Li Lu investing post regarding the carry calculation](https://avoidboringpeople.substack.com/p/we-wanted-her-instead-we-got-tinder/comments "Li Lu")
 2. If I was still in high school, I'd be applying to the [Progress Studies for Young Scholars program](https://progressstudies.school/ "progress") with speakers such as Tyler Cowen and Patrick Collison. Seems it's open for adults to audit as well. 
 
-### Question of the month
+## Question of the month
 
 What’s a controversial idea you’d like to get another point of view on? Reply directly to this email and I might write about it in future newsletters.
 
-### Footnotes
+## Footnotes
 
 1. Some of you probably are. I'm referring to buyside analysts here, not sellside (who research but don't invest for the firm) or investment banking analysts (contrary to the name, don't invest at all)
 2. An investment memo is a write up on the stock you're pitching, commonly used in the investment industry as a way to summarise your idea.
