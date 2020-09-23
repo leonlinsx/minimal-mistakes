@@ -1,7 +1,7 @@
 ---
 title:  "Food as a service"  
 tags: [food, tech, logistics, supply chain, meat]
-published: false
+published: true
 ---
 
 ## Takeaway
