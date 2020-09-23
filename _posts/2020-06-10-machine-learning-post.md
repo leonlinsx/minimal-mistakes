@@ -1,10 +1,10 @@
 ---
 title:  "The next machine learning startup is in your front yard"  
-tags: [tech, machine learning, startups, algo]
-published: false
+tags: [tech, machine learning, startups, algo, ai]
+published: true
 ---
 
-### Takeaway
+## Takeaway
 
 Machine learning is less scary than you think, and more common than you think.
 
@@ -34,7 +34,7 @@ Machine learning is less scary than you think, and more common than you think.
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-### Machine learning magic
+## Machine learning magic
 
 We hear about machine learning (ML), deep learning, or artificial intelligence all the time now \[1\]. 
 
@@ -58,7 +58,7 @@ However, most people are intimidated by ML, equating it to magic that only cutti
 
 Today I want to help you get a better intuition of ML, by first looking at a company using ML, and then walking through the basics of how a neural net works. My goal at the end of this is for you to feel less scared whenever someone throws around the term "ML" as though they're too cool for school.
 
-### Machine learning case study
+## Machine learning case study
 
 Imagine I came to you looking for investment in a company using ML. Here's the pitch:
 
@@ -78,7 +78,7 @@ No, really, the post office has been using ML for a long time. [They started tri
 
 My point here isn't to crap on Anyline, or startups similar to it. I'm sure they're solving difficult problems and are not pure hype \[2\]. Rather, I want to make you realise that **ML is being used in mundane sounding scenarios, and has been for some time now.** The next time someone pitches you on ML, keep that in mind.
 
-### Machine learning intuition
+## Machine learning intuition
 
 Now that we know where ML is used, let's walk through how ML can work. I'll use a [neural network](http://news.mit.edu/2017/explained-neural-networks-deep-learning-0414 "NN") for this, though there are many other ways ML can be run. 
 
@@ -134,9 +134,7 @@ And that's it! You’ve seen how a process can convert data inputs (such as pixe
 
 Of course, the actual setup is more complicated and requires way more time and expertise \[6\]. I’ve skipped over all of the math, stats, and programming that makes ML actually harder to implement in real life. However, hopefully the intuition that you now have will make you less intimidated whenever someone uses "ML" as a buzzword in the future.
 
-*If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
-
-### Footnotes
+## Footnotes
 
 1. I'll use machine learning (ML), deep learning(DL), or artificial intelligence (AI) interchangeably throughout the post, but technically they're different things, [some being a subset of the other.](https://towardsdatascience.com/clearing-the-confusion-ai-vs-machine-learning-vs-deep-learning-differences-fce69b21d5eb "ML") For the sake of the post it doesn't really matter though.
 2. Well, some are probably complete cons
