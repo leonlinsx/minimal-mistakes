@@ -3,7 +3,7 @@ title:  "What I'd want to learn in investment banking"
 tags: [investment banking, powerpoint, excel, finance, learning, reflection]
 ---
 
-\* *Note: this is a backdated post from a framework I used in the past, edited for brevity. If you like this, you might like my newsletter: \*
+*Note: this is a backdated post from a framework I used in the past, edited for brevity. If you like this, you might like my newsletter:*
 
 <style>
       .iframe-container {
@@ -34,7 +34,8 @@ tags: [investment banking, powerpoint, excel, finance, learning, reflection]
 
 Back when I was leaving investment banking I wanted to reflect on what I'd learnt. Partially because of that, I put together a list of topics that I thought a junior banker should aim to be familiar with during their time there. The list is neither meant to be comprehensive, nor do I think you can be an expert at all the areas after just a few years. Admittedly I've already forgotten some of the areas below. However, I still believe it is helpful for reference. The list is below:
 
-### Finance related 
+## Finance related
+
   * Overview of what IB is
   * Equity
     * IPO
@@ -88,7 +89,8 @@ Back when I was leaving investment banking I wanted to reflect on what I'd learn
     * Option valuation
     * Behavioural finance
 
-### Excel related
+## Excel related
+
   * Best practices
     * Sourcing and commenting
     * Input data once and referring to that input throughout
@@ -145,7 +147,8 @@ Back when I was leaving investment banking I wanted to reflect on what I'd learn
   * Macros
     * Very hidden tabs
 
-### Powerpoint
+## Powerpoint
+
   * Gridlines and guides
   * Slide master
   * Alignment
@@ -163,4 +166,10 @@ Back when I was leaving investment banking I wanted to reflect on what I'd learn
   * Clear formatting
   * Quick access toolbar
   * Cleaning up stuff off the slide or notes sections
+  
+Feel free to reach out with any clarifications; email is in the sidebar.
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
 
