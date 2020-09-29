@@ -7,7 +7,7 @@ published: false
 
 ## Takeaways
 
-1. 
+1. Investing early in others is not just kinder but also the smarter thing to do
 2. 
 3. Feature post by Brett Bivens on how progress depends on storytelling and the evolution of who is empowered to be a storyteller.
 
@@ -41,7 +41,9 @@ published: false
 
 dont short the lottery
 
-## 
+## 1. Invest early in others
+
+
 
 ## 3. Brett Bivens feature: The Storytelling Thesis
 
