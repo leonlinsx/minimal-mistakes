@@ -110,7 +110,9 @@ in practice
 
 ## 3. Brett Bivens feature: The Storytelling Thesis
 
-As mentioned, below is the guest post from [Brett Bivens](https://venturedesktop.substack.com/p/the-storytelling-thesis "Brett"). It's about the importance of storytelling, making it a good companion piece to [my earlier article on stories](https://avoidboringpeople.substack.com/p/a-story-is-a-lie-and-a-story-is-true "story")
+As mentioned, below is the guest post from [Brett Bivens](https://venturedesktop.substack.com/p/the-storytelling-thesis "Brett"). Brett writes at Venture Desktop, which explores the ideas, companies, and people that shape the innovation economy.
+
+Brett's piece today is about the importance of storytelling, making it a good companion piece to [my earlier article on stories](https://avoidboringpeople.substack.com/p/a-story-is-a-lie-and-a-story-is-true "story")
 
 Here's his intro:
 
