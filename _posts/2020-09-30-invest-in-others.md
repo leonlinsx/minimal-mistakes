@@ -137,6 +137,18 @@ Not investing in others is equivalent to shorting the lottery \[8\]. It implies 
 
 The section above got me to think about lotteries. There's a particular quirk about lotteries that can be unintuitive, and I want to explore that briefly - Why do poor people play the lottery? 
 
+The typical argument goes something like this:
+
+1. Poor people don't have a lot of money
+2. The more they pay down debt, save, or invest, the better for them
+3. Lotteries have negative expected value, i.e. you expect to get <$1 for every $1 you put in
+4. Poor people are aware of the odds and know they'll lose money on average
+5. Since the lottery makes them worse off, they're dumb for doing so, cue laughter at poor people and some superiority complex from armchair economists.
+
+Points 1 and 3 are true by definition. Point 4 is usually true; we'll take it as a given. 
+
+So the parts where this argument breaks down are potentially points 2 and 5. 
+
 
 
 When you're that far down, you can only hope for a long short to reverse your fortunes. 
