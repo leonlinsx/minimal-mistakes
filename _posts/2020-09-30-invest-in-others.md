@@ -7,6 +7,10 @@ published: false
 
 ## Takeaways
 
+1. 
+2. 
+3. Feature post by Brett Bivens on how progress depends on storytelling and the evolution of who is empowered to be a storyteller.
+
 <style>
       .iframe-container {
         overflow: hidden;        
@@ -36,6 +40,8 @@ published: false
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
 dont short the lottery
+
+## 
 
 ## 3. Brett Bivens feature: The Storytelling Thesis
 
@@ -75,7 +81,7 @@ Stories are both the oxygen and the sustenance of these nascent groups. Stories 
 
 ### Questions for Brett
 
-**1. What are you practicing deliberately? E.g in the same way a football player would train drills to consciously improve
+**1. What are you practicing deliberately? E.g in the same way a football player would train drills to consciously improve**
 
 There are three things I am practicing deliberately.
 
