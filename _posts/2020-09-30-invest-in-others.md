@@ -41,9 +41,9 @@ dont short the lottery
 
 ## Other
 
-1. [The conference I was speaking at got postponed](https://hopin.to/events/forward-by-ellisx "ellisx"), but I ended up interviewing Polina Marinova (Term Sheet, the Profile) at a separate event. You can check out the recording here and a summary here.
+1. 
 2.
-3. 
+3. [Financial engineering playbook](https://www.gabellisecurities.com/Gab_pdf/articles/FinanEng_Marangi2017.pdf "Gab") from Gabelli Funds, h/t [Dave Ambrose](https://twitter.com/daveambrose/status/1285600957561286658?s=20 "Dave")
 4. [Ballet in covid; Bolero Julliard](https://www.youtube.com/watch?v=rqzkn-jX-JU "ballet") h/t [Studio at UVA](https://visitor.r20.constantcontact.com/manage/optin?v=001KXONq1HvM-Xu0-2Qj7p-csW5_Ac1NYvwgE6FHlsUPccsOP2YWpYXgb9ywJ2tAin0B7mMELuqxTcE4b5OeMGUVmR6yEMeViXoW1zIsXd0qHXFKfi-2XEfmsoT83TzEWWk_rpJybe5LR5dzL_BK_J0V4sR7iIJQQO6 " UVA")
 5. [Why shaving dulls even the sharpest of razors](https://news.mit.edu/2020/why-shaving-dulls-razors-0806 "razor")
 
