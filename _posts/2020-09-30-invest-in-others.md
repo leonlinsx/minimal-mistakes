@@ -81,7 +81,9 @@ But there are people already doing this, and making it work successfully. And wh
 
 The simple, but not easy, solution, is to **invest in others early.** Invest as much as you can - time, money, help. Invest in as many people as you can. Invest as often as you can.
 
+Those familiar with finance might find it helpful to view this from an options point of view. For those unfamiliar, think of everyone as a lottery ticket. 
 
+How many lottery tickets should you buy? The more the better, but it also depends on how much you're buying them at. 
 
 **Don't short the lottery.**
 
