@@ -47,7 +47,7 @@ Suppose you had to get a meeting with Beyonce \[1\].
 
 How would you do it?
 
-One way would be to find the most connected or famous person you knew, and then asking them if they knew any mutual acquaintances. Keep repeating that process.
+One way would be to find the most connected person you knew, and then asking them if they knew any mutual acquaintances. Keep repeating that process.
 
 Another would be to try and raise enough money to book her for a private performance.
 
@@ -55,13 +55,13 @@ Yet another would be to try to get viral with some tweet or vidoe and hope she n
 
 These are all plausible options, mostly with a low chance of success.
 
-Now suppose you were Beyonce's first producer, or manager, or even songwriting collaborator \[2\]. How much easier do you think it would be to get that meeting?
+Now suppose you were Beyonce's first producer, manager, or even songwriting collaborator \[2\]. How much easier do you think it would be to get that meeting?
 
-Here's a common habit all of us have - **We want to know famous people.** 
+Here's a common desire we all have - **We want to know famous people.** 
 
 We want to meet them, we want to be them, we want to tell others about how [our good friend Taylor was rudely upstaged by our other friend Kanye who was defending our best friend Beyonce](https://www.youtube.com/watch?v=ifq3QxALj4I "Jameela")
 
-That in itself isn't that big of a problem. Heros are a big part of any society, and it's natural to aim for them.
+That in itself isn't that big of a problem. Heros are a big part of any society, and some admiration is understandable.
 
 Here's what is a problem - We want to know famous people, **but only after they've become famous.**
 
@@ -71,19 +71,21 @@ Here's what is a problem - We want to know famous people, **but only after they'
 
 [Chef with cancer? Nah, let's wait till he wins Michelin Stars before we see him](https://www.uchicagomedicine.org/forefront/cancer-articles/chef-triumphs-over-tongue-cancer-and-in-the-culinary-world "Alinea")
 
-We know that it's implausible, but we have some bizarre hope we'll just run into David Tennant on the street and instantly become best buds after talking about how big a fan we are. We can't help but to dream.
+We know that it's implausible, but we have some bizarre hope we'll just run into Neil Gaiman on the street and instantly become best buds after talking about how big a fan we are. We can't help but to dream. Our implausible dreams.
 
 The alternative approach then, is to get to know famous people **before they've become famous.**
 
-This sounds impossible. If we could predict the future that well we'd be off in Switzerland skiing with Scarlett Johansson by now. 
+This sounds impossible. If we could predict the future that well we'd be off in Switzerland skiing with Scarlett Johansson.
 
-But there are people already doing this, and making it work successfully. And while they can't guarantee that all the people they know will succeed, they can guarantee they'll have a much higher chance of knowing a successful person, mainly due to a mentality shift.
+But there are people that already do this. And while they can't guarantee that all the people they know will succeed, they can guarantee they'll have a much higher chance of knowing a successful person, mainly due to their mentality shift.
 
-The simple, but not easy, solution, is to **invest in others early.** Invest as much as you can - time, money, help. Invest in as many people as you can. Invest as often as you can.
+The simple, but not easy, solution, is to **invest in others early.** Invest as much as you can - time, money, advice. Invest in as many people as you can. Invest as often as you can.
 
 Those familiar with finance might find it helpful to view this from an options point of view. For those unfamiliar, think of everyone as a lottery ticket. 
 
-How many lottery tickets should you buy? The more the better, but it also depends on how much you're buying them at. 
+If you wanted to win the lottery, how many tickets should you buy? The more the better, but it also depends on how much you're buying them at. If the tickets were nearly free and the prize is large, you'd be grabbing as many opportunities as you could.
+
+
 
 **Don't short the lottery.**
 
@@ -164,7 +166,7 @@ I also met my wife a couple months after moving to India, so the period was pret
 ## Footnotes
 
 1. I just used the first result when I googled "most famous celebrity," so pick whoever you want here. 
-2. I say this not knowing the current state of relationships Beyonce has with any of these people, and it's more to just illustrate the point.
+2. I say this not knowing the current state of relationships Beyonce has with any of these people, and it's more to just illustrate the point, as you'll see shortly
 
 1. The story of my life is people asking me for advice and then 
 
