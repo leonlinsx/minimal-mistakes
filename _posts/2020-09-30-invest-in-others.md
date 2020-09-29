@@ -1,5 +1,5 @@
 ---
-title:  ""  
+title:  "It only goes up from here"  
 tags: []
 published: false
 ---
@@ -37,10 +37,6 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
-
-dont short the lottery
-
 ## 1. Invest early in others
 
 Suppose you had to get a meeting with Beyonce \[1\].
@@ -77,19 +73,36 @@ The alternative approach then, is to get to know famous people **before they've 
 
 This sounds impossible. If we could predict the future that well we'd be off in Switzerland skiing with Scarlett Johansson.
 
-But there are people that already do this. And while they can't guarantee that all the people they know will succeed, they can guarantee they'll have a much higher chance of knowing a successful person, mainly due to their mentality shift.
+But there are people that already do this. And while they can't guarantee that all the people they know will succeed, they can guarantee they'll have a much higher chance of knowing a successful person, mainly due to their mentality shift. 
 
 The simple, but not easy, solution, is to **invest in others early.** Invest as much as you can - time, money, advice. Invest in as many people as you can. Invest as often as you can.
 
-Those familiar with finance might find it helpful to view this from an options point of view. For those unfamiliar, think of everyone as a lottery ticket. 
+Those familiar with finance might find it helpful to view this from an **options point of view.** For those unfamiliar, think of **lottery tickets.** 
 
 If you wanted to win the lottery, how many tickets should you buy? The more the better, but it also depends on how much you're buying them at. If the tickets were nearly free and the prize is large, you'd be grabbing as many opportunities as you could.
 
+You can see examples of people benefiting from this in finance, tech, and life. 
 
+On the finance side, Y Combinator and all other accelerators have this mentality. Take small (for YC) stakes in plenty of companies, and then benefit when any one of them succeeds. Similar factor for why [angel investing is becoming so popular](https://avoidboringpeople.substack.com/p/theres-more-to-communities-than-facebook "angel")
+
+On the tech side, warms intros and coffee chats are the default way of building social capital. People recognise potential, and organise themselves for optionality in others.
+
+And on the life side, you probably have this eccentric uncle that somehow seems to know everyone important in the empire. 
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/optionality 1.jpg)
+
+
+
+[As Tyler Cowen put it:](https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html "MR")
+
+> At critical moments in time, you can raise the aspirations of other people significantly, especially when they are relatively young, simply by suggesting they do something better or more ambitious than what they might have in mind.  It costs you relatively little to do this, but the benefit to them, and to the broader world, may be enormous.
+
+only goes up
+
+in practice
 
 **Don't short the lottery.**
 
-Here's an alternative approach. It's simple but not easy; obvious but underrated. 
 
 ## 3. Brett Bivens feature: The Storytelling Thesis
 
