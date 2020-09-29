@@ -95,15 +95,23 @@ What all these people realise is the simple truth that on average, **things go u
 
 Note that I'm not saying *everyone* succeeds, just that on average, *most* people you know will do better in the future than now. If you believe that's the case, then you should help as much as you can. If you don't, it's time to get new friends \[4\].
 
-Concretely, 
+Here's a couple of examples putting this into practice:
+
+- Acting as a mentor for others, and expecting nothing in return. You can do this via your college alumni system, at work, or even something like [Vice Ventures' Young VC mentorship program (applications end today fyi!)](https://twitter.com/vice_ventures/status/1301218311229911041?s=20 "Vice")
+- Supporting friends that are struggling, with whatever means you can afford. Pay full price for their stuff if they have a business, make introductions, and give advice where appropriate.
+- Being open-minded to new people and experiences. Realising that there's many paths to success and that others might become successful in ways you can't even imagine.
 
 [As Tyler Cowen put it:](https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html "MR")
 
 > At critical moments in time, you can raise the aspirations of other people significantly, especially when they are relatively young, simply by suggesting they do something better or more ambitious than what they might have in mind.  It costs you relatively little to do this, but the benefit to them, and to the broader world, may be enormous.
 
+
+
 only goes up
 
 in practice
+
+opposite view
 
 **Don't short the lottery.**
 
