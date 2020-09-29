@@ -97,34 +97,45 @@ Note that I'm not saying *everyone* succeeds, just that on average, *most* peopl
 
 Here's a couple of examples putting this into practice:
 
-- Acting as a mentor for others, and expecting nothing in return. You can do this via your college alumni system, at work, or even something like [Vice Ventures' Young VC mentorship program (applications end today fyi!)](https://twitter.com/vice_ventures/status/1301218311229911041?s=20 "Vice")
-- Supporting friends that are struggling, with whatever means you can afford. Pay full price for their stuff if they have a business, make introductions, and give advice where appropriate.
-- Being open-minded to new people and experiences. Realising that there's many paths to success and that others might become successful in ways you can't even imagine. You're handicapping yourself by only helping 
+- **Acting as a mentor** for others, and expecting nothing in return. You can do this via your college alumni system, at work, or even something like [Vice Ventures' Young VC mentorship program (applications end today fyi!)](https://twitter.com/vice_ventures/status/1301218311229911041?s=20 "Vice")
+- **Supporting friends** that are struggling, with whatever means you can afford. Pay full price for their stuff if they have a business, make introductions, and give advice where appropriate.
+- **Being open-minded** to new people and experiences. Realising that there's many paths to success and that others might become successful in ways you can't even imagine. You're handicapping yourself by only helping 
 
 [As Tyler Cowen put it:](https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html "MR")
 
 > At critical moments in time, you can raise the aspirations of other people significantly, especially when they are relatively young, simply by suggesting they do something better or more ambitious than what they might have in mind.  It costs you relatively little to do this, but the benefit to them, and to the broader world, may be enormous.
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/optionality 2.png)
+
 I've presented the case for investing in others, and let's look at tradeoffs:
 
-- Mentoring people is usually a thankless task. The story of my life is getting asked for advice, giving it, and then having people completely ignore it. And this is ok! A fundamental rule of giving advice is you have to be prepared for it to not be listened to
+- Mentoring people is usually a thankless task. The story of my life is getting asked for advice, giving it, and then having people completely ignore it. And this is ok! A fundamental rule of giving advice is you have to be prepared to get ignored
 - You might not be in a situation to help others, or the cost of helping is too high. Going back to the lottery example, if each ticket was the cost of the lottery prize, nobody would play it. In such cases, help to the extent you can.
-- You're worried that encouraging others on fruitless causes makes them suffer even more when they fail. This is a personal decision, and my framework here is something along these lines: Does it hurt others? If it only hurts themselves, would it be a permanent, irreparable mistake? If not, just let people experiment and figure things out from experience.
+- You're worried that encouraging others on fruitless causes makes them suffer even more when they fail. This is a personal decision, and my framework here is something along these lines: Does it hurt others? If it only hurts themselves, would it be a permanent, irreparable mistake? If not, just let people experiment and figure things out from experience \[5\].
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/optionality 3.png)
 
+One last point. Some might take the above message to the extreme by aiming to meet everyone, signing up for [Lunch Club](https://lunchclub.ai/weekly "LC"), [Cuppa](https://www.getcuppa.io/love "Cuppa"), and whatever the latest anonymous networking app that's always 90% male is. We probably also know someone who claims to know everyone, but somehow is never able to offer to help.
 
-only goes up
+I don't think that's an effective approach either, due to the superficiality of connections when you aim for quantity \[6\]. **Aim to be genuinely interested** in the person, what they do, and what they're passionate about. It's hard to tell on first impressions, but people catch on after a while. 
 
-in practice
+With that in mind, I also want to put money where my mouth is. I'm introducing something new for the newsletter: **Guest features**
 
-opposite view
+- I'll irregularly feature guest posts. Think of these as a "best of" or "most representative" article for the person. Sometimes there'll be Q&A.  
+- The intent is to highlight people that should be even more widely known; "underrated" if you'd like. This roughly means they shouldn't already be making a living from their content, but I'll treat it on a case by case basis. **Feel free to reach out with suggestions! \[7\]**
+- I've a preference for writers since it's easier to showcase their work, though I'm open to exploring other formats. 
+
+The first guest I'm having is [Brett Bivens](https://twitter.com/brettbivens "Brett") of Venture Desktop, and you'll see more of his work in the section below.
+
+Let's return to our lottery example. We've looked at it from the lottery ticket buyer point of view, let's look at the people running the lottery. Lotteries are great businesses that print money; [people are essentially paying you money for the privilege of giving you even more money.](https://smartasset.com/taxes/the-economics-of-the-lottery#:~:text=According%20to%20the%20Tax%20Foundation,keep%20the%20money%20that%20remains. "lottery econs") This isn't investment advice, and I'd own a lottery if I could.
+
+Not investing in others is equivalent to shorting the lottery \[8\]. It implies you're betting against the success of everyone else, and that's an easy way to set yourself up for failure.
 
 **Don't short the lottery.**
 
-
 ## 3. Brett Bivens feature: The Storytelling Thesis
 
-As mentioned, below is the guest post from [Brett Bivens](https://venturedesktop.substack.com/p/the-storytelling-thesis "Brett"). Brett writes at Venture Desktop, which explores the ideas, companies, and people that shape the innovation economy.
+As mentioned, below is the guest post from **[Brett Bivens](https://venturedesktop.substack.com/p/the-storytelling-thesis "Brett").** Brett writes at Venture Desktop, which explores the ideas, companies, and people that shape the innovation economy.
 
 Brett's piece today is about the importance of storytelling, making it a good companion piece to [my earlier article on stories](https://avoidboringpeople.substack.com/p/a-story-is-a-lie-and-a-story-is-true "story")
 
@@ -202,6 +213,10 @@ I also met my wife a couple months after moving to India, so the period was pret
 2. I say this not knowing the current state of relationships Beyonce has with any of these people, and it's more to just illustrate the point, as you'll see shortly
 3. Life goals. The lightsaber battles and spooky ghost abilities, not the getting chopped in half bit
 4. I'm only half joking on this point. If you find yourself surrounded by people that make you think "i'm going to stagnate and be stuck in an unhealthy environment," you should get out while you can. 
+5. Example 1: If your friend has an unconventional business idea, the default should be to support them. Example 2: If your friend's unconventional business idea is to commit insider trading, you should probably warn them against it. Example 3: If your friend's idea is to commit insider trading by beating up someone else in a dark alley to get next quarter revenue numbers, you should probably run away. Err on the side of kindness and helping others.
+6. Nothing against Lunchclub and the like, I'm an occasional user of the service.
+7. I can't guarantee that I'll feature them, and will take a look at all suggestions
+8. Technically some could say you're neutral and not long or short. But if you think of everyone in the world as forming the market index, and the subset of people you're able to meet as a portfolio, not investing in the subset is like having a negative weight.
 
 1. The story of my life is people asking me for advice and then 
 
