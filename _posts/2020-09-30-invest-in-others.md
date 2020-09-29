@@ -65,7 +65,27 @@ That in itself isn't that big of a problem. Heros are a big part of any society,
 
 Here's what is a problem - We want to know famous people, **but only after they've become famous.**
 
+[New kid in school? Let's pick on him so much he writes a song about us when he becomes one of the most influential rappers of our time](https://www.billboard.com/articles/columns/the-juice/954401/eminem-discusses-being-bullied-and-his-rhyming-process "Em")
 
+[Drug addict actor? Leave him out of the limelight till he becomes too big to ignore](https://drugabuse.com/robert-downey-jr-s-incredible-comeback-from-addiction/ "Robert")
+
+[Chef with cancer? Nah, let's wait till he wins Michelin Stars before we see him](https://www.uchicagomedicine.org/forefront/cancer-articles/chef-triumphs-over-tongue-cancer-and-in-the-culinary-world "Alinea")
+
+We know that it's implausible, but we have some bizarre hope we'll just run into David Tennant on the street and instantly become best buds after talking about how big a fan we are. We can't help but to dream.
+
+The alternative approach then, is to get to know famous people **before they've become famous.**
+
+This sounds impossible. If we could predict the future that well we'd be off in Switzerland skiing with Scarlett Johansson by now. 
+
+But there are people already doing this, and making it work successfully. And while they can't guarantee that all the people they know will succeed, they can guarantee they'll have a much higher chance of knowing a successful person, mainly due to a mentality shift.
+
+The simple, but not easy, solution, is to **invest in others early.** Invest as much as you can - time, money, help. Invest in as many people as you can. Invest as often as you can.
+
+
+
+**Don't short the lottery.**
+
+Here's an alternative approach. It's simple but not easy; obvious but underrated. 
 
 ## 3. Brett Bivens feature: The Storytelling Thesis
 
