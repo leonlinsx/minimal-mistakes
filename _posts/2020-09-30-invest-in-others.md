@@ -93,17 +93,23 @@ And on the life side, everyone has this eccentric uncle that somehow seems to kn
 
 What all these people realise is the simple truth that on average, **things go up over time.** Fortune, fame, favour - these compound over time for most. Even if you don't like helping people out of kindness, helping people selfishly because you believe they'll be successful also makes sense.
 
-Note that I'm not saying *everyone* succeeds, just that on average, *most* people you know will do better in the future than now. If you believe that's the case, then you should help as much as you can. If you don't, it's time to get new friends \[4\].
+Note that I'm not saying *everyone* succeeds, just that on average, *most* people you know will do better in the future than now. And of that group, some will turn out to be extremely successful. If you believe that's the case, then you should help as much as you can. If you don't, it's time to get new friends \[4\].
 
 Here's a couple of examples putting this into practice:
 
 - Acting as a mentor for others, and expecting nothing in return. You can do this via your college alumni system, at work, or even something like [Vice Ventures' Young VC mentorship program (applications end today fyi!)](https://twitter.com/vice_ventures/status/1301218311229911041?s=20 "Vice")
 - Supporting friends that are struggling, with whatever means you can afford. Pay full price for their stuff if they have a business, make introductions, and give advice where appropriate.
-- Being open-minded to new people and experiences. Realising that there's many paths to success and that others might become successful in ways you can't even imagine.
+- Being open-minded to new people and experiences. Realising that there's many paths to success and that others might become successful in ways you can't even imagine. You're handicapping yourself by only helping 
 
 [As Tyler Cowen put it:](https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html "MR")
 
 > At critical moments in time, you can raise the aspirations of other people significantly, especially when they are relatively young, simply by suggesting they do something better or more ambitious than what they might have in mind.  It costs you relatively little to do this, but the benefit to them, and to the broader world, may be enormous.
+
+I've presented the case for investing in others, and let's look at tradeoffs:
+
+- Mentoring people is usually a thankless task. The story of my life is getting asked for advice, giving it, and then having people completely ignore it. And this is ok! A fundamental rule of giving advice is you have to be prepared for it to not be listened to
+- You might not be in a situation to help others, or the cost of helping is too high. Going back to the lottery example, if each ticket was the cost of the lottery prize, nobody would play it. In such cases, help to the extent you can.
+- You're worried that encouraging others on fruitless causes makes them suffer even more when they fail. This is a personal decision, and my framework here is something along these lines: Does it hurt others? If it only hurts themselves, would it be a permanent, irreparable mistake? If not, just let people experiment and figure things out from experience.
 
 
 
