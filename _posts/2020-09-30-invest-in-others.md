@@ -133,6 +133,8 @@ Not investing in others is equivalent to shorting the lottery \[8\]. It implies 
 
 **Don't short the lottery.**
 
+## 2. 
+
 ## 3. Brett Bivens feature: The Storytelling Thesis
 
 As mentioned, below is the guest post from **[Brett Bivens](https://venturedesktop.substack.com/p/the-storytelling-thesis "Brett").** Brett writes at Venture Desktop, which explores the ideas, companies, and people that shape the innovation economy.
@@ -217,8 +219,6 @@ I also met my wife a couple months after moving to India, so the period was pret
 6. Nothing against Lunchclub and the like, I'm an occasional user of the service.
 7. I can't guarantee that I'll feature them, and will take a look at all suggestions
 8. Technically some could say you're neutral and not long or short. But if you think of everyone in the world as forming the market index, and the subset of people you're able to meet as a portfolio, not investing in the subset is like having a negative weight.
-
-1. The story of my life is people asking me for advice and then 
 
 *If you liked this, you'll like [my monthly newsletter.](https://avoidboringpeople.substack.com/ "ABP") Sign up here:*
 
