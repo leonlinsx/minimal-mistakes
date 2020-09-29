@@ -87,11 +87,15 @@ On the finance side, Y Combinator and all other accelerators have this mentality
 
 On the tech side, warms intros and coffee chats are the default way of building social capital. People recognise potential, and organise themselves for optionality in others.
 
-And on the life side, you probably have this eccentric uncle that somehow seems to know everyone important in the empire. 
+And on the life side, everyone has this eccentric uncle that somehow seems to know everyone important in the empire \[3\]. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/optionality 1.jpg)
 
+What all these people realise is the simple truth that on average, **things go up over time.** Fortune, fame, favour - these compound over time for most. Even if you don't like helping people out of kindness, helping people selfishly because you believe they'll be successful also makes sense.
 
+Note that I'm not saying *everyone* succeeds, just that on average, *most* people you know will do better in the future than now. If you believe that's the case, then you should help as much as you can. If you don't, it's time to get new friends \[4\].
+
+Concretely, 
 
 [As Tyler Cowen put it:](https://marginalrevolution.com/marginalrevolution/2018/10/high-return-activity-raising-others-aspirations.html "MR")
 
@@ -180,6 +184,8 @@ I also met my wife a couple months after moving to India, so the period was pret
 
 1. I just used the first result when I googled "most famous celebrity," so pick whoever you want here. 
 2. I say this not knowing the current state of relationships Beyonce has with any of these people, and it's more to just illustrate the point, as you'll see shortly
+3. Life goals. The lightsaber battles and spooky ghost abilities, not the getting chopped in half bit
+4. I'm only half joking on this point. If you find yourself surrounded by people that make you think "i'm going to stagnate and be stuck in an unhealthy environment," you should get out while you can. 
 
 1. The story of my life is people asking me for advice and then 
 
