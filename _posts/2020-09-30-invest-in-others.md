@@ -127,9 +127,9 @@ With that in mind, I also want to put money where my mouth is. I'm introducing s
 
 The first guest I'm having is [Brett Bivens](https://twitter.com/brettbivens "Brett") of Venture Desktop, and you'll see more of his work in the section below.
 
-Let's return to our lottery example. We've looked at it from the lottery ticket buyer point of view, let's look at the people running the lottery. Lotteries are great businesses that print money; [people are essentially paying you money for the privilege of giving you even more money.](https://smartasset.com/taxes/the-economics-of-the-lottery#:~:text=According%20to%20the%20Tax%20Foundation,keep%20the%20money%20that%20remains. "lottery econs") This isn't investment advice, and I'd own a lottery if I could.
+Let's return to our lottery example. We've looked at it from the lottery ticket buyer point of view, let's look at the people running the lottery. Lotteries are great businesses that print money; [people are essentially paying you money for the privilege of giving you even more money.](https://smartasset.com/taxes/the-economics-of-the-lottery#:~:text=According%20to%20the%20Tax%20Foundation,keep%20the%20money%20that%20remains. "lottery econs") They're great businesses to own, and it'd be terrible to bet against them.
 
-Not investing in others is equivalent to shorting the lottery \[8\]. It implies you're betting against the success of everyone else, and that's an easy way to set yourself up for failure.
+Not investing in others is equivalent to shorting the lottery \[8\]. It implies you're betting against the success of everyone else, and that's an easy way to be very wrong.
 
 **Don't short the lottery.**
 
