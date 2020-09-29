@@ -1,6 +1,6 @@
 ---
 title:  "It only goes up from here"  
-tags: []
+tags: [lottery, invest, advice, mentor, kind, stories, brett, venture, options, finance, ballet, profile, shaving]
 published: false
 ---
 
@@ -8,7 +8,7 @@ published: false
 ## Takeaways
 
 1. Investing early in others is not just kinder but also the smarter thing to do
-2. 
+2. Poor people play the lottery despite negative expected value, because there's more to life than expected values
 3. Feature post by Brett Bivens on how progress depends on storytelling and the evolution of who is empowered to be a storyteller.
 
 <style>
@@ -67,7 +67,7 @@ Here's what is a problem - We want to know famous people, **but only after they'
 
 [Chef with cancer? Nah, let's wait till he wins Michelin Stars before we see him](https://www.uchicagomedicine.org/forefront/cancer-articles/chef-triumphs-over-tongue-cancer-and-in-the-culinary-world "Alinea")
 
-We know that it's implausible, but we have some bizarre hope we'll just run into Neil Gaiman on the street and instantly become best buds after talking about how big a fan we are. We can't help but to dream. Our implausible dreams.
+We know that it's implausible, but we have some bizarre hope we'll just run into [Neil Gaiman](https://en.wikipedia.org/wiki/The_Sandman_(Vertigo) "Neil") on the street and instantly become best buds after talking about how big a fan we are. We can't help but to dream. Our implausible dreams.
 
 The alternative approach then, is to get to know famous people **before they've become famous.**
 
@@ -149,11 +149,23 @@ Points 1 and 3 are true by definition. Point 4 is usually true; we'll take it as
 
 So the parts where this argument breaks down are potentially points 2 and 5. 
 
+**The problem is defining "better,"** and it's not just a nitpicky semantics argument. Sure, they're worse off "economically," i.e. have less money. But we need to ask ourselves, **what did they buy for their money?**
 
+A dream. They bought a dream.
 
-When you're that far down, you can only hope for a long short to reverse your fortunes. 
+For $1 they bought a wisp of a dream in which they won and never had to worry about money again. [As Matt Levine writes:](https://medium.com/the-billfold/should-you-play-the-lottery-d81bce8e93d8 "Matt")
 
-In some ways, we're all playing a lottery.
+> To be pretentious, although not especially accurate: utility is discontinuous at not having to work for a living.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/optionality 4.jpg)
+
+Winning the lottery is such a life-changing event for most, that even the *dream* of winning a lottery is valuable. When you're that far down, you can only hope for a long shot to reverse your fortunes. And sometimes you might even care less about winning, and more about the *anticipation* of winning.
+
+Viewed purely on a monetary basis, playing the lottery makes no sense. Viewed from any basis which accounts for human behaviour, no wonder everyone wants to play the lottery. 
+
+If you think this is irrational, think of any long shot decisions you've made in life. Immigrating to a new country, betting on your favourite team, having children. We do many things that are net negative monetarily, but give us something else in return. We dare to dream.
+
+In some ways, we're all playing the lottery of life.
 
 ## 3. Brett Bivens feature: The Storytelling Thesis
 
@@ -224,7 +236,7 @@ I also met my wife a couple months after moving to India, so the period was pret
 ## Other
 
 1. [The trouble with optionality](https://www.thecrimson.com/article/2017/5/25/desai-commencement-ed/ "Crimson")
-2. [Why the World's Most Confident People Create Alter Egos](https://theprofile.substack.com/p/why-the-worlds-most-confident-people "Profile")
+2. [Why the World's most confident people create alter egos](https://theprofile.substack.com/p/why-the-worlds-most-confident-people "Profile")
 3. [Financial engineering playbook](https://www.gabellisecurities.com/Gab_pdf/articles/FinanEng_Marangi2017.pdf "Gab") from Gabelli Funds, h/t [Dave Ambrose](https://twitter.com/daveambrose/status/1285600957561286658?s=20 "Dave")
 4. [Ballet in covid; Bolero Julliard](https://www.youtube.com/watch?v=rqzkn-jX-JU "ballet") h/t [Studio at UVA](https://visitor.r20.constantcontact.com/manage/optin?v=001KXONq1HvM-Xu0-2Qj7p-csW5_Ac1NYvwgE6FHlsUPccsOP2YWpYXgb9ywJ2tAin0B7mMELuqxTcE4b5OeMGUVmR6yEMeViXoW1zIsXd0qHXFKfi-2XEfmsoT83TzEWWk_rpJybe5LR5dzL_BK_J0V4sR7iIJQQO6 " UVA")
 5. [Why shaving dulls even the sharpest of razors](https://news.mit.edu/2020/why-shaving-dulls-razors-0806 "razor")
