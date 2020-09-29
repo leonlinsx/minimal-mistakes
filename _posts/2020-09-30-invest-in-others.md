@@ -43,6 +43,28 @@ dont short the lottery
 
 ## 1. Invest early in others
 
+Suppose you had to get a meeting with Beyonce \[1\].
+
+How would you do it?
+
+One way would be to find the most connected or famous person you knew, and then asking them if they knew any mutual acquaintances. Keep repeating that process.
+
+Another would be to try and raise enough money to book her for a private performance.
+
+Yet another would be to try to get viral with some tweet or vidoe and hope she notices.
+
+These are all plausible options, mostly with a low chance of success.
+
+Now suppose you were Beyonce's first producer, or manager, or even songwriting collaborator \[2\]. How much easier do you think it would be to get that meeting?
+
+Here's a common habit all of us have - **We want to know famous people.** 
+
+We want to meet them, we want to be them, we want to tell others about how [our good friend Taylor was rudely upstaged by our other friend Kanye who was defending our best friend Beyonce](https://www.youtube.com/watch?v=ifq3QxALj4I "Jameela")
+
+That in itself isn't that big of a problem. Heros are a big part of any society, and it's natural to aim for them.
+
+Here's what is a problem - We want to know famous people, **but only after they've become famous.**
+
 
 
 ## 3. Brett Bivens feature: The Storytelling Thesis
@@ -118,6 +140,9 @@ I also met my wife a couple months after moving to India, so the period was pret
 5. [Why shaving dulls even the sharpest of razors](https://news.mit.edu/2020/why-shaving-dulls-razors-0806 "razor")
 
 ## Footnotes
+
+1. I just used the first result when I googled "most famous celebrity," so pick whoever you want here. 
+2. I say this not knowing the current state of relationships Beyonce has with any of these people, and it's more to just illustrate the point.
 
 1. The story of my life is people asking me for advice and then 
 
