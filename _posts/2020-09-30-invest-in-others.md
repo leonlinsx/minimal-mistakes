@@ -67,7 +67,7 @@ Here's what is a problem - We want to know famous people, **but only after they'
 
 [Chef with cancer? Nah, let's wait till he wins Michelin Stars before we see him](https://www.uchicagomedicine.org/forefront/cancer-articles/chef-triumphs-over-tongue-cancer-and-in-the-culinary-world "Alinea")
 
-We know that it's implausible, but we have some bizarre hope we'll just run into [Neil Gaiman](https://en.wikipedia.org/wiki/The_Sandman_(Vertigo) "Neil") on the street and instantly become best buds after talking about how big a fan we are. We can't help but to dream. Our implausible dreams.
+We know that it's implausible, but we have some bizarre hope we'll just run into [Neil Gaiman](https://en.wikipedia.org/wiki/The_Sandman_(Vertigo) "Neil") on the street and instantly become best buds after talking about how big a fan we are. We can't help but to dream. Dream and desire.
 
 The alternative approach then, is to get to know famous people **before they've become famous.**
 
