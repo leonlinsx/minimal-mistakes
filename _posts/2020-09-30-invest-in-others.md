@@ -57,7 +57,7 @@ Here's a common desire we all have - **We want to know famous people.**
 
 We want to meet them, we want to be them, we want to tell others about how [our good friend Taylor was rudely upstaged by our other friend Kanye who was defending our best friend Beyonce](https://www.youtube.com/watch?v=ifq3QxALj4I "Jameela")
 
-That in itself isn't that big of a problem. Heros are a big part of any society, and some admiration is understandable.
+That in itself isn't that big of a problem. Heroes are a big part of any society, and some admiration is understandable.
 
 Here's what is a problem - We want to know famous people, **but only after they've become famous.**
 
@@ -89,7 +89,7 @@ On the tech side, warms intros and coffee chats are the default way of building 
 
 And on the life side, everyone has this eccentric uncle that somehow seems to know everyone important in the empire \[3\]. 
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/optionality 1.jpg)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/optionality/optionality 1.jpg)
 
 What all these people realise is the simple truth that on average, **things go up over time.** Fortune, fame, favour - these compound over time for most. Even if you don't like helping people out of kindness, helping people selfishly because you believe they'll be successful also makes sense.
 
@@ -105,7 +105,7 @@ Here's a couple of examples putting this into practice:
 
 > At critical moments in time, you can raise the aspirations of other people significantly, especially when they are relatively young, simply by suggesting they do something better or more ambitious than what they might have in mind.  It costs you relatively little to do this, but the benefit to them, and to the broader world, may be enormous.
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/optionality 2.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/optionality/optionality 2.png)
 
 I've presented the case for investing in others, and let's look at tradeoffs:
 
@@ -113,7 +113,7 @@ I've presented the case for investing in others, and let's look at tradeoffs:
 - You might not be in a situation to help others, or the cost of helping is too high. Going back to the lottery example, if each ticket was the cost of the lottery prize, nobody would play it. In such cases, help to the extent you can.
 - You're worried that encouraging others on fruitless causes makes them suffer even more when they fail. This is a personal decision, and my framework here is something along these lines: Does it hurt others? If it only hurts themselves, would it be a permanent, irreparable mistake? If not, just let people experiment and figure things out from experience \[5\].
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/optionality 3.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/optionality/optionality 3.png)
 
 One last point. Some might take the above message to the extreme by aiming to meet everyone, signing up for [Lunch Club](https://lunchclub.ai/weekly "LC"), [Cuppa](https://www.getcuppa.io/love "Cuppa"), and whatever the latest anonymous networking app that's always 90% male is. We probably also know someone who claims to know everyone, but somehow is never able to offer to help.
 
@@ -157,7 +157,7 @@ For $1 they bought a wisp of a dream in which they won and never had to worry ab
 
 > To be pretentious, although not especially accurate: utility is discontinuous at not having to work for a living.
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/optionality 4.jpg)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/optionality/optionality 4.jpg)
 
 Winning the lottery is such a life-changing event for most, that even the *dream* of winning a lottery is valuable. When you're that far down, you can only hope for a long shot to reverse your fortunes. And sometimes you might even care less about winning, and more about the *anticipation* of winning.
 
@@ -170,6 +170,8 @@ In some ways, we're all playing the lottery of life.
 ## 3. Brett Bivens feature: The Storytelling Thesis
 
 As mentioned, below is the guest post from **[Brett Bivens](https://venturedesktop.substack.com/p/the-storytelling-thesis "Brett").** Brett writes at Venture Desktop, which explores the ideas, companies, and people that shape the innovation economy.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/optionality/optionality 5.png)
 
 Brett's piece today is about the importance of storytelling, making it a good companion piece to [my earlier article on stories](https://avoidboringpeople.substack.com/p/a-story-is-a-lie-and-a-story-is-true "story")
 
