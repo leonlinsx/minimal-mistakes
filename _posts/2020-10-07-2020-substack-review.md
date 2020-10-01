@@ -36,7 +36,7 @@ published: false
 
 Last year, I wrote [a review of Substack](https://www.leonlinsx.com/substack/ "substack") that still ranks on the front page of Google. Today I want to revisit that review with new thoughts on Substack and the newsletter industry.
 
-We'll go over:
+We'll cover:
 
 1. Overview of Substack features 
 2. What I've liked so far
@@ -45,6 +45,16 @@ We'll go over:
 5. Thoughts on the newsletter industry
 
 ## 1. Substack is a simple way to set up an email newsletter service
+
+[Email newsletters have been rising in popularity since 2019](https://avoidboringpeople.substack.com/p/theres-more-to-communities-than-facebook "Substack"), and part of the reasons are Substack's funding announcement, a pendulum shift back to subscription revenue, and high profile writers starting a newsletter \[1\].
+
+Substack was and still is one of the easiest ways to set up a professional newsletter. By that I mean something that's **moved on from directly emailing people,** which is how many people start out \[2\].
+
+Some good reasons to move to a professional service like Substack include:
+
+- Posting publicly allows discovery, sharing, and faster growth of your readership
+- Access to tools to monitor readership base, such as open rates, click rates, growth over time
+- More professional, better looking, and fancy formatted emails
 
 
 
@@ -102,6 +112,9 @@ API access
 *Credit to of the Type House writer's group for the the feature wishlist*
 
 ## Footnotes
+
+1. For example, Casey Newton of the Verge, Polina Marinova of Term Sheet, or Josh Constine of Techcrunch all started newsletters on substack
+2. Myself included, which is a story for another time. I started off with 8 people in my mailing list, not even bccing people, and less structure
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
