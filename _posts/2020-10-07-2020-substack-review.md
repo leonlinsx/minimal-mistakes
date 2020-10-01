@@ -62,13 +62,21 @@ You need an email account to create a substack account, and you need to create a
 
 After you've set up a profile pic, name, and bio, the next step is to choose your publication details. After that, you can import a mailing list csv, if you already have a readership base from elsewhere.
 
-You're now done with the basic account setup and can start posting. Substack automatically creates a first welcome post for you, so that the landing page for your newsletter doesn't look completely empty.
+You're now done with the basic account setup and can start posting. There's many more advanced options to toggle in "Settings," but that's beyond the scope of this article \[3\].
+
+Substack automatically creates a first welcome post for you, so that the landing page for your newsletter doesn't look completely empty.
 
 Posting is simple as well. You go to your dashboard, click on create a new post, and that directs you to the Substack editor. The editor is largely a ["What you see is what you get"](https://en.wikipedia.org/wiki/WYSIWYG "wiki") editor, with standard formatting options. I'll comment more in section 3.
 
 Once you're done writing, you can publish it out to your email list. There's some options you can choose, such as scheduling the post, changing the preview, or restricting it to paid subscribers. 
 
+We've gone over writing, so let's take a brief look at their metric dashboards as well.
 
+The subscriber dashboard shows you your growth over time, in terms of rev, paid subscribers, and free subscribers. If also shows you a list of every sign up and if they had any recent activity such as opening or clicking on your email.
+
+The stats dashboard shows you traffic. The main graph shows visitors to your substack website over time. There's also a table that roughly tracks the source of that traffic, which can be helpful if you realise there's an unusual source of traffic that might be worth looking into.
+
+That's a brief overview of the platform, now on to things I like and dislike.
 
 ## 2. 
 
@@ -128,6 +136,7 @@ API access
 
 1. For example, Casey Newton of the Verge, Polina Marinova of Term Sheet, or Josh Constine of Techcrunch all started newsletters on substack
 2. Myself included, which is a story for another time. I started off with 8 people in my mailing list, not even bccing people, and less structure
+3. There's a lot of stuff you should adjust in Settings, so it's worth going through that page carefully. For example, setting up analytics, ensuring all your welcome emails are the same, or adjusting email notifications
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
