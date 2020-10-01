@@ -34,16 +34,6 @@ We draw our beliefs from others but are ultimately responsible for them ourselve
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-## Paid reader survey discussion
-
-I did a survey on a small group of you paying subscribers; thank you to everyone who filled it out. The feedback was helpful in seeing what people have actually liked recently (the [Josh Wolfe](https://avoidboringpeople.substack.com/p/authentic-contrarians-vs-consensus "Josh") and the [Picasso](https://avoidboringpeople.substack.com/p/picassos-new-painting-perspectives "Picasso") profiles came up often) and also for knowing what people want more of (more finance, more tech, more random interesting things). 
-
-It's also flattering and frustrating to realise that people found the recent talk summaries boring, and would rather hear my opinion instead of CEOs. Given the amount of time involved in transcribing, summarising, and cleaning those up, vs the value that people are getting out of them, it makes sense to reduce the frequency of such posts in the future.
-
-Sometimes I don't add much to something because I don't have a strong opinion, or a high enough conviction level in the point I want to make. However, I understand the desire for more of my personal voice, and will adjust this moving forward too. This also implies that future posts will naturally be [things I'm less confident in, as I try to push the boundary of what I cover.](https://devonzuegel.com/post/epistemic-statuses-are-lazy-and-that-is-a-good-thing "status")
-
-If there's one thing I want to be known for, it's that I listen to feedback seriously. I might not make all the changes that people want, but I will adjust to the extent possible so that this newsletter continues getting better. Many features of the current version were due to suggestions by readers like you, such as the takeaways up top or separate sections in the monthly. Keep the feedback coming, it's much appreciated. 
-
 ## Belief curves
 
 **We aren't born with our beliefs.**
@@ -115,6 +105,16 @@ I want to believe.
 1. For those unaware, I have a personal site as well in case substack goes away. There's also other things I can post there like a list of websites I follow.
 2. The phrasing for polls like this [can be bad](https://slatestarcodex.com/2020/05/28/bush-did-north-dakota/ "poll"), but even if you haircut the numbers by 99% there is still > 1 person who seriously believes in a lizard king.
 3. Well, if you somehow are able to build the next large particle accelerator in your backyard, I'd be happy to admit I'm wrong. You can even put my name down as the person who you had a bone to pick with and wanted to prove wrong.
+
+## Paid reader survey discussion
+
+I did a survey on a small group of you paying subscribers; thank you to everyone who filled it out. The feedback was helpful in seeing what people have actually liked recently (the [Josh Wolfe](https://avoidboringpeople.substack.com/p/authentic-contrarians-vs-consensus "Josh") and the [Picasso](https://avoidboringpeople.substack.com/p/picassos-new-painting-perspectives "Picasso") profiles came up often) and also for knowing what people want more of (more finance, more tech, more random interesting things). 
+
+It's also flattering and frustrating to realise that people found the recent talk summaries boring, and would rather hear my opinion instead of CEOs. Given the amount of time involved in transcribing, summarising, and cleaning those up, vs the value that people are getting out of them, it makes sense to reduce the frequency of such posts in the future.
+
+Sometimes I don't add much to something because I don't have a strong opinion, or a high enough conviction level in the point I want to make. However, I understand the desire for more of my personal voice, and will adjust this moving forward too. This also implies that future posts will naturally be [things I'm less confident in, as I try to push the boundary of what I cover.](https://devonzuegel.com/post/epistemic-statuses-are-lazy-and-that-is-a-good-thing "status")
+
+If there's one thing I want to be known for, it's that I listen to feedback seriously. I might not make all the changes that people want, but I will adjust to the extent possible so that this newsletter continues getting better. Many features of the current version were due to suggestions by readers like you, such as the takeaways up top or separate sections in the monthly. Keep the feedback coming, it's much appreciated. 
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
