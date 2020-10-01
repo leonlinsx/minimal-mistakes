@@ -44,7 +44,7 @@ We'll cover:
 4. Crowdsourced feature wishlist
 5. Thoughts on the newsletter industry
 
-## 1. Substack is a simple way to set up an email newsletter service
+## 1. Substack is still a simple way to start, and that counts for a lot
 
 [Email newsletters have been rising in popularity since 2019](https://avoidboringpeople.substack.com/p/theres-more-to-communities-than-facebook "Substack"), and part of the reasons are Substack's funding announcement, a pendulum shift back to subscription revenue, and high profile writers starting a newsletter \[1\].
 
