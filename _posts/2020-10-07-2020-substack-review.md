@@ -56,11 +56,24 @@ Some good reasons to move to a professional service like Substack include:
 - Access to tools to monitor readership base, such as open rates, click rates, growth over time
 - More professional, better looking, and fancy formatted emails
 
+Substack's changed the sign up flow since I joined, so here's a brief walkthrough of the flow and writing process:
+
+You need an email account to create a substack account, and you need to create a substack account in order to explore the features i.e. there's no guest preview mode.
+
+After you've set up a profile pic, name, and bio, the next step is to choose your publication details. After that, you can import a mailing list csv, if you already have a readership base from elsewhere.
+
+You're now done with the basic account setup and can start posting. Substack automatically creates a first welcome post for you, so that the landing page for your newsletter doesn't look completely empty.
+
+Posting is simple as well. You go to your dashboard, click on create a new post, and that directs you to the Substack editor. The editor is largely a ["What you see is what you get"](https://en.wikipedia.org/wiki/WYSIWYG "wiki") editor, with standard formatting options. I'll comment more in section 3.
+
+Once you're done writing, you can publish it out to your email list. There's some options you can choose, such as scheduling the post, changing the preview, or restricting it to paid subscribers. 
+
 
 
 ## 2. 
 
 compare to ghost
+
 
 ## 3. 
 
