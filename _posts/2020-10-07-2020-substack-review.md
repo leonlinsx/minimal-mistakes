@@ -46,7 +46,11 @@ We'll go over:
 
 ## 1. Substack is a simple way to set up an email newsletter service
 
+
+
 ## 2. 
+
+compare to ghost
 
 ## 3. 
 
