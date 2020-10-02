@@ -1,10 +1,10 @@
 ---
-title:  "Substack review"
-tags: [newsletter, tech, substack, product]
+title:  "Review of Substack in 2019"
+tags: [newsletter, tech, substack, product, company]
 published: true
 ---
 
-*Disclaimer: I was introduced to Substack by an employee there. Also, I signed up in April 2019, so some commentary is dated.*
+*Disclaimer: I was introduced to Substack by an employee there. Also, I've refreshed this review for 2020 [here](https://www.leonlinsx.com/2020-substack-review/ "substack")*
 
 I've [previously described](https://www.leonlinsx.com/why-i-write/ "why write") my reasons for starting a public blog. In addition to this website, I also recently signed up for Substack to publish my [monthly newsletters](https://avoidboringpeople.substack.com/ "substack"). Before Substack, I'd been directly emailing my distribution list.
 
@@ -41,7 +41,7 @@ In this post I go over:
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-### I moved to Substack for the following benefits
+## I moved to Substack for the following benefits
 
 1. Easier way of managing the email list rather than copying and pasting emails every time, removing the chances of forgetting to include or remove subscribers.
 
@@ -81,7 +81,7 @@ In this post I go over:
     
     ![Paid]({{ site.url }}{{ site.baseurl }}/assets/images/substack/substack-paid-subscription.PNG)
 
-### Other things that I like include
+## Other things that I like include
 
 1. Customer support so that you don't have to deal with admin problems yourself.
 
@@ -113,7 +113,7 @@ In this post I go over:
 
     > If you think that organizations, companies, or other institutions might want to buy multiple subscriptions for their members, you can sell group subscriptions.
     
-### I also thought the following could be improved
+## I also thought the following could be improved
 
 1. There didn't seem to be an easy way to upload your entire mailing list as free subscribers, with the form only allowing for emails to uploaded one at a time. I had to manually toggle the subscription settings for all my reader base after uploading their emails \[4\]. This was doubly annoying because I couldn't toggle settings for multiple readers at the same time, and had to change each individually. A feature that allowed me to edit multiple subscribers at the same time would have been nice.
 
@@ -139,7 +139,7 @@ In this post I go over:
     
 6. A simple mouseover text of what they define as 'open' and 'clicks' would also be helpful. I'm assuming it's close enough to what we'd think of if we used common sense, but it would be nice to get clarity here.
 
-### And I have the following additional suggestions
+## And I have the following additional suggestions
 
 1. As mentioned above, having the leaderboards is nice, but doesn't allow for discovery of new content. Perhaps they could add a column for 'trending' content that was growing subscribers rapidly? Or a column with a regular rotation of lesser known publishers curated by the Substack team? Yes I'm obviously biased here as a smaller publisher.
 
@@ -161,7 +161,7 @@ Substack offers a free newsletter service that's relatively easy to set up, look
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-### Footnotes 
+## Footnotes 
 
 1. That said, my only unsubscribe so far has come from a friend telling me he wanted to unsubscribe before doing so, so I'm not sure if this is working as intended...
 2. This is one of those quotes that will age badly regardless of whether I succeed or fail
