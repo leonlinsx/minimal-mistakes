@@ -156,7 +156,7 @@ Substack still needs to figure out what they want to be. They're great for begin
 
 The good news is that Substack is still so young and they have time to figure this out. Writing is not going to go away, and Substack has a role to play in reducing friction for people who want to write. 
 
-*Credit to the Type House writer's group for the the feature wishlist*
+*Credit to [Lenny Rachitsky](https://www.lennyrachitsky.com/ "Lenny"), [Li Jin](http://Li.substack.com "Li"), [Josh Constine](http://Constine.substack.com "Josh") and all the other members of the Type House writer's group for the the feature wishlist*
 
 ## Footnotes
 
