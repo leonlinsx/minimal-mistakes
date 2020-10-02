@@ -28,10 +28,6 @@ published: false
       }
 </style> 
 
-<div class="iframe-container-4x3">
-  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
-</div>
-
 ## Update to 2019 review of Substack, the email newsletter service
 
 Last year, I wrote [a review of Substack](https://www.leonlinsx.com/substack/ "substack") that still ranks on the front page of Google. Today I want to revisit that review with new thoughts on Substack and the newsletter industry.
@@ -43,6 +39,10 @@ We'll cover:
 3. What I haven't liked
 4. Crowdsourced feature wishlist
 5. Thoughts on the newsletter industry
+
+<div class="iframe-container-4x3">
+  <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
+</div>
 
 ## 1. Substack is still a simple way to start, and that counts for a lot
 
@@ -60,9 +60,15 @@ Substack's changed the sign up flow since I joined, so here's a brief walkthroug
 
 You need an email account to create a substack account, and you need to create a substack account in order to explore the features i.e. there's no guest preview mode.
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/substack_2020/substack 1.png)
+
 After you've set up a profile pic, name, and bio, the next step is to choose your publication details. After that, you can import a mailing list csv, if you already have a readership base from elsewhere.
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/substack_2020/substack 2.png)
+
 You're now done with the basic account setup and can start posting. There's many more advanced options to toggle in "Settings," but that's beyond the scope of this article \[3\].
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/substack_2020/substack 3.png)
 
 Substack automatically creates a first welcome post for you, so that the landing page for your newsletter doesn't look completely empty.
 
@@ -70,15 +76,23 @@ Posting is simple as well. You go to your dashboard, click on create a new post,
 
 Once you're done writing, you can publish it out to your email list. There's some options you can choose, such as scheduling the post, changing the preview, or restricting it to paid subscribers. 
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/substack_2020/substack 4.png)
+
 We've gone over writing, so let's take a brief look at their metric dashboards as well.
 
 The subscriber dashboard shows you your growth over time, in terms of rev, paid subscribers, and free subscribers. If also shows you a list of every sign up and if they had any recent activity such as opening or clicking on your email.
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/substack_2020/substack 5.png)
+
 The stats dashboard shows you traffic. The main graph shows visitors to your substack website over time. There's also a table that roughly tracks the source of that traffic, which can be helpful if you realise there's an unusual source of traffic that might be worth looking into.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/substack_2020/substack 6.png)
 
 That's a brief overview of the platform, now on to things I like and dislike.
 
 ## 2. 
+
+
 
 compare to ghost
 
