@@ -92,7 +92,9 @@ That's a brief overview of the platform, now on to things I like and dislike.
 
 ## 2. 
 
+**Substack's big strength is the simplicity of setup and sending your first email.** I've seen people 
 
+**Substack is free unless you start charging.**
 
 compare to ghost
 
