@@ -1,10 +1,12 @@
 ---
 title:  "Review of Substack in 2020"  
-tags: [substack, tech, newsletter, review]
-published: false
+tags: [substack, tech, newsletter, review, company]
+published: true
 ---
 
 ## Takeaway
+
+Substack's strength and weakness lies in its simplicity. I go over a crowdsourced feature wishlist from the Type House writers telegram group, and end with thoughts on how the newsletter industry still has room to grow.
 
 <style>
       .iframe-container {
@@ -112,46 +114,49 @@ Anecdotally, I experienced a bug with the editor the night before I wanted to se
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/substack_2020/substack 8.png)
 
-## 4. 
+I do have other dislikes, but a lot of them will be implied from the wishlist, so let's get to that.
 
+## 4. Top features requested include custom domains, better pricing, and more help with audience growth
 
+I'm part of a business writers telegram group called Type House, and the group's overall wishlist is below:
 
-Roughly prioritized wishlist:
-Custom domains
-Pricing
-Improved pricing for large accounts. Perhaps switch over from variable fee to fixed fee once at a certain size of paid subs. Current take rate feels too high vs alternatives
-Easier facilitation of group/corporate subscription
-Help grow our audience
-Better SEO in general. Unclear why one of us is on the 5th page of Google results when he wrote the first article on the topic and got linked to by the NYT
-A referrals program
-More help for new writers that are still building audience vs established writers
-More marketing of unknown writers
-Increased features for editor
-Shareable links to subsections rather than entire article -- sub-heading URLs so you can share different segments of a newsletter with a different image, headline, body preview on Twitter etc
-Font customizability - font face, size, color, etc.
-Changing width of text on page
-Captions for images!
-Proper footnoting with either links or popup dialogue boxes
-Ability to customize the URL and ideally to know it ahead of time
-Embeds for more media (especially TikToks) the way Tweets currently work
-Ability to leave multiple whitespace empty lines for emphasis 
-Better audience management 
-Biggest fans feature to show who drove the most opens over a month/all time so you can thank and reward them --  I want to see who my top readers are, how many open every email, and be able to email them
-Ability to target inactive subscribers specifically for reminder emails or to unsubscribe them
-Churn and cohort analysis
-Reliability
-Site uptime
-Work with Gmail so articles don’t end up in promo, updates, or spam folder
-Have been seeing emails drop and not be sent
-Health insurance
-API access
+**Custom domains.** Writers want to build *their* brand, not Substack's. 
 
+**Better pricing.** Remember earlier when I said the free pricing was a strength? It's great to get people to start, and the problem now is that Substack needs to make up the revenue somewhere else. In this case, the 10% take rate they charge. This doesn't sound high, but actually is once you start doing the math vs competitors. Add on the Stripe fees \[7\] and you might be paying 20%+ on what you charge your readers.
 
-## 5.
+Some suggestions from the group on this included switching from variable fees to fixed fees once the writer had reached a certain size, and easier facilitation of group subscriptions.
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
+**Help in growing audience.** Most writers want to continue growing their readership. Substack is starting to help here, with scholarship programs, writer features, and twitter connections. However, the fact that so many newsletter directories have popped up \[8\] means that discovery is still an unsolved problem. 
 
-*Credit to of the Type House writer's group for the the feature wishlist*
+Some suggestions included better SEO in general, referrals program, and more marketing of unknown writers.
+
+**More features for the editor.** This goes back to the point of who the ideal Substack writer is. They'd have a large audience and also need more features.
+
+Suggestions included shareable links to subsections rather than the entire article \[9\], font customisation, page text width, image captions, better footnoting functions with bidirectional link or popup boxes, URL customisation, more media embeds (particularly Tik Tok), and whitespace.
+
+**Better audience management.** The subscribers and stats dashboards I showed above are lacking compared to competitors. I'd want to segment my readership different ways, to identify most loyal readers and also who might be at risk of churning. There's not enough info on Substack now for that.
+
+Suggestions included a "biggest fans" feature to show who drove the most opens over a time period, identifying inactive subscribers for reminder emails, plus churn and cohort analysis. 
+
+**Some other suggestions included better site reliability and uptime, working with Gmail so that posts end up in Primary, health insurance, and API access.**
+
+That's all we had, and I'll end with a recap and quick thoughts on newsletters.
+
+## 5. Newsletter industry is still early, and publishing consistently is going to be the biggest hurdle
+
+I've [written](https://www.leonlinsx.com/newsletter-annual-review/ "lls") [multiple](https://www.leonlinsx.com/aphantasia/ "lls") [posts](https://avoidboringpeople.substack.com/p/theres-more-to-communities-than-facebook "news") about newsletters in the past few years, and my general views haven't changed significantly:
+
+- Having a direct relationship with your audience is awesome
+- Decreased cost, increased control, increased convenience has led to the rise of newsletters
+- We're still early in this trend, and there's a large market for newsletters in niches
+- Writing is difficult. Writing consistently and publishing regularly is going to be tremendously tough for most. People severely underestimate the difficulty of writing regularly. Many newsletters are going to turn into occassional issues without a schedule, at which point they're essentially a blog
+- Valuation multiples for newsletters aren't great, especially with key man risk
+
+Substack still needs to figure out what they want to be. They're great for beginners to get started, but only make money from scaled writers. There's little help provided to get the beginners to that stage, and if they do the fees are high. 
+
+The good news is that Substack is still so young and they have time to figure this out. Writing is not going to go away, and Substack has a role to play in reducing friction for people who want to write. 
+
+*Credit to the Type House writer's group for the the feature wishlist*
 
 ## Footnotes
 
@@ -161,6 +166,9 @@ API access
 4. For simplicity I'm going to ignore the custom deals that Substack arranges with top writers to poach them. 
 5. I'll acknowledge that popups before reading are annoying. They work though so...
 6. There used to be a support@substack.com listed somewhere but it's now become difficult to find
+7. Stripe charges both a percentage and a fixed amount, so it's especially painful if you're only charging people a small amount monthly.
+8. Such as pigeonnewsletters, findnewsletters, newsletterstack to name a few. There's at least 20 last I checked.
+9. "sub-heading URLs so you can share different segments of a newsletter with a different image, headline, body preview on Twitter etc"
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
