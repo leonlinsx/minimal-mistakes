@@ -90,26 +90,31 @@ The stats dashboard shows you traffic. The main graph shows visitors to your sub
 
 That's a brief overview of the platform, now on to things I like and dislike.
 
-## 2. 
+## 2. Substack's strength in simplicity
 
-**Substack's big strength is the simplicity of setup and sending your first email.** I've seen people 
+**Substack's big strength is the simplicity of setup and sending your first email.** I've seen people suggest [Ghost](https://ghost.org/pricing/ "Ghost") as a more feature-filled alternative. While that's true, these people are missing the point. Substack is awesome because I can just follow the steps above and start sending emails. I can't do that on Ghost, which takes much more work to set up. I've seen people ask for consulting or implementation help in moving to Ghost, but people don't need to ask for help in moving to Substack, because the interface of the latter is straightforward \[4\]. While it's true that migrating to Ghost eventually could make sense, for many people there's less need to start on it.
 
-**Substack is free unless you start charging.**
+**Substack is free unless you start charging readers.** This is a different strategy vs Ghost, Revue, or Mailchimp. Revue and Mailchimp have free tiers, but start charging past a certain number of subscribers. Ghost only has a free trial. [Actual cost of sending email is cheap](https://www.emailvendorselection.com/cost-per-mille-cpm/ "CPM"), so Substack is using its paid writer base to subsidise its free writer base, whereas the other providers are effectively doing the opposite. This is another way Substack is beginner friendly. 
 
-compare to ghost
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/substack_2020/substack 7.png)
 
+**Substack gives you a simple website with comment functionality and archives.** Not needing to set this up separately also lowers the barrier to starting. Again, a lot of this can be recreated with some of the competition. It's just easier on Substack.
 
-## 3. 
+**Some other smaller things I've liked include the ability to import/export subscriber lists, create different paid subscription offers, and the popup asking people to subscribe before reading \[5\].**
+
+## 3. Substack's weakness is also in simplicity
+
+**Writers that will make Substack money are going to want more.** I touch on a crowdsourced wishlist in the next section. Substack is beginner friendly, but they can only make money from writers who put up a paywall. Such writers are usually not beginners anymore, and want a lot more features for their needs. Substack will increasingly have to cater to these writers, making decisions that don't help beginners.
+
+**Support is swamped.** Understandably given the small team, getting support from Substack on any issue is difficult. Case in point - they created a knowledge base to reduce the amount of inbound support requests, as well as a status page for people to see if Substack's down. Notice that there's no contact email anywhere \[6\]. 
+
+Anecdotally, I experienced a bug with the editor the night before I wanted to send a post. The knowledge base and status page weren't helpful since this was clearly something that broke accidentally. I tried reaching out over twitter and an old welcome email but didn't hear back in time, and only managed to get in touch because I knew someone that knew someone. My post was delayed as a result.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/substack_2020/substack 8.png)
 
 ## 4. 
 
-What’s working great:
-The combo of email + automatic blog
-Ease of setting up for a new writer
-Ability to schedule posts
-Ability to import/export subscriber list
-Ability to create discounted offers, and comps
-The subscribe flow
+
 
 Roughly prioritized wishlist:
 Custom domains
@@ -153,6 +158,9 @@ API access
 1. For example, Casey Newton of the Verge, Polina Marinova of Term Sheet, or Josh Constine of Techcrunch all started newsletters on substack
 2. Myself included, which is a story for another time. I started off with 8 people in my mailing list, not even bccing people, and less structure
 3. There's a lot of stuff you should adjust in Settings, so it's worth going through that page carefully. For example, setting up analytics, ensuring all your welcome emails are the same, or adjusting email notifications
+4. For simplicity I'm going to ignore the custom deals that Substack arranges with top writers to poach them. 
+5. I'll acknowledge that popups before reading are annoying. They work though so...
+6. There used to be a support@substack.com listed somewhere but it's now become difficult to find
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
