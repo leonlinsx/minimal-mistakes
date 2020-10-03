@@ -6,6 +6,8 @@ published: false
 
 ## Takeaway
 
+It is difficult, if not impossible, to determine an event's significance ahead of time, due to the amount of noise vs signal. 
+
 <style>
       .iframe-container {
         overflow: hidden;        
