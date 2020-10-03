@@ -1,6 +1,6 @@
 ---
 title:  ""  
-tags: []
+tags: [history, machine learning, prediction, random, complex]
 published: false
 ---
 
@@ -77,12 +77,31 @@ In the graph below, the x-axis is the ratio of non-important events to important
 
 This implies that it is difficult on average to know if an event is significant while it is happening; there's too much noise vs signal. There's no evidence for statement 1 above.
 
-On to statement 2, whether a well-trained machine learning model can do a better job. The team was able to use more metadata associated with the dataset, such as date, length, subject title etc.
+On to statement 2, whether a well-trained machine learning model can do a better job. The team was able to use more metadata associated with the dataset, such as date, length, subject title etc, in training the model. Additionally, they could train the model iteratively, as is standard in any machine learning process \[3\].
+
+They found that this model does better than the humans mentioned earlier. As seen in the graph below, the blue line (model) has a higher score at every point compared to the red line (humans). That's promising.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/historical 2.png)
+
+However, the score is still terrible (low) once you get closer to a real world distribution, where you have many unimportant events vs important events. That's a problem.
+
+The researchers conclude:
+
+> Therefore, on balance, our results suggest that Danto was substantively correct. As the number of events being evaluated grows, successful predictions will be increasingly outnumbered by events that seem insignificant at the time, but which come to be viewed as important by future historians in part because of events that have not yet taken place. 
+
+It's hard to identify significance ahead of time. The researchers believe that this can be explained due to: 
+
+> More generally, our results provide further evidence for the observation that the combination of nonlinearity, stochasticity and competition for scarce attention that is inherent to human systems poses serious difficulties for ex ante prediction
+
+Essentially saying the world is a complex system, and things can only be evaluated on hindsight.
+
+If you want to follow this line of thinking, some additional reading of interest would be Nassim Taleb's Fooled by Randomness (I've written notes on it [here](https://www.leonlinsx.com/fooled-by-randomness-notes/ "lls")), or content on [complex systems](https://en.wikipedia.org/wiki/Complex_system "complex"), such as the work [Santa Fe Institute](https://www.santafe.edu/ "SF") is doing. 
 
 ## Footnotes
 
 1. By Joseph Risi, Amit Sharma, Rohan Shah, Matthew Connelly, Duncan Watts. h/t [Josh Wolfe](https://twitter.com/wolfejosh?s=20 "Josh")
 2. Specifically, they used a now declassified collection of 1,952,029 state department cables from [1973-1979](http://history-lab.org/cables "cable"), treating each cable as a single event. Cables were the main form of communicating important information then, and while the dataset only captures a small bit of all international events, the team thought it should capture any important US events. The majority of cables were also unimportant matters, giving more data to work with for the hypothesis.
+3. They used [gradient boost](https://www.youtube.com/watch?v=3CC4N4z3GJc "grad"), included "many thousands of features, including additional metadata as well as the cable’s content (that is, the message text)", and also an unsupervised topic model in order to characterise the cable topics. Machine learning is iterative, in that the entire aim is to retrain so that you can get better weights for the model to use in the next run.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
