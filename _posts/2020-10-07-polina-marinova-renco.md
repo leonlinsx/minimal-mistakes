@@ -34,7 +34,15 @@ published: false
 
 ## Main
 
+**Good writing requires good editing** 
 
+In her first profile piece for Fortune, Polina had three out of five pages completely deleted by her editor Pattie, but it resulted in a better piece.
+
+**Don't write in absolutes**
+
+Another editor she worked with gave her the advice "I can tell your thinking is sloppy therefore your writing is also sloppy." If you see the world in black and white, you'll miss the nuance of actual life. The best stories she's read are full of nuance and specific detail  
+
+https://www.sellerseaston.com/team/pattiesellers
 
 ## Thoughts from the RenCo community
 
