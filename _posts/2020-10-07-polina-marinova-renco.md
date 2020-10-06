@@ -1,6 +1,6 @@
 ---
-title:  ""  
-tags: []
+title:  "Profile of The Profile"  
+tags: [writing, polina marinova]
 published: false
 ---
 
@@ -36,7 +36,9 @@ published: false
 
 **Good writing requires good editing** 
 
-In her first profile piece for Fortune, Polina had three out of five pages completely deleted by her editor [Pattie,](https://www.sellerseaston.com/team/pattiesellers "Pattie") but it resulted in a better piece. 
+In her first profile piece for Fortune, Polina had three out of five pages completely deleted by her editor [Pattie,](https://www.sellerseaston.com/team/pattiesellers "Pattie") \[1\] but it resulted in a better piece. 
+
+> I think iteration, editing, cutting, all that is a very beautiful part of the creative process
 
 **Don't write in absolutes**
 
@@ -46,11 +48,21 @@ That's powerful because you're able to back everything up. For example, when you
 
 If you are able to be precise in your thinking and the words you use, you're going to stand out from everyone else. 
 
+**When to stop adding detail**
+
+Sometimes we also add too much detail. Polina likes to send draft pieces to friends that don't know what she's writing about to see if she added too much detail. That said, she prefers gathering more detail upfront rather than less, since you can always delete after. 
+
 **Handling feedback**
 
 Getting feedback can be tough. Polina reminds herself that her editors have her best interests at heart, and wouldn't be hard on her if they didn't think she could handle it. You're often in the weeds and can miss obvious points. It does get better over time.
 
+**Writing misconceptions**
 
+There's a misconception that writing is sitting around waiting to be inspired. Polina says:
+
+> I've never been inspired. Never once in my life have I sat down and been like oh yeah I'm inspired to write, my muse is here. I think it's just typing and it's ugly and it's horrible and I can barely look at it on a page but then going back and massaging it 
+
+In her view, the most important thing is just to start writing. I agree, and the advice here is simple but not easy. People don't like hearing that the way to get better at writing is to write more; they want shortcuts to get good.
 
 ## Thoughts from the RenCo community
 
@@ -58,7 +70,9 @@ Getting feedback can be tough. Polina reminds herself that her editors have her 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
+## Footnotes
 
+1. Pattie Sellers is an award-winning writer, producer, and multimedia journalist who wrote for Fortune for 32 years. 
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
