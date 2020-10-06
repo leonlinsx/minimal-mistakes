@@ -62,7 +62,12 @@ There's a misconception that writing is sitting around waiting to be inspired. P
 
 > I've never been inspired. Never once in my life have I sat down and been like oh yeah I'm inspired to write, my muse is here. I think it's just typing and it's ugly and it's horrible and I can barely look at it on a page but then going back and massaging it 
 
-In her view, the most important thing is just to start writing. I agree, and the advice here is simple but not easy. People don't like hearing that the way to get better at writing is to write more; they want shortcuts to get good.
+In her view, the most important thing is just to start writing. I agree, and the advice here is simple but not easy. People don't like hearing that the way to get better at writing is to write more; they want shortcuts to get good. 
+
+**Other**
+
+- Polina keeps a list of ideas, which she adds to whenever she comes across something interesting \[2\]
+- Sometimes she'll grab a random book off her shelf to see if there's anything that sparks her mind
 
 ## Thoughts from the RenCo community
 
@@ -73,6 +78,7 @@ In her view, the most important thing is just to start writing. I agree, and the
 ## Footnotes
 
 1. Pattie Sellers is an award-winning writer, producer, and multimedia journalist who wrote for Fortune for 32 years. 
+2. I do the same, and have heard similar ideas from others e.g. a "swipe list" where you put down quotes or sentences you really like, to reference for the future.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
