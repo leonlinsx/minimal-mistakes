@@ -34,6 +34,12 @@ published: false
 
 ## Main
 
+
+
+## Thoughts from the RenCo community
+
+
+
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
 
