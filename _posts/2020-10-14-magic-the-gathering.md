@@ -38,7 +38,7 @@ Byrne Hobart of The Diff recently wrote a post about [games vs metagames](https:
 
 > The game is limited, and the metagame is not, but if you’re not great at the core game, knowledge about the meta is basically useless.
 
-If you're unfamiliar with the concept of metagaming, there's a timely example now happening in the [Magic: The Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering "MTG") collectible card game community that will illustrate the concept. Let's take a look at cards, Commander, and carboard crack.
+If you're unfamiliar with the concept of metagaming, there's a timely example now happening in the [Magic: The Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering "MTG") collectible card game community that will illustrate the concept. Let's take a look at cards, [Commander,](https://magic.wizards.com/en/content/commander-format "Commander") and [carboard crack.](https://cardboard-crack.com/ "crack")
 
 ## Intro to Magic
 
