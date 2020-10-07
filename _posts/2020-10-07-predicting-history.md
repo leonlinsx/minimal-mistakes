@@ -6,7 +6,7 @@ published: false
 
 ## Takeaway
 
-It is difficult, if not impossible, to determine an event's significance ahead of time, due to the amount of noise vs signal. 
+It is difficult, if not impossible, to determine an event's significance while you're living through it, due to the amount of noise vs signal. 
 
 <style>
       .iframe-container {
@@ -45,6 +45,8 @@ The paper ["Predicting history"](https://www.gwern.net/docs/history/2019-risi.pd
 - many events that will one day be viewed as historic attract little attention at the time
 - machine learning models show increasing, rather than decreasing error rates the more data they're given to predict
 - there are limits to predictability in complex social systems, and historical significance is difficult to predict
+
+This is interesting because we see bold predictions by people all the time, telling us how to think about news. The paper implies that most of that can be ignored.
 
 The paper's a short six pages, but rather dense, so I'm going to just pull out the highlights and give more context to their conclusions.
 
