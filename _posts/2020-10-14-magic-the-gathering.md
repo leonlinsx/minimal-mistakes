@@ -64,11 +64,15 @@ Similar to how the sport of "running" has different "events" such as the 100m, 2
 
 For example, you might play with the most recent 8 sets and a deck of 60 cards in one format, and any possible cards in a deck of 100 in another. Because this affects how well-matched the games are, people will play decks of the same format against each other. It's considered poor form to play a different format's deck without letting your opponent know, and of course official tournaments state the format expected.
 
-The casual scene over time has also developed "fan favourite" formats, the most popular being "Commander." Again, the details don't matter, just think of it as a set of "meta" rules that people choose to follow when making their decks and playing them against each other \[7\]. Just like your dad might have set up house rules  in Monopoly saying the oldest player gets to use the bank's money, the player community as a whole decided on some common rules to follow for a format. 
+The casual scene over time has also developed "fan favourite" formats, the most popular being "Commander." Again, the details don't matter, just think of it as a set of "meta" rules that people choose to follow when making their decks and playing them against each other \[7\]. Just like your dad might have set up house rules in Monopoly saying the oldest player gets to use the bank's money, the player community as a whole decided on some common rules to follow for a format. 
+
+This is where the current controversy begins.
+
+## 2. 
 
 
 
-It's like monopoly, and growing up to realise that your dad was lying when he said the oldest player got to use the bank's money. 
+https://www.dicebreaker.com/categories/trading-card-game/how-to/magic-the-gathering-popular-formats
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
@@ -80,7 +84,7 @@ It's like monopoly, and growing up to realise that your dad was lying when he sa
 4. Wizards also sells many pre-made decks, but I've left that out in the main text for simplicity. Also, I could be mistaken, and I don't think buying decks just to get one card has been a thing ever since the Jitte / Rats deck disaster. I haven't followed Magic for ages though.
 5. An actual example in this case. Uro has since [been banned](https://gamerant.com/magic-the-gathering-uro-ban/ "ban") for being too powerful. Banned from what exactly? It makes sense to ban a card from competitions, but how can you stop someone playing them in casual formats? That's a question that's related to the controversy, so read on.
 6. Alpha and Beta are actual sets in Magic, but it's a fake example this time. I think that any cards in Alpha were also printed in Beta, and [some new cards were actually added in Beta](https://mtg.gamepedia.com/Beta "beta")
-7. Some of the changes include potentially playing against more than one player, having more cards in your deck, having cards restricted to a certain type, and having a special card - your "Commander"
+7. Some of the changes include potentially playing against more than one player, having more cards in your deck, having cards restricted to a certain type, and having a special card - your "Commander". Commander was also known as Elder Dragon Highlander, due to its origins of people playing with certain dragon cards as their commanders.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
