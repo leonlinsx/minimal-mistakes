@@ -1,5 +1,5 @@
 ---
-title:  "MTG: Magic The Gathering; MeTaGaming"  
+title:  "MTG: Magic The Gathering and MeTaGaming"  
 tags: [magic, metagaming]
 published: false
 ---
@@ -32,21 +32,25 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-## Main
+## Cards, Commander, Cardboard crack
 
-How much can a piece of cardboard be worth?
+How much can cardboard cost?
 
-Way back in another life I used to play a lot of Magic.
+If it's the card [Black Lotus](https://mtg.gamepedia.com/Black_Lotus "black") from trading card game [Magic: The Gathering,]((https://en.wikipedia.org/wiki/Magic:_The_Gathering "MTG") you might be able to buy one for $27,000. 
 
-Byrne Hobart of The Diff recently wrote a post about [games vs metagames](https://diff.substack.com/p/the-gamerarbitrageur-to-generalist?r=1b9e6&utm_campaign=post&utm_medium=web&utm_source=copy "Diff"):
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 4.png)
 
-> The game is limited, and the metagame is not, but if you’re not great at the core game, knowledge about the meta is basically useless.
+And that might even be a steal, considering a copy sold for [$166,000 at auction](https://www.ebay.com/itm/1993-Magic-The-Gathering-MTG-Alpha-Black-Lotus-R-A-BGS-9-5-GEM-MINT-PWCC-/143136537077?_trksid=p2047675.m43663.l10137&nordt=true&rt=nc&orig_cvip=true "ebay") \[1\]. That's $166k for a piece of cardboard the size of a trading card.
 
-If you're unfamiliar with the concept of metagaming, there's a timely controversy now happening in the [Magic: The Gathering](https://en.wikipedia.org/wiki/Magic:_The_Gathering "MTG") collectible card game community that will illustrate the concept. Let's take a look at cards, [Commander,](https://magic.wizards.com/en/content/commander-format "Commander") and [cardboard crack.](https://cardboard-crack.com/ "crack"):
+Way back in another life I used to play a lot of Magic. It's a collectible card game, sometimes unironically referred to as "Cardboard Crack" due to its addictive nature \[2\]. I haven't followed the scene for a decade, but a recent controversy caught my curiousity. 
 
-1. Intro to Magic
-2. 
-3. 
+Coupled with Byrne Hobart's recent post about the importance of [games vs metagames](https://diff.substack.com/p/the-gamerarbitrageur-to-generalist? "Diff") \[3\], seems I'm fated to do an article on it. Today we'll go over:
+
+1. Introduction to Magic to help understand the controversy
+2. What metagaming is and its relevance in Magic
+3. The current controversy in "Commander," a popular Magic metagame
+
+Let's take a look at cards, [Commander,](https://magic.wizards.com/en/content/commander-format "Commander") and [cardboard crack.](https://cardboard-crack.com/ "crack"):
 
 ## 1. Intro to Magic
 
@@ -129,6 +133,10 @@ https://www.dicebreaker.com/categories/trading-card-game/how-to/magic-the-gather
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
 ## Footnotes
+
+1. I'm simplifying for the sake of the main text, but the condition of the cards is one possible reason for that price disparity. Trading cards get graded on their state and how "used" they are by services such as [Beckett Grading Services](https://www.cardboardconnection.com/collectopedia/card-grading-companies/beckett-grading-services-bgs#:~:text=Fees%20for%20BGS%20and%20BVG,card%20for%20especially%20large%20batches. "beckett"). The $166k Lotus was in near perfect condition and from an early print run.
+2. There's even a webcomic named after the phrase [here](https://cardboard-crack.com/ "crack"). Also, just to be clear, I was never very good at Magic. I found Limited draft to be more fun after a few years, since even then Constructed decks were expensive for me.
+3. "The game is limited, and the metagame is not, but if you’re not great at the core game, knowledge about the meta is basically useless."
 
 1. It's actually the *first* trading card game, creating the format. The original, you might say.
 2. This is obviously a simplified explanation, and you can read more about the rules [here](https://magic.wizards.com/en/game-info/gameplay/rules-and-formats/rules "rules"). There are different card types, some being temporary and some being permanent. Not all of them affect your opponent's points (life total) directly. As early as 2005 there were at least [28 ways to win a game of Magic](https://magic.wizards.com/en/articles/archive/arcana/let-me-count-ways-2005-08-15 "MTG")
