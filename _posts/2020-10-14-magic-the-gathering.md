@@ -38,29 +38,31 @@ How much can cardboard cost?
 
 If it's the card [Black Lotus](https://mtg.gamepedia.com/Black_Lotus "black") from trading card game [Magic: The Gathering,]((https://en.wikipedia.org/wiki/Magic:_The_Gathering "MTG") you might be able to buy one for $27,000. 
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 4.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 1.png)
 
 And that might even be a steal, considering a copy sold for [$166,000 at auction](https://www.ebay.com/itm/1993-Magic-The-Gathering-MTG-Alpha-Black-Lotus-R-A-BGS-9-5-GEM-MINT-PWCC-/143136537077?_trksid=p2047675.m43663.l10137&nordt=true&rt=nc&orig_cvip=true "ebay") \[1\]. That's $166k for a piece of cardboard the size of a trading card.
 
-Way back in another life I used to play a lot of Magic. It's a collectible card game, sometimes unironically referred to as "Cardboard Crack" due to its addictive nature \[2\]. I haven't followed the scene for a decade, but a recent controversy caught my curiousity. 
+Way back in another life I used to play a lot of Magic, the collectible card game that's sometimes unironically referred to as "Cardboard Crack" due to its addictive nature \[2\]. I haven't followed the scene for a decade, but a current controversy caught my curiousity. 
 
-Coupled with Byrne Hobart's recent post about the importance of [games vs metagames](https://diff.substack.com/p/the-gamerarbitrageur-to-generalist? "Diff") \[3\], seems I'm fated to do an article on it. Today we'll go over:
+Coupled with Byrne Hobart's recent post about the importance of [games vs metagames](https://diff.substack.com/p/the-gamerarbitrageur-to-generalist? "Diff") \[3\], perhaps I'm fated to write about it this month. Today we'll go over:
 
-1. Introduction to Magic to help understand the controversy
+1. Introduction to Magic and context for the community complaints
 2. What metagaming is and its relevance in Magic
 3. The current controversy in "Commander," a popular Magic metagame
 
-Let's take a look at cards, [Commander,](https://magic.wizards.com/en/content/commander-format "Commander") and [cardboard crack.](https://cardboard-crack.com/ "crack"):
+Let's take a look at cards, [Commander,](https://magic.wizards.com/en/content/commander-format "Commander") and [cardboard crack.](https://cardboard-crack.com/ "crack")
 
 ## 1. Intro to Magic
 
-To understand the controversy, we need to get more context for what Magic is. Magic is a trading card game \[1\], where players make a deck of cards and duel against each other. The cards have effects, and the aim is to bring down your opponent's points to zero \[2\]. You take turns drawing cards, playing them, and activating their effects to achieve that goal \[3\].
+To understand the controversy, we need more context. Magic is a trading card game \[4\], where players make a deck of cards and duel against each other. The cards have effects, and the aim is to bring down your opponent's points to zero \[5\]. You take turns drawing cards, playing them, and activating their effects to achieve that goal \[6\].
 
-The cards are released on the primary market by [Wizards](https://magic.wizards.com/en "Wizards"), a subsidiary of publicly traded [Hasbro](https://investor.hasbro.com/investor-relations "Hasbro"). Wizards will regularly design, print, and sell new cards in a "set." Most of the cards are sold via local stores, and in the form of "booster packs." These packs contain random cards from the new set, meaning that you don't know what you're getting before you open them \[4\]. For example, you might buy a pack hoping to get rare card ["Uro, Titan of Nature's Wrath"](https://scryfall.com/card/thb/229/uro-titan-of-natures-wrath "Uro") and instead get ["Bronzehead Lion."](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476461 "Lion")
+The cards are released on the primary market by [Wizards](https://magic.wizards.com/en "Wizards"), a subsidiary of publicly traded [Hasbro](https://investor.hasbro.com/investor-relations "Hasbro"). Wizards will regularly design, print, and sell new cards in a "set." Most of the cards are sold via local stores, and in the form of "booster packs." These packs contain random cards from the new set, meaning that you don't know what you're getting before you open them \[7\]. For example, you might buy a pack hoping to get rare card ["Uro, Titan of Nature's Wrath"](https://scryfall.com/card/thb/229/uro-titan-of-natures-wrath "Uro") and instead get ["Bronzehide Lion."](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476461 "Lion")
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 2.png)
 
 Because many people do not want to open packs with no guarantee of getting the card they want, there's also a secondary market. Traders buy cards and re-sell them at a markup. Over time, that has even developed into essentially a [stock market for the cards](https://www.mtgstocks.com/news "MTG"), with its own club of speculators. As pointed out earlier, some of these cards can be extremely expensive.
 
-Demand for the cards comes from players who want to use them in their decks. There's both an official competitive scene with prize money, and a casual scene where people are playing friends just for fun. The popularity of cards in competitions is one driving factor for usage in casual play. For example, if Uro became popular in competitions and known as a powerful card, more people might want to use it in their decks \[5\]. As with most markets, this causes the price of the card to rise.
+Demand for the cards comes from players who want to use them in their decks. There's both an official competitive scene with prize money, and a casual scene where people are playing friends just for fun. The popularity of cards in competitions is one driving factor for usage in casual play. For example, if Uro became popular in competitions and known as a powerful card, more people might want to use it in their decks \[8\]. As with most markets, this causes the price of the card to rise.
 
 Another reason why a card might rise in price is due to supply (what a [shock](https://gatherer.wizards.com/pages/card/details.aspx?name=Shock "shock")). Earlier, I said that Wizards will print cards in a set regularly. Sets are printed for a duration, before it's time for another set to take over. This creates scarcity for a card that might be in one set and then never appear again. For example, a card might be in set Alpha, and then not in set Beta \[6\].
 
