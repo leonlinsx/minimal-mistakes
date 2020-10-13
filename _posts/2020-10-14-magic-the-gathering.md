@@ -171,6 +171,10 @@ Wizards could have 1) made the cards silver bordered and "illegal," or even 2) d
 
 To make matters worse, the cards target the Commander format, because it's become one of, if not the [most popular format.](https://www.dicebreaker.com/categories/trading-card-game/how-to/magic-the-gathering-popular-formats "mtg") A big contributing factor to Commander's popularity? Wizards broke the metagame for "official" formats, by printing cards that were too unbalanced, making the games boring.
 
+I also don't envy the rules committee's position. They could have banned the cards, but that would be a blatant [betrayal](https://gatherer.wizards.com/pages/card/Details.aspx?multiverseid=3633 "betrayal") of Wizards. In a worst case scenario, Wizards could have overruled them and taken back control of Commander, making it an "official" format.
+
+
+
 ## Other resources to learn more
 
 1. Kendra Smith wrote a great article with more MTG history on why this is controversial [here](https://www.coolstuffinc.com/a/kendrasmith-09302020-the-problem-with-the-walking-dead-secret-lair "kendra")
