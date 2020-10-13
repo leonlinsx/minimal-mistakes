@@ -147,7 +147,7 @@ Hang on, you say, I thought the *Rules Committee* decided what cards were allowe
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 10.png)
 
-You probably have some hint of the conflicting incentives here. Let's take a closer look at the main complaints first \[15\]:
+You probably have some hint of the conflicting incentives here. Let's take a closer look at the [main complaints first](https://twitter.com/ghirapurigears/status/1313145100319494145?s=20 "twitter") \[15\]:
 
 **1. Card availability.** The cards will never be reprinted because of licensing issues, unlike other cards which could be reprinted in future sets. This artificially limits supply and the people that can get the cards.
 
@@ -167,18 +167,15 @@ Yeah, I got nothing, it's a pretty blatant money grab. When you consider Hasbro'
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 13.png)
 
+Wizards could have 1) made the cards silver bordered and "illegal," or even 2) done alternate art versions of other "legal" cards. They didn't do 1) because silver border cards sell less than black border cards, and didn't do 2) for some reason I don't understand, but probably for money as well. 
 
+To make matters worse, the cards target the Commander format, because it's become one of, if not the [most popular format.](https://www.dicebreaker.com/categories/trading-card-game/how-to/magic-the-gathering-popular-formats "mtg") A big contributing factor to Commander's popularity? Wizards broke the metagame for "official" formats, by printing cards that were too unbalanced, making the games boring.
 
-want the money for commander
+## Other resources to learn more
 
-wizards control vs fan control
-
-
-expand, profits
-
-
-
-https://www.dicebreaker.com/categories/trading-card-game/how-to/magic-the-gathering-popular-formats
+1. Kendra Smith wrote a great article with more MTG history on why this is controversial [here](https://www.coolstuffinc.com/a/kendrasmith-09302020-the-problem-with-the-walking-dead-secret-lair "kendra")
+2. @ghirapurigears tweeted a thread with more details on the complaints [here](https://twitter.com/ghirapurigears/status/1313145100319494145?s=20 "twitter")
+3. Youtuber Mitch gives a good rebuttal of other arguments for Wizards [here](https://www.youtube.com/watch?v=degV1Masii8 "commander")
 
 ## Footnotes
 
@@ -196,7 +193,7 @@ https://www.dicebreaker.com/categories/trading-card-game/how-to/magic-the-gather
 12. If you recall, this is similar to the [relative vs absolute skill](https://avoidboringpeople.substack.com/p/relatively-speaking-the-billionaire "relative") point I wrote about a while back. It doesn't matter if your deck is a good deck in absolute, but how it compares against the typical decks you're likely to face in competition, the "meta"
 13. This isn't actually the first time Wizards has done external IP, having created sets such as Arabian Nights or Three Kingdoms that are based on exactly what they're named for. I'm leaving that out in the main text for simplicity.
 14. Considering that [alters](https://magicalter.com/ "alter") are a thing and [harmless offering](http://www.mtgmintcard.com/articles/writers/freyalise/holistic-wisdom-10-cutest-cards-ever "harm") is a legal card, I don't find the complaint that different IPs will ruin the game as strong as the arguments that I'll detail later. It does matter to a vocal group of players though.
-15. There were many complaints, and I want to focus on the ones that seemed to be stronger arguments and that more people voiced their opinion on.
+15. There were many complaints, and I want to focus on the ones that seemed to be stronger arguments and that more people voiced their opinion on. 
 16. h/t reddit thread [here](https://www.reddit.com/r/magicTCG/comments/j6rwjc/hasbro_goal_double_wotc_revenue_will_this_destroy/ "reddit")
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
