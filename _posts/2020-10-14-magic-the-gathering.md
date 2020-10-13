@@ -86,7 +86,21 @@ We now know what Magic is - a trading card game where new cards are printed regu
 
 ## 2. Metagaming Magic
 
+Imagine you're Wizards and creating a card. There's a [balance](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=413544 "balance") that you have to strike if you want the card to be played and desirable. If you make the effects too weak, nobody will want it. If you make it too strong, everybody will use it.
 
+For an extreme example, imagine if you made a card that said "If you draw this card, you win the game." Everyone would play it, but games would not be fun anymore. 
+
+Hence, you have to make new cards that are cool, but not so cool that they "break" the format they are played in. If you start noticing cards that appear in every deck, that's a sign you could have gone too far. 
+
+The optimal decks and cards form the "metagame" of Magic formats. If you're playing competitively, you want the cards that give you the best odds of winning. Players discover these through theorycrafting and experimentation. You can't just know what cards are good, but what cards are good **for the format you're playing in.**
+
+In a balanced meta, there'll be a couple of decks that are "better" than the rest, but no single dominant one. For example, your squirrel deck might beat my goblins deck, but get beaten by a fairy deck on average.
+
+In an unbalanced meta, there'll be just one deck that is "better" than everything else. For example, your elemental deck might have favourable odds against any other deck. When this happens, it's rational for [everyone to start playing that deck if they want to win.](https://magic.gg/news/2020-season-grand-finals-metagame-breakdown "mtg")
+
+
+
+and you want Magic to be on FIRE - Fun, Inviting, Replayable, Exciting. 
 
 This is where the current controversy begins.
 
