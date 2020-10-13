@@ -58,13 +58,15 @@ Let's take a look at cards, [Commander,](https://magic.wizards.com/en/content/co
 
 To understand the controversy, we need more context. Magic is a trading card game \[4\], where players make a deck of cards and duel against each other. The cards have effects, and the aim is to bring down your opponent's points to zero \[5\]. You take turns drawing cards, playing them, and activating their effects to achieve that goal \[6\].
 
-The cards are released on the **primary market** by [Wizards](https://magic.wizards.com/en "Wizards"), a subsidiary of publicly traded [Hasbro](https://investor.hasbro.com/investor-relations "Hasbro"). Wizards will regularly design, print, and sell new cards in a "set." Most of the cards are sold via local stores, and in the form of "booster packs." These packs contain random cards from the new set, meaning that you don't know what you're getting before you open them \[7\]. For example, you might buy a pack hoping to get rare card ["Uro, Titan of Nature's Wrath"](https://scryfall.com/card/thb/229/uro-titan-of-natures-wrath "Uro") and instead get ["Bronzehide Lion."](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476461 "Lion")
+The cards are released on the **primary market** by [Wizards](https://magic.wizards.com/en "Wizards"), a subsidiary of publicly traded [Hasbro](https://investor.hasbro.com/investor-relations "Hasbro"). Wizards will regularly design, print, and sell new cards in a "set." Most of the cards are sold via local stores in the form of "booster packs." These packs contain random cards from the new set, meaning you don't know what you're getting before you open them \[7\]. 
+
+For example, you might buy a pack hoping to get rare card ["Uro, Titan of Nature's Wrath"](https://scryfall.com/card/thb/229/uro-titan-of-natures-wrath "Uro") and instead get ["Bronzehide Lion."](https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=476461 "Lion")
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 2.png)
 
 Because many people prefer purchasing a card without relying on luck, there's also a **secondary market.** Traders buy cards and re-sell them at a markup. Over time, that has even developed into essentially a [stock market for the cards](https://www.mtgstocks.com/news "MTG"), with its own club of speculators. As pointed out earlier, some of these cards can be extremely expensive.
 
-Notably, Wizards usually doesn't sell single cards on their own, to avoid seeming [predatory.](https://mtg.gamepedia.com/Predator "predator") They could manipulate the market if they wanted, since all they have to do is print more paper. They don't normally do so, out of worry it could crater the community. For example, imagine the complaints it Wizards directly sold a good card for $500. Keep this in mind; we'll come back to this. 
+Notably, Wizards usually doesn't sell single cards on their own, to avoid seeming [predatory.](https://mtg.gamepedia.com/Predator "predator") They could manipulate the market if they wanted, since all they have to do is print more paper. They don't normally do so, out of worry it could crater the community. For example, imagine the complaints if Wizards directly sold a good card for $500. Keep this in mind; we'll come back to this. 
 
 **Demand for the cards comes from players who want to use them** in their decks. There's both an official competitive scene with prize money, and a casual scene where people play just for fun. The popularity of cards in competitions is one driving factor for usage in casual play. For example, if Uro became popular in competitions and known as a powerful card, more people might want to use it in their decks \[8\]. As with most markets, this causes the price of the card to rise.
 
@@ -74,7 +76,7 @@ For example, a card might be in set Alpha, and then not in set Beta \[9\]. The B
 
 Similar to how the sport of "running" has different "events" such as the 100m, 200m, or 400m, **the game of Magic also has [different formats](https://mtg.gamepedia.com/DCI#Tournament_formats "format")** decided by Wizards. We don't need to know the details, just that a major difference is the types of cards you can use. This usually depends on recently they were released, and whether they are "banned" or not.
 
-For example, you might play with the most recent 8 sets and a deck of 60 cards in one format, and any possible cards in a deck of 100 in another. Because this affects how well-matched the games are, people will play decks of the same format against each other. It's considered poor form to play a different format's deck without letting your opponent know, and of course official tournaments state the format expected. This determines the **metagame** for that format, a concept we'll explore shortly.
+For example, you might play with the most recent 8 sets and a deck of 60 cards in one format, and any possible cards in a deck of 100 in another. Because this affects how well-matched the games are, people will play decks of the same format against each other. It's considered poor form to play a different format's deck without letting your opponent know, and official tournaments state the format expected. This determines the **metagame** for that format, a concept we'll explore shortly.
 
 The casual scene has also developed **"fan favourite" formats, the most popular being "Commander."** Again, the details of Commander don't matter, just think of it as a set of "meta" rules that people choose to follow when making their decks and playing against each other \[10\]. Just like your dad might have set up house rules in Monopoly saying the oldest player gets to use the bank's money, the player community decided on rules to follow for a format. 
 
@@ -139,7 +141,7 @@ Historically, Wizards avoided ambiguity by doing a few things:
 
 To clarify the above, Wizards is explicitly calling out the casual "Commander" format, designing cards specifically for it, and selling the cards directly at a premium price in a limited run. 
 
-You can see why this has [made many players upset,](https://twitter.com/wizards_magic/status/1312987380115148805?s=20 "twitter") [calling for the cards to be banned immediately.](https://www.reddit.com/r/magicTCG/comments/j1glk8/petition_for_the_commander_rules_committee_to_ban/ "ban") 
+You can see why this has [made many players upset, ](https://twitter.com/wizards_magic/status/1312987380115148805?s=20 "twitter") [calling for the cards to be banned immediately.](https://www.reddit.com/r/magicTCG/comments/j1glk8/petition_for_the_commander_rules_committee_to_ban/ "ban") 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 9.png)
 
@@ -155,7 +157,7 @@ You probably have some hint of the conflicting incentives here. Let's take a clo
 
 **2. Blatantly predatory sales.** The cards are not "legal" in the official formats, but only the casual Commander format. If you want to use the cards, you'll have to buy them at a premium, due to the limited supply. 
 
-**3. Worry of this being the start of a trend.** People have been alright with booster packs, since they realise Wizards needs to make money. However, what if Wizards started selling cards directly at high prices? If they sold a "powerful" card at $500 and never banned it, players would have to buy the card in order to stay competitive. The metagame will be ruined.
+**3. Worry of this being the start of a trend.** People are alright with booster packs, since they realise Wizards needs to make money. However, what if Wizards started selling cards directly at high prices? If they sold a "powerful" card at $500 and never banned it, players would have to buy the card in order to stay competitive. The metagame will be ruined.
 
 And now let's look at Wizard's rationale:
 
@@ -209,7 +211,7 @@ Maybe the true magic is all the friends we made along the way.
 14. Considering that [alters](https://magicalter.com/ "alter") are a thing and [harmless offering](http://www.mtgmintcard.com/articles/writers/freyalise/holistic-wisdom-10-cutest-cards-ever "harm") is a legal card, I don't find the complaint that different IPs will ruin the game as strong as the arguments that I'll detail later. It does matter to a vocal group of players though.
 15. There were many complaints, and I want to focus on the ones that seemed to be stronger arguments and that more people voiced their opinion on. 
 16. h/t reddit thread [here](https://www.reddit.com/r/magicTCG/comments/j6rwjc/hasbro_goal_double_wotc_revenue_will_this_destroy/ "reddit")
-17. As mentioned before, there's nothing preventing players from just deciding to ignore the rules committee and ban the cards among friends. The uproar is partially due to players realising the rules committee is acting against player interests, and also ignoring the key issues by sidestepping them
+17. As mentioned before, there's nothing preventing players from just deciding to ignore the rules committee and ban the cards among friends. The uproar is partially due to players realising the rules committee is acting against player interests, and also ignoring the key issues by sidestepping them in their announcement.Everyone knows this is a targeted money grab
 18. To be clear, I'm not recommending people to short Hasbro, or anything of that nature. I don't have enough expertise to predict here, and would guess there's probably 80% chance Magic survives this and just keeps growing, expanding to multiple popular IPs. A lot of rich people willing to pay for paper.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
