@@ -6,6 +6,8 @@ published: false
 
 ## Takeaway
 
+Magic: The Gathering is a lucrative card game business that has run into self-inflicted controversy due to over-aggressive monetisation
+
 <style>
       .iframe-container {
         overflow: hidden;        
