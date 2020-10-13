@@ -163,6 +163,10 @@ Oh wait, wrong image:
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 12.png)
 
+Yeah, I got nothing, it's a pretty blatant money grab. When you consider Hasbro's (parent company of Wizards) goal of [doubling Wizards revenue over the next five years,](https://investor.hasbro.com/static-files/88b2a83b-2368-463a-9489-6cf31dc209ac "wizards") no wonder the Wizards team is incentivised to explore ways of selling more cards at a higher price \[16\]. Higher volume, higher prices, higher valuation multiple. If people are willing to pay $100 market price for a card, why not just print the cards and sell them directly instead of via booster packs? 
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 13.png)
+
 
 
 want the money for commander
@@ -175,8 +179,6 @@ expand, profits
 
 
 https://www.dicebreaker.com/categories/trading-card-game/how-to/magic-the-gathering-popular-formats
-
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
 ## Footnotes
 
@@ -194,7 +196,8 @@ https://www.dicebreaker.com/categories/trading-card-game/how-to/magic-the-gather
 12. If you recall, this is similar to the [relative vs absolute skill](https://avoidboringpeople.substack.com/p/relatively-speaking-the-billionaire "relative") point I wrote about a while back. It doesn't matter if your deck is a good deck in absolute, but how it compares against the typical decks you're likely to face in competition, the "meta"
 13. This isn't actually the first time Wizards has done external IP, having created sets such as Arabian Nights or Three Kingdoms that are based on exactly what they're named for. I'm leaving that out in the main text for simplicity.
 14. Considering that [alters](https://magicalter.com/ "alter") are a thing and [harmless offering](http://www.mtgmintcard.com/articles/writers/freyalise/holistic-wisdom-10-cutest-cards-ever "harm") is a legal card, I don't find the complaint that different IPs will ruin the game as strong as the arguments that I'll detail later. It does matter to a vocal group of players though.
-15. There were many complaints, and I want to focus on the ones that seemed to be stronger arguments and that more people voiced their opinion on. 
+15. There were many complaints, and I want to focus on the ones that seemed to be stronger arguments and that more people voiced their opinion on.
+16. h/t reddit thread [here](https://www.reddit.com/r/magicTCG/comments/j6rwjc/hasbro_goal_double_wotc_revenue_will_this_destroy/ "reddit")
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
