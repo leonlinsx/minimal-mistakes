@@ -147,13 +147,15 @@ Hang on, you say, I thought the *Rules Committee* decided what cards were allowe
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 10.png)
 
-You probably have some hint of the conflicting incentives here, and let's take a closer look at the main complaints:
+You probably have some hint of the conflicting incentives here. Let's take a closer look at the main complaints first:
 
-1. Card availability. 
+**1. Card availability.** The cards will never be reprinted because of licensing issues, unlike other cards which could be reprinted in future sets. This artificially limits supply and the people that can get the cards.
 
-2. Blatantly predatory sales
+**2. Blatantly predatory sales.** The cards are not "legal" in the official formats, but only the casual Commander format. If you want to use the cards, you'll have to buy them at a premium, due to the limited supply. 
 
-3. Worry of this being the start of a trend
+**3. Worry of this being the start of a trend.** People have been alright with booster packs, since they realise Wizards needs to make money. However, what if Wizards started selling cards directly at high prices? If they sold a "powerful" card at $500 and never banned it, players would have to buy the card in order to stay competitive
+
+And now let's look at Wizard's rationale:
 
 
 
