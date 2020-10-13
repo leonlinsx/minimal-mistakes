@@ -1,6 +1,6 @@
 ---
 title:  "MTG: Magic The Gathering and MeTaGaming"  
-tags: [magic, metagaming]
+tags: [magic, metagaming, community]
 published: false
 ---
 
@@ -167,19 +167,27 @@ Yeah, I got nothing, it's a pretty blatant money grab. When you consider Hasbro'
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 13.png)
 
-Wizards could have 1) made the cards silver bordered and "illegal," or even 2) done alternate art versions of other "legal" cards. They didn't do 1) because silver border cards sell less than black border cards, and didn't do 2) for some reason I don't understand, but probably for money as well. 
+Wizards could have 1) made the cards silver bordered and "illegal," or even 2) done alternate art versions of other "legal" cards. They didn't do 1) because silver border cards sell less than black border cards, and didn't do 2) for some magical reason I don't understand, but probably money
 
 To make matters worse, the cards target the Commander format, because it's become one of, if not the [most popular format.](https://www.dicebreaker.com/categories/trading-card-game/how-to/magic-the-gathering-popular-formats "mtg") A big contributing factor to Commander's popularity? Wizards broke the metagame for "official" formats, by printing cards that were too unbalanced, making the games boring.
 
-I also don't envy the rules committee's position. They could have banned the cards, but that would be a blatant [betrayal](https://gatherer.wizards.com/pages/card/Details.aspx?multiverseid=3633 "betrayal") of Wizards. In a worst case scenario, Wizards could have overruled them and taken back control of Commander, making it an "official" format.
+I don't envy the rules committee's position here. They could have banned the cards, but that would be a blatant [betrayal](https://gatherer.wizards.com/pages/card/Details.aspx?multiverseid=3633 "betrayal") of Wizards. In a worst case scenario, Wizards could have overruled them and taken back control of Commander, making it an "official" format rather than a fan one \[17\].
 
+Players haven't taken this lying down, [complaining vocally on public threads,](https://www.reddit.com/r/magicTCG/comments/j204ww/has_anyone_completely_lost_confidence_in_wotc_and/g73xmqe/?context=1 "complain") [listing demands to be met before they return to the game](https://www.reddit.com/r/magicTCG/comments/j67brt/for_those_who_are_choosing_to_no_longer_spend/ "game"), and even [creating a new format, "Captain."](https://twitter.com/PlayCaptainMTG/status/1313164508068810752?s=20 "captain") It remains to be seen if any of these will actually have an impact on the money printer that is Magic \[18\].
 
+Turns out that [selling paper is hard work.](https://www.youtube.com/watch?v=1QQBB3cwNM0 "prices") The controversy highlights a few things applicable more generally:
+
+1. Users will understand if you monetise, but get upset if you're too aggressive. Think [a rake too far](http://abovethecrowd.com/2013/04/18/a-rake-too-far-optimal-platformpricing-strategy/ "rake")
+2. The response to a mistake can be more important than trying to avoid the mistake. Think about actual apologies vs lip service
+3. Community run groups that are linked to an official organisation will be forced to defer to the organisation. Think about responsibility vs authority and who actually has what
+
+Maybe the true magic is all the friends we made along the way.
 
 ## Other resources to learn more
 
 1. Kendra Smith wrote a great article with more MTG history on why this is controversial [here](https://www.coolstuffinc.com/a/kendrasmith-09302020-the-problem-with-the-walking-dead-secret-lair "kendra")
 2. @ghirapurigears tweeted a thread with more details on the complaints [here](https://twitter.com/ghirapurigears/status/1313145100319494145?s=20 "twitter")
-3. Youtuber Mitch gives a good rebuttal of other arguments for Wizards [here](https://www.youtube.com/watch?v=degV1Masii8 "commander")
+3. Youtuber Mitch gives a good rebuttal of other arguments Wizards made [here](https://www.youtube.com/watch?v=degV1Masii8 "commander")
 
 ## Footnotes
 
@@ -199,6 +207,8 @@ I also don't envy the rules committee's position. They could have banned the car
 14. Considering that [alters](https://magicalter.com/ "alter") are a thing and [harmless offering](http://www.mtgmintcard.com/articles/writers/freyalise/holistic-wisdom-10-cutest-cards-ever "harm") is a legal card, I don't find the complaint that different IPs will ruin the game as strong as the arguments that I'll detail later. It does matter to a vocal group of players though.
 15. There were many complaints, and I want to focus on the ones that seemed to be stronger arguments and that more people voiced their opinion on. 
 16. h/t reddit thread [here](https://www.reddit.com/r/magicTCG/comments/j6rwjc/hasbro_goal_double_wotc_revenue_will_this_destroy/ "reddit")
+17. As mentioned before, there's nothing preventing players from just deciding to ignore the rules committee and ban the cards among friends. The uproar is partially due to players realising the rules committee is acting against player interests, and also ignoring the key issues by sidestepping them
+18. To be clear, I'm not recommending people to short Hasbro, or anything of that nature. I don't have enough expertise to predict here, and would guess there's probably 80% chance Magic survives this and just keeps growing, expanding to multiple popular IPs. A lot of rich people willing to pay for paper.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
