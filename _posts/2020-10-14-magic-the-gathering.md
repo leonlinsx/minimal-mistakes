@@ -137,7 +137,7 @@ Historically, Wizards avoided ambiguity by doing a few things:
 
 To clarify the above, Wizards is explicitly calling out the casual "Commander" format, designing cards specifically for it, and selling the cards directly at a premium price in a limited run. 
 
-You can see why this has made many players upset, [calling for the cards to be banned immediately.](https://www.reddit.com/r/magicTCG/comments/j1glk8/petition_for_the_commander_rules_committee_to_ban/ "ban") 
+You can see why this has [made many players upset,](https://twitter.com/wizards_magic/status/1312987380115148805?s=20 "twitter") [calling for the cards to be banned immediately.](https://www.reddit.com/r/magicTCG/comments/j1glk8/petition_for_the_commander_rules_committee_to_ban/ "ban") 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 9.png)
 
@@ -147,19 +147,23 @@ Hang on, you say, I thought the *Rules Committee* decided what cards were allowe
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 10.png)
 
-You probably have some hint of the conflicting incentives here. Let's take a closer look at the main complaints first:
+You probably have some hint of the conflicting incentives here. Let's take a closer look at the main complaints first \[15\]:
 
 **1. Card availability.** The cards will never be reprinted because of licensing issues, unlike other cards which could be reprinted in future sets. This artificially limits supply and the people that can get the cards.
 
 **2. Blatantly predatory sales.** The cards are not "legal" in the official formats, but only the casual Commander format. If you want to use the cards, you'll have to buy them at a premium, due to the limited supply. 
 
-**3. Worry of this being the start of a trend.** People have been alright with booster packs, since they realise Wizards needs to make money. However, what if Wizards started selling cards directly at high prices? If they sold a "powerful" card at $500 and never banned it, players would have to buy the card in order to stay competitive
+**3. Worry of this being the start of a trend.** People have been alright with booster packs, since they realise Wizards needs to make money. However, what if Wizards started selling cards directly at high prices? If they sold a "powerful" card at $500 and never banned it, players would have to buy the card in order to stay competitive. The metagame will be ruined.
 
 And now let's look at Wizard's rationale:
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 11.jpg)
+
+Oh wait, wrong image:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 12.png)
 
 
-wait, wrong image
 
 want the money for commander
 
@@ -190,6 +194,7 @@ https://www.dicebreaker.com/categories/trading-card-game/how-to/magic-the-gather
 12. If you recall, this is similar to the [relative vs absolute skill](https://avoidboringpeople.substack.com/p/relatively-speaking-the-billionaire "relative") point I wrote about a while back. It doesn't matter if your deck is a good deck in absolute, but how it compares against the typical decks you're likely to face in competition, the "meta"
 13. This isn't actually the first time Wizards has done external IP, having created sets such as Arabian Nights or Three Kingdoms that are based on exactly what they're named for. I'm leaving that out in the main text for simplicity.
 14. Considering that [alters](https://magicalter.com/ "alter") are a thing and [harmless offering](http://www.mtgmintcard.com/articles/writers/freyalise/holistic-wisdom-10-cutest-cards-ever "harm") is a legal card, I don't find the complaint that different IPs will ruin the game as strong as the arguments that I'll detail later. It does matter to a vocal group of players though.
+15. There were many complaints, and I want to focus on the ones that seemed to be stronger arguments and that more people voiced their opinion on. 
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
