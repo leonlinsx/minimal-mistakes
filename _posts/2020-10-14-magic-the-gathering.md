@@ -80,6 +80,8 @@ Commander rules are governed by a community ["rules committee,"](https://mtgcomm
 
 The committee doesn't enforce the rules, since that'd be impossible for casual games, but it serves as a standard guideline that players follow. For example, it might say that "Uro" is banned. If you played a game of Commander against a random stranger and used Uro, she'd probably not want to continue. However, you could also just agree to play with any cards you want, Uro included.
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 3.png)
+
 We now know what Magic is - a trading card game where new cards are printed regularly, card prices are set by the market, and different format restrictions result in different metagames. Let's expand on that last concept.  
 
 ## 2. Metagaming Magic
