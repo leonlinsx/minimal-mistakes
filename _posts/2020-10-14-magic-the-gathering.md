@@ -90,17 +90,17 @@ Imagine you're Wizards and creating a card. There's a [balance](https://gatherer
 
 For an extreme example, imagine if you made a card that said "If you draw this card, you win the game." Everyone would play it, but games would not be fun anymore. 
 
-Hence, you have to make new cards that are cool, but not so cool that they "break" the format they are played in. If you start noticing cards that appear in every deck, that's a sign you could have gone too far. 
+Hence, you have to make new cards that are cool, but not so cool that they "break" the format they are played in. If you start noticing cards that appear in every deck, that's a sign you could have gone too far \[11\]. 
 
-The optimal decks and cards form the "metagame" of Magic formats. If you're playing competitively, you want the cards that give you the best odds of winning. Players discover these through theorycrafting and experimentation. You can't just know what cards are good, but what cards are good **for the format you're playing in.**
+The optimal decks and cards form the "metagame" of Magic formats. If you're playing competitively, you want the cards that give you the best odds of winning. Players discover these through theorycrafting and experimentation. You can't just know what cards are good, but what cards are good **for the format you're playing in \[12\].**
 
 In a balanced meta, there'll be a couple of decks that are "better" than the rest, but no single dominant one. For example, your squirrel deck might beat my goblins deck, but get beaten by a fairy deck on average.
 
-In an unbalanced meta, there'll be just one deck that is "better" than everything else. For example, your elemental deck might have favourable odds against any other deck. When this happens, it's rational for [everyone to start playing that deck if they want to win.](https://magic.gg/news/2020-season-grand-finals-metagame-breakdown "mtg")
+In an unbalanced meta, there'll be just one deck that is "better" than everything else. For example, your elemental deck might have favourable odds against any other deck. When this happens, it's rational for [everyone to start playing that deck if they want to win.](https://magic.gg/news/2020-season-grand-finals-metagame-breakdown "mtg") As you can imagine, **this gets boring quickly.**
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 4.png)
 
-
-and you want Magic to be on FIRE - Fun, Inviting, Replayable, Exciting. 
+When this happens, one solution is to ban the cards that are "overly powerful." As mentioned earlier, for the official formats, Wizards will say which cards can no longer be used. For the unofficial format "Commander," the community rules committee will choose the cards. **Bans are a way to balance.**
 
 This is where the current controversy begins.
 
@@ -108,41 +108,51 @@ This is where the current controversy begins.
 
 Most of the time, the new cards printed are part of a larger Magic multiverse, being Magic IP and originally created for Magic. Magic is mostly fantasy based, leading to cards such as angels and dragons:
 
-More recently \[8\], Wizards has been doing more external partnerships. This usually involves creating a custom card based on other IP. For example, [a My Little Pony series](https://magic.wizards.com/en/articles/archive/news/magic-extra-life-2019-10-03 "pony") to raise money for charity:
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 5.png)
+
+More recently \[13\], Wizards has been doing more external partnerships. This usually involves creating a custom card based on other IP. For example, [a My Little Pony series](https://magic.wizards.com/en/articles/archive/news/magic-extra-life-2019-10-03 "pony") to raise money for charity:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 6.png)
 
 Or a [Godzilla themed series as alternate art for some cards:](https://articles.starcitygames.com/news/all-19-godzilla-series-monster-cards-revealed/ "zilla")
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 7.png)
+
 Now, put yourself in the place of the Commander Rules Committee. When these cards are released, should you allow them in the format?
 
-Besides aesthetic arguments \[9\], the reason you can't easily say yes is that these special cards often have special effects that can unbalance the game. For example, that [Princess Twilight Sparkle](https://shop.tcgplayer.com/magic/ponies-the-galloping/princess-twilight-sparkle "pony") ability would make it [one powerful pony.](https://www.reddit.com/r/CompetitiveEDH/comments/dczkyh/twilight_sparkles_metarending_magic/ "pony") 
+Besides aesthetic arguments \[14\], the reason you can't easily say yes is that these special cards often have **special effects that can unbalance the game.** For example, that [Princess Twilight Sparkle](https://shop.tcgplayer.com/magic/ponies-the-galloping/princess-twilight-sparkle "pony") ability would make it [one powerful pony.](https://www.reddit.com/r/CompetitiveEDH/comments/dczkyh/twilight_sparkles_metarending_magic/ "pony") 
 
 Historically, Wizards avoided ambiguity by doing a few things:
 
-1. Making special "fun" cards silver bordered. By issuing a blanket rule that silver border cards were banned for "normal" play, Wizards could print whatever they wanted without affecting the metagame, of which cards and decks were popular
+1. Making special "fun" cards silver bordered. By issuing a blanket rule that silver border cards were banned for "normal" play, Wizards could print whatever they wanted without affecting the metagame
 2. Making the special cards have the same effect as cards that were black bordered and "legal," just with alternate art. Since these cards are printed as part of normal sets and balanced for the game, it shouldn't have a significant effect on the metagame
 
-Now here's the controversy. Wizards just released a [limited edition set of new cards in partnership with TV show The Walking Dead.](https://secretlair.wizards.com/us/product/612738/secret-lair-x-the-walking-dead "dead") These unique cards will only be available for some time before Wizards stops printing them. Importantly, these are black bordered, but not available anywhere else beyond buying this box set.
+**Here's the controversy.** Wizards just released a [limited edition set of new cards in partnership with TV show The Walking Dead.](https://secretlair.wizards.com/us/product/612738/secret-lair-x-the-walking-dead "dead") These unique cards are only available for some time before Wizards stops printing them. Importantly, these are black bordered ("legal"), but not available anywhere else beyond buying this box set. As you might expect, the box set is priced at a premium.
 
-img
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 8.png)
 
-Should these cards be legal? Wizards' official site says:
+**Should these cards be legal?** Wizards' official site says:
 
 > NOTE: These are brand-new cards, not reprints or part of a main set. Therefore, they’re not legal in Standard, but they’re perfect for Commander!
 
-This caused a lot of people to be angry, [calling for the cards to be banned immediately.](https://www.reddit.com/r/magicTCG/comments/j1glk8/petition_for_the_commander_rules_committee_to_ban/ "ban") 
+To clarify the above, Wizards is explicitly calling out the casual "Commander" format, designing cards specifically for it, and selling the cards directly at a premium price in a limited run. 
 
-img
+You can see why this has made many players upset, [calling for the cards to be banned immediately.](https://www.reddit.com/r/magicTCG/comments/j1glk8/petition_for_the_commander_rules_committee_to_ban/ "ban") 
 
-Hang on, you say, I thought the Rules Committee decided what cards were allowed or not? Indeed, some players held out hope that the Committee would act independently, and declare the cards criminal in Commander. 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 9.png)
+
+Hang on, you say, I thought the *Rules Committee* decided what cards were allowed or not? Indeed, some players held out hope that the Committee would act independently, and declare the cards criminal in Commander. 
 
 [Unfortunately not.](https://mtgcommander.net/index.php/2020/10/02/rc-statement-on-secret-lair-the-walking-dead/ "dead") 
 
-img
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 10.png)
 
-You probably have some hint of the conflicting incentives here, and let's take a closer look at the complaints:
+You probably have some hint of the conflicting incentives here, and let's take a closer look at the main complaints:
 
-1. Card availability
+1. Card availability. 
+
 2. Blatantly predatory sales
+
 3. Worry of this being the start of a trend
 
 
@@ -174,8 +184,10 @@ https://www.dicebreaker.com/categories/trading-card-game/how-to/magic-the-gather
 8. An actual example in this case. Uro has since [been banned](https://gamerant.com/magic-the-gathering-uro-ban/ "ban") for being too powerful. Banned from what exactly? It makes sense to ban a card from competitions, but how can you stop someone playing them in casual formats? That's a question that's related to the controversy, so read on.
 9. Alpha and Beta are actual sets in Magic, but it's a fake example this time. I think that any cards in Alpha were also printed in Beta, and [some new cards were actually added in Beta](https://mtg.gamepedia.com/Beta "beta")
 10. Some of the changes include potentially playing against more than one player, having more cards in your deck, having cards restricted to a certain type, and having a special card - your "Commander". Commander was also known as Elder Dragon Highlander, due to its origins of people playing with certain dragon cards as their commanders.
-8. This isn't actually the first time Wizards has done external IP, having created sets such as Arabian Nights or Three Kingdoms that are based on exactly what they're named for. I'm leaving that out in the main text for simplicity.
-9. Considering that [alters](https://magicalter.com/ "alter") are a thing and [harmless offering](http://www.mtgmintcard.com/articles/writers/freyalise/holistic-wisdom-10-cutest-cards-ever "harm") is a legal card, I don't find the complaint that different IPs will ruin the game as strong as the arguments that I'll detail later. It does matter to a vocal group of players though.
+11. Wizards has publicly claimed they follow a [FIRE philosophy](https://magic.wizards.com/en/articles/archive/card-preview/fire-it-2019-06-21 "mtg") - They want Magic to be fun, inviting, replayable, exciting. 
+12. If you recall, this is similar to the [relative vs absolute skill](https://avoidboringpeople.substack.com/p/relatively-speaking-the-billionaire "relative") point I wrote about a while back. It doesn't matter if your deck is a good deck in absolute, but how it compares against the typical decks you're likely to face in competition, the "meta"
+13. This isn't actually the first time Wizards has done external IP, having created sets such as Arabian Nights or Three Kingdoms that are based on exactly what they're named for. I'm leaving that out in the main text for simplicity.
+14. Considering that [alters](https://magicalter.com/ "alter") are a thing and [harmless offering](http://www.mtgmintcard.com/articles/writers/freyalise/holistic-wisdom-10-cutest-cards-ever "harm") is a legal card, I don't find the complaint that different IPs will ruin the game as strong as the arguments that I'll detail later. It does matter to a vocal group of players though.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
