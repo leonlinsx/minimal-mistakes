@@ -40,9 +40,9 @@ If it's the card [Black Lotus](https://mtg.gamepedia.com/Black_Lotus "black") fr
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/walking/walking 1.png)
 
-And that might even be a steal, considering a copy sold for [$166,000 at auction](https://www.ebay.com/itm/1993-Magic-The-Gathering-MTG-Alpha-Black-Lotus-R-A-BGS-9-5-GEM-MINT-PWCC-/143136537077?_trksid=p2047675.m43663.l10137&nordt=true&rt=nc&orig_cvip=true "ebay") \[1\]. That's $166k for a piece of cardboard the size of a trading card.
+And that might even be a steal, considering a copy sold for [$166,000 at auction](https://www.ebay.com/itm/1993-Magic-The-Gathering-MTG-Alpha-Black-Lotus-R-A-BGS-9-5-GEM-MINT-PWCC-/143136537077?_trksid=p2047675.m43663.l10137&nordt=true&rt=nc&orig_cvip=true "ebay") \[1\]. That's $166k for a piece of cardboard the size of a playing card.
 
-Way back in another life I used to play a lot of Magic, the collectible card game that's sometimes unironically referred to as "Cardboard Crack" due to its addictive nature \[2\]. I haven't followed the scene for a decade, but a current controversy caught my curiousity. 
+Way back in another life I used to play a lot of Magic, the collectible card game sometimes unironically referred to as "Cardboard Crack" due to its addictive nature \[2\]. I haven't followed the scene for a decade, but a current controversy caught my curiousity. 
 
 Coupled with Byrne Hobart's recent post about the importance of [games vs metagames](https://diff.substack.com/p/the-gamerarbitrageur-to-generalist? "Diff") \[3\], perhaps I'm fated to write about it this month. Today we'll go over:
 
@@ -62,7 +62,7 @@ The cards are released on the **primary market** by [Wizards](https://magic.wiza
 
 Because many people prefer purchasing a card without relying on luck, there's also a **secondary market.** Traders buy cards and re-sell them at a markup. Over time, that has even developed into essentially a [stock market for the cards](https://www.mtgstocks.com/news "MTG"), with its own club of speculators. As pointed out earlier, some of these cards can be extremely expensive.
 
-Notably, Wizards usually doesn't sell single cards on their own, as they want to avoid seeming [predatory.](https://mtg.gamepedia.com/Predator "predator") They could manipulate the market if they wanted, since all they have to do is print more paper. They don't normally do so, out of worry it could crater the community. For example, imagine the complaints it Wizards directly sold a good card for $500. We'll come back to this. 
+Notably, Wizards usually doesn't sell single cards on their own, to avoid seeming [predatory.](https://mtg.gamepedia.com/Predator "predator") They could manipulate the market if they wanted, since all they have to do is print more paper. They don't normally do so, out of worry it could crater the community. For example, imagine the complaints it Wizards directly sold a good card for $500. Keep this in mind; we'll come back to this. 
 
 **Demand for the cards comes from players who want to use them** in their decks. There's both an official competitive scene with prize money, and a casual scene where people play just for fun. The popularity of cards in competitions is one driving factor for usage in casual play. For example, if Uro became popular in competitions and known as a powerful card, more people might want to use it in their decks \[8\]. As with most markets, this causes the price of the card to rise.
 
@@ -76,11 +76,15 @@ For example, you might play with the most recent 8 sets and a deck of 60 cards i
 
 The casual scene has also developed **"fan favourite" formats, the most popular being "Commander."** Again, the details of Commander don't matter, just think of it as a set of "meta" rules that people choose to follow when making their decks and playing against each other \[10\]. Just like your dad might have set up house rules in Monopoly saying the oldest player gets to use the bank's money, the player community decided on rules to follow for a format. 
 
-Commander rules are governed by a community ["rules committee,"](https://mtgcommander.net/index.php/faq/ "RC") which is supposedly independent from Wizards. The committee takes into account player feedback when deciding what cards to allow in Commander, for every new set that is printed. It's usually the newer cards that cause problems, since the older cards have by definition been around longer for people to play with, and any game-breaking interactions should have been discovered. The committee doesn't enforce the rules, since that'd be impossible for casual games, but it serves as a standard guideline that players follow. 
+Commander rules are governed by a community ["rules committee,"](https://mtgcommander.net/index.php/faq/ "RC") which is supposedly independent from Wizards. The committee takes into account player feedback when deciding what cards to allow in Commander, for every new set that is printed. It's usually the newer cards that cause problems, since the older cards have by definition been around longer for people to play with, and any game-breaking interactions should have been discovered. 
 
+The committee doesn't enforce the rules, since that'd be impossible for casual games, but it serves as a standard guideline that players follow. For example, it might say that "Uro" is banned. If you played a game of Commander against a random stranger and used Uro, she'd probably not want to continue. However, you could also just agree to play with any cards you want, Uro included.
 
+We now know what Magic is - a trading card game where new cards are printed regularly, card prices are set by the market, and different format restrictions result in different metagames. Let's expand on that last concept.  
 
 ## 2. Metagaming Magic
+
+
 
 This is where the current controversy begins.
 
