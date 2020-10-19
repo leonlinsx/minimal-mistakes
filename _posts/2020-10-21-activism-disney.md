@@ -63,11 +63,43 @@ My first thoughts on the above are:
 - Media Networks revenue is growing double digits, but operating income growth is only 2%, suggesting deleverage
 - Parks on the other hand is growing rev 6%, but getting operating leverage to grow operating income 11%
 - Studio grew rev but shrunk operating income, so that's unexpected
-- DTC grew >100% on rev, and its operating loss also grew >100% \[3\]. Unusual to see a large company grow so fast, maybe they're doing great?
+- DTC grew >100% on rev, and its operating loss also grew >100% \[3\]. Unusual to see a large company grow so fast, maybe they're doing great? Was Disney+ so successful?
 
-If we take a look at the operating margins of those segments, they're pretty similar at 20-30%. That was surprising to me, I'd have thought there would be a high margin segment "subsidising" a low margin one. If the margin profiles are indeed similar, management should be indifferent to investing in any of them; perhaps preferring MEdia due to the slightly higher margin \[4\].
+If we take a look at the operating margins of those segments, they're pretty similar at 20-30%. That was surprising to me, I'd have thought there would be a high margin segment "subsidising" a low margin one. My first guess would have been that Parks are low margin.
+
+If the margin profiles are indeed similar, management should be indifferent to investing in any of them; perhaps preferring Media due to the slightly higher margin \[4\].
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/disney_activism/disney 2.png)
+
+Disney takes 17 pages in its annual report to describe its business \[5\], so I'll summarise them to avoid all of you quitting reading.
+
+- Media includes domestic cable networks and TV stations such as Disney and ESPN \[6\]. Revenue comes from affiliate fees people pay them for their content (programming) and advertising on their own networks. 
+- Parks includes their theme parks such as Disneyland and licensing of their IP for consumer products. Rev comes from park ticket sales and licensing royalties. There's an interesting mention of how >75% of Disney's capital spend has been on the Parks business, which is helpful to know
+- Studio includes movies such as Fox, Marvel, Lucasfilm. Rev comes from the license fees of the movies to theaters
+- DTC includes Disney+ streaming services, and they also put international TV here. Rev comes from advertising fees on international TV and subscription fees for streaming
+
+Reading over this section also answers a few questions I had:
+
+There was an acquisition in 2019, which resulted in "extra" rev for both the Media and DTC segments. This explains why DTC growth was so high, and also the acceleration in the Media rev.
+
+If this was me back in banking I'd have spent hours trying to do pro-forma financials to adjust for this and get a "normalised" growth. 
+
+I'm not in banking anymore and can't be bothered, so let's leave it as is. But that also implies the growth rate of Media is lower than I thought. I wouldn't be surprised if it was more similar to the 2018 growth rate of ~3%.
+
+I'd also initially thought DTC was showing Disney+ success, but that's not the case. I also realised Disney+ launched in Nov, so it's probably insignificant for total rev.
+
+Parks are also higher margin than I thought because they lump the IP licensing rev in that segment. I'm assuming that's to avoid showing a low margin segment but don't have context here.
+
+So my revised thoughts are:
+
+- Media (all the TV rev) is large but slow growing
+- Parks is large but slow growing, and requires a lot of capital investment
+- Studio is smaller but fast growing, due to the popularity of Marvel films I'd imagine
+- DTC is smaller and I can't really tell the growth rate, but would assume it's fast as well since Disney+ is new
+
+Now let's take a look at what the investors are saying. I'll present them in pairs and add commentary for my own thoughts
+
+### Third Point's arguments and Semper Augustus' counterarguments
 
 
 
@@ -77,6 +109,9 @@ If we take a look at the operating margins of those segments, they're pretty sim
 2. But not unheard of. Bill Ackman vs Carl Icahn on Herbalife is a famous example.
 3. The 100% in the table stands for >100% growth, similar to the >(100)% standing for more than 100% decline
 4. This is a simplistic take, since there could be other costs not accounted for in the operating income reported here. The tax treatment for the businesses or interest expense might be different, just to give examples.
+5. It's the first section of its [annual report](https://thewaltdisneycompany.com/app/uploads/2020/01/2019-Annual-Report.pdf "ar"), if you're interested in taking a closer look
+6. I think people know that ESPN is the big money maker for Disney from some other publicly disclosed numbers, but I'm not going to dig further unless needed.
+7. Disney acquired TFCF, which also gave them a stake in Hulu. "On March 20, 2019, the Company acquired the outstanding capital stock of TFCF, a diversified global media and entertainment company." and "The acquisition purchase price totaled $69.5 billion, of which the Company paid $35.7 billion in cash and $33.8 billion in Disney shares." and "As part of the TFCF acquisition, the Company acquired TFCF’s 30% interest in Hulu increasing our ownership to 60%. As a result, the Company began consolidating Hulu" from pdf page 98 of the 2019 10K.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
