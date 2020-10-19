@@ -65,6 +65,10 @@ My first thoughts on the above are:
 - Studio grew rev but shrunk operating income, so that's unexpected
 - DTC grew >100% on rev, and its operating loss also grew >100% \[3\]. Unusual to see a large company grow so fast, maybe they're doing great?
 
+If we take a look at the operating margins of those segments, they're pretty similar at 20-30%. That was surprising to me, I'd have thought there would be a high margin segment "subsidising" a low margin one. If the margin profiles are indeed similar, management should be indifferent to investing in any of them; perhaps preferring MEdia due to the slightly higher margin \[4\].
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/disney_activism/disney 2.png)
+
 
 
 ## Footnotes
@@ -72,6 +76,7 @@ My first thoughts on the above are:
 1. I've linked to a third party site for the letter text, and you can also find it [here](https://thirdpointlimited.com/portfolio-updates "third") on Third Point's official site if interested. That link doesn't seem to be a permanent one for the letter, hence the third party link.
 2. But not unheard of. Bill Ackman vs Carl Icahn on Herbalife is a famous example.
 3. The 100% in the table stands for >100% growth, similar to the >(100)% standing for more than 100% decline
+4. This is a simplistic take, since there could be other costs not accounted for in the operating income reported here. The tax treatment for the businesses or interest expense might be different, just to give examples.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
