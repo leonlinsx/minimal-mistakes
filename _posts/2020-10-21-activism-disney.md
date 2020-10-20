@@ -88,9 +88,9 @@ If this was me back in banking I'd have spent hours trying to do pro-forma finan
 
 I'm not in banking anymore and ~~can't be bothered~~ will leave it as an exercise for the reader, so let's move on. But that also implies the growth rate of Media is lower than I thought. I wouldn't be surprised if it was more similar to the 2018 growth rate of ~3%.
 
-I'd also initially thought DTC was showing Disney+ success, but that's not the case. I also realised Disney+ launched in Nov, so it's probably insignificant for total rev.
+I'd also initially thought DTC was showing Disney+ success, but that's not the case. I also realised Disney+ launched in Nov, so it's not contributing to revenue, as Disney's fiscal year ends in September.
 
-Parks are also higher margin than I thought because they lump the IP licensing rev in that segment. I'm assuming that's to avoid showing a low margin segment, which is typical behaviour for many businesses, but don't have context here.
+**Parks are also higher margin than I thought** because they lump the IP licensing rev in that segment. I'm assuming that's to avoid showing a low margin segment, which is typical behaviour for many businesses, but don't have context here.
 
 So my revised thoughts are:
 
@@ -98,6 +98,17 @@ So my revised thoughts are:
 - Parks is large but slow growing, and requires a lot of capital investment
 - Studio is smaller but fast growing, due to the popularity of Marvel films I'd imagine
 - DTC is smaller and I can't really tell the growth rate, but would assume it's fast as well since Disney+ is new
+
+One enormous complication is Covid's impact on the business. [For the first nine months of its fiscal year:](https://thewaltdisneycompany.com/the-walt-disney-company-reports-third-quarter-and-nine-months-earnings-for-fiscal-2020/ "dis")
+
+- Media was down slightly quarter over quarter (qoq), but up year to date (ytd)
+- Parks died, down 85% qoq and 29% ytd
+- Studio also died, down 55% qoq and surprisingly up 3% ytd
+- DTC numbers aren't comparable because of the acquisition, but I assume growth rate is still fast
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/disney_activism/disney 6.png)
+
+I've put Disney's financials into a simple model [here](https://docs.google.com/spreadsheets/d/1h6yW8z2AcCCm-vn6bEkk0g5_nN-bzLge1lkok94PFaI/edit?usp=sharing "goog") in case any of you want to play around with the numbers. Note that the assumptions are just dummy numbers and not diligenced.
 
 Now let's take a look at what the investors are saying.
 
@@ -173,13 +184,15 @@ With the enormous caveat that I don't cover Disney and never have, I'm leaning t
 - Streaming content is likely to be a high growth trend for the next X years (5? 10? 20?) so spending more here is likely high return
 - I agree that it's unclear how much that return is, and that Third Point's subscriber math is all made up, but I'd have to think it'll be higher return than the dividend payment
 - Charging more for movies on a pay per view basis also seems stupid to me when you're trying to build a streaming business. Recall what I just wrote about [Magic and overcharging](https://avoidboringpeople.substack.com/p/mtg-magic-the-gathering-and-metagaming "Magic")
-- Semper's argument boils down to: Hang on let's see everything we can do here. Which is well... true? I mean, can't argue against that, just that it's not really a strong one
+- Semper's argument boils down to: Hang on let's see everything we can do here. Which is well... true? I mean, can't argue against that, just that it's not really a strong one. I'm sure Disney would look at all their options before deciding to reinvest their dividend, so it's not an impactful argument for me
 - I don't know Disney's full debt structure, but the 10K shows that their current rates aren't really bad (see image below). I'm unsure if paying down debt aggressively makes much sense
 - Especially in our current low rate environment, if Disney needed cash to finance an acquisition or stock repurchase, I would assume it's easy for them to borrow for cheap
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/disney_activism/disney 5.png)
 
-Again, caveat that this is not investment advice and that I'm less familiar with the sector, but that's my current opinion. Feel free to reply letting me know what you think!
+Again, caveat that this is not investment advice and that I'm less familiar with the sector, but that's my current opinion. As mentioned, you're welcome to make a copy of the financial model I put together [here](https://docs.google.com/spreadsheets/d/1h6yW8z2AcCCm-vn6bEkk0g5_nN-bzLge1lkok94PFaI/edit#gid=0 "goog") to play with the numbers. The assumptions I put in there are dummy numbers so please don't anchor on them. 
+
+Feel free to reply letting me know what you think!
 
 ## Footnotes
 
