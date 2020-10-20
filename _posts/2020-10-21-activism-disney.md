@@ -1,10 +1,12 @@
 ---
-title:  ""  
-tags: []
+title:  "Just keep streaming"  
+tags: [disney, activism, case study, investing, finance, dividend]
 published: false
 ---
 
 ## Takeaway
+
+Third Point argues that Disney should stop paying its dividend and invest in streaming; Semper Augustus disagrees.
 
 <style>
       .iframe-container {
@@ -113,11 +115,11 @@ Third Point elaborates:
 
 > These incremental dollars would, based on our analysis, generate returns that are multiples of the stock’s current dividend yield by driving high life-time-value (“LTV”) subscribers to your DTC platform.
 
-They're arguing that the full value of a streaming subscriber is high, and so Disney should invest more on content to get more subscribers i.e. a dollar returned to an investor as a dividend is worth less than if Disney used that dollar to make content and get more subs
+They're arguing that the full value of a streaming subscriber is high, and so Disney should invest more on content to **get more subscribers** i.e. a dollar returned to an investor as a dividend is worth less than if Disney used that dollar to make content and get more subs
 
 > Beyond bringing additional subscribers onto the platform, increased velocity of dedicated content production will deliver several knock-on benefits spread across your existing base including elevated engagement, lower churn, and increased pricing power. To put this in perspective, improving Disney+ churn to Netflix’s industry-leading ~2% domestic churn levels would more than double gross subscriber LTV. 
 
-Common tactic of comparing a company to a "best in class" example, saying that if the company can perform as well as the example, [dreams come true](https://disneyparks.disney.go.com/in/#:~:text=Disney%20Parks%20%7C%20Where%20Dreams%20Come%20True "dis"). In this case, they're saying that more subs will stay subscribed, watch more shows, and Disney would be able to charge them more. 
+Common tactic of comparing a company to a "best in class" example, saying that if the company can perform as well as the example, [dreams come true](https://disneyparks.disney.go.com/in/#:~:text=Disney%20Parks%20%7C%20Where%20Dreams%20Come%20True "dis"). In this case, they're saying that more subs will stay subscribed, watch more shows, and Disney would be able to charge them more.  
 
 > Of equal importance, meaningfully accelerating DTC content spend will further broaden the divide between The Walt Disney Company and its traditional media peers - AT&T’s WarnerMedia, Discovery, ViacomCBS, Comcast’s NBCUniversal and Fox – none of which have the financial capabilities to execute such a bold plan
 
@@ -161,8 +163,23 @@ Semper prefers Disney focus on quality not quantity.
 
 > Yes, if subscriber counts grow faster than expectations in the short term, the stock price is likely to be rewarded, in the short term. On a sufficient pop in the stock, we’d bet Third Point and that ilk of short-term speculator, defining success as an expansion in the price-to-earnings multiple, will be through the exit door.
 
-This is a common critique of activists - that they're only short term holders. I'm generally inclined to agree, although I have seen counterevidence \[11\]
+This is a common critique of activists - that they're only short term holders. I'm generally inclined to agree that activists on average are shorter-term, although I have seen counterevidence \[11\].
 
+### Concluding thoughts
+
+With the enormous caveat that I don't cover Disney and never have, I'm leaning towards Third Point here. Which is surprising, since I normally find most activist arguments weak. Couple of reasons:
+
+- I'm not a big fan of dividends; see [here](https://avoidboringpeople.substack.com/p/when-it-doesnt-pay-dividends "divd") for why
+- Streaming content is likely to be a high growth trend for the next X years (5? 10? 20?) so spending more here is likely high return
+- I agree that it's unclear how much that return is, and that Third Point's subscriber math is all made up, but I'd have to think it'll be higher return than the dividend payment
+- Charging more for movies on a pay per view basis also seems stupid to me when you're trying to build a streaming business. Recall what I just wrote about [Magic and overcharging](https://avoidboringpeople.substack.com/p/mtg-magic-the-gathering-and-metagaming "Magic")
+- Semper's argument boils down to: Hang on let's see everything we can do here. Which is well... true? I mean, can't argue against that, just that it's not really a strong one
+- I don't know Disney's full debt structure, but the 10K shows that their current rates aren't really bad (see image below). I'm unsure if paying down debt aggressively makes much sense
+- Especially in our current low rate environment, if Disney needed cash to finance an acquisition or stock repurchase, I would assume it's easy for them to borrow for cheap
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/disney_activism/disney 5.png)
+
+Again, caveat that this is not investment advice and that I'm less familiar with the sector, but that's my current opinion. Feel free to reply letting me know what you think!
 
 ## Footnotes
 
@@ -176,7 +193,7 @@ This is a common critique of activists - that they're only short term holders. I
 8. Third Point's main argument starts in the third paragraph, and I'm unsure if this was intentional for *Third* Point.
 9. Again, simplistic take. If I wanted to dig further, I'd go check the multiples shown for those companies, how they're calculated, and how they've trended over time. No doubt MSFT and ADBE have done well with their pivot and been rewarded for it. At the same time, 2010 seems to be soon after the 09 crisis, so multiples were probably depressed. Multiples in 2020 are probably also higher than normal. So some of the multiple expansion was from the business model transition, some of it was due to comparing a high point vs a low bar.
 10. Disney tried this with Mulan and googling shows people think it didn't go well.
-11.
+11. Usually presented by the activists themselves, who will show some table of "Oh I've held so and so stock for 10 years" and then the stock turns out to be Amazon or something that everybody would want be a long term holder of. To be clear, I'm not saying activists *can't* be long term holders, just that the business model by nature incentivises short term action.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
