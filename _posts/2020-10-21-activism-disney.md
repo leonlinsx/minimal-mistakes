@@ -34,7 +34,7 @@ Third Point argues that Disney should stop paying its dividend and invest in str
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-## Main
+## Activism at Disneyland
 
 The activist investment fund Third Point recently published a [letter to Disney,](https://www.valuewalk.com/2020/10/third-point-walt-disney-company/ "disney") suggesting the company change their business strategy \[1\]. This led to [a rebuttal by another investment firm](https://valueinvestingworld.substack.com/p/chris-bloomstrans-letter-to-the-walt "Semper"), Semper Augustus (h/t Joe Koster). It's less common for investment firms to provide counterarguments against an activist, so let's take a look at both sides \[2\].
 
@@ -176,7 +176,7 @@ Semper prefers Disney focus on quality not quantity.
 
 This is a common critique of activists - that they're only short term holders. I'm generally inclined to agree that activists on average are shorter-term, although I have seen counterevidence \[11\].
 
-### Concluding thoughts
+### I'm leaning towards Third Point here
 
 With the enormous caveat that I don't cover Disney and never have, I'm leaning towards Third Point here. Which is surprising, since I normally find most activist arguments weak. Couple of reasons:
 
