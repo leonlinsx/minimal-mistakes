@@ -190,7 +190,7 @@ With the enormous caveat that I don't cover Disney and never have, I'm leaning t
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/disney_activism/disney 5.png)
 
-Again, caveat that this is not investment advice and that I'm less familiar with the sector, but that's my current opinion. As mentioned, you're welcome to make a copy of the financial model I put together [here](https://docs.google.com/spreadsheets/d/1h6yW8z2AcCCm-vn6bEkk0g5_nN-bzLge1lkok94PFaI/edit#gid=0 "goog") to play with the numbers. The assumptions I put in there are dummy numbers so please don't anchor on them. 
+Again, caveat that this is not investment advice and that I'm less familiar with the sector, but that's my current opinion. As mentioned, you're welcome to make a copy of the financial model I put together [here](https://docs.google.com/spreadsheets/d/1h6yW8z2AcCCm-vn6bEkk0g5_nN-bzLge1lkok94PFaI/edit#gid=0 "goog") to play with the numbers. The assumptions I put in there are dummy numbers so please don't anchor on them \[12\]. 
 
 Feel free to reply letting me know what you think!
 
@@ -207,6 +207,7 @@ Feel free to reply letting me know what you think!
 9. Again, simplistic take. If I wanted to dig further, I'd go check the multiples shown for those companies, how they're calculated, and how they've trended over time. No doubt MSFT and ADBE have done well with their pivot and been rewarded for it. At the same time, 2010 seems to be soon after the 09 crisis, so multiples were probably depressed. Multiples in 2020 are probably also higher than normal. So some of the multiple expansion was from the business model transition, some of it was due to comparing a high point vs a low bar.
 10. Disney tried this with Mulan and googling shows people think it didn't go well.
 11. Usually presented by the activists themselves, who will show some table of "Oh I've held so and so stock for 10 years" and then the stock turns out to be Amazon or something that everybody would want be a long term holder of. To be clear, I'm not saying activists *can't* be long term holders, just that the business model by nature incentivises short term action.
+12. To be clear, if I were to actually model Disney, we would have to go into a lot more detail, such as estimating subscriber numbers and building each business segment bottoms up. The model’s a simplified one with dummy assumptions; the intent is to let people have a quick overview of the business and drivers
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
