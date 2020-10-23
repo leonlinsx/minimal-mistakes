@@ -48,7 +48,8 @@ The full talk is [here](https://www.youtube.com/watch?v=pW0KJiLD7LQv), and you c
 
 If you want to know Polina's most important writing tip, the types of people she looks for, and her grand vision for the Profile, read on.
 
-### 1. On writing 
+### 1. On writing
+
 
 **Good writing requires good editing** 
 
@@ -115,6 +116,7 @@ Getting the first requires both luck and effort. You have to be open to meeting 
 
 ### 2. On profiling
 
+
 **People are only relatable if you see them fail**
 
 In her profiles, Polina emphasizes faults:
@@ -144,6 +146,7 @@ On this, Polina says:
 > The way I get people to agree for a profile is to do research on them, find something similar, and show you're a human too
 
 ### 3. Other
+
 
 Here's a few other points that came up during the discussion:
 
