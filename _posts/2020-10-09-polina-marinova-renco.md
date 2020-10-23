@@ -6,7 +6,7 @@ published: true
 
 ## Takeaway
 
-Polina of the Profile thinks that good writing requires good editing, nuance is important, and intentionally emphasises the faults in people
+Polina Marinova of the Profile thinks that good writing requires good editing, nuance is important, and intentionally emphasises the faults in people
 
 <style>
       .iframe-container {
