@@ -50,6 +50,7 @@ If you want to know Polina's most important writing tip, the types of people she
 
 ### 1. On writing
 
+Polina's advice on editing, feedback, and finding support:
 
 **Good writing requires good editing** 
 
@@ -116,6 +117,7 @@ Getting the first requires both luck and effort. You have to be open to meeting 
 
 ### 2. On profiling
 
+Polina's advice on being more human:
 
 **People are only relatable if you see them fail**
 
@@ -146,7 +148,6 @@ On this, Polina says:
 > The way I get people to agree for a profile is to do research on them, find something similar, and show you're a human too
 
 ### 3. Other
-
 
 Here's a few other points that came up during the discussion:
 
