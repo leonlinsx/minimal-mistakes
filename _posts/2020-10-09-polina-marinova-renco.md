@@ -48,9 +48,7 @@ The full talk is [here](https://www.youtube.com/watch?v=pW0KJiLD7LQv), and you c
 
 If you want to know Polina's most important writing tip, the types of people she looks for, and her grand vision for the Profile, read on.
 
-### 1. On writing
-
-Polina's advice on editing, feedback, and finding support:
+### 1) On writing
 
 **Good writing requires good editing** 
 
@@ -115,9 +113,7 @@ For finding the former type of groups, she's curated her twitter feed via lists,
 
 Getting the first requires both luck and effort. You have to be open to meeting others, and also need to build a name for yourself so that you'll get asked.
 
-### 2. On profiling
-
-Polina's advice on being more human:
+### 2) On profiling
 
 **People are only relatable if you see them fail**
 
@@ -147,7 +143,7 @@ On this, Polina says:
 
 > The way I get people to agree for a profile is to do research on them, find something similar, and show you're a human too
 
-### 3. Other
+### 3) Other
 
 Here's a few other points that came up during the discussion:
 
