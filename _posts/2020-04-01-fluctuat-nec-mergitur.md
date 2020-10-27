@@ -4,7 +4,7 @@ tags: [marketplace, feedback, ratings, financial crisis, corona, health, helping
 published: true
 ---
 
-**Takeaways**
+## Takeaways
 
 1. Design better rating systems using relative rankings, user behaviour, and response rates
 2. Financial crises are about liquidity and not capital
@@ -36,11 +36,11 @@ published: true
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-**Question of the month**
+## Question of the month 
 
 If you have been affected by the crisis and think I could help, please reply directly to this email and we'll problem solve together.
 
-**Designing a better marketplace feedback system**
+## Designing a better marketplace feedback system
 
 You use rating systems all the time: apps on mobile, drivers on uber, restaurants on google maps \[1\]. You've also probably noticed how most of them are flawed, not giving you enough precise information to decide if the thing is actually good. A 4.5 star rating doesn't mean much when everyone is also above 4 stars. [Josh Breinlinger of Jackson Square](https://acrowdedspace.com/ "JSV") discusses why this happens to marketplaces [here](https://www.slideshare.net/jbreinlinger/marketplace-pricing-and-feedback "Feedback") and proposes some solutions.
 
@@ -90,7 +90,7 @@ If you're building a marketplace, Josh's points can be summarised as:
   2. use relative rather than absolute ratings to get more granularity
   3. use other signals beyond user feedback scores, such as actual behaviour or response rate
 
-**Misunderstanding financial crises**
+## Misunderstanding financial crises
 
 I read ["Misunderstanding financial crises" by Gary Gorton](https://www.amazon.com/Misunderstanding-Financial-Crises-Dont-Coming/dp/019992290X "AMZN") a few years back. It has good points on why financial crises occur, and could be rewritten to have more structure and clarity. Highlights below: 
 
@@ -124,7 +124,7 @@ Conversely, **when there are too many unknowns, liquidity stops.** In the 08 cri
 
 Money and credit is critical to society as it stands currently, and has been for centuries now. It's the inherent tradeoff in having fractional banking, since credit relies on trust. In good times when trust is high, liquidity isn't a concern, credit is extended, and economic activity occurs. In bad times when trust is low, liquidity disappears, credit is withdrawn, and economic activity stalls \[6\]. 
 
-**Fluctuat nec mergitur**
+## Fluctuat nec mergitur 
 
 > Goodness is not goodness that seeks advantage. Good is good in the final hour, in the deepest pit, without hope, without witness, without reward. Virtue is only virtue in extremis \[7\]
 
@@ -158,13 +158,13 @@ In these trying times, we'll be tossed by waves of fear and hopelessness, but wi
 > Unto his nest again,
 > I shall not live in vain \[9\]
 
-**Shoutouts**
+## Shoutouts
 
 1. I met with Nick Arkinson of [Levatso Holdings](https://www.levatsoholdings.com/ "Levatso"), who's looking to buy a majority stake in a growing company. Companies that fit their model typically have $5M - 20M annual rev, recurring rev model, 15%+ operating margin
 2. If you're in Manhattan and need an hourly retail worker, my friend who's a chocolate expert was laid off
 3. If you're in Chicago and need dinner, Ben Arnstein of [Kaliflower](https://www.eatkaliflower.com/ "Kaliflower") could use the support
 
-**Other resources to help or get helped**
+## Other resources to help or get helped
 
 1. If you're an hourly worker that was laid off, [Sari Azout](https://twitter.com/sariazout "Sari") is donating her ad revenue to people like you. Fill up your info [here](https://docs.google.com/spreadsheets/d/1FiGwSc4aXcNiXOLLDD5SiLl_rt-NlKxpE8Y7ItZG7wo/edit#gid=332470286 "Sari")
 2. If you're a startup employee that was laid off, [Julia Lipton](https://twitter.com/JuliaLipton "Julia") has a form [here](https://docs.google.com/forms/d/e/1FAIpQLSdVmqb4iYasGhDy2SQIG-qlLhsNV_d6CxrkfFwF6shLPYa3uA/viewform "Julia") that's matching employees to companies hiring
@@ -172,7 +172,7 @@ In these trying times, we'll be tossed by waves of fear and hopelessness, but wi
 4. If you're in NY and want to buy merchandise from restaurants to show support, Eater NY has a list [here](https://ny.eater.com/2020/3/27/21192544/nyc-restaurant-merchandise-list-coronavirus-support "Eater")
 5. If you want to volunteer for a COVID project, Help with Covid has a list [here](https://helpwithcovid.com/ "Covid")
 
-**Footnotes**
+## Footnotes
 
 1. I have a personal bias against yelp due to anecdotes of restaurant complaints
 2. I believe it's the difference between a linear (screen once) vs a polynomial (evaluate constantly) function but someone correct me if I'm wrong here
