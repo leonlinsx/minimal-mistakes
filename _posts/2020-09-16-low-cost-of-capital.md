@@ -1,10 +1,10 @@
 ---
 title:  "Cost of capital in the 21st century"  
 tags: [investment, finance, cost of capital, debt, equity, wacc, valuation, private equity, venture, vc, public equity, stocks]
-published: false
+published: true
 ---
 
-### Takeaway
+## Takeaway
 
 The reduced cost of capital now implies a wealth transfer from savers to borrowers, and that it's optimal for a person to be taking more risk today than before.
 
@@ -34,7 +34,7 @@ The reduced cost of capital now implies a wealth transfer from savers to borrowe
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-### Implications of low cost of capital
+## Implications of low cost of capital
 
 I want to take a look at **cost of capital** today. I've been wondering what the implications are of our current low cost environment, plus [Michael Pettis](https://carnegieendowment.org/chinafinancialmarkets/82610 "Pettis") recently wrote a good article on interest rates vs growth, so let's look closer at this topic. I won't have all the answers either, so comments are definitely welcome, either reply directly or on the post's comment box.
 
@@ -44,7 +44,7 @@ For those who don't know what cost of capital is, not to worry. I'll provide a b
 2. As a result, there is a wealth transfer from savers to borrowers
 3. This also implies that more risk taking should occur
 
-#### Cost of capital is the blended cost of financing your idea
+### Cost of capital is the blended cost of financing your idea
 
 Imagine you had an idea. It could be a new business idea, an expansion plan, or even some investment you were thinking of. All that matters is it requires money (capital), and hopefully returns you more money than you put in.
 
@@ -68,7 +68,7 @@ That was a simplified explanation, but it should give enough intuition for the r
 
 Put another way: We want to make money. We need money. That money comes at a cost, which is the cost of capital.
 
-#### 1. Cost of capital is lower now
+### 1. Cost of capital is lower now
 
 First, let's establish the case that it's less costly to get money now than before. To do so, we'll look at a few graphs over time of rates.
 
@@ -96,7 +96,7 @@ There's a slight increase in recent months, but overall equity risk premiums hav
 
 From the above, we've shown that the cost of capital has declined. This implies that raising money now, either via debt or equity, is cheaper than before.
 
-#### 2. Lowered cost of capital implies wealth transfers from savers to borrowers
+### 2. Lowered cost of capital implies wealth transfers from savers to borrowers
 
 Let's introduce a complication. Above we said that a business should aim to grow more than their costs. People have extended this concept to countries, claiming that debt is sustainable when the growth rate of GDP (return) is more than the interest rate (cost of capital). To do so, they often cite famous economist Thomas Piketty's work, [Capital in the Twenty-First Century](https://en.wikipedia.org/wiki/Capital_in_the_Twenty-First_Century "Capital").
 
@@ -112,7 +112,7 @@ If you had money and were lending it out, you're lending it out at the market co
 
 This has differing implications on future growth as well as wealth inequality. The wealthy save more, so lowered costs result in a wealth transfer from the rich to the poor. This is offset by increased speculation on assets, which shifts wealth the other way. The net effect of this depends on relative size of each. Pettis doesn't make this point, but **I believe that the speculation piece has more than offset the former effect, and that's a cause of rising wealth inequality.**
 
-#### 3. Lowered cost of capital implies more risk taking should occur
+### 3. Lowered cost of capital implies more risk taking should occur
 
 This is where I get more speculative. A lowered cost of capital vs growth also implies that **everyone's risk tolerance should increase.** If the opportunity cost of doing things is lower, the optimal amount of risk to take is higher. For example, if it used to cost you 5% a year to borrow money for your business, and now it costs you 1%, you should borrow more and start more businesses.
 
@@ -134,7 +134,7 @@ The second is that I've heard the lowered cost of capital is **unevenly spread a
 
 The overall takeaway then, is that every individual now should **increase their risk tolerance and take part in more risky activities**, as their base cost has gone down. Whether that means more investment into public equities, alternative asset classes, or your friend's new business, is up to you to decide. As always, this is not investment advice, and I'm interested in seeing counterarguments to the above. 
 
-### Footnotes
+## Footnotes
 
 1. There are many variations of debt, equity, and hybrid securities like convertibles (part debt, part equity). For ease of discussion let's stick to just the two
 2. I'm not going into yields vs interest rates to keep things simple, read [here](https://www.fidelity.com/learning-center/investment-products/fixed-income-bonds/bond-prices-rates-yields "fidelity") for a start to learn more.
