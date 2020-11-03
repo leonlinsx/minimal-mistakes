@@ -34,13 +34,11 @@ published: false
 
 ## Main
 
-I've had to explain to a few people what investment banking's actually about recently, and I figured I might as well do a short primer here as well. 
-
-Particularly given the mismatch between expectations and reality, hopefully this will help clarify things.
+I've had to explain to a few people what investment banking's actually about recently, and I figured I might as well do a short primer here as well. Especially given the mismatch between expectations and reality, hopefully this will help clarify things.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/banking/banking 1.png)
 
-Investment banking is generally not about investing, despite my parents' refusal to accept the fact. I've been trying to find the etymology of when "merchant banking" turned into "investment banking," but no luck so far. If you happen to know, please get in touch.
+**Investment banking is generally not about investing,** despite my parents' never seeming to have understood that. Sidenote: I've been trying to find the etymology of when "merchant banking" turned into "investment banking," but haven't had luck so far. If you happen to know, please get in touch.
 
 A "full service" bank like JP Morgan is enormous. You can think about it as four main lines of business:
 
@@ -58,15 +56,15 @@ The world has a lot of people with capital, looking to use it. For example, a pe
 
 The world also has a lot of people who need capital. For example, a company might issue debt or equity in order to fund their operations.
 
-The business of the bank is to make a market between the two groups.
+The business of the bank is to **make a market** between the two groups.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/banking/banking 3.png)
 
 For example, if Google is trying to raise debt, the bank will work with it to figure out how much they can raise, who will buy the debt, and what terms the debt will be issued at. 
 
-Some but not all banks are structured into two large groups, industry coverage and product coverage \[3\]. Industry referring to providing advice to companies in that industry vertical. Product here referring to a type of financial product such as corporate finance advisory, eqiuty capital markets, debt capital markets, leveraged finance, and mergers and acquisitions.
+Some but not all banks are structured into two large groups, **industry coverage** and **product coverage** \[3\]. Industry referring to providing advice to companies in that industry vertical. Product here referring to a type of financial product such as corporate finance advisory, equity capital markets, debt capital markets, leveraged finance, and mergers and acquisitions.
 
-Industry coverage is easier to understand, so I'll take a while to explain the various financial products instead.
+Industry coverage is easier to understand, so I'll just explain the various financial products.
 
 
 
