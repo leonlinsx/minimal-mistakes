@@ -66,6 +66,22 @@ Some but not all banks are structured into two large groups, **industry coverage
 
 Industry coverage is easier to understand, so I'll just explain the various financial products.
 
+**Equity capital markets** deals with most equity related products, from private placements (when a company wants to issue stock privately) to IPOs (when a company issues stock publicly). For example, if you're going to IPO, part of the banking team you'll work with will include ECM bankers. They'll be working with sales to talk to investors and gauge demand for your stock.
+
+**Debt capital markets** usually deals with investment grade debt products. If you don't know what "grade" refers to, we'll come back to that in a minute. For example, if you're a company looking to issue debt for an acquisition, you'll be working with a DCM team to understand what interest rates etc you'll be able to get, based on investor demand.
+
+**Leveraged finance** usually deals with non-investment grade debt. Historically, LevFin was considered more risky and exotic, until [Michael Milken](https://en.wikipedia.org/wiki/Michael_Milken "Mike") kickstarted the sector with the use of "risky" debt in private equity leveraged buyouts. That's why there's a different team for it, as the types of investors could be different and desiring different types of terms. For example, a company issuing non-investment grade instead of investment grade debt might have to accept higher interest rates, in exchange for weaker debt covenants.
+
+**Mergers and acquisitions** deals with whenever companies want to buy or sell each other. For example, if you were looking to buy a smaller competitor, you'd work with an M&A banking team to get a valuation and discuss bidding strategy.
+
+**Corporate finance advsiory** is a team that provides financial advice, and often is used for debt ratings or activism advisory. The CFA team tries to model what the ratings agencies will rate your debt at. Coming back to "grade," all public debt issuers have a "rating" associated with them and the debt they issue. There's a few credit rating agencies such as S&P, Moody's etc that will evaluate the terms and then give the debt a "rating," which is supposed to represent how risky the debt is. For example, Google issuing debt would get a "low risk" grade, whereas a startup issuing debt would get a "high risk" grade.
+
+To give a hypothetical example touching on all of the groups above, suppose you were a large company looking to acquire another large company.
+
+You'd work with the industry coverage team for non-product specific work, such as industry related slides to justify the deal. The M&A team would help you build a financial model to assess bidding prices and pro forma merger financials. 
+
+Since it's a large deal, you want to raise the cash from all available sources, so you'll use investment grade debt, non-investment grade debt, and why not a private placement while you're at it. This loops in the DCM, LevFin, and ECM teams. Since you're doing debt stuff, it'll also loop in the CFA team to estimate the ratings.
+
 
 
 Everyone hates middlemen until they have to try making a market for themselves
