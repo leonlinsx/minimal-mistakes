@@ -1,10 +1,12 @@
 ---
 title:  ""  
-tags: []
+tags: [finance, banking, capital]
 published: false
 ---
 
 ## Takeaway
+
+Investment banking is rarely about investing, and more about connecting sources and users of financial capital.
 
 <style>
       .iframe-container {
@@ -32,7 +34,7 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-## Main
+## Investment banking 
 
 I've had to explain to a few people what investment banking's actually about recently, and I figured I might as well do a short primer here as well. Especially given the mismatch between expectations and reality, hopefully this will help clarify things.
 
@@ -82,15 +84,30 @@ You'd work with the industry coverage team for non-product specific work, such a
 
 Since it's a large deal, you want to raise the cash from all available sources, so you'll use investment grade debt, non-investment grade debt, and why not a private placement while you're at it. This loops in the DCM, LevFin, and ECM teams. Since you're doing debt stuff, it'll also loop in the CFA team to estimate the ratings.
 
+When the deal closes, the bank will take a percentage of the total deal size. The percentages vary depending on product, but as you can imagine that incentivises bankers to do larger deals.
 
+Also note that most of banking money is made when an actual deal happens, so bankers are incentivised to make deals happen. 
 
-Everyone hates middlemen until they have to try making a market for themselves
+So, now that we know what banking is, **do bankers actually add value?** 
+
+It's become more popular to hate on bankers the past decade, with the average person thinking bankers spend most of their time [midget tossing](https://www.youtube.com/watch?v=EQlgrw31St0 "midget") and the average company executive thinking bankers don't know their industry as well as the company does.
+
+As with all things, it depends. Everyone hates middlemen until they have to try making a market for themselves. 
+
+It's easy to say that a "well known" company like Palantir could IPO without much help from a bank, or that Google could issue debt directly. Large companies typically have entire finance teams of ex-bankers, so it's not like they lack the knowledge. They're in contact with investors regularly too, particularly if they're a public company and have to do investor meetings. And they should hopefully know their industry space and competitors better than bankers do \[4\].
+
+It's harder for "lesser known" companies to do so. If you aren't as large a company and don't have a dedicated team, you'd want to outsource as much of this work as possible. For example, if you're going to IPO and don't even know where to begin and who to reach out to, working with a bank makes more sense.
+
+Additionally, there's always the "cover my ass" factor, where bankers form a supposedly unbiased third party opinion on the acquisition. If the bank has valued the company at $10, there's less chance of getting sued by someone saying you overpaid by offering $10.
+
+There's a popular narrative of bankers being disintermediated by tech or the latest financial innovation. While I agree that bankers do need to keep up and continue finding better ways to add value, I don't see investment banks disappearing any time soon. If I had to make a prediction, I'd say with 90% certainty that the "investment bank" role is still around in 20 years, with its essential service still being a financial middleman, even if the companies change. Cynically, even if all of debt and equity issuances take place on some sort of tech platform, companies still need someone to blame when things go wrong.
 
 ## Footnotes
 
 1. [Prof Maillet of McIntire](https://www.commerce.virginia.edu/faculty/pam5x "prof")
 2. Sometimes human capital too, but that's usually unintentional and rarer
 3. I can't actually remember anymore which ones have which structure. The alternative is to have a single group of industry coverage that does both functions.
+4. Banks do cover competitors, but there's usually some form of "conflicts" process to try and prevent a banker covering two competitors at the same time, particularly for actual deals 
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
