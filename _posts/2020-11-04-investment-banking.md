@@ -1,5 +1,5 @@
 ---
-title:  ""  
+title:  "Do investment bankers add value?"  
 tags: [finance, banking, capital]
 published: false
 ---
@@ -34,7 +34,7 @@ Investment banking is rarely about investing, and more about connecting sources 
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-## Investment banking 
+## Investment banking overview
 
 I've had to explain to a few people what investment banking's actually about recently, and I figured I might as well do a short primer here as well. Especially given the mismatch between expectations and reality, hopefully this will help clarify things.
 
@@ -96,7 +96,7 @@ As with all things, it depends. Everyone hates middlemen until they have to try 
 
 It's easy to say that a "well known" company like Palantir could IPO without much help from a bank, or that Google could issue debt directly. Large companies typically have entire finance teams of ex-bankers, so it's not like they lack the knowledge. They're in contact with investors regularly too, particularly if they're a public company and have to do investor meetings. And they should hopefully know their industry space and competitors better than bankers do \[4\].
 
-It's harder for "lesser known" companies to do so. If you aren't as large a company and don't have a dedicated team, you'd want to outsource as much of this work as possible. For example, if you're going to IPO and don't even know where to begin and who to reach out to, working with a bank makes more sense.
+It's harder for "lesser known" companies to do so. If you aren't as large a company and don't have a dedicated team, you'd want to outsource as much of this work as possible. For example, if you're going to IPO and don't even know where to begin and who to reach out to, working with a bank makes more sense. Or if you want to sell your company but not publicly announce that you're for sale, bankers can be helpful too.
 
 Additionally, there's always the "cover my ass" factor, where bankers form a supposedly unbiased third party opinion on the acquisition. If the bank has valued the company at $10, there's less chance of getting sued by someone saying you overpaid by offering $10.
 
