@@ -76,7 +76,7 @@ Industry coverage is easier to understand, so I'll just explain the various fina
 
 **Mergers and acquisitions** deals with whenever companies want to buy or sell each other. For example, if you were looking to buy a smaller competitor, you'd work with an M&A banking team to get a valuation and discuss bidding strategy.
 
-**Corporate finance advsiory** is a team that provides financial advice, and often is used for debt ratings or activism advisory. The CFA team tries to model what the ratings agencies will rate your debt at. Coming back to "grade," all public debt issuers have a "rating" associated with them and the debt they issue. There's a few credit rating agencies such as S&P, Moody's etc that will evaluate the terms and then give the debt a "rating," which is supposed to represent how risky the debt is. For example, Google issuing debt would get a "low risk" grade, whereas a startup issuing debt would get a "high risk" grade.
+**Corporate finance advisory** is a team that provides financial advice, and often is used for debt ratings or activism advisory. The CFA team tries to model what the ratings agencies will rate your debt at. Coming back to "grade," all public debt issuers have a "rating" associated with them and the debt they issue. There's a few credit rating agencies such as S&P, Moody's etc that will evaluate the terms and then give the debt a "rating," which is supposed to represent how risky the debt is. For example, Google issuing debt would get a "low risk" grade, whereas a startup issuing debt would get a "high risk" grade.
 
 To give a hypothetical example touching on all of the groups above, suppose you were a large company looking to acquire another large company.
 
