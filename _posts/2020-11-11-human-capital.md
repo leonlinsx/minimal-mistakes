@@ -38,7 +38,7 @@ A research paper proposes that you should look to work with strong teammates and
 
 We discussed [middlemen in financial capital last week](https://avoidboringpeople.substack.com/p/do-investment-bankers-add-value "ib"). This week, let's look at middlemen in human capital. 
 
-In the paper [Are Inventors or Firms the Engines of Innovation?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3081933 "paper") Ajay Bhaskarabhatla, Luis Cabral, Deepak Hegde, and Thomas Peeters look into whether we should credit humans or companies more for innovations. Surprisingly, they find that **humans deserve much more merit.** Let's take a closer look.
+In the paper ["Are Inventors or Firms the Engines of Innovation?"](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3081933 "paper") Ajay Bhaskarabhatla, Luis Cabral, Deepak Hegde, and Thomas Peeters look into whether we should credit humans or companies more for innovations. Surprisingly, they find that **humans deserve much more merit.** Let's take a closer look.
 
 We can think about companies as performing a middleman role of "matching people together," bringing together people with ideas and people who want to execute. There's a whole [Theory of the Firm](https://en.wikipedia.org/wiki/Theory_of_the_firm "Theory") on how companies exist to reduce transaction costs \[1\]. Under this framework, we could try and split out the effect of innovation between the people and the firm.
 
