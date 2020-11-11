@@ -34,7 +34,7 @@ A research paper proposes that you should look to work with strong teammates and
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-## Main
+## People vs Companies
 
 We discussed [middlemen in financial capital last week](https://avoidboringpeople.substack.com/p/do-investment-bankers-add-value "ib"). This week, let's look at middlemen in human capital. 
 
