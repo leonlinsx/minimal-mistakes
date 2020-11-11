@@ -76,7 +76,7 @@ This result is harder for me to accept and understand. The paper does claim to h
 
 The researchers also include an entire page of other limitations with the study. The big ones include using patent count as the definition of innovation and assuming that wages and potential innovation output are being traded off. You can read more in the footnote or in page 23 of [the paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3081933 "paper") \[6\].
 
-Assuming you beleive in their research though, the main takeaways are:
+Assuming you believe in their research though, the main takeaways are:
 
 - People rather than companies are the ones pushing innovation along
 - If you want to push the boundaries of innovation, you're better off finding good people to work with, rather than a good company
