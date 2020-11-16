@@ -34,6 +34,8 @@ published: false
 
 ## Main
 
+That's why definitions are important. If your "later" in "I'm doing the dishes later" meant two weeks from now vs their "later tonight," you're going to have problems.
+
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
