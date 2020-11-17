@@ -99,7 +99,7 @@ The AQR team looks at common criticisms of such a "systematic value investing" s
 ## Footnotes
 
 1. I would like to say this was planned from the start of this month, but it was a coincidence.
-2. I'm simplifying in the main text here, they actually say that although the return has declined in the latter half of the July 1963-June 2019 period, there's not enough data yet to conclude if value investing as an investment factor works or not. Note I'm using investment factor here as something specific, i.e. a filterable criteria to weight an investment portfolio by.
+2. I'm simplifying in the main text here, they actually say that although the return has declined in the latter half of the July 1963-June 2019 period, [there's not enough data yet to conclude if value investing as an investment factor works or not.](https://www.institutionalinvestor.com/article/b1k3pd2z3ptx9g/Ken-French-There-Is-No-Way-to-Tell-If-Value-Premium-Is-Disappearing "ii") Note I'm using investment factor here as something specific, i.e. a filterable criteria to weight an investment portfolio by, as mentioned later in the main text.
 3. Don't @ me with some contrived hedged insurance strategy when you know the point I'm making here.
 4. People also use the reverse, of [price to book](https://en.wikipedia.org/wiki/P/B_ratio "pb"). See the link for details on the calculations.
 5. "EV is computed as the sum of total equity market capitalization, preferred stock, minority interest and total debt. The latter three components are based on reported book values, not market values, as it is difficult to get reliable market data for these items for our global sample of firms (and the differences between book and market value is likely to be small for most firms)"
