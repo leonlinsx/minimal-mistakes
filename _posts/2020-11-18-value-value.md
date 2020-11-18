@@ -92,7 +92,7 @@ Criticism #1 is regarding one of the "value metrics," Book to Price. People have
 
 > You need to expand your horizons when it comes to measuring value. Book value is not the only fundamental anchor for price
 
-I suppose that's justfiable, though I do have a quibble with just brushing aside adding measures and "expanding horizons" as something uncontroversial. If we're ok adding any fundamental anchor, we'd end up back where we started, trying to define what value investing means. Someone could add a "user views to headcount" measure and claim that was a "value" measure.
+I suppose that's justifiable, though I do have a quibble with just brushing aside adding measures and "expanding horizons" as something uncontroversial. If we're ok adding any fundamental anchor, we'd end up back where we started, trying to define what value investing means. Someone could add a "user views to headcount" measure and claim that was a "value" measure.
 
 Criticism #2 is regarding how companies are doing more share repurchases lately, which could cause the metrics to be faulty and value investing to stop working. AQR finds that **the amount of share repurchases hasn't had a significant effect on the performance of value:** 
 
@@ -153,7 +153,7 @@ It's not a terribly satisfying explanation, since it's the equivalent of saying 
 5. "EV is computed as the sum of total equity market capitalization, preferred stock, minority interest and total debt. The latter three components are based on reported book values, not market values, as it is difficult to get reliable market data for these items for our global sample of firms (and the differences between book and market value is likely to be small for most firms)"
 6. This doesn't totally resolve the problem of course, and is why so many people still argue about definitions and measurements today. It's one way of making the problem statement easier to explore though so we'll stick with it for lack of better alternatives.
 7. The details are on pdf pg 16. "If you limit the sample to just the largest stocks, and focus on simple sort portfolios, then B/P is not significant in the presence of E/P."
-8. Pdf pg 24. If you're familiar with Michael Mauboussion, the adjustments of CS HOLT are related to his work. "For this purpose, we use data from Credit Suisse HOLT. Specifically, HOLT constructs an inflation-adjusted gross cash flow which is computed as net income adjusted for special items, depreciation & amortization, interest expense, rental expense, minority interest, and various other proprietary economic adjustments (CF HOLT). 
+8. Pdf pg 24. If you're familiar with Michael Mauboussin, the adjustments of CS HOLT are related to his work. "For this purpose, we use data from Credit Suisse HOLT. Specifically, HOLT constructs an inflation-adjusted gross cash flow which is computed as net income adjusted for special items, depreciation & amortization, interest expense, rental expense, minority interest, and various other proprietary economic adjustments (CF HOLT). 
 9. Funnily though, you won't make money all the time. There was a case of people hacking the SEC for early earnings information, so they had 100% perfect info, but they only made money ~70% of the time I think.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
