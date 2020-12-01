@@ -40,7 +40,7 @@ Sarah was about to invest three lifetime's worth of her savings into this busine
 
 Now realising that she has choices, Sarah isn't sure what to do. She goes to consult with her older friend Anthony, who watches the investing space closely. Anthony says she's on the right path - portfolio allocation and risk/reward payoffs are the key to becoming a successful investor. He also adds that she might want to read about the [Kelly criterion,](https://www.princeton.edu/~wbialek/rome/refs/kelly_56.pdf "Kelly") a formula for bet sizing.
 
-The Kelly formula was developed by John Kelly at Bell Labs. It takes a few inputs and returns you the optimal percentage of your capital to bet on something, assuming you want to maximise long term returns. 
+The Kelly formula was developed by John Kelly at Bell Labs. It takes a few inputs and returns you the **optimal percentage of your capital to bet on something,** assuming you want to maximise long term returns. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 1.png)
 
@@ -80,7 +80,31 @@ Instead of the 5% win rate, let's say that angel investors go into an investment
 
 Which is at least something we can work with. We'll revisit the assumptions in a bit, just bear with it for now. 
 
-To see what our returns could look like, let's also assume we make 100 such investments in a row. 
+To see what our returns could look like, let's also assume we make 100 such investments in a row. We'll run 1,000 simulations of what such a portfolio could look like i.e. imagine 1,000 universes where we invest in 100 companies under the assumptions above. 
+
+Unsurprisingly, our rigged game shows us making a lot of money:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 7.png)
+
+A few things to note though. Look at the huge drawdowns (all the downward parts) that happen. Many of the portfolios lose more than half their money by the end. Returns have huge volatility spikes.
+
+Also, we ran *one thousand* simulations. While the large returns stand out on the graph, there really aren't that many of them. The majority of the cases are all smushed together near the bottom. 
+
+In order to reduce risk, many people often adopt a "Fractional Kelly" approach, where they bet some smaller percentage of the Kelly recommnended size. We'll do that here as well, simulating scenarios where we only bet half of what was recommended (2%)
+
+Let's take a closer look at the return distribution for both of these cases:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 8.png)
+
+If we ignore the outlier cases, we can see that the 25th to 75th percentile of the returns for all simulations are tight. 
+
+And if we zoom into the "safer," Half Kelly approach, we see that most of the time you're getting less than 5x returns
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 9.png)
+
+Bear in mind that this is under the optimal betting strategy, and we already rigged the game in multiple ways. **If you're angel investing, you need high conviction, would likely want to do many investments, and only small percentages of your capital at a time.** Even then, the likelihood of outsized returns is still low.
+
+
 
 ## 2. 
 
