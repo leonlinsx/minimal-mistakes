@@ -128,7 +128,7 @@ There's a paper by Vasily Nekrasov [here](https://papers.ssrn.com/sol3/papers.cf
 
 ## 2. Using HASH.ai to simulate company survival rates
 
-We'll move on from one model full of assumptions, to another model full of assumptions. I recently heard of the company [HASH.ai](https://hash.ai/ "hash"), which lets you "build multi-agent simulations in minutes." By that, they mean creating multiple objects that can interact with each other, and then seeing what happens.
+We'll move on from one model full of assumptions, to another model full of assumptions. I recently heard of the company [HASH.ai](https://hash.ai/ "hash"), which lets you "build multi-agent simulations in minutes." By that, they mean creating multiple objects that can interact with each other, and then seeing what happens. You can read more about agent-based modeling [here](https://hash.ai/blog/what-is-agent-based-modeling "hash")
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 10.png)
 
