@@ -110,7 +110,9 @@ And if we zoom into the "safer," Half Kelly approach, we see that most of the ti
 - We assumed bets occur one after the other
 - We assumed we could make many bets
 
-None of these are what real life is like; the above is a vast oversimplication. However, **Kelly at the least gives us some framework to reduce the risk of ruin.** There's a paper by Vasily Nekrasov [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2259133 "paper") that has a much better model, but the math is beyond me. However, the colab file is [here](https://colab.research.google.com/drive/1YeMnl2QOQdCAGGxCDr2pfDk_HFgCh02D?usp=sharing "colab") if you want to play around with the simulation assumptions.
+None of these are what real life is like; the above is a vast oversimplication. That said, **we can at least use Kelly to reduce the risk of ruin.** 
+
+There's a paper by Vasily Nekrasov [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2259133 "paper") that has a much better model, but the math is beyond me. However, the colab file is [here](https://colab.research.google.com/drive/1YeMnl2QOQdCAGGxCDr2pfDk_HFgCh02D?usp=sharing "colab") if you want to play around with the simulation assumptions.
 
 ### For more on the Kelly criterion:
 
@@ -131,8 +133,6 @@ None of these are what real life is like; the above is a vast oversimplication. 
 1. [Unit economics of vending machines](https://thehustle.co/the-economics-of-vending-machines/ "econs")
 2. [Online game networking explained](https://www.pcgamer.com/netcode-explained/ "netcode")
 5. [This isn't Sparta](https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school/ "sparta")
-
-## 
 
 ## Footnotes
 
