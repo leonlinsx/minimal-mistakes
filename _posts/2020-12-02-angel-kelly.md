@@ -6,6 +6,10 @@ published: false
 
 ## Takeaway
 
+1.
+2.
+3.
+
 <style>
       .iframe-container {
         overflow: hidden;        
@@ -112,7 +116,7 @@ And if we zoom into the "safer," Half Kelly approach, we see that most of the ti
 
 None of these are what real life is like; the above is a vast oversimplication. That said, **we can at least use Kelly to reduce the risk of ruin.** 
 
-There's a paper by Vasily Nekrasov [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2259133 "paper") that has a much better model, but the math is beyond me. However, the colab file is [here](https://colab.research.google.com/drive/1YeMnl2QOQdCAGGxCDr2pfDk_HFgCh02D?usp=sharing "colab") if you want to play around with the simulation assumptions.
+There's a paper by Vasily Nekrasov [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2259133 "paper") that has a much better model, but the math is beyond me. However, the colab file is [here](https://colab.research.google.com/drive/1YeMnl2QOQdCAGGxCDr2pfDk_HFgCh02D?usp=sharing "colab") if you want to play around with the simulation assumptions \[6\].
 
 ### For more on the Kelly criterion:
 
@@ -122,11 +126,35 @@ There's a paper by Vasily Nekrasov [here](https://papers.ssrn.com/sol3/papers.cf
 4. [Practical Implementation of the Kelly Criterion by Andrea Carta and Claudio Conversano](https://www.frontiersin.org/articles/10.3389/fams.2020.577050/full)
 5. [What AngelList Data Says About Power-Law Returns In Venture Capital by AngelList](https://angel.co/blog/what-angellist-data-says-about-power-law-returns-in-venture-capital)
 
-## 2. 
+## 2. Using HASH.ai to simulate company survival rates
 
+We'll move on from one model full of assumptions, to another model full of assumptions. I recently heard of the company [HASH.ai](https://hash.ai/ "hash"), which lets you "build multi-agent simulations in minutes." By that, they mean creating multiple objects that can interact with each other, and then seeing what happens.
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 10.png)
+
+I wanted to play around with the tool \[7\], and attempted to simulate company survival rates in an economy. Again, I'll make simplifying assumptions:
+
+- We know average company survival rates on a yearly basis. I abuse probability to make an assumption for a daily survival rate
+- Based on that I also infer a daily failure rate
+- We also know average company revenue growth rates on a yearly basis. From that I infer a hacky daily growth rate
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 11.png)
+
+I put all of that into a HASH.ai project, modifying one of their templates. It took a bunch of tinkering since many files are in Javascript and... I do not know Javascript. But I think I got it to mostly work in the end \[8\].
+
+The model simulates companies as green boxes, growing in height every day, with the height representing company size. At any time period, there's a chance that the company fails, represented by the box burning up in flames \[9\]. We can see how many companies survive over long periods of time. Here's a sample:
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/HASH.gif)
+
+HASH.ai also lets you graph stats over time. My current model shows a steady state of survivors vs failures.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 12.png)
+
+Again, this was just for fun, and most of the assumptions need to be further tweaked. The final model is [here](https://core.hash.ai/@leonlinsx/wildfires-regrowth-3/main "model") if you want to play around with it. Would be interested in seeing someone create a more sophisticated model of startup growth.
 
 ## 3. Edrolo OS - The World as a System
+
+
 
 ## Other
 
@@ -138,10 +166,13 @@ There's a paper by Vasily Nekrasov [here](https://papers.ssrn.com/sol3/papers.cf
 
 1. Sarah's killing it in the friend department
 2. There's also the unrelated point that if you ever see such attractive odds, you're probably being scammed
-3. I want to re-emphasise how much we're simplifying here. For one, the illiquidity of angel investments is a huge problem since you don't have a repeated, continuous bet nature that we run later in the simulations.
+3. I want to re-emphasise how much we're simplifying here. For one, the illiquidity of angel investments is a huge problem since you don't have a repeated, continuous bet nature that we run later in the simulations. Also, sidenote that I could have easily gotten any of the math wrong, please correct me if you see mistakes.
 4. Plan ahead, they say...
 5. 5% divided by (100% minus 64%)
-
+6. You'll notice that small tweaks to the winning probability from where it currently is will dramatically change the suggested bet percentage and predicted returns
+7. Emphasis on play. My final model is super janky.
+8. You'll notice references to trees, fires, and more in the code, which is leftover from the original model simulating wildfires.
+9. Not entirely intentional; I couldn't figure out how to change a lot of the features.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
