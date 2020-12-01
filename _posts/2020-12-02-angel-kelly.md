@@ -58,7 +58,7 @@ Kelly says that you should bet 45% of your total capital. Notice that even with 
 
 [Michael Mauboussin and Ed Thorp elaborate on the attractive features of the Kelly system:](http://www.capatcolumbia.com/MM%20LMCM%20reports/Size%20Matters.pdf "Michael")
 
-1. The chance of ruin is “small.” Because the Kelly system is based on proportional bets, losing all of your capital is theoretically impossible, though there will still be large volatility
+1. The chance of ruin is “small.” Because the Kelly system is based on proportional bets, losing all of your capital is theoretically impossible, though there will still be volatility spikes
 2. The Kelly system is highly likely to grow a bankroll faster than other systems
 3. You tend to reach a specified level of winnings in the least average time
 
@@ -66,14 +66,21 @@ How can this help us on the angel investing side? We'll have to make some highly
 
 We know that Kelly takes three inputs - our belief of what the winning probability is, the percentage loss, and the percentage profit. [Correlation Ventures and Seth Levine](https://www.sethlevine.com/archives/2020/10/vc-fund-returns-are-more-skewed-than-you-think.html "Seth") have a nice chart below showing VC returns over time, and I'll use that as the basis for my assumptions.
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 3.png)
-
-To simplify things, I'm just going to consider anything that's 10x return (900%) or more as a win, and everything else as a loss. From the graph, that means we win about 5% of the time. I'll simplify even further by assuming that we lose 100% of our bet on a loss, and win that 900% profit on a win. We'll revisit these assumptions in a bit, just bear with it for now. Under these initial assumptions, we get:
-
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 4.png)
 
-Welp. That's not good. When I first saw this, I did a double take, and then wonderered how I was going to finish writing this newsletter issue \[4\]. The answer I came to was to cheat. I'll revisit the 5% assumption above, and say that we'll just 
+To simplify things, I'm just going to consider anything that's 10x return (900%) or more as a win, and everything else as a loss. From the graph, that means we win about 5% of the time. I'll simplify even further by assuming that we lose 100% of our bet on a loss, and win that 900% profit on a win. Under these initial assumptions, we get:
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 5.png)
+
+Welp. That's not good. When I first saw this, I did a double take, and then wonderered how I was going to finish writing this newsletter issue \[4\]. The answer I came to was to cheat. A lot.
+
+Instead of the 5% win rate, let's say that angel investors go into an investment having faith they're above average, and that their investments will at least return their money. In other words, we'll ignore all of that <1x part on the graph, and assume our universe is just the remainder. That 5% win rate jumps to about 14% \[5\]. We'll keep everything else constant. Under these new assumptions, we get: 
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 6.png)
+
+Which is at least something we can work with. We'll revisit the assumptions in a bit, just bear with it for now. 
+
+To see what our returns could look like, let's also assume we make 100 such investments in a row. 
 
 ## 2. 
 
@@ -84,8 +91,9 @@ Welp. That's not good. When I first saw this, I did a double take, and then wond
 
 1. Sarah's killing it in the friend department
 2. There's also the unrelated point that if you ever see such attractive odds, you're probably being scammed
-3. I want to re-emphasise how much we're simplifying here. For one, the illiquidity of angel investments is a huge problem.
+3. I want to re-emphasise how much we're simplifying here. For one, the illiquidity of angel investments is a huge problem since you don't have a repeated, continuous bet nature that we run later in the simulations.
 4. Plan ahead, they say...
+5. 5% divided by (100% minus 64%)
 
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
