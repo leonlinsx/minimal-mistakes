@@ -32,7 +32,7 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-## 1. 
+## 1. Kelly criterion for portfolio sizing
 
 Sarah is an aspiring angel investor. Her friends Nicholas, Alyson, and Chase have a magical business idea involving selling wooden sticks, and Sarah thinks it's going to be a huge hit.
 
@@ -80,7 +80,7 @@ Instead of the 5% win rate, let's say that angel investors go into an investment
 
 Which is at least something we can work with. We'll revisit the assumptions in a bit, just bear with it for now. 
 
-To see what our returns could look like, let's also assume we make 100 such investments in a row. We'll run 1,000 simulations of what such a portfolio could look like i.e. imagine 1,000 universes where we invest in 100 companies under the assumptions above. 
+To see what our returns could look like, let's also assume we make 100 such investments in a row. We'll run 1,000 simulations of what such a portfolio could look like i.e. imagine 1,000 universes where we invest in 100 companies under the assumptions above. [I'll be using this Colab file here](https://colab.research.google.com/drive/1YeMnl2QOQdCAGGxCDr2pfDk_HFgCh02D?usp=sharing "Colab")
 
 Unsurprisingly, our rigged game shows us making a lot of money:
 
@@ -98,18 +98,41 @@ Let's take a closer look at the return distribution for both of these cases:
 
 If we ignore the outlier cases, we can see that the 25th to 75th percentile of the returns for all simulations are tight. 
 
-And if we zoom into the "safer," Half Kelly approach, we see that most of the time you're getting less than 5x returns
+And if we zoom into the "safer," Half Kelly approach, we see that most of the time you're getting less than 5x returns.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 9.png)
 
-Bear in mind that this is under the optimal betting strategy, and we already rigged the game in multiple ways. **If you're angel investing, you need high conviction, would likely want to do many investments, and only small percentages of your capital at a time.** Even then, the likelihood of outsized returns is still low.
+**This implies that if you're angel investing, you need high conviction, would likely want to do many investments, and only invest small percentages of your capital at a time.** Even then, the likelihood of outsized returns is still low. Bear in mind that this is under the optimal betting strategy, and we already rigged the game in multiple ways:
 
+- We removed a huge section of losers
+- We assumed a binomial outcome
+- We assumed fixed win and loss payouts
+- We assumed bets occur one after the other
+- We assumed we could make many bets
 
+None of these are what real life is like; the above is a vast oversimplication. However, **Kelly at the least gives us some framework to reduce the risk of ruin.** There's a paper by Vasily Nekrasov [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2259133 "paper") that has a much better model, but the math is beyond me. However, the colab file is [here](https://colab.research.google.com/drive/1YeMnl2QOQdCAGGxCDr2pfDk_HFgCh02D?usp=sharing "colab") if you want to play around with the simulation assumptions.
+
+### For more on the Kelly criterion:
+
+1. [The Kelly Criterion: Multiple Investment Opportunities by Christian Aichinger](https://greek0.net/blog/2018/04/17/kelly_criterion2/)
+2. [The Kelly Criterion: You Don’t Know the Half of It by Alon Bochman](https://blogs.cfainstitute.org/investor/2018/06/14/the-kelly-criterion-you-dont-know-the-half-of-it/)
+3. [Python Risk Management: Kelly Criterion by Lester Leong](https://towardsdatascience.com/python-risk-management-kelly-criterion-526e8fb6d6fd)
+4. [Practical Implementation of the Kelly Criterion by Andrea Carta and Claudio Conversano](https://www.frontiersin.org/articles/10.3389/fams.2020.577050/full)
+5. [What AngelList Data Says About Power-Law Returns In Venture Capital by AngelList](https://angel.co/blog/what-angellist-data-says-about-power-law-returns-in-venture-capital)
 
 ## 2. 
 
+
+
 ## 3. Edrolo OS - The World as a System
 
+## Other
+
+1. [Unit economics of vending machines](https://thehustle.co/the-economics-of-vending-machines/ "econs")
+2. [Online game networking explained](https://www.pcgamer.com/netcode-explained/ "netcode")
+5. [This isn't Sparta](https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school/ "sparta")
+
+## 
 
 ## Footnotes
 
