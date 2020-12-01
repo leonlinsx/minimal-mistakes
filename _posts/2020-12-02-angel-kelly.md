@@ -34,13 +34,20 @@ published: false
 
 ## 1. 
 
-Sarah is an aspiring angel investor. 
+Sarah is an aspiring angel investor. Her friends Nicholas, Alyson, and Chase have a magical business idea involving selling wooden sticks, and Sarah thinks it's going to be a huge hit.
+
+Sarah was about to invest three lifetime's worth of her savings into this business, when her other group of friends \[1\] Seth, Marc, Emma, and Amber pitch her an equally exciting idea involving bunnies. 
+
+
 
 ## 2. 
 
 ## 3. Edrolo OS - The World as a System
 
 
+## Footnotes
+
+1. Sarah's an exceptionally popular person
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
