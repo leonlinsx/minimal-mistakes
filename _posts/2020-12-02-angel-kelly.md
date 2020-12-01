@@ -42,7 +42,7 @@ Sarah is an aspiring angel investor. Her friends Nicholas, Alyson, and Chase hav
 
 Sarah was about to invest three lifetime's worth of her savings into this business, when her other group of friends \[1\] Seth, Marc, Emma, and Amber pitch her an equally exciting idea involving bunnies. 
 
-Now realising that she has choices, Sarah isn't sure what to do. She goes to consult with her older friend Anthony, who watches the investing space closely. Anthony says she's on the right path - portfolio allocation and risk/reward payoffs are the key to becoming a successful investor. He also adds that she might want to read about the [Kelly criterion,](https://www.princeton.edu/~wbialek/rome/refs/kelly_56.pdf "Kelly") a formula for bet sizing.
+It dawns on Sarah that she has multiple choices, and she isn't sure what to do. She goes to consult with her older friend Anthony, who watches the investing space closely. Anthony says she's on the right path - portfolio allocation and risk/reward payoffs are the key to becoming a successful investor. He also adds that she might want to read about the [Kelly criterion,](https://www.princeton.edu/~wbialek/rome/refs/kelly_56.pdf "Kelly") a formula for bet sizing.
 
 The Kelly formula was developed by John Kelly at Bell Labs. It takes a few inputs and returns you the **optimal percentage of your capital to bet on something,** assuming you want to maximise long term returns. 
 
