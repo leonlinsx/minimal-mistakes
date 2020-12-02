@@ -231,20 +231,20 @@ The Edrolo OS email will at first make you feel vulnerable. If you are consisten
 - Speaking and writing in metaphors. Our society is built on stories. Stories which paint a mental picture and trigger an emotional response. I'm a practical, bullet point kind of person. Long form writing and superfluous words and stories don't come naturally to me. 
 - I started a note on my phone where I capture metaphors I hear from others as soon as I hear them. Every week I review the metaphors, reflect on what I liked about them, categorise them into themes (sports, cooking, building, etc) and challenge myself to come up with metaphors in a similar area. I also try to include a metaphor in each [substack](http://batko.substack.com) article I write to see what resonates with my readers.
 
-**2. What do you wish you had known earlier?
+**2. What do you wish you had known earlier?**
 
 - Don't be afraid to reach out. It's easy to be intimidated by people who seem successful, well-known or busy. Especially when someone puts a piece of writing into the world - substack, blog or twitter - they want people to engage with them. Show genuine curiosity, share your thoughts and ask the stupid question.
 - People want to hear from you. The worst thing to happen is that you don't hear back, on the other hand, there is the very real possibility of you learning something new.
 
-**3. What's a common belief that you feel is mistaken?
+**3. What's a common belief that you feel is mistaken?**
 
 - Eisenhower matrix. We have been trained in this concept of always working on the Important and Urgent zone. It's a very selfish way of working. I genuinely believe that "you can have everything in life you want, if you will just help other people get what they want." What the framework is missing is to first unblock other people and for yourself not to be a bottleneck for your team. Let's call it the [Batman cape which the Eisenhower matrix](https://batko.substack.com/p/-eisenhower-vs-batman-unpopular-opinion) needs.
 
-**4. What are the top frameworks you use to understand the world?
+**4. What are the top frameworks you use to understand the world?**
 
 - I strip everything back to the one core goal - the 'why' something exists. I then go through the most basic incentives you can or should put in place to motivate the right outcome. I'm a big sucker for behavioural psychology and board games. What rules can you set in place to incentive the intended outcome?
 
-**5. What do you wish more people ask you about?
+**5. What do you wish more people ask you about?**
 
 - Ask but also challenge me on why things work the way they do. I love stripping back layers and go deep into the psychology and building blocks of difficult challenges. There's nothing better than being challenged on the fundamentals of why something is built the way it is. It always results in myself understanding it better and often the opportunity to make it better.
 
