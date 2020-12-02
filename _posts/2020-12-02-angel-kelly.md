@@ -78,29 +78,29 @@ To simplify things, I'm just going to consider anything that's 10x return (900%)
 
 Welp. That's not good. When I first saw this, I did a double take, and then wonderered how I was going to finish writing this newsletter issue \[4\]. The answer I came to was to cheat. A lot.
 
-Instead of the 5% win rate, let's say that angel investors go into an investment having faith they're above average, and that their investments will at least return their money. In other words, we'll ignore all of that <1x part on the graph, and assume our universe is just the remainder. That 5% win rate jumps to about 14% \[5\]. We'll keep everything else constant. Under these new assumptions, we get: 
+Instead of the 5% win rate, let's say that angel investors go into an investment having faith they're above average, and that their investments will at least return their money. They believe that their win probability is higher than the base rate. In other words, we'll ignore all of that <1x part on the graph, and assume our universe is just the remainder. That 5% win rate jumps to about 14% \[5\]. We'll keep everything else constant. Under these new assumptions, we get: 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 6.png)
 
-Which is at least something we can work with. We'll revisit the assumptions in a bit, just bear with it for now. 
+Which is at least something we can work with. Bear with the assumptions for now and we'll revisit them later. 
 
-To see what our returns could look like, let's also assume we make 100 such investments in a row. We'll run 1,000 simulations of what such a portfolio could look like i.e. imagine 1,000 universes where we invest in 100 companies under the assumptions above. [I'll be using this Colab file here](https://colab.research.google.com/drive/1YeMnl2QOQdCAGGxCDr2pfDk_HFgCh02D?usp=sharing "Colab")
+To see what our returns could look like, let's also assume we make 100 such investments in a row. We'll run 1,000 simulations of what such a portfolio could look like i.e. imagine 1,000 universes where we invest in 100 companies under the assumptions above. [I'm using this Colab file here if you want to follow along](https://colab.research.google.com/drive/1YeMnl2QOQdCAGGxCDr2pfDk_HFgCh02D?usp=sharing "Colab")
 
 Unsurprisingly, our rigged game shows us making a lot of money:
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 7.png)
 
-A few things to note though. Look at the huge drawdowns (all the downward parts) that happen. Many of the portfolios lose more than half their money by the end. Returns have huge volatility spikes.
+A few things to note though. Look at the huge drawdowns (all the declines) that happen. Many of the portfolios lose more than half their money by the end. Returns have huge volatility spikes.
 
 Also, we ran *one thousand* simulations. While the large returns stand out on the graph, there really aren't that many of them. The majority of the cases are all smushed together near the bottom. 
 
 In order to reduce risk, many people often adopt a "Fractional Kelly" approach, where they bet some smaller percentage of the Kelly recommnended size. We'll do that here as well, simulating scenarios where we only bet half of what was recommended (2%)
 
-Let's take a closer look at the return distribution for both of these cases:
+Let's take a closer look at the return distribution for both of these cases. It's hard to see, but the box plots show the typical 25th, median, 75th percentile ranges of returns:
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 8.png)
 
-If we ignore the outlier cases, we can see that the 25th to 75th percentile of the returns for all simulations are tight. 
+If we ignore the outlier cases, we can see that the 25th to 75th percentile of the returns for all simulations are in a much smaller range. 
 
 And if we zoom into the "safer," Half Kelly approach, we see that most of the time you're getting less than 5x returns.
 
@@ -116,7 +116,7 @@ And if we zoom into the "safer," Half Kelly approach, we see that most of the ti
 
 None of these are what real life is like; the above is a vast oversimplication. That said, **we can at least use Kelly to reduce the risk of ruin.** 
 
-There's a paper by Vasily Nekrasov [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2259133 "paper") that has a much better model, but the math is beyond me. However, the colab file is [here](https://colab.research.google.com/drive/1YeMnl2QOQdCAGGxCDr2pfDk_HFgCh02D?usp=sharing "colab") if you want to play around with the simulation assumptions \[6\].
+If you want to dig further, there's a paper by Vasily Nekrasov [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2259133 "paper") that has a much better model, but the math is beyond me. The python colab file is [here](https://colab.research.google.com/drive/1YeMnl2QOQdCAGGxCDr2pfDk_HFgCh02D?usp=sharing "colab") if you want to play around with the base simulation assumptions \[6\].
 
 ### For more on the Kelly criterion:
 
