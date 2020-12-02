@@ -1,10 +1,10 @@
 ---
-title:  "Having faith in the Kelly Criterion for Angel Investing"  
+title:  "Having faith in the Kelly Criterion for angel investing"  
 tags: [angel investing, investing, finance, tech, simulation, agent based modeling, system, productivity]
 published: false
 ---
 
-## Takeaway
+## Takeaways
 
 1. The Kelly criterion is a mathematical way of sizing your portfolio, though be careful with your assumptions
 2. HASH.ai is making agent based simulations easier; I try to model startup failure rates
@@ -78,7 +78,7 @@ To simplify things, I'm just going to consider anything that's 10x return (900%)
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 5.png)
 
-Welp. That's not good. Under our current assumptions, Kelly says that VC investing is a bad deal. When I first saw this, I did a double take, and then wonderered how I was going to finish writing this newsletter issue \[4\]. The answer I came to was to cheat. A lot.
+Welp. That's not good. Under our current assumptions, Kelly says that VC investing is a bad deal. When I first saw this, I did a double take, and then wondered how I was going to finish writing this newsletter issue \[4\]. The answer I came to was to cheat. A lot.
 
 Instead of the 5% win rate, let's say that angel investors go into an investment having faith they're above average, and that their investments will at least return their money. They believe that their win probability is higher than the base rate. You don't bet on something unless you believe you have an edge vs the odds.
 
@@ -98,7 +98,7 @@ A few things to note though. Look at the huge drawdowns (all the declines) that 
 
 Also, we ran *one thousand* simulations. While the large returns stand out on the graph, there really aren't that many of them. The majority of the cases are all smushed together near the bottom. 
 
-In order to reduce risk, many people often adopt a "Fractional Kelly" approach, where they bet some smaller percentage of the Kelly recommnended size. We'll do that here as well, simulating scenarios where we only bet half of what was recommended (2%).
+In order to reduce risk, many people often adopt a "Fractional Kelly" approach, where they bet some smaller percentage of the Kelly recommended size. We'll do that here as well, simulating scenarios where we only bet half of what was recommended (2%).
 
 Let's take a closer look at the return distribution for both of these cases. It's hard to see, but the box plots show the typical 25th, median, 75th percentile ranges of returns. We started at $100:
 
@@ -118,7 +118,7 @@ And if we zoom into the "safer," Half Kelly approach, we see that most of the ti
 - We assumed bets occur one after the other
 - We assumed we could make many bets
 
-None of these are what real life is like; the above is a vast oversimplication. That said, **we can at least use Kelly to reduce the risk of ruin.** 
+None of these are what real life is like; the above is a vast oversimplification. That said, **we can at least use Kelly to reduce the risk of ruin.** 
 
 If you want to dig further, there's a paper by Vasily Nekrasov [here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2259133 "paper") that has a much better model, but the math is beyond me. The python colab file is [here](https://colab.research.google.com/drive/1YeMnl2QOQdCAGGxCDr2pfDk_HFgCh02D?usp=sharing "colab") if you want to play around with the base simulation assumptions \[6\].
 
@@ -166,6 +166,8 @@ This month's guest post is from [Michael Batko](https://twitter.com/batkomichael
 
 Here's Michael:
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 13.jpg)
+
 My best two systems are called [Elephants](https://batko.substack.com/p/elephants-) for life and [Edrolo OS](https://batko.substack.com/p/batko-os-1-world-as-a-system) for work.
 
 So let me tell you about the most effective Work system I've ever come across.
@@ -196,7 +198,7 @@ Take 5 mins right now and revisit your annual or quarterly goals.
 
 Schedule a meeting with yourself blocking out time for you to work on each priority (this is a crucial part of the process!!).
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 13.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Kelly_criterion/Kelly 14.png)
 
 ### 2. Reflect on Your Week
 
