@@ -50,7 +50,7 @@ With that in mind, let's take a look at three pieces with a similar theme, and s
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Art_reclining_nude/art 1.png)
 
-Above we see three reclining nudes, a popular subject for artists for a long time \[2\]. In clockwise order we have a Titian from the 1500s, a Dominique-Ingres from the early 1800s, and a Manet from later 1800s. All of these artists were famous then, and still are now. "Venus" was fairly uncontroversial during its time, but the other two "La Grande Odalisque” and “Olympia” attracted much more criticism. Why? 
+Above we see three reclining nudes, a popular subject for artists for a long time \[2\]. In clockwise order we have a Titian from the 1500s, a Dominique-Ingres from the early 1800s, and a Manet from later 1800s. All of these artists were famous then, and still are now. "Venus" was fairly uncontroversial during its time, but the other two "La Grande Odalisque" and "Olympia" attracted much more criticism. Why? 
 
 To answer that question, it'll be helpful to understand the [hierarchy of art genres](http://www.visual-arts-cork.com/history-of-art/hierarchy-of-genres.htm "hierarchy") that people had adhered to for centuries:
 
@@ -64,13 +64,17 @@ To make the painting more interesting visually, Titian's also contrasted the cur
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Art_reclining_nude/art 3.png)
 
-Now let's look at Odalisque (which means concubine) and see what's stayed the same and what's changed. The subject is of course the first thing that comes to mind. Besides that, the similar use of skin tone on Odalisque and Venus makes them both seem lifelike. 
+Now let's look at Odalisque (which means concubine) and see what's stayed the same and what's changed. The pose is similar, and the use of skin tone on Odalisque and Venus makes them both seem lifelike. 
 
-Dominique-Ingres has added more detail to the foreground, such as the peacock feathers or the gems. A key difference is that he doesn't use as many straight lines for contrast or perspective. Instead, the painting's all about the curves:
+Dominique-Ingres has added more detail to the foreground, such as the peacock feathers or the gems. Also notice that he doesn't use as many straight lines for contrast or perspective. Instead, the painting's all about the curves:
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Art_reclining_nude/art 4.png)
 
-If you stare at the body long enough, you'll also start feeling that something's strange. The body's elongated through the pose, for sure, but doesn't it seem quite a bit *too* long? The figure's proportions aren't quite right. If you look at the left leg of the figure, you'll also realise that wherever it attaches to in the body is also off. These were intentional constructions by Ingres, in order to make the viewer get the sense that the body is long and 
+If you stare at the body long enough, you'll also start feeling that something's strange. The body's elongated through the pose, for sure, but doesn't it seem quite a bit *too* long? The figure's proportions aren't quite right. If you look at the left leg of the figure, you'll also realise that wherever it attaches to in the body is also off. Ingres intentionally did this in order to make the viewer have a heightened sense of the figure's form, vs what might be achievable with "realistic" bodies.
+
+Lastly, Ingres titled the work "La Grande Odalisque," and not after some mythological figure. This would have made the painting "less important," and was his way of making a statement against the rigid hierarchy of art for his time.
+
+
 
 ## Footnotes
 
