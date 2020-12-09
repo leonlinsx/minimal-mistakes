@@ -56,7 +56,7 @@ To answer that question, it'll be helpful to understand the [hierarchy of art ge
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/Art_reclining_nude/art 2.png)
 
-Yep, for a long time the type of your art would have a certain "rank," and people would automatically judge a painting of still lifes as less important compared to a painting of a religious scene. Not entirely surprising, considering that the church was a big patron of art in historical times.
+For a long time the type of your art would have a certain "rank," and people would automatically judge a painting of still lifes as less important compared to a painting of a religious scene. Not entirely surprising, considering that the church was a big patron of art in historical times.
 
 Let's take a closer look at Venus and the thought that Titian put behind the composition. [Venus was probably intended as a marriage gift](https://smarthistory.org/titian-venus-of-urbino/ "venus") to the couple for private viewing \[3\], the hairstyle being typical of brides for that time, and the roses associated with love. Being titled Venus, it was also meant to be a mythological painting, firmly putting it in the top "rank" of art for that time.
 
@@ -73,6 +73,12 @@ Dominique-Ingres has added more detail to the foreground, such as the peacock fe
 If you stare at the body long enough, you'll also start feeling that something's strange. The body's elongated through the pose, for sure, but doesn't it seem quite a bit *too* long? The figure's proportions aren't quite right. If you look at the left leg of the figure, you'll also realise that wherever it attaches to in the body is also off. Ingres intentionally did this in order to make the viewer have a heightened sense of the figure's form, vs what might be achievable with "realistic" bodies.
 
 Lastly, Ingres titled the work "La Grande Odalisque," and not after some mythological figure. This would have made the painting "less important," and was his way of making a statement against the rigid hierarchy of art for his time.
+
+Now finally let's look at Manet's work. You can easily see the references to Venus here, from the similar poses, the cushions, and even that vertical line in the background to draw contrast and attention. 
+
+At the same time, this is also a very different painting. Most people would say both Venus and Odalisque looked more "finished" and "realistic," whereas Olympia looks incomplete. It's not terrible, but it's also not as "pretty" as the paintings before.
+
+The curves in the figure aren't as long or graceful as Odalisque, and there aren't lines implying 3D perspective, which makes the image seem flat. Whereas Venus was titled after a goddess and Odalisque showed a scene of some fantasy land, Olympia seems very real, very modern.
 
 
 
