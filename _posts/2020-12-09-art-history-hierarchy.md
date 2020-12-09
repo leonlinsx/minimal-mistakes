@@ -1,6 +1,6 @@
 ---
 title:  ""  
-tags: []
+tags: [art history, art]
 published: false
 ---
 
@@ -34,7 +34,7 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-## Main
+## Looking at Titian, Ingres, and Manet
 
 December's a convenient time to do reflections. Like prior years, I'll be doing a more comprehensive reflection on the year in the monthly post \[1\]. I'll spend the weeklies highlighting new topics I've learnt about this year.
 
@@ -74,13 +74,19 @@ If you stare at the body long enough, you'll also start feeling that something's
 
 Lastly, Ingres titled the work "La Grande Odalisque," and not after some mythological figure. This would have made the painting "less important," and was his way of making a statement against the rigid hierarchy of art for his time.
 
-Now finally let's look at Manet's work. You can easily see the references to Venus here, from the similar poses, the cushions, and even that vertical line in the background to draw contrast and attention. 
+Now finally let's look at Manet's work. You can easily see the references to Venus here, from the similar poses, the cushions, and even that vertical line in the background to draw contrast and attention.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/Art_reclining_nude/art 5.png)
 
 At the same time, this is also a very different painting. Most people would say both Venus and Odalisque looked more "finished" and "realistic," whereas Olympia looks incomplete. It's not terrible, but it's also not as "pretty" as the paintings before.
 
 The curves in the figure aren't as long or graceful as Odalisque, and there aren't lines implying 3D perspective, which makes the image seem flat. Whereas Venus was titled after a goddess and Odalisque showed a scene of some fantasy land, Olympia seems very real, very modern.
 
+Indeed, it was that realness that led to ["Sticks and umbrellas were brandished in \[her\] face," and criticism that the painting was “a degraded model picked up I know not where.”](https://www.artforum.com/print/197503/manet-a-radicalized-female-imagery-36081 "art") Just like Ingres before him, Manet's now fully rebelling against tradition, saying that the art hierarchy was nonsense, and that it was the age of the modern world. No longer would art be focused on painting history; it would paint the now.
 
+Manet's work drew influences from the past, but also rejected many core aspects, scandalising the art world. As a result though, he influenced entire movements, and is now known as one of the first truly modern artists, inspiring impressionism, realism, and more.
+
+Art's a constantly evolving area, and what was once popular can fade in popularity before being revived again. I've found that understanding the history behind why artists made the decisions they did, to be helpful in better appreciating different pieces and drawing parallels across time periods. If nothing else, it's made me more open-minded. 
 
 ## Footnotes
 
