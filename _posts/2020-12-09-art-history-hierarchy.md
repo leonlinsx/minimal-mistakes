@@ -86,7 +86,7 @@ Indeed, it was that realness that led to ["Sticks and umbrellas were brandished 
 
 Manet's work drew influences from the past, but also rejected many core aspects, scandalising the art world. As a result though, he influenced entire movements, and is now known as one of the first truly modern artists, inspiring impressionism, realism, and more.
 
-Art's a constantly evolving area, and what was once popular can fade in popularity before being revived again. I've found that understanding the history behind why artists made the decisions they did, to be helpful in better appreciating different pieces and drawing parallels across time periods. If nothing else, it's made me more open-minded. 
+I titled the post on Manet, but it's really about art in general. Art's a constantly evolving area, and what was once popular can fade in popularity before being revived again. I've found that understanding the history behind why artists made the decisions they did, to be helpful in better appreciating different pieces and drawing parallels across time periods. If nothing else, it's made me more open-minded. 
 
 ## Footnotes
 
