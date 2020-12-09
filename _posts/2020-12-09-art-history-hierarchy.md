@@ -1,12 +1,12 @@
 ---
-title:  ""  
+title:  "Manet and modernity"  
 tags: [art history, art]
 published: false
 ---
 
 ## Takeaway
 
-
+Comparing the works of Titian, Dominique-Ingres, and Manet show how artists have influenced each other and rebelled against tradition over time.
 
 <style>
       .iframe-container {
