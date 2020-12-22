@@ -32,7 +32,7 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-## Main
+## Another look at process improvement
 
 We started out the month [looking at art](https://avoidboringpeople.substack.com/p/manet-and-modernity "art"), and there's a reason for that. Art is high skill, low luck. While it's possible to create great art without much skill, most art is crafted intentionally. Since you start from scratch, every element is there for a reason. We saw this in Manet's "unpolished" depiction of modern life, Dominique-Ingres' "unrealistic" body shape, and Picasso's "ugly" drawings, where weird features were the point of the painting. Throughout these, the artists followed their own deliberate process to get consistent results.
 
@@ -73,11 +73,11 @@ People argue about the importance of theory vs practical all the time, and it's 
 
 For the investor, you'll never make money if all you do is read finance theory and don't actually put money in the market. However, if you don't understand how professional investing works and the informational edge that institutions have, you'll also get blown up \[3\]. 
 
-### 4. Reflect on your steps
+### 4. Adjust and retry
 
+You've now looked over all your steps, knowing why they're there (or deliberately excluded), and identified any possible gaps. The next step is then to make small adjustments deliberately, and track any changes over time. If you've done all this work but don't record it down, you'll never hold yourself accountable.
 
-
-### 5. Adjust and retry
+For example, if you've realised that your scenario analysis for investment ideas is consistently too bearish, causing you to sell too early, you should make small changes to your risk evaluation and see how well that works out for you. Importantly, you need to have a record of it. If not, you'll end up making up reasons after the event to make yourself seem smarter. The point here isn't to seem smart, it's to actually become smarter.
 
 ## Footnotes
 
