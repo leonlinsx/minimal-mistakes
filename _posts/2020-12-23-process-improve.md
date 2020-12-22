@@ -51,6 +51,8 @@ What makes things even harder is that processes are intangible. You can depict t
 
 And yet, over the long run process wins out. Luck will average out \[2\], and you're left with the output of your process and skill. If your process is bad on average, you will be bad on average. 
 
+Low skill vs High skill curve
+
 We've seen suggestions on how to improve processes [in an older article this year](https://avoidboringpeople.substack.com/p/often-overlooked-process-improvement "process"), and my practical takeaways are:
 
 ### 1. Knowing what you're doing
