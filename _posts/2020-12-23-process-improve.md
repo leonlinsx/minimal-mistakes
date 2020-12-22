@@ -34,7 +34,9 @@ published: false
 
 ## Main
 
-We started out the month [looking at art](https://avoidboringpeople.substack.com/p/manet-and-modernity "art"), and there's a reason for that. Art is high skill, low luck. 
+We started out the month [looking at art](https://avoidboringpeople.substack.com/p/manet-and-modernity "art"), and there's a reason for that. Art is high skill, low luck. While it's possible to create great art without much skill, most art is crafted intentionally. Since you start from scratch, every element is there for a reason. We saw this in Manet's "unpolished" depiction of modern life, Dominique-Ingres' "unrealistic" body shape, and Picasso's "ugly" drawings, where weird features were the point of the painting. Throughout these, the artists were following their own deliberate process to get consistent results.
+
+
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
