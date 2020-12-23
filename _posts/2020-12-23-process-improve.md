@@ -92,7 +92,7 @@ All that said, this is a tedious process, and I'm not expecting anyone to run it
 ## Footnotes
 
 1. There are many games we play just for fun, and getting too good at them vs your playmates will make the game unfun. 
-2. If you're lucky all the time, I'd argue that's not luck anymore but something systemic. It's like how pretty people say everyone's always friendly to them and how they're so lucky that nice girl at the coffeeshop gives them a free donut everytime.
+2. If you're lucky all the time, I'd argue that's not luck anymore but something systemic. It's like how pretty people say everyone's always friendly to them and how they're so lucky that nice girl at the coffee shop gives them a free donut every time.
 3. Well in this market you'll probably become a billionaire and retire while laughing at my advice...
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
