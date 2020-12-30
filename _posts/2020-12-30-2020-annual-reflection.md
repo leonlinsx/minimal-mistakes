@@ -68,15 +68,27 @@ I try to avoid sharing popular sources when compiling my link section, though it
 
 ## 2. Free newsletter growth has exceeded expectations; paid newsletter growth has met (low) expectations
 
+I don't like to discuss subscriber counts for the same reason people don't like discussing salaries and companies don't like discussing financials. I feel it's like knowing your IQ \[1\] - lower than expected and people lose respect; higher than expected and people feel you're overrated. I started with eight people on my list and am way past that now, so anything further is pure upside.
+
+Free subscriber growth is in the hundreds of percent year over year, which is fantastic. There are single events that drove large growth, but a lot of it was due to slow steady growth throughout the year. I need to work on better marketing and promotion though.
+
+Paid subscriber conversion and growth has not kept up, and I feel it's because I don't currently have a clear value proposition. If I just did tech company case studies and investing memos it would make the subscription an easier sell, but I want to have more freedom in my topics. As of now, a paid subscription is a show of support that lets me continue learning stuff to write about \[2\]. For example, I wouldn't have been able to write [the GPT-3 article](https://avoidboringpeople.substack.com/p/doctor-gpt-3 "gpt") without the reading and courses I took this year. 
+
+I've also had many people ask about my writing process recently. Here's the rough outline: I save interesting articles when I read them, trying to group the ones with a common theme together. I set aside time on my weekends to write (since I the subscriber articles are weekly), and ideally have time to edit on the weekdays before publishing \[3\].
+
+I don't normally sit down and get inspiration for what to write; that sometimes happens but it's rare. There are days in which I'll be staring at my screen for an hour without anything good. There's also times where I'm not quite "feeling" a topic, but write it anyway to see where I get.
 
 
-## 3.
 
-## Shoutouts
+## 3. Life is alright, all things considered
 
-## Other
+It has not been a great year overall, for obvious reasons. That said, 
 
 ## Footnotes
+
+1. This isn't my saying; I can't remember who said it first
+2. As a reminder, the paywalled articles eventually go on [my personal blog archive](https://www.leonlinsx.com/ "leon") after a substantial delay, and I'm happy to forward any before that. I have some naive belief that information should be free to the extent possible
+3. There is a percentage of the time I spend the night before rushing out a piece in a panic
 
 *If you liked this, you'll like [my monthly newsletter.](https://avoidboringpeople.substack.com/ "ABP") Sign up here:*
 
