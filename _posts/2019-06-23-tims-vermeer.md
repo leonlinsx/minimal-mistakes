@@ -40,7 +40,7 @@ If you're like me and don't know much about art, here's some background context:
     <figcaption>Girl with a pearl earring and the the music lesson</figcaption>
 </figure>
 
-A while back, David Hockney and Philip Steadman suggested that **Vermeer and other artists could have [used lenses and mirrors to achieve the realism in their paintings.]**(https://www.vanityfair.com/culture/2013/11/vermeer-secret-tool-mirrors-lenses"Vanity Fair link") The controversy generated had people doubting both the people hypothesising and the process hypothesised:
+A while back, David Hockney and Philip Steadman suggested that **Vermeer and other artists could have [used lenses and mirrors to achieve the realism in their paintings.](https://www.vanityfair.com/culture/2013/11/vermeer-secret-tool-mirrors-lenses "Vanity Fair link")** The controversy generated had people doubting both the people hypothesising and the process hypothesised:
 
 > Leading art historians were unpersuaded. Hockney, people said, was just jealous because he lacks the old masters’ skills.
 
