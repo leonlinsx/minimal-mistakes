@@ -70,7 +70,7 @@ I try to avoid sharing popular sources when compiling my link section, though it
 
 I don't like to discuss subscriber counts for the same reason people don't like discussing salaries and companies don't like discussing financials. I feel it's like knowing your IQ \[1\] - lower than expected and people lose respect; higher than expected and people feel you're overrated. I started with eight people on my list and am way past that now, so anything further is pure upside.
 
-Free subscriber growth is in the hundreds of percent year over year, which is fantastic. There are single events that drove large growth, but a lot of it was due to slow steady growth throughout the year. I need to work on better marketing and promotion though.
+Free subscriber growth is in the hundreds of percent year over year, which is fantastic. There are single events that drove large growth, but a lot of it was due to slow steady growth throughout the year. Open rates are still good at the 40-50% range. I need to work on better marketing and promotion though.
 
 Paid subscriber conversion and growth has not kept up, and I feel it's because I don't currently have a clear value proposition. If I just did tech company case studies and investing memos it would make the subscription an easier sell, but I want to have more freedom in my topics. As of now, a paid subscription is a show of support that lets me continue learning stuff to write about \[2\]. For example, I wouldn't have been able to write [the GPT-3 article](https://avoidboringpeople.substack.com/p/doctor-gpt-3 "gpt") without the reading and courses I took this year. 
 
@@ -96,7 +96,7 @@ The template I used for my annual reflection is [here](https://docs.google.com/d
 
 ### Highlights on physical skills
 
-1. I finally regained my ability to do one arm chin ups, years after losing them due to being lazy. Am trying to strenghten the end ranges now
+1. I finally regained my ability to do one arm chin ups, years after losing them due to being lazy. Am trying to strengthen the end ranges now
 2. Also finally squared my front splits, got my flat pancake stretch, and overall better body awareness. I credit [Jen Crane](https://www.instagram.com/cirque_physio/ "cirque") for the active flexibility drills and making me realise flexibility is more about strength than passive range of motion
 3. The flexibility gains also helped me get a pike press handstand for the first time, and regain a straddle press handstand. 
 4. Maintained bouldering ability and grades, which I guess is the best I could have hoped for with gym closures
@@ -110,9 +110,9 @@ The template I used for my annual reflection is [here](https://docs.google.com/d
 
 ### Lowlights
 
-1. Didn't read as many books as I wanted since my spare time was spent on courses
+1. Didn't read as many books as I wanted, since my spare time was spent on courses \[7\]. 
 2. Wasn't able to get much dance practice
-3. The planche and handstand pushup are still eluding me, probably because I'm too lazy to train them properly
+3. The planche and handstand pushup are still eluding me; my excuse is that I'm too lazy to train them properly
 
 ### Goals for next year
 
@@ -120,7 +120,7 @@ The template I used for my annual reflection is [here](https://docs.google.com/d
 2. Learn more programming
 3. Learn more math and statistics 
 4. Get stronger active flexibility. I'm working towards middle splits and a needle but am unsure if that'll be achievable next year 
-5. Get stronger on physical skills, from one arm chins to planche work
+5. Get stronger on stregth skills, from one arm chins to planche work
 
 ## Footnotes
 
@@ -130,6 +130,7 @@ The template I used for my annual reflection is [here](https://docs.google.com/d
 4. Still stupid in many science areas though as I haven't had time to work on those
 5. I am unsure what is the point of having problems without providing solutions tbh.
 6. I technically haven't joined Recurse yet; I'm in the next batch in 2021.
+7. I have books I bought in 2019 that are still unread even though they're important...
 
 *If you liked this, you'll like [my monthly newsletter.](https://avoidboringpeople.substack.com/ "ABP") Sign up here:*
 
