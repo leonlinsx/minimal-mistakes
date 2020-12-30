@@ -128,7 +128,7 @@ The template I used for my annual reflection is [here](https://docs.google.com/d
 2. As a reminder, the paywalled articles eventually go on [my personal blog archive](https://www.leonlinsx.com/ "leon") after a substantial delay, and I'm happy to forward any before that. I have some naive belief that information should be free to the extent possible
 3. There is a percentage of the time I spend the night before rushing out a piece in a panic
 4. Still stupid in many science areas though as I haven't had time to work on those
-5. I am unsure what is the point of having problems without providing solutions tbh.
+5. I am unsure what is the point of having problems without providing solutions tbh. I'm not even doing all the problems, but do need to know if the ones I'm doing are right...
 6. I technically haven't joined Recurse yet; I'm in the next batch in 2021.
 7. I have books I bought in 2019 that are still unread even though they're important...
 
