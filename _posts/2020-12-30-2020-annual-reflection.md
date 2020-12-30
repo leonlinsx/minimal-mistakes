@@ -4,7 +4,7 @@ tags: []
 published: false
 ---
 
-[As usual,](https://avoidboringpeople.substack.com/p/avoid-boring-people-even-more-in "2019") we'll end off the year with a summary and reflection. I'll give an update both on the newsletter as well as my personal life:
+[As usual,](https://avoidboringpeople.substack.com/p/avoid-boring-people-even-more-in "2019") we'll end off with a reflection on the year. I'll give an update on both the newsletter as well as my personal life:
 
 1. 5 favourite free articles, 5 favourite subscriber articles, and 5 favourite links
 2. Reflecting on the newsletter
@@ -40,7 +40,11 @@ published: false
 
 ### Favourite free articles
 
-1. 
+1. [Relatively speaking, the billionaire isn't rich](https://avoidboringpeople.substack.com/p/relatively-speaking-the-billionaire "relative"). Why it's all relative.
+2. [A story is a lie and a story is true](https://avoidboringpeople.substack.com/p/a-story-is-a-lie-and-a-story-is-true "story"). Stories matter for investing, technology, and you
+3. [Doctor GPT-3](https://avoidboringpeople.substack.com/p/doctor-gpt-3 "gpt") or: How I Learned to Stop Worrying and Love the Artificial Intelligence
+4. [There's more to communities than Facebook goat groups](https://avoidboringpeople.substack.com/p/theres-more-to-communities-than-facebook "fb"). Looking into the common theme of community vs individuality for events, newsletters, and investing
+5. [Fluctuat nec mergitur - She is tossed by the waves, but does not sink](https://avoidboringpeople.substack.com/p/fluctuat-nec-mergitur "fluctuat")
 
 ### Favourite subscriber articles
 
@@ -48,9 +52,17 @@ published: false
 2. Getting some intuition behind neural networks and [why the next machine learning startup is in your front yard](https://avoidboringpeople.substack.com/p/the-next-machine-learning-startup "ml")
 3. [Cost of Capital in the 21st century](https://avoidboringpeople.substack.com/p/cost-of-capital-in-the-21st-century "21")
 4. [Wisely and slowly, they stumble that run fast](https://avoidboringpeople.substack.com/p/wisely-and-slow-they-stumble-that "wise") - The Pace Layer Framework implies it's the job of business to change quickly and governments to change slowly
-5. [Not everything is insider trading](https://avoidboringpeople.substack.com/p/not-everything-is-insider-trading "insider") - A look at the professional investor's information "tech stack"
+5. [Not everything is insider trading](https://avoidboringpeople.substack.com/p/not-everything-is-insider-trading "insider") - A look at the professional investor's information stack
 
 As always, happy to forward any of these - email me.
+
+### Favourite links
+
+1. 
+2.
+3.
+4.
+5.
 
 ## 2. 
 
