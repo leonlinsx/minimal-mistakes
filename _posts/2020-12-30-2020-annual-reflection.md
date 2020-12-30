@@ -1,5 +1,5 @@
 ---
-title:  ""  
+title:  "Avoid Boring People in 2020"  
 tags: []
 published: false
 ---
@@ -78,17 +78,58 @@ I've also had many people ask about my writing process recently. Here's the roug
 
 I don't normally sit down and get inspiration for what to write; that sometimes happens but it's rare. There are days in which I'll be staring at my screen for an hour without anything good. There's also times where I'm not quite "feeling" a topic, but write it anyway to see where I get.
 
-
-
 ## 3. Life is alright, all things considered
 
-It has not been a great year overall, for obvious reasons. That said, 
+Early this year I realised I was more stupid than I was in high school. I was more wise and experienced, but had forgotten most of the hard math and science from back then. In an effort to be less stupid, I've been spending a lot of time this year learning theory again. It's paid off, I'm happy with the progress made, and I'm much less intimidated by some subjects than I was before \[4\]. 
+
+The template I used for my annual reflection is [here](https://docs.google.com/document/d/1ELDU8AVEbiuEjtuBWnTVT1vWdsup1-7mUWiPLafaFAE/edit?usp=sharing "template") and my filled in version is [here](https://docs.google.com/document/d/1aIHh8DitZEi7GrJHfWLW9F7cdZJRnIKjn5vHO__-9V0/edit?usp=sharing "abp"). I had one large failure on the work side and one on the personal side, but not quite ready to share either of those yet. Outside of those, things are generally good. Happy to discuss any of these in detail; email me.
+
+### Highlights on knowledge work
+
+1. Programming in python is finally sticking, on perhaps my fourth attempt to pick it up. I started with [Automate the Boring Stuff](https://automatetheboringstuff.com/ "ABS"), did projects on [hyperskill](https://hyperskill.org/curriculum "hyperskill"), and am working on a Rice University [Fundamentals of Computing course](https://www.coursera.org/specializations/computer-fundamentals "rice") now
+2. That also opened up being able to take machine learning and deep learning courses, such as the [Andrew Ng Deep Learning Specialisation](https://www.coursera.org/specializations/deep-learning "DL")
+3. Which also made it helpful to learn math such as linear algebra and calculus. I used Hefferon's [Linear Algebra](https://hefferon.net/linearalgebra/ "Hefferon") and am working on Strang's [Calculus](https://ocw.mit.edu/resources/res-18-001-calculus-online-textbook-spring-2005/textbook/ "Calc"). Both have answers to their practice problems, a feature I find essential in textbooks \[5\]
+4. In the process, I stumbled upon abstract algebra and group theory, which is the most fascinating I've learnt this year and made everything above worthwhile. It also made understanding linear algebra much easier. I started with [Socratica](https://www.youtube.com/watch?v=IP7nW_hKB7I&list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6 "Socratica"), continued with [Matthew Salomone's intro series](https://www.youtube.com/watch?v=vFNbtB6Y4v4 "matt"), and hope to have time for more rigourous practice next year 
+5. I also needed to revise statistics, and used [R for Data Science](https://r4ds.had.co.nz/ "r") to get the practice I needed to use R for work. Also hope to have time for more rigour next year
+6. Doing [Nand2Tetris](https://www.coursera.org/learn/build-a-computer "nand") was painful but gave me a good intro to understanding computing fundamentals
+7. Reading about art on [Smarthistory](https://smarthistory.org/ "art") has also helped given context to many famous artworks
+
+### Highlights on physical skills
+
+1. I finally regained my ability to do one arm chin ups, years after losing them due to being lazy. Am trying to strenghten the end ranges now
+2. Also finally squared my front splits, got my flat pancake stretch, and overall better body awareness. I credit [Jen Crane](https://www.instagram.com/cirque_physio/ "cirque") for the active flexibility drills and making me realise flexibility is more about strength than passive range of motion
+3. The flexibility gains also helped me get a pike press handstand for the first time, and regain a straddle press handstand. 
+4. Maintained bouldering ability and grades, which I guess is the best I could have hoped for with gym closures
+5. Picked up bartending flair from [Flair School](https://www.youtube.com/watch?v=sJZSMlIRlhQ "flair")
+
+### Highlights on other stuff
+
+1. Finally launched the cocktail club website, but have had to pause for obvious reasons. Did a few virtual cocktail making lessons and cocktail recipe commissions and also got Barsmarts certified
+2. Joined communities such as [RenCo](https://www.renaissancecollective.co/ "RenCo") and [Recurse](http://recurse.com/ "Recurse") \[6\]
+3. Learning about SEO best practices, though I haven't put them into practice
+
+### Lowlights
+
+1. Didn't read as many books as I wanted since my spare time was spent on courses
+2. Wasn't able to get much dance practice
+3. The planche and handstand pushup are still eluding me, probably because I'm too lazy to train them properly
+
+### Goals for next year
+
+1. Learn more about liquor and wine
+2. Learn more programming
+3. Learn more math and statistics 
+4. Get stronger active flexibility. I'm working towards middle splits and a needle but am unsure if that'll be achievable next year 
+5. Get stronger on physical skills, from one arm chins to planche work
 
 ## Footnotes
 
 1. This isn't my saying; I can't remember who said it first
 2. As a reminder, the paywalled articles eventually go on [my personal blog archive](https://www.leonlinsx.com/ "leon") after a substantial delay, and I'm happy to forward any before that. I have some naive belief that information should be free to the extent possible
 3. There is a percentage of the time I spend the night before rushing out a piece in a panic
+4. Still stupid in many science areas though as I haven't had time to work on those
+5. I am unsure what is the point of having problems without providing solutions tbh.
+6. I technically haven't joined Recurse yet; I'm in the next batch in 2021.
 
 *If you liked this, you'll like [my monthly newsletter.](https://avoidboringpeople.substack.com/ "ABP") Sign up here:*
 
