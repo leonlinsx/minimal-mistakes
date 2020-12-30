@@ -4,10 +4,10 @@ tags: []
 published: false
 ---
 
-[As usual,](https://avoidboringpeople.substack.com/p/avoid-boring-people-even-more-in "2019") we'll end off with a reflection on the year. I'll give an update on both the newsletter as well as my personal life:
+[As usual,](https://avoidboringpeople.substack.com/p/avoid-boring-people-even-more-in "2019") we'll end off with a reflection on the year. I'll give an update on the newsletter and my personal life. There's also a reader competition so look out for that:
 
 1. 5 favourite free articles, subscriber articles, and links
-2. Reflecting on the newsletter
+2. Reflecting on the newsletter and announcing a small reader competition
 3. Reflecting on my year
 
 <style>
