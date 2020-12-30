@@ -44,7 +44,7 @@ published: false
 2. [A story is a lie and a story is true](https://avoidboringpeople.substack.com/p/a-story-is-a-lie-and-a-story-is-true "story"). Stories matter for investing, technology, and you
 3. [Doctor GPT-3](https://avoidboringpeople.substack.com/p/doctor-gpt-3 "gpt") or: How I Learned to Stop Worrying and Love the Artificial Intelligence
 4. [There's more to communities than Facebook goat groups](https://avoidboringpeople.substack.com/p/theres-more-to-communities-than-facebook "fb"). Looking into the common theme of community vs individuality for events, newsletters, and investing
-5. [Fluctuat nec mergitur - She is tossed by the waves, but does not sink](https://avoidboringpeople.substack.com/p/fluctuat-nec-mergitur "fluctuat")
+5. [You don't want quality time, you want garbage time](https://avoidboringpeople.substack.com/p/you-dont-want-quality-time-you-want "time") - This isn't the tech you're looking for, robots in equity research, and quality time
 
 ### Favourite subscriber articles
 
@@ -58,13 +58,17 @@ As always, happy to forward any of these - email me.
 
 ### Favourite links
 
-1. 
-2.
-3.
-4.
-5.
+I try to avoid sharing popular sources when compiling my link section, though it's not a hard and fast rule
 
-## 2. 
+1. [The math and physics behind animation](http://acko.net/blog/animate-your-way-to-glory/ "acko")
+2. [Could a text prediction algorithm (like gmail or your phone keyboard) be used to play chess?](https://slatestarcodex.com/2020/01/06/a-very-unlikely-chess-game/ "ssc")
+3. [Does Commodification Corrupt? Lessons from Paintings and Prostitutes](https://scholarship.shu.edu/cgi/viewcontent.cgi?article=1732&context=shlr "paint")
+4. [This isn't Sparta](https://acoup.blog/2019/08/16/collections-this-isnt-sparta-part-i-spartan-school/ "sparta"). Comparing the popular legacy of Sparta with the history
+5. ["Color blindness is an inaccurate term"](https://commandcenter.blogspot.com/2020/09/color-blindness-is-inaccurate-term.html "color")
+
+## 2. Free newsletter growth has exceeded expectations; paid newsletter growth has met (low) expectations
+
+
 
 ## 3.
 
