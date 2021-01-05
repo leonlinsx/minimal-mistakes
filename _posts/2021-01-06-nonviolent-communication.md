@@ -34,7 +34,30 @@ published: false
 
 ## Main
 
+Nonviolent communication (NVC)
 
+NVC process:
+
+1. Actions we **observe** that are affecting our well-being
+2. How we **feel** in relation to that observation
+3. The **needs** that are creating those feelings
+4. The actions we **request** to improve our lives
+
+[Thanks for the feedback](https://www.leonlinsx.com/thanks-for-the-feedback/ "feedback"), how to get better at taking feedback
+
+I often treat other people's feedback as an evaluation of my ability, resulting in self-doubt about my ability
+
+Separate observation from evaluation
+
+Understand our feelings
+
+Understand our needs
+
+Growing from emotional slavery to emotional liberation
+
+Clearly communicate what we want others to do for us
+
+Requests vs Demands
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
