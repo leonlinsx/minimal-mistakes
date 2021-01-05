@@ -59,6 +59,10 @@ Clearly communicate what we want others to do for us
 
 Requests vs Demands
 
+People need to be understood, empathy
+
+Limitations on punishment
+
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
