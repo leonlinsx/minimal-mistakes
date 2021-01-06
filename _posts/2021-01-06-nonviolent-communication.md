@@ -34,6 +34,10 @@ published: false
 
 ## Main
 
+One good thing about getting older is you get to know yourself better. Your likes, your dislikes, and 
+
+I've been frustrated at people without understanding why, not even knowing what I'd want them to do differently. 
+
 Nonviolent communication (NVC)
 
 NVC process:
