@@ -67,6 +67,10 @@ The NVC book also covers how to empathise more, express anger, and express appre
 
 NVC's core belief is that people need to be understood and that having more empathetic communication helps. By better understanding ourselves and others, we can improve the quality of our relationships at work and at home. I'm looking to use it moving forward to make my communications more effective and less threatening.
 
+## Announcement
+
+I'm planning to take a week off every month, (1) in order to reduce burnout, (2) in response to reader feedback of content overload. Having written weekly for two years (one on the blog, one on the newsletter), it's starting to get tiring, and seems like a win win if everyone's ok with that. Let me know if it's an issue though.
+
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
 <div class="iframe-container-4x3">
