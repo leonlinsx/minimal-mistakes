@@ -6,6 +6,8 @@ published: false
 
 ## Takeaway
 
+Communicating nonviolently by observing feelings and needs will help improve relationships and reduce chances of people feeling threatened, making it more likely for everyone to get what they want
+
 <style>
       .iframe-container {
         overflow: hidden;        
