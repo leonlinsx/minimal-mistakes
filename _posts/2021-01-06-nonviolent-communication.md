@@ -1,6 +1,6 @@
 ---
 title:  "Nonviolent communication"  
-tags: []
+tags: [communication]
 published: false
 ---
 
@@ -34,9 +34,9 @@ published: false
 
 ## Nonviolent communication for better relationships
 
-I once implied a friend was bad at math, and she's never let me forget it. Makes you wonder how many people I've offended accidentally. For a supposedly intelligent species, we're terrible at communicating how we feel and what we'd like others to do. We expect people to read our minds, getting frustrated when they can't. We could all work on better communication.
+I once implied a friend was bad at math, and she's never let me forget it. Makes you wonder how many people I've offended accidentally. For a supposedly intelligent species, we're terrible at communicating how we feel and what we'd like others to do. We expect people to read our minds, getting frustrated when they can't, despite being unable to do so ourselves. We could all work on better communication; it's a neverending goal of mine.
 
-I read about [Nonviolent Communication](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X "NVC") (NVC) recently, and found it helpful in highlighting ways I could improve. NVC is focused on feelings - understanding our own, and empathising with others. By better understanding these, we can communicate better without hurting others unintentionally. 
+I read about [Nonviolent Communication](https://www.amazon.com/Nonviolent-Communication-Language-Life-Changing-Relationships/dp/189200528X "NVC") (NVC) recently, and found it helpful in highlighting ways I could improve. NVC is focused on feelings - understanding our own, and empathising with others. By understanding these better, we can communicate without hurting others unintentionally. 
 
 The NVC process has four main steps, focused around making people feel less threatened by our language:
 
@@ -49,27 +49,31 @@ The NVC process has four main steps, focused around making people feel less thre
 
 If you recall my summary of [Thanks for the feedback](https://www.leonlinsx.com/thanks-for-the-feedback/ "feedback"), a book on how to get better at taking feedback, this should sound familiar. Getting evaluated can easily result in self-doubt about your competence. For example, someone making a suggestion at work might make you over-think and believe they're saying you're incompetent at your job.
 
-Thanks for the feedback approached this from the receiver's point of view, by asking the commenter to clarify the comment. NVC approaches this from the giver's point of view, by deliberately separating observations from evaluations.
+And you've probably experienced this before - once you feel you've been criticised, you're not receptive to any other comments, making that entire conversation pretty pointless. It's like being ["on tilt"](https://en.wikipedia.org/wiki/Tilt_(poker) "tilt") when in poker and therefore making bad decisions.  
 
-**Second step:** we have to understand what we're feeling, distinguishing that from what we're thinking. The difference can be subtle but meaningful, and is helpful for the next step. For example, "I feel unimportant" is how we think others are viewing us, whereas "I'm discouraged" is a feeling. 
+Thanks for the feedback approached this from the receiver's point of view, by asking the commenter to clarify the comment. NVC approaches this from the giver's point of view, by deliberately separating observations from evaluations. It's a step towards being less confrontational.
+
+**Second step:** we have to understand what we're feeling, distinguishing that from what we're thinking. The difference can be subtle but meaningful, and is helpful for the next step. For example, "I feel unimportant" is how we think others are viewing us, whereas "I'm discouraged" is a feeling.
+
+I'll be writing on this more in the future, and believe that we don't know ourselves well enough, usually having difficulty saying exactly what we're feeling. This causes problems because we can't figure out how to address our feelings. There was a [Romantic period](https://en.wikipedia.org/wiki/Romanticism "romantic") in the arts in the early 1800s emphasising emotion, and I believe it's due for a comeback.
 
 **Third step:** we have to understand the needs that are driving our feelings. Other people can trigger our feelings, but our own needs are the cause. 
 
 When we receive a negative communication, we can (1) blame ourselves, (2) blame others, (3) understand our feelings and needs, (4) understand the other person's feelings and needs. NVC claims that (1) and (2) are counterproductive, and that (3) and (4) are required for meaningful communication. 
 
-NVC also made an interesting point on emotional growth, saying we move through three stages of growth. Initially, we're emotional slaves, seeing ourselves responsible for other's feelings. Natually, this is a draining position to be in. Those that realise the high costs associated with the prior stage rebel and become obnoxious, feeling angry and wanting to dump any and all responsibility. The last stage of growth is emotional liberation, where we respond to others out of compassion, and accept responsibility for ourselves but not for others.
+NVC also made an interesting point on emotional growth, saying we move through three stages of growth. Initially, we're emotional slaves, seeing ourselves responsible for other's feelings. Natually, this is a draining position to be in. Those that realise the high costs associated with the prior stage rebel and become obnoxious, feeling angry and wanting to dump any and all responsibility. That's still immature. The last stage of growth is emotional liberation, where we respond to others out of compassion, and accept responsibility for ourselves but not for others. It reminds me of [Kegan's theory of adult development](https://avoidboringpeople.substack.com/p/dont-die-as-a-caterpillar "kegan"), which has most people stagnating at the middle stage.
 
 **Fourth step:** once we know what we're feeling and why, we can finally make requests (not demands) of others. The clearer our request is, the more likely we'll be able to get what we desire. For example "I want you to be more responsible" is unclear compared to "I would feel happy if you did the dishes after eating"
 
 Whether something is a request or a demand depends on the results of not complying with it. If noncompliance results in criticism or guilt-tripping, it's a demand. When people believe they're hearing a demand, they feel threatened, seeing only submission or rebellion as their options, neither of which are good for the relationship.
 
-The NVC book also covers how to empathise more, express anger, and express appreciation, but I'll leave that out to keep this succint. I do have a concern that wasn't addressed though - It's assumed that everyone is acting with good intentions and can develop empathy. If I'd read this pre-pandemic, I'd be inclined to agree. Instead, I'm now wondering what's the right approach if others aren't acting in good faith.
+The NVC book also covers how to empathise more, express anger, and express appreciation, but I'll leave that out to keep this succinct. I do have a concern that wasn't addressed though - It's assumed that everyone is acting with good intentions and can develop empathy. If I'd read this pre-pandemic, I'd be inclined to agree. Instead, I'm now wondering what's the right approach if others aren't acting in good faith. I don't have any good ideas on that end - perhaps just avoid these people?
 
 NVC's core belief is that people need to be understood and that having more empathetic communication helps. By better understanding ourselves and others, we can improve the quality of our relationships at work and at home. I'm looking to use it moving forward to make my communications more effective and less threatening.
 
 ## Announcement
 
-I'm planning to take a week off every month, (1) in order to reduce burnout, (2) in response to reader feedback of content overload. Having written weekly for two years (one on the blog, one on the newsletter), it's starting to get tiring, and seems like a win win if everyone's ok with that. Let me know if it's an issue though.
+I'm planning to take a week off every month, (1) in order to reduce burnout, (2) in response to reader feedback of content overload. Having written weekly for two years (one on the blog, one on the newsletter), it's starting to get tiring, and seems like a win win if everyone's ok with that. Let me know if it's an issue though for you though.
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
