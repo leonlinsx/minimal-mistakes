@@ -71,6 +71,8 @@ Whether something is a request or a demand depends on the results of not complyi
 
 The NVC book also covers how to empathise more, express anger, and express appreciation, but I'll leave that out to keep this succinct. I do have a concern that wasn't addressed though - It's assumed that everyone is acting with good intentions and can develop empathy. If I'd read this pre-pandemic, I'd be inclined to agree. Instead, I'm now wondering what's the right approach if others aren't acting in good faith. I don't have any good ideas on that end - perhaps just avoid these people?
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/NVC_process.png)
+
 NVC's core belief is that people need to be understood and that having more empathetic communication helps. By better understanding ourselves and others, we can improve the quality of our relationships at work and at home. I'm looking to use it moving forward to make my communications more effective and less threatening.
 
 ## Announcement
