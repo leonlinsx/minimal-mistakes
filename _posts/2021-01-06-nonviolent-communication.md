@@ -47,7 +47,7 @@ The NVC process has four main steps, focused around making people feel less thre
 3. The **needs** that are creating those feelings
 4. The actions we **request** to improve our lives
 
-**First step:** we need to separate the observation of a fact from the evaluation of a person. When we include an evaluation, it usually sounds like critcism. When it sounds like criticism, people start tuning out. For example, saying "Jerry hasn't scored in 10 games" is an observation, whereas "Jerry is a poor player" is an evaluation.
+**First step:** we need to separate the observation of a fact from the evaluation of a person. When we include an evaluation, it usually sounds like criticism. When it sounds like criticism, people start tuning out. For example, saying "Jerry hasn't scored in 10 games" is an observation, whereas "Jerry is a poor player" is an evaluation.
 
 If you recall my summary of [Thanks for the feedback](https://www.leonlinsx.com/thanks-for-the-feedback/ "feedback"), a book on how to get better at taking feedback, this should sound familiar. Getting evaluated can easily result in self-doubt about your competence. For example, someone making a suggestion at work might make you over-think and believe they're saying you're incompetent at your job.
 
@@ -63,7 +63,11 @@ I'll be writing on this more in the future, and believe that we don't know ourse
 
 When we receive a negative communication, we can (1) blame ourselves, (2) blame others, (3) understand our feelings and needs, (4) understand the other person's feelings and needs. NVC claims that (1) and (2) are counterproductive, and that (3) and (4) are required for meaningful communication. 
 
-NVC also made an interesting point on emotional growth, saying we move through three stages of growth. Initially, we're emotional slaves, seeing ourselves responsible for other's feelings. Natually, this is a draining position to be in. Those that realise the high costs associated with the prior stage rebel and become obnoxious, feeling angry and wanting to dump any and all responsibility. That's still immature. The last stage of growth is emotional liberation, where we respond to others out of compassion, and accept responsibility for ourselves but not for others. It reminds me of [Kegan's theory of adult development](https://avoidboringpeople.substack.com/p/dont-die-as-a-caterpillar "kegan"), which has most people stagnating at the middle stage.
+NVC also made an interesting point on emotional growth, saying we move through three stages of growth. Initially, we're emotional slaves, seeing ourselves responsible for other's feelings. 
+
+Naturally, this is a draining position to be in. Those that realise the high costs associated with the prior stage rebel and become obnoxious, feeling angry and wanting to dump any and all responsibility. That's still immature. 
+
+The last stage of growth is emotional liberation, where we respond to others out of compassion, and accept responsibility for ourselves but not for others. It reminds me of [Kegan's theory of adult development](https://avoidboringpeople.substack.com/p/dont-die-as-a-caterpillar "kegan"), which has most people stagnating at the middle stage.
 
 **Fourth step:** once we know what we're feeling and why, we can finally make requests (not demands) of others. The clearer our request is, the more likely we'll be able to get what we desire. For example "I want you to be more responsible" is unclear compared to "I would feel happy if you did the dishes after eating"
 
