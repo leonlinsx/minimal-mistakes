@@ -46,6 +46,10 @@ Most of us work in some larger company, report to some boss, and are accountable
 
 complex problems
 
+personal
+
+what can compound over time, internal knowledge
+
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
