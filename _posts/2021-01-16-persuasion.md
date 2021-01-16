@@ -62,6 +62,8 @@ what can compound over time, internal knowledge
 
 accountability, incentive alignment
 
+what can we do instead if we cant find a company like this?
+
 ## Footnotes
 
 1. Micromanagement works for tasks that are less complex. For example, if you're manufacturing identical widgets, the process should be the same every time, and this should be managed closely. Most of the projects that we work on are not widget manufacturing
