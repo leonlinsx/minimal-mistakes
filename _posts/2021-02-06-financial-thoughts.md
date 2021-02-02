@@ -34,7 +34,9 @@ published: false
 
 ## Main
 
-We've [talked about lotteries before](https://avoidboringpeople.substack.com/p/it-only-goes-up-from-here "lottery"), where we saw how 
+We've [talked about lotteries before](https://avoidboringpeople.substack.com/p/it-only-goes-up-from-here "lottery"), where we saw how poor people buying lottery tickets may not be as "dumb" a decision as commonly perceived. When $2 can either buy you a bagel or a chance to change your life, you might choose the latter some times.
+
+
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
