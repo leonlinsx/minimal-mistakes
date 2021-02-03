@@ -42,7 +42,7 @@ And by people I don't mean some nebulous, imaginary other. I mean **you and me.*
 
 **And that's ok.** Again, people are going to gamble, and if you didn't put your money in some Fyre festival timeshare you'd have put it in a penny stock anyway. 
 
-So - it's ok to gamble. What's more important then, is 
+Given that's the case, what we should be more concerned about is the **amount** we're gambling with, rather than forcing 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
