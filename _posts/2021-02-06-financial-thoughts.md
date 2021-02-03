@@ -34,9 +34,15 @@ published: false
 
 ## Main
 
-We've [talked about lotteries before](https://avoidboringpeople.substack.com/p/it-only-goes-up-from-here "lottery"), where we saw how poor people buying lottery tickets may not be as "dumb" a decision as commonly perceived. When $2 can either buy you a bagel or a chance to change your life, you might choose the latter some times.
+We've [talked about lotteries before](https://avoidboringpeople.substack.com/p/it-only-goes-up-from-here "lottery"), where we saw how poor people buying lottery tickets may not be as "dumb" a decision as commonly perceived. When $2 can either buy you a bagel or a chance to change your life, you might choose the latter sometimes.
 
+I don't have anything against lotteries - they're a [regressive tax](https://www.thebalance.com/regressive-tax-definition-history-effective-rate-4155620 "tax"), but restricting them would lead to illegal alternatives anyway. **People are going to gamble.** 
 
+And by people I don't mean some nebulous, imaginary other. I mean **you and me.** We'll see opportunities that seem too good to be true (hint: they are), and be tempted to take part. We might even join in.
+
+**And that's ok.** Again, people are going to gamble, and if you didn't put your money in some Fyre festival timeshare you'd have put it in a penny stock anyway. 
+
+So - it's ok to gamble. What's more important then, is 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
