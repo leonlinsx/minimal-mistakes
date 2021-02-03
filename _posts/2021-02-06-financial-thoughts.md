@@ -56,6 +56,14 @@ I believe that the information and analytical advantages continue to shrink in t
 
 Some other ways to take advantage 
 
+long term vs short term
+
+doing nothing vs doing something
+
+boring vs exciting
+
+simple vs complicated
+
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
