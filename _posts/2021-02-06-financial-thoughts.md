@@ -32,7 +32,7 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-## Main
+## Behavioural edge and why it's difficult
 
 John Huber likes to divide the "edge" you can get in investing into [three main sources:](https://sabercapitalmgt.com/what-is-your-edge/ "edge")
 
@@ -48,38 +48,43 @@ Some examples of behavioural edge:
 
 **Short term vs long term.** If you'd put $100 in the S&P 500 in 1990, you'd have 10x your money this year. That sounds like a big number. 
 
-On average, you'd have earned ~8% a year. That sounds like a small number.
+On average though, you'd have earned ~8% a year. That sounds like a small number.
 
-That difference in "feeling" there is why people can earn the big number. 
+That difference in "feeling" there is why people can earn the big number. You get paid for patience.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/financial_returns/fin_1.png)
 
-**Doing nothing vs doing something.** 
+**Doing nothing vs doing something.** Professional money managers are incentivised to turnover their portfolio, since they themselves have clients to cater to. Imagine the following meeting:
 
-We've [talked about lotteries before](https://avoidboringpeople.substack.com/p/it-only-goes-up-from-here "lottery"), where we saw how poor people buying lottery tickets may not be as "dumb" a decision as commonly perceived. When $2 can either buy you a bagel or a chance to change your life, you might choose the latter.
+> Client - "So, what's new in the portfolio?"
 
-I don't have anything against lotteries - they're a [regressive tax](https://www.thebalance.com/regressive-tax-definition-history-effective-rate-4155620 "tax"), but restricting them would lead to illegal alternatives anyway. **People are going to gamble.** 
+> Investor - "Nothing, we're still in the book store we mentioned."
 
-And by people I don't mean some nebulous, imaginary other. I mean **you and me.** We'll see opportunities that seem too good to be true (hint: they are), and be tempted to take part. We might even join in.
+> Client - "Wasn't that the same stock from last year?"
 
-**And that's ok.** Again, people are going to gamble, and if you didn't put your money in some [Fyre festival](https://en.wikipedia.org/wiki/Fyre_Festival "fyre") timeshare you'd have put it in a penny stock anyway. 
+> Investor - "Yep, and the same one from four years ago. We haven't actually done anything."
 
-Rather than resisting temptation forever (unlikely), a better approach is to prepare for the behavioural challenges that are likely to occur. A lot of the common financial knowledge is good advice (diversify, low cost investments etc), but we often fail to account for the fact that people want an outlet to gamble. This ends up backfiring when people can't resist any longer and take on too much risk in a moment of weakness.
+> Client - "What am I paying you for then?"
 
-This is not investment advice, and I think having a small % of your overall portfolio set aside for wild bets can help. For example, dedicate a maximum of 5% of your capital to gamble with, knowing full well you could lose all of it. You'll be able to satisfy both the gambling urge whenever it arises, but never be in a position to risk your livelihood. It's not the financially optimal solution, but a behaviourally focused one.
+That's why we see stocks like Amazon >100x in our lifetime, and don't see active managers do the same. If everyone else *has* to make trades to keep their job, doing nothing might actually give you an edge.
 
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/financial_returns/fin_2.png)
 
-Some other ways to take advantage 
+**Boring vs exciting.** Why are the above behaviours difficult? Because they're *boring*. We like activity and hate staying still. It's hard to brag at a cocktail party that your gains are small, slow, and simple. Just like how ["sin stocks" need to have higher expected excess returns](https://www.aqr.com/Insights/Perspectives/Virtue-is-its-Own-Reward-Or-One-Mans-Ceiling-is-Another-Mans-Floor "asness"), "boredom" stock behaviours also give you an edge.
 
-long term vs short term
+Having said all the above, am I really expecting anyone to follow the plan exactly? Should we just buy the S&P and go to sleep? 
 
-doing nothing vs doing something
+Nah, not really. Lord, make me chaste - but not yet. It's a great plan, but too difficult for most people to follow. Keeping in mind that this is not investment advice, let's add a small tweak to the portfolio:
 
-boring vs exciting
+One big reason people fail to follow such a plan is that we all like gambling. We'll see opportunities that seem too good to be true (hint: they are), and are tempted to join in. I do that all the time, despite knowing all the above.
 
-simple vs complicated
+Knowing that's the case, **having a small percentage of the portfolio dedicated for wild bets** seems like a reasonable compromise for our own fallible behaviour. Rather than resisting temptation forever (unlikely), a better approach is to prepare for the behavioural challenges that are likely to occur. 
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
+A lot of the common financial knowledge is good advice (diversify, low cost investments etc), but we often fail to account for the fact that people want an outlet to gamble. This ends up backfiring when people can't resist any longer and take on too much risk in a moment of weakness.
+
+Instead, say you set aside 5% of your capital to invest in [Fyre festival time shares](https://en.wikipedia.org/wiki/Fyre_Festival "fyre") and the latest pump and dump scheme. You'll be able to satisfy both the gambling urge whenever it arises, but never be in a position to risk your livelihood. If you lose all the 5%, that's too bad, but you've capped your downside. And if you've stumbled upon the next Amazon, that's fantastic.
+
+**The best investment plan is the one that you can actually stick with.** It may not be the financially optimal solution, but is a behaviourally focused one. 
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
