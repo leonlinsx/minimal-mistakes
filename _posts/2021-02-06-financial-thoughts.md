@@ -1,10 +1,12 @@
 ---
-title:  ""  
+title:  "Gambling is fine as long as you've sized the risk appropriately"  
 tags: []
 published: false
 ---
 
 ## Takeaway
+
+Behavioural edge in investing comes from being able to do things that are unpopular. Everyone loves to gamble, the more important thing is to size your risk appropriately.
 
 <style>
       .iframe-container {
@@ -86,7 +88,7 @@ One big reason people fail to follow such a plan is that **we all love gambling.
 
 Knowing that's the case, **having a small percentage of the portfolio dedicated for wild bets** seems like a reasonable compromise for our own fallible behaviour. Rather than resisting temptation forever (unlikely), a better approach is to pre-empt the behavioural challenges likely to occur. 
 
-A lot of the common financial knowledge is good advice (diversify, low cost investments etc), but we often fail to account for the fact that people want an outlet to gamble. This ends up backfiring when people can't resist any longer and take on too much risk in a moment of weakness. It doesn't help that you invested in an index fund for 10 years before pulling it out to bet on roulette. 
+A lot of the common financial knowledge is good advice (diversify, low cost investments etc), but we often fail to account for the fact that people want an outlet to gamble. This ends up backfiring when people can't resist any longer and take on too much risk in a moment of weakness. It doesn't help that you invested in an index fund for 10 years before pulling it out to short a stock with unlimited downside. 
 
 Instead, say you set aside 5% of your capital to invest in [Fyre festival time shares](https://en.wikipedia.org/wiki/Fyre_Festival "fyre") and the latest pump and dump scheme. You'll be able to satisfy both the gambling urge whenever it arises, but never be in a position to risk your livelihood. It's a somewhat similar approach to the [Kelly criterion](https://avoidboringpeople.substack.com/p/having-faith-in-the-kelly-criterion "kelly") that we discussed before.
 
