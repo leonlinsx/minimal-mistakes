@@ -34,6 +34,28 @@ published: false
 
 ## Main
 
+John Huber likes to divide the "edge" you can get in investing into [three main sources:](https://sabercapitalmgt.com/what-is-your-edge/ "edge")
+
+1. Information advantage - you have more/better information
+2. Analytical advantage - your analysis of that information is better
+3. Behavioural advantage - your mindset and actions
+
+I believe that information and analytical advantages continue to shrink, and are already not very large, even for the pros. Remember that it is the [relative difference](https://avoidboringpeople.substack.com/p/relatively-speaking-the-billionaire "relative") that matters, and not the absolute level. If you're using satellite data and your competitor is too, you do not have an information edge. If your detailed diligence process is the same as that of another [Tiger cub](https://en.wikipedia.org/wiki/Tiger_Management "Tiger") because your bosses used to work together, you do not have an analytical edge.  
+
+I also believe that the behavioural advantage is not shrinking, and will continue to be a differentiator for financial returns. The speed of information transfer has changed, analytical methods are well known, but humans still behave the same.
+
+Some examples of behavioural edge:
+
+**Short term vs long term.** If you'd put $100 in the S&P 500 in 1990, you'd have 10x your money this year. That sounds like a big number. 
+
+On average, you'd have earned ~8% a year. That sounds like a small number.
+
+That difference in "feeling" there is why people can earn the big number. 
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/financial_returns/fin_1.png)
+
+**Doing nothing vs doing something.** 
+
 We've [talked about lotteries before](https://avoidboringpeople.substack.com/p/it-only-goes-up-from-here "lottery"), where we saw how poor people buying lottery tickets may not be as "dumb" a decision as commonly perceived. When $2 can either buy you a bagel or a chance to change your life, you might choose the latter.
 
 I don't have anything against lotteries - they're a [regressive tax](https://www.thebalance.com/regressive-tax-definition-history-effective-rate-4155620 "tax"), but restricting them would lead to illegal alternatives anyway. **People are going to gamble.** 
@@ -46,13 +68,6 @@ Rather than resisting temptation forever (unlikely), a better approach is to pre
 
 This is not investment advice, and I think having a small % of your overall portfolio set aside for wild bets can help. For example, dedicate a maximum of 5% of your capital to gamble with, knowing full well you could lose all of it. You'll be able to satisfy both the gambling urge whenever it arises, but never be in a position to risk your livelihood. It's not the financially optimal solution, but a behaviourally focused one.
 
-As John Huber likes to write, we can think of financial returns coming from [three main sources:](https://sabercapitalmgt.com/what-is-your-edge/ "edge")
-
-1. Information advantage - you have more/better information
-2. Analytical advantage - your analysis of that information is better
-3. Behavioural advantage - your mindset and actions
-
-I believe that the information and analytical advantages continue to shrink in the financial markets, and are already not very large for the pros. I also believe that the behavioural advantage is not shrinking, and will continue to be a differentiator for financial returns.
 
 Some other ways to take advantage 
 
