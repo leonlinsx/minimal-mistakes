@@ -76,7 +76,7 @@ I was looking up examples of monopoly, and came across the [Open Markets Institu
 
 Pharma, Alcohol, and Eyeglasses are all highly regulated industries, which doesn't help competition getting started. 
 
-For advertising, we all say that the top companies have an unsurmountable lead now, but if we'd said that of the top 5 companies a decade ago [we'd have been wrong on 3 out of 5 names.](https://www.emarketer.com/Article/US-Digital-Ad-Spending-Top-37-Billion-2012-Market-Consolidates/1009362 "ad") I think it's too difficult to say that the "monopolies" now will be the same ones in the future. 
+For advertising, we all say that the top companies have an insurmountable lead now, but if we'd said that of the top 5 companies a decade ago [we'd have been wrong on 3 out of 5 names.](https://www.emarketer.com/Article/US-Digital-Ad-Spending-Top-37-Billion-2012-Market-Consolidates/1009362 "ad") I think it's too difficult to say that the "monopolies" now will be the same ones in the future. 
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/winner_takes_all/win 3.png)
 
