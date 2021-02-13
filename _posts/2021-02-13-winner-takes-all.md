@@ -1,5 +1,5 @@
 ---
-title:  ""  
+title:  "Monopoly - I know it when I see it"  
 tags: []
 published: false
 ---
@@ -38,7 +38,7 @@ Josh Breinlinger, a VC at Turtle Ventures, has a short post on his site about [h
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/winner_takes_all/win 1.png)
 
-I'm inclined to agree. The natural extension of "winner takes all" leads to a monopoly. I actually can't think of any free market where there's only one player, but might be missing something - feel free to let me know.
+I'm inclined to agree. We hear about "winner takes all" all the time. Which begs the question, why aren't there more monopolies?
 
 "But wait, aren't there tons of monopolies? You just [gave an example last week](https://avoidboringpeople.substack.com/p/gambling-is-fine-as-long-as-youve "week")"
 
@@ -48,9 +48,8 @@ As defined by having a few players with a lot of the share - Sure, but aren't we
 
 "That's just semantics, by monopoly everyone knows we actually mean more than one player, with less than all the market, but some larger number"
 
-Alright, let's use that definition, or something like the US FTC's one of a firm ["with significant and durable market power"](https://www.ftc.gov/tips-advice/competition-guidance/guide-antitrust-laws/single-firm-conduct/monopolization-defined "monopoly") \[1\]
+Alright, let's use that definition, or something like the US Federal Trade Commission's one of a firm ["with significant and durable market power"](https://www.ftc.gov/tips-advice/competition-guidance/guide-antitrust-laws/single-firm-conduct/monopolization-defined "monopoly") \[1\]. Monopoly - [I know it when I see it](https://en.wikipedia.org/wiki/I_know_it_when_I_see_it "wiki")
 
-Do I have a monopoly on readers of the Avoid Boring People newsletter?
 
 ## Footnotes
 
