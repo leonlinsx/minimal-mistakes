@@ -58,7 +58,25 @@ published: false
 
 > eBay was one of the first websites to show that a largely anonymous community, carefully constrained by a few guidelines and regulations, but invested in a system of online reputation, could actually work
 
-> The well-worn legend is that Jeff Bezos and his wife MacKenzie packed up their car and headed west, unsure of where they were going, with Jeff typing up a business plan on his laptop as they drove and phoning angel investors along the way on his cell phone. But the truth is, Bezos had already flown out to California to recruit software engineering talent. And according to multiple accounts, he likely knew the destination of his cross-country car trip would be Seattle. 
+> The well-worn legend is that Jeff Bezos and his wife MacKenzie packed up their car and headed west, unsure of where they were going, with Jeff typing up a business plan on his laptop as they drove and phoning angel investors along the way on his cell phone. But the truth is, Bezos had already flown out to California to recruit software engineering talent. And according to multiple accounts, he likely knew the destination of his cross-country car trip would be Seattle.
+
+> Many people are familiar with eBay's founding myth: how Pierre Omidyar created the site so his finacee could expand her Pez dispenser collection. But like many company creation stories, the Pez story is a fiction. The Pez story was created by Mary Lou Song to get reporters interested in covering eBay's role in the collectibles phenomenon.
+
+> Despite the populist image it cultivated later, Napster was conceived of as a business from day one \[...\] This inclination was partially a result of the time Napster was born into; 1998 into 1999, when Napster was being developed, was the height of the doct-com mania. But it was also because the brilliance of the Napster idea was immediately obvious to everyone involved
+
+> The official tale of Netflix's birth is that CEO Reed Hastings got a $40 late fee for not returning a copy of Apollo 13 in time. Incense, he founded a DVD-rental company that wouldn't treat its own customers so shabbily. Like eBay's Pez Dispenser, however, this late-fee-as-eureka-moment is merely a PR-friendly origin story dreamed up retroactively. Netflix was actually the brainchild of Marc Randolph, who had been an employee at one of Hasting's previous companies
+
+> Infinite selection. Instant gratification. On any device. When it comes to digital disruption of media, it is almost never about free content or piracy, not at the core. It is always about giving people what they want, when they want it, how they want it. 
+
+> The need to produce more impressions began to change the calculus at the search sites \[...\] Yahoo needed to find a way to keep users on its pages.
+
+> Fund managers who did not fill their holdings with technology stocks saw their returns trail those of their peers and even the market indexes 
+
+> “There’s a million hot naked chicks on the Internet. There’s a difference between those girls and me. Those chicks don’t talk back to you.”
+
+> In the end, the battle to do an app store was a replay of the argument over opening up iTunes to Windows users a few years earlier. Just as before, everyone inside Apple wanted to do it, and Jobs kept saying no. 
+
+http://content.time.com/time/magazine/article/0,9171,1570728,00.html
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
