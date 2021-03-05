@@ -40,11 +40,11 @@ I get the concept of prices rising, sure. But for the longest time I haven't und
 
 **I also have a feeling nobody really knows either.** 
 
-That's ridiculous, you might say, there's a whole group of people out there [making policy on inflation targets](https://www.federalreserve.gov/faqs/economy_14400.htm "fed") and talking about hedging against inverted yield curves and if google trends is to be believed, some sonic the hedgehog game [(apparently some weird nsfw meme).](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SonicInflationAdventure "sonic")
+That's ridiculous, you might say, there's a whole group of people out there [making policy based on inflation targets](https://www.federalreserve.gov/faqs/economy_14400.htm "fed"), talking about [hedging against inverted yield curves](https://www.chathamfinancial.com/insights/hedging-in-an-inverted-yield-curve-environment "yield"), and if google trends is to be believed, some sonic the hedgehog game [(apparently some weird nsfw meme).](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SonicInflationAdventure "sonic")
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/inflation_target/inf 1.png)
 
-Yeah, but that doesn't mean they know the causes for what they're working on. If my work experience has taught me anything, it's that people can do huge amounts of work without understanding what they're doing \[1\]. Nassim Taleb wrote about this before, in a story of a finance trader becoming successful trading green lumber [without understanding what it was.](https://fs.blog/2016/11/green-lumber-fallacy/ "taleb")
+Yeah, but that doesn't mean they know how stuff works. If my work experience has taught me anything, it's that people can do huge amounts of work without understanding what they're doing \[1\]. Nassim Taleb wrote about this before, in a story of a finance trader becoming successful trading green lumber [without understanding what it was.](https://fs.blog/2016/11/green-lumber-fallacy/ "taleb")
 
 A big problem with inflation is firstly deciding what counts towards it. **This is not a trivial task,** and if you think it is, ask yourself these questions:
 
@@ -52,15 +52,15 @@ A big problem with inflation is firstly deciding what counts towards it. **This 
 - Whatever thing you include, how are you going to measure its price? 
 - How do you account for outlier data points, such as when toilet paper pricing spikes?
 - How often do you take measurements?
-- How do I account for quality improvements in those goods? If quality goes up and price stays same, is that deflation?
+- How do you account for quality improvements in those goods? If quality goes up and price stays same, is that deflation?
 
 As you can see, it's not just "take the Consumer Price Index" and be done with it. In fact, the US Fed doesn't officially use the CPI, opting for another Personal Consumption Expenditures (PCE) price index instead \[2\]. And even then, [they acknowledge its imperfect nature:](https://www.federalreserve.gov/econres/notes/feds-notes/comparing-two-measures-of-core-inflation-20190802.htm "fed")
 
-> However, total PCE price inflation is highly volatile, even on a year-to-year basis. Consequently, economists and policymakers have suggested alternative procedures for reweighting the index's components so as to reduce the variance of the measured inflation, to better distinguish transitory from persistent movements, and, ultimately to better anticipate future developments in inflation. The literature has used the generic term "core" inflation to refer to these alternative measures.
+> total PCE price inflation is highly volatile, even on a year-to-year basis. Consequently, economists and policymakers have suggested alternative procedures for reweighting the index's components so as to reduce the variance of the measured inflation, to better distinguish transitory from persistent movements, and, ultimately to better anticipate future developments in inflation
 
-And as we recently discussed about [monopolies](https://avoidboringpeople.substack.com/p/monopoly-i-know-it-when-i-see-it "monopoly"), definitions are important. What counts as inflation affects public policy, hence small exclusions in an index can result in 
+We recently discussed about how definitions were important when dealing with [monopolies](https://avoidboringpeople.substack.com/p/monopoly-i-know-it-when-i-see-it "monopoly"). Similarly, what you define as inflation has large effects on public policy and thus the economy. Imagine if the Fed only looked at the rising costs of cities, and left out suburban areas. 
  
-Another big problem with inflation is that it's influenced by expectations. Hoping for it to follow some mathematical law is like expecting the stock market to perfectly represent the present value of future cash flows. Which is why it's so hard to aim for an inflation target:
+Another big problem with inflation is that it's **influenced by expectations.** Hoping for it to follow some mathematical law is like expecting the stock market to perfectly represent the present value of future cash flows. Which is why it's so hard to aim for an inflation target:
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/inflation_target/inf 1.png)
 
@@ -68,7 +68,9 @@ The US Fed has a 2% goal, so the first sentence above can either be interpreted 
 
 There's always a whole game of [interpreting Fed statements](https://www.stlouisfed.org/open-vault/2019/may/how-read-fomc-statement "Fed") on monetary policy (interest rates) whenever they're released. What exactly do they mean in their press release, and why can't they just say it as it is?
 
-Part of the reason the Fed can't speak simply and candidly is to [avoid being gamed.](https://www.reuters.com/article/us-usa-fed-powell/powell-says-may-take-more-than-three-years-to-hit-feds-inflation-goal-idUSKBN2AO254?il=0 "game") Another part of the reason is to also leave them flexibility, since there's so much that is not understood. **The ambiguity gives them buffer room for the unknown unknowns.** And then you can pretend that was the plan all along, building more confidence, continuing to be able to control expectations.
+Part of the reason the Fed can't speak simply and candidly is to [avoid being gamed.](https://www.reuters.com/article/us-usa-fed-powell/powell-says-may-take-more-than-three-years-to-hit-feds-inflation-goal-idUSKBN2AO254?il=0 "game") 
+
+Another part of the reason is to also leave them flexibility, since there's so much that is not perfectly understood. **The ambiguity gives them buffer room for the unknown unknowns.** And then you can pretend that was the plan all along, building more confidence, continuing to control expectations. If people lose confidence that the Fed knows what it's doing, that causes a negative feedback loop, like a bank suffering from a run trying to convince customers it's not suffering from a run.
 
 Measure with ruler.
 
@@ -76,7 +78,7 @@ I feel like these are the only things I'm comfortable saying about inflation:
 
 1. Prices generally go up by small amounts over time, and when compounded the nominal values become large over long time periods
 2. Prices can go up by large amounts in small periods of time, but what causes this is hard to say
-3. It's hard to target a small increase in prices and easier to target a large increase. Nobody wants large increases
+3. It's hard to target a small increase in prices and easier to target a large increase. Nobody wants large increases though
 4. A lot of price changes are expectations driven, so maybe it's inherently unpredictable 
  
 I'm not alone in thinking this, by the way. [Economist John Cochrane wrote about inflation recently](https://johnhcochrane.blogspot.com/2021/02/inflation-issues.html "john") \[3\], and also wonders how much we really know. He concludes by thinking that services could become a larger component of inflation over time, continuing trends of services inflation and goods deflation.
