@@ -48,23 +48,27 @@ Companies usually start out being opposed to the creativity, wanting a higher de
 
 We've seen this play out in books, saw it play out on the desktop browsing experience, and are now seeing it on the mobile usage experience. People want everything, and they'll get it eventually:
 
-> Infinite selection. Instant gratification. On any device. When it comes to digital disruption of media, it is almost never about free content or piracy, not at the core. It is always about giving people what they want, when they want it, how they want it. 
+> Infinite selection. Instant gratification. On any device. When it comes to digital disruption of media, it is almost never about free content or piracy, not at the core. It is always about giving people what they want, when they want it, how they want it.
+
+> The idea that random events or random people could go viral really entered the mainstream thanks to Youtube
 
 ## Preferring to be the platform
 
-[As we discussed on abstraction](https://avoidboringpeople.substack.com/p/first-plaid-then-the-world "api"), abstracting away a layer between customer usage and payment:
+[As we discussed on abstraction](https://avoidboringpeople.substack.com/p/first-plaid-then-the-world "api"), companies wanted to commoditise the layer below them:
 
 > Netscape benefited as the underlying platform that was the most trusted and valued by users \[...\] Netscape would even encourage others to build add-ons and plugins that would interact with Netscape's own software, adding features and functions that Netscape itself couldn't dream up.
 
 > Andreesen was quoted saying that Netscape would turn Windows into "a mundane collection of not entirely debugged device drivers."
 
+> Bezos would lure the offline reatilers onto a battlefield of his choosing, which was the web.
+
 ## Importance of community and engagement
 
-We've seen a resurgence of interest in a "Community Manager" role, where companies hire people to interact with their customers in some online forum equivalent, be that Slack, Circle, Discord or more. This isn't new, and the pioneers of the internet already discovered the importance of engagement:
+We've seen a resurgence of interest in a "Community Manager" role, where companies hire people to interact with their customers in some online forum equivalent, be that Slack, Circle, Discord or more. This isn't new, and the pioneers of the internet already discovered the importance of engagement.
 
-> But the main feature of CompuServe throughout its life was its forums, hundreds of moderated special-interest sites catering to almost every interest and niche imaginable
+> But the main feature of CompuServe \[the first internet provider\] throughout its life was its forums, hundreds of moderated special-interest sites catering to almost every interest and niche imaginable
 
-> A focus on community, on empowering the users and allowing them to function autonomously would prove to be absolutely vital \[for AuctionWeb's success\]
+> A focus on community, on empowering the users and allowing them to function autonomously would prove to be absolutely vital \[for eBay's success\]
 
 > eBay was one of the first websites to show that a largely anonymous community, carefully constrained by a few guidelines and regulations, but invested in a system of online reputation, could actually work
 
@@ -72,11 +76,13 @@ We've seen a resurgence of interest in a "Community Manager" role, where compani
 
 ## First mover failures
 
-The various examples of first mover failures make me more skeptical of long lasting first mover advantages:
+The various examples of first mover failures make me more skeptical of long lasting first mover advantages. Microsoft's Internet Explorer dislodged Netscape despite Netscape's 70% user share headstart:
  
 > They would follow the traditional Microsoft game plan: the first version would be a copycat product that didn't have to be great; it just had to be good enough. Subsequent versions would be better.
+ 
+And we know now that Chrome would displace IE.
 
-And a simple reason for that is that things change quickly, requiring a change in business strategy. Imagine if your business model had assumed ad click through rates "conservatively" in the 40s for the future? Considering they're now <5%, you'd have been off by a magnitude.   
+A simple reason for that is that things change quickly, requiring a change in business strategy. Imagine if your business model had assumed ad click through rates "conservatively" in the 40s for the future? Considering they're now <5%, you'd have been off by a magnitude.   
 
 > \[The first banner ads\] bordered between the high 70s and lows 80s in terms of click-through percentages for about 2-3 weeks
 
