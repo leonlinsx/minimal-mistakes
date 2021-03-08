@@ -34,7 +34,37 @@ published: false
 
 ## Main
 
+Most of the algorithms depend on certain assumptions in order to be valid. Rather than specify that every time, take that as a given; I'll add some of the assumptions in footnotes for those interested.
 
+## Optimal stopping
+
+If you're evaluating options (job applicants, housing offers, parking spaces etc), there's a tradeoff between how long you spend choosing, and the chance of picking the "best" option. This is known as the [secretary problem](https://en.wikipedia.org/wiki/Secretary_problem "prob") - suppose you were hiring a secretary, how many interviews should you do to get the best chance of finding the best one?
+
+In this case, you should wait after seeing 37% of the applicant pool, and then take the next best applicant you see. For example, if you had 100 applicants, wait after you've seen the first 37, and then pick the next applicant that is better than all you've seen so far.
+
+## Explore exploit
+
+Similar to the optimal stopping situation, there's a tradeoff between information gathering (explore) and enjoying (exploit). Suppose you're at a casino, and want to decide which machines to play. You want to maximise your winnings, but don't know the exact odds for the machines (if you did, you'd play the best one).
+
+In this case, there's a number, known as the [Gittins Index](https://www.cs.cornell.edu/courses/cs6840/2017sp/lecnotes/6840sp17R_Kleinberg.pdf "gittins"), that gives you the optimal machine to play \[2\]. Some interesting properties:
+
+- If you're playing the optimal machine and win again, it makes sense to continue playing that machine
+- If you're playing the optimal machine and once, it might still make sense to continue playing that machine
+- An entirely unknown machine can be preferable to machines that are known to win often, and gets more valuable the more you value future gains
+
+Some other related implications:
+
+- Exploration has a higher impact younger in life; babies putting everything in their mouth makes sense from their standpoint
+- Exploiting has a higher impact later in life; hence older people cutting down their social network and preferring to return to favourite restaurants 
+
+## Sorting
+
+
+
+## Footnotes
+
+1. f
+2. This problem is intractable if the probabilities of a payoff on a machine change over time
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
