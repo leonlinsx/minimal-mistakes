@@ -34,13 +34,27 @@ published: false
 
 ## Main
 
-Most of the algorithms depend on certain assumptions in order to be valid. Rather than specify that every time, take that as a given; I'll add some of the assumptions in footnotes for those interested.
+I recently re-read [Algorithms to Live By](https://algorithmstoliveby.com/ "algo"), a book by Brian Christian and Tom Griffiths on how algorithms can help us deal with daily life better. Having [picked up programming last year,](https://avoidboringpeople.substack.com/p/avoid-boring-people-in-2020-be8 "prog") I got more out of this time around. 
+
+An algorithm is a process, and you can think of it as instructions to follow to complete some task. For example, learning how to add numbers together is a simple algorithm \[1\]. 
+
+You can imagine more complex instructions that can calculate results for other problems in life, such as interest rates, search rankings, or social media feeds. The book goes through many such algorithms, and relates them to problems you might face personally.
+
+It's too difficult to explain every algorithm they mention \[2\], so instead I'll be doing short highlights from some of them, and usually concentrating on the qualitative, not quantitative takeaways.
+
+Also, most of the algorithms rely on certain assumptions. Rather than specify that every time, take that as a given when reading; I'll add some of the assumptions in footnotes for those interested.
+
+Some of the problems discussed include:
+- When to stop working on something for the max chance of the best outcome
+- When you should 
+
+Let's look at our first algorithm, on when you should stop working on a problem.
 
 ## Optimal stopping
 
 If you're evaluating options (job applicants, housing offers, parking spaces etc), there's a tradeoff between how long you spend choosing, and the chance of picking the "best" option. This is known as the [secretary problem](https://en.wikipedia.org/wiki/Secretary_problem "prob") - suppose you were hiring a secretary, how many interviews should you do to get the best chance of finding the best one?
 
-In this case, you should wait after seeing 37% of the applicant pool, and then take the next best applicant you see \[1\]. For example, if you had 100 applicants, wait after you've seen the first 37, and then pick the next applicant that is better than all you've seen so far.
+In this case, there's a precise percentage to use. You should wait after seeing 37% of the applicant pool, and then take the next best applicant you see \[3\]. For example, if you had 100 applicants, wait after you've seen the first 37, and then pick the next applicant that is better than all you've seen so far.
 
 ## Explore exploit
 
@@ -114,10 +128,12 @@ information cascades
 
 ## Footnotes
 
-1. f
-2. This problem is intractable if the probabilities of a payoff on a machine change over time
-3. Or March Madness, for the Americans
-4. As in, take all your projects that are late, and then the maximum of those. That's the metric you want to minimise.
+1. Easy enough to teach children, by telling them to memorise sums and when to carry a number, but surprisingly not obvious when trying to implement on a computer, see [full adder logic gate](https://www.electronics-tutorials.ws/combination/comb_7.html "full")
+2. You might say that by the time I explain everything, I might as well have [written the entire book](https://en.wikipedia.org/wiki/P_versus_NP_problem "p np")
+3. The percentage is 1 divided by e, euler's number
+4. This problem is intractable if the probabilities of a payoff on a machine change over time
+5. Or March Madness, for the Americans
+6. As in, take all your projects that are late, and then the maximum of those. That's the metric you want to minimise.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
