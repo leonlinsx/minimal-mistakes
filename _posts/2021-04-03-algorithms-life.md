@@ -40,7 +40,7 @@ Most of the algorithms depend on certain assumptions in order to be valid. Rathe
 
 If you're evaluating options (job applicants, housing offers, parking spaces etc), there's a tradeoff between how long you spend choosing, and the chance of picking the "best" option. This is known as the [secretary problem](https://en.wikipedia.org/wiki/Secretary_problem "prob") - suppose you were hiring a secretary, how many interviews should you do to get the best chance of finding the best one?
 
-In this case, you should wait after seeing 37% of the applicant pool, and then take the next best applicant you see. For example, if you had 100 applicants, wait after you've seen the first 37, and then pick the next applicant that is better than all you've seen so far.
+In this case, you should wait after seeing 37% of the applicant pool, and then take the next best applicant you see \[1\]. For example, if you had 100 applicants, wait after you've seen the first 37, and then pick the next applicant that is better than all you've seen so far.
 
 ## Explore exploit
 
@@ -59,12 +59,43 @@ Some other related implications:
 
 ## Sorting
 
+The book gave a few examples of sorting algorithms, which are commonly used in programming. For example, returning search results requires a sorting of the most relevant ones for you. 
 
+I'll save more detailed discussion of sorting algos for another day since they require understanding [time complexity](https://www.bigocheatsheet.com/ "time"), and here are some qualitative takeaways:
+
+- Some ways of sorting can be drastically more efficient than others
+- Some scenarios do not desire sort efficiency only. For example, arranging a sports season matchup calendar also requires taking into account how exciting the season will be
+- The more efficient a sort, the more fragile it might be against accidental mistakes. For example, the "best" team might accidentally get knocked out in a single elimination tournament like the World Cup \[3\]
+
+## Caching
+
+The idea of having a cache is to have 1) a small, fast memory (storage) section, and 2) a large, slow memory section. We'll then alternate between the two depending on what our intention is.
+
+In this case, keeping the most recently used items in the small and fast section is the optimal choice, due to something known as [temporal locality](https://www.geeksforgeeks.org/difference-between-spatial-locality-and-temporal-locality/ "temp").
+
+## Scheduling
+
+A key point about scheduling and prioritisation is defining your goal metric. Only 9% of all scheduling problems can be solved efficiently. Tradeoff between responsiveness and throughput.
+
+If you want to minimise the max lateness of all your projects \[4\], the [Earliest Due Date](https://en.wikipedia.org/wiki/Single-machine_scheduling "EDT") algorithm tells you to start with the project due earliest. 
+
+If you want to minimise the total completion time, the [Shortest Processing Time](https://en.wikipedia.org/wiki/Single-machine_scheduling "spt") algorithm tells you to just do the quickest task first. 
+
+If your tasks are not equal in importance, then placing a weight on each task and calculating the weight over time required ratio will help you decide which task to do; pick the project with highest weight over time.
+
+Context switching is wasted time since it's not real work.
+
+At its worse, context switching turns to thrash. Ways to avoid thrash:
+
+- Saying no (the authors acknowledge we're often unable to do so)
+- Working dumber, inefficently
 
 ## Footnotes
 
 1. f
 2. This problem is intractable if the probabilities of a payoff on a machine change over time
+3. Or March Madness, for the Americans
+4. As in, take all your projects that are late, and then the maximum of those. That's the metric you want to minimise.
 
 ![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
