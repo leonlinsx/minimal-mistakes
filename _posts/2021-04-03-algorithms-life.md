@@ -90,6 +90,28 @@ At its worse, context switching turns to thrash. Ways to avoid thrash:
 - Saying no (the authors acknowledge we're often unable to do so)
 - Working dumber, inefficently
 
+## Bayes rule
+
+Depends on the distribution. Power law, Normal, or Erlang. 
+
+- Power law: the longer something has gone on, the longer we expect it to continue going on
+- Normal: early events are surprising, late events are expected. 
+- Erlang: events are never any more or less surprising e.g. a memoryless distribution like a roulette wheel
+
+## Relaxation
+
+Some problems are intractable. In these cases, relaxing some constraints and accepting solutions that are "close enough" helps us significantly in structuring the problem. 
+
+## Game theory
+
+- If you play too many levels above your opponent, you're going to think they have information they don't actually have and they won't be able to think what you want them to think
+- Every two player game has at least one [Nash Equilibrium,](https://en.wikipedia.org/wiki/Nash_equilibrium "nash") where both players are choosing the optimal strategy for themselve
+- Finding Nash equilibrium though is an intractable problem
+- The equilibrium may not be the outcome that is best for all players. We cant quantify this as the "price of anarchy", which measures the gap between cooperation and competition. 
+- [Mechanism design](https://en.wikipedia.org/wiki/Mechanism_design "mech") has a counterintuitive finding, that we can worsen every outcome but make everyone's lives better, by shifting the equilibrium
+
+information cascades
+
 ## Footnotes
 
 1. f
