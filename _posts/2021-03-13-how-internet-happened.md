@@ -1,5 +1,5 @@
 ---
-title:  ""  
+title:  "How the internet happened - book review"  
 tags: []
 published: false
 ---
@@ -32,7 +32,14 @@ published: false
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
 
-## Main
+## Book review
+
+I read [How the internet happened](https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078 "how") by Brian McCullough recently, and it was a good read on the history of consumer internet. The book starts roughly around the origin of Mosaic, one of the first internet browsers, and goes up to Facebook and Iphones.
+
+Takeaways for me below, and longer notes follow:
+- Decreasing cost, increasing convenience leads to more creativity, self-expression, and hence stickiness
+- Community has always been important for the internet; its recent resurgence should not be a surprise
+- Most founding stories of companies are just that - stories made up for PR
 
 ## Consumer creativity vs control
 
@@ -46,21 +53,13 @@ Companies usually start out being opposed to the creativity, wanting a higher de
 
 > In the end, the battle to do an app store was a replay of the argument over opening up iTunes to Windows users a few years earlier. Just as before, everyone inside Apple wanted to do it, and Jobs kept saying no. 
 
-We've seen this play out in books, saw it play out on the desktop browsing experience, and are now seeing it on the mobile usage experience. People want everything, and they'll get it eventually:
+We've seen this play out in books, saw it play out on the desktop browsing experience, and are now seeing it on the mobile usage experience. People want everything, and they'll get it eventually because there's money to be made:
 
 > Infinite selection. Instant gratification. On any device. When it comes to digital disruption of media, it is almost never about free content or piracy, not at the core. It is always about giving people what they want, when they want it, how they want it.
 
 > The idea that random events or random people could go viral really entered the mainstream thanks to Youtube
 
-## Preferring to be the platform
-
-[As we discussed on abstraction](https://avoidboringpeople.substack.com/p/first-plaid-then-the-world "api"), companies wanted to commoditise the layer below them:
-
-> Netscape benefited as the underlying platform that was the most trusted and valued by users \[...\] Netscape would even encourage others to build add-ons and plugins that would interact with Netscape's own software, adding features and functions that Netscape itself couldn't dream up.
-
-> Andreesen was quoted saying that Netscape would turn Windows into "a mundane collection of not entirely debugged device drivers."
-
-> Bezos would lure the offline reatilers onto a battlefield of his choosing, which was the web.
+This creativity also can lead to a feeling of community.
 
 ## Importance of community and engagement
 
@@ -76,7 +75,7 @@ We've seen a resurgence of interest in a "Community Manager" role, where compani
 
 ## First mover failures
 
-The various examples of first mover failures make me more skeptical of long lasting first mover advantages. Microsoft's Internet Explorer dislodged Netscape despite Netscape's 70% user share headstart:
+The various examples of first mover failures make me more skeptical of long lasting first mover advantages. Microsoft's Internet Explorer dislodged Netscape, despite Netscape's 70% user share headstart:
  
 > They would follow the traditional Microsoft game plan: the first version would be a copycat product that didn't have to be great; it just had to be good enough. Subsequent versions would be better.
  
@@ -88,9 +87,23 @@ A simple reason for that is that things change quickly, requiring a change in bu
 
 > The need to produce more impressions began to change the calculus at the search sites \[...\] Yahoo needed to find a way to keep users on its pages.
 
+## Preferring to be the platform
+
+[As we discussed on abstraction](https://avoidboringpeople.substack.com/p/first-plaid-then-the-world "api"), companies wanted to commoditise the layer below them:
+
+> Netscape benefited as the underlying platform that was the most trusted and valued by users \[...\] Netscape would even encourage others to build add-ons and plugins that would interact with Netscape's own software, adding features and functions that Netscape itself couldn't dream up.
+
+> Andreesen was quoted saying that Netscape would turn Windows into "a mundane collection of not entirely debugged device drivers."
+
+And that usually involves making someone else obsolete:
+
+> Bezos would lure the offline retailers onto a battlefield of his choosing, which was the web.
+
 ## It was trendy to own tech stocks, and people justified it by citing intangible valuables
 
-None of the below is new; you could insert the name of any other sector or "hot" company and get the same takeaway - [shipping routes](https://en.wikipedia.org/wiki/East_India_Company "shipping"), [railroads](https://en.wikipedia.org/wiki/Railway_Mania "rail"), [japanese stocks](https://en.wikipedia.org/wiki/Japanese_asset_price_bubble "jap"). There will always be a "cool" company.
+None of the below is new; you could insert the name of any other sector or "hot" company and get the same takeaway - [shipping routes](https://en.wikipedia.org/wiki/East_India_Company "shipping"), [railroads](https://en.wikipedia.org/wiki/Railway_Mania "rail"), [japanese stocks](https://en.wikipedia.org/wiki/Japanese_asset_price_bubble "jap"). 
+
+There will always be a cool company.
 
 > Fund managers who did not fill their holdings with technology stocks saw their returns trail those of their peers and even the market indexes 
 
@@ -100,7 +113,9 @@ None of the below is new; you could insert the name of any other sector or "hot"
  
 Sex was a driver of key technology, and is still a factor today. Facebook, snapchat, tiktok - all started as, and to various extents still are, facilitators for sex:
 
-> It's safe to say that the popularity and growth of AOL was driven by sexy chat. Lots and lots of sexy chat. 
+> It's safe to say that the popularity and growth of AOL was driven by sexy chat. Lots and lots of sexy chat.
+
+This quote below was said in 2006, but you'd be forgiven for thinking it was some snapchat/insta/onlyfans creator in 2021:
 
 > [“There’s a million hot naked chicks on the Internet. There’s a difference between those girls and me. Those chicks don’t talk back to you.”](http://content.time.com/time/magazine/article/0,9171,1570728,00.html "time")
 
