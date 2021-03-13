@@ -1,10 +1,12 @@
 ---
-title:  "How the internet happened - book review"  
+title:  "How the internet happened, book summary"  
 tags: []
 published: false
 ---
 
 ## Takeaway
+
+There's a lot of similarity between early internet trends and things that are popular today.
 
 <style>
       .iframe-container {
@@ -34,7 +36,7 @@ published: false
 
 ## Book review
 
-I read [How the internet happened](https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078 "how") by Brian McCullough recently, and it was a good read on the history of consumer internet. The book starts roughly around the origin of Mosaic, one of the first internet browsers, and goes up to Facebook and Iphones.
+I read [How the internet happened](https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078 "how") by Brian McCullough recently, and it was a good read on the history of consumer internet. The book starts around the origin of Mosaic (one of the first internet browsers), and goes up to Facebook and Iphones. Reading the founding stories of internet companies one chapter at a time, I was surprised by how similar many of the issues were vs today.
 
 Takeaways for me below, and longer notes follow:
 - Decreasing cost, increasing convenience leads to more creativity, self-expression, and hence stickiness
@@ -59,11 +61,13 @@ We've seen this play out in books, saw it play out on the desktop browsing exper
 
 > The idea that random events or random people could go viral really entered the mainstream thanks to Youtube
 
-This creativity also can lead to a feeling of community.
+This creativity also can lead to a feeling of community, when you find people that like the same things that you do.
 
 ## Importance of community and engagement
 
-We've seen a resurgence of interest in a "Community Manager" role, where companies hire people to interact with their customers in some online forum equivalent, be that Slack, Circle, Discord or more. This isn't new, and the pioneers of the internet already discovered the importance of engagement.
+We've seen a resurgence of interest in a "Community Manager" role, where companies hire people to interact with their customers in some online forum equivalent, be that Slack, Circle, Discord or more. There's been many recent articles talking about how building a community can be a 
+
+This isn't new, and the pioneers of the internet already discovered the importance of engagement:
 
 > But the main feature of CompuServe \[the first internet provider\] throughout its life was its forums, hundreds of moderated special-interest sites catering to almost every interest and niche imaginable
 
@@ -75,11 +79,15 @@ We've seen a resurgence of interest in a "Community Manager" role, where compani
 
 ## First mover failures
 
-The various examples of first mover failures make me more skeptical of long lasting first mover advantages. Microsoft's Internet Explorer dislodged Netscape, despite Netscape's 70% user share headstart:
+We've heard about first mover advantage, and the book also showcased many first mover failures. 
+
+Microsoft's Internet Explorer dislodged Netscape, despite Netscape's 70% user share headstart:
  
 > They would follow the traditional Microsoft game plan: the first version would be a copycat product that didn't have to be great; it just had to be good enough. Subsequent versions would be better.
  
-And we know now that Chrome would displace IE.
+And we know now that Chrome would displace IE. Similarly, Facebook would displace MySpace, Apple would displace Blackberry, and so on.
+
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/internet_history_1.png)
 
 A simple reason for that is that things change quickly, requiring a change in business strategy. Imagine if your business model had assumed ad click through rates "conservatively" in the 40s for the future? Considering they're now <5%, you'd have been off by a magnitude.   
 
@@ -130,9 +138,6 @@ The book also dispels some of the PR founding stories for the tech companies:
 > Despite the populist image it cultivated later, Napster was conceived of as a business from day one \[...\] This inclination was partially a result of the time Napster was born into; 1998 into 1999, when Napster was being developed, was the height of the doct-com mania. But it was also because the brilliance of the Napster idea was immediately obvious to everyone involved
 
 > The official tale of Netflix's birth is that CEO Reed Hastings got a $40 late fee for not returning a copy of Apollo 13 in time. Incense, he founded a DVD-rental company that wouldn't treat its own customers so shabbily. Like eBay's Pez Dispenser, however, this late-fee-as-eureka-moment is merely a PR-friendly origin story dreamed up retroactively. Netflix was actually the brainchild of Marc Randolph, who had been an employee at one of Hasting's previous companies
-
-
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
