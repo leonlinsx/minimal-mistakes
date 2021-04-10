@@ -121,7 +121,7 @@ For example, if you were writing an email and then got interrupted by a slack me
 At its worst, context switching turns to thrash, when you get nothing productive done because you're too busy with only switching. Ways to avoid thrash include:
 
 - Saying no to tasks, though the authors acknowledge we're often unable to do so
-- Working dumber and more inefficently. Rather than think about the optimal way to get through your tasks, just start on something and get it done
+- Working dumber and more inefficiently. Rather than think about the optimal way to get through your tasks, just start on something and get it done
 
 ## Bayes rule and distributions
 
@@ -161,7 +161,7 @@ Overall I thought the book was worth reading to get an overview of interesting w
 7. Only 9% of all scheduling problems can be solved efficiently.
 8. As in, take all your projects that are late, and then the maximum of those. That's the metric you want to minimise.
 9. See [here](https://betterexplained.com/articles/an-intuitive-and-short-explanation-of-bayes-theorem/ "bayes") for an article that explains Bayes. Bayes is unintuitive (for me at least), which also means its good to know
-10. To be fair, there's a good amount of information in the footnotes
+10. To be fair, there's a good amount of information in the footnotes elaborating more
 
 *If you liked this, sign up for my [finance and tech newsletter:](https://avoidboringpeople.substack.com/ "ABP")*
 
