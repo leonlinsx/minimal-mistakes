@@ -6,6 +6,8 @@ published: false
 
 ## Takeaway
 
+Investing in communities is a popular trend now; communities have always been at the center of how computing and the internet developed.  
+
 <style>
       .iframe-container {
         overflow: hidden;        
@@ -31,10 +33,6 @@ published: false
 <div class="iframe-container-4x3">
   <p align="center"><iframe src="https://avoidboringpeople.substack.com/embed" frameborder="0" scrolling="no"> </iframe></p>
 </div>
-
-## Takeaway  
-
-Investing in communities is a popular trend now; communities have always been at the center of how computing and the internet developed.  
   
 ## Communities in tech  
 
@@ -62,7 +60,7 @@ We’ve seen above how the early stages of computing were influenced by communit
   
 Software tools such as **Slack (2009), Discord (2015), Circle (2019)** grew popular because of communities adopting them to connect with each other.  
 
-![post]({{ site.url }}{{ site.baseurl }}/assets/images/a16z gaming market size.png)
+![post]({{ site.url }}{{ site.baseurl }}/assets/images/community_history_1.png)
   
 And here are some interesting communities I see today (full disclosure, I’m part of some of them):  
   
